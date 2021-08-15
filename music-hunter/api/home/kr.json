@@ -1,0 +1,768 @@
+{
+    "hotTracks": {
+        "title": "믿고 들으세요",
+        "results": [
+            {
+                "name": "R&B Now",
+                "songs": [
+                    {
+                        "id": "PAFAfhod9TU",
+                        "title": "H.E.R. - Damage (Official Video)",
+                        "channelTitle": "HERMusicVEVO",
+                        "channelId": "UCQT3bmChpmnR5ThhY_ewoOQ",
+                        "publishedAt": "2020-10-21T14:00:10Z",
+                        "duration": "PT3M45S",
+                        "viewCount": "67076351"
+                    }
+                ]
+            },
+            {
+                "name": "Rap Life",
+                "songs": [
+                    {
+                        "id": "0oBeEnY2CAQ",
+                        "title": "Drake - Wants and Needs (Lyrics) ft. Lil Baby",
+                        "channelTitle": "FutureHype",
+                        "channelId": "UCTwct4oAsyuyGxOtva0FcUg",
+                        "publishedAt": "2021-03-05T18:27:56Z",
+                        "duration": "PT3M14S",
+                        "viewCount": "11193423"
+                    },
+                    {
+                        "id": "BTivsHlVcGU",
+                        "title": "DJ Khaled - EVERY CHANCE I GET (Official Music Video) ft. Lil Baby, Lil Durk",
+                        "channelTitle": "DJKhaledVEVO",
+                        "channelId": "UCrFB54bqp8sda4udJyNswlA",
+                        "publishedAt": "2021-05-04T22:42:27Z",
+                        "duration": "PT3M57S",
+                        "viewCount": "65663209"
+                    },
+                    {
+                        "id": "w2IhccXakkE",
+                        "title": "Polo G - RAPSTAR (Official Video)",
+                        "channelTitle": "PoloGVEVO",
+                        "channelId": "UCojuFn_hfMyScH5hSHTBADQ",
+                        "publishedAt": "2021-04-09T04:00:15Z",
+                        "duration": "PT2M49S",
+                        "viewCount": "112173432"
+                    },
+                    {
+                        "id": "AAhcBx5Bl-Y",
+                        "title": "Moneybagg Yo - Wockesha (Official Audio)",
+                        "channelTitle": "MoneybaggYoVEVO",
+                        "channelId": "UC7r-J2sPQVv9i3iNcte1u-A",
+                        "publishedAt": "2021-04-23T04:00:10Z",
+                        "duration": "PT3M3S",
+                        "viewCount": "27655953"
+                    }
+                ]
+            },
+            {
+                "name": "A-List: K-Pop",
+                "songs": [
+                    {
+                        "id": "CuklIb9d3fI",
+                        "title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
+                        "channelTitle": "HYBE LABELS",
+                        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                        "publishedAt": "2021-07-09T03:59:12Z",
+                        "duration": "PT5M",
+                        "viewCount": "258255345"
+                    },
+                    {
+                        "id": "CKZvWhCqx1s",
+                        "title": "ROSÉ - 'On The Ground' M/V",
+                        "channelTitle": "BLACKPINK",
+                        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                        "publishedAt": "2021-03-12T05:00:15Z",
+                        "duration": "PT3M9S",
+                        "viewCount": "211414648"
+                    },
+                    {
+                        "id": "4TWR90KJl84",
+                        "title": "aespa 에스파 'Next Level' MV",
+                        "channelTitle": "SMTOWN",
+                        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                        "publishedAt": "2021-05-17T09:00:02Z",
+                        "duration": "PT3M56S",
+                        "viewCount": "136111915"
+                    },
+                    {
+                        "id": "tg2uF3R_Ozo",
+                        "title": "SOMI (전소미) - 'DUMB DUMB' M/V",
+                        "channelTitle": "THEBLACKLABEL",
+                        "channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+                        "publishedAt": "2021-08-02T09:00:15Z",
+                        "duration": "PT2M59S",
+                        "viewCount": "48971057"
+                    }
+                ]
+            },
+            {
+                "name": "오늘의 히트곡",
+                "songs": [
+                    {
+                        "id": "tg2uF3R_Ozo",
+                        "title": "SOMI (전소미) - 'DUMB DUMB' M/V",
+                        "channelTitle": "THEBLACKLABEL",
+                        "channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+                        "publishedAt": "2021-08-02T09:00:15Z",
+                        "duration": "PT2M59S",
+                        "viewCount": "48971057"
+                    },
+                    {
+                        "id": "5GJWxDKyk3A",
+                        "title": "Billie Eilish - Happier Than Ever (Official Music Video)",
+                        "channelTitle": "BillieEilishVEVO",
+                        "channelId": "UCDGmojLIoWpXok597xYo8cg",
+                        "publishedAt": "2021-07-30T16:00:09Z",
+                        "duration": "PT5M16S",
+                        "viewCount": "29418952"
+                    },
+                    {
+                        "id": "tsYcrzkK7pw",
+                        "title": "Mimi Webb - Dumb Love (Official Music Video)",
+                        "channelTitle": "MimiWebbVEVO",
+                        "channelId": "UCiXkBK6_kLz4uAqedG-dPCA",
+                        "publishedAt": "2021-06-11T13:00:12Z",
+                        "duration": "PT3M33S",
+                        "viewCount": "2746963"
+                    }
+                ]
+            }
+        ]
+    },
+    "newReleases": {
+        "title": "최신곡",
+        "results": []
+    },
+    "topAlbums": {
+        "title": "Top Albums",
+        "results": [
+            {
+                "name": "DON'T FIGHT THE FEELING - Special Album - EP",
+                "songs": [
+                    {
+                        "id": "2IkoKhr6Tss",
+                        "title": "EXO 엑소 'Don't fight the feeling' MV",
+                        "channelTitle": "SMTOWN",
+                        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                        "publishedAt": "2021-06-07T09:00:02Z",
+                        "duration": "PT3M43S",
+                        "viewCount": "81533509"
+                    },
+                    {
+                        "id": "aSa6owyHFe8",
+                        "title": "[Playlist] 훅이 개쩌는 국힙 띵곡",
+                        "channelTitle": "뮤직곰",
+                        "channelId": "UCIee-K7FSnk9MW1QecfK1rw",
+                        "publishedAt": "2020-11-17T09:08:35Z",
+                        "duration": "PT1H4M15S",
+                        "viewCount": "2013157"
+                    },
+                    {
+                        "id": "9LGXATiZEKs",
+                        "title": "AURORA - Runaway (Lyrics)",
+                        "channelTitle": "Blissful Mind",
+                        "channelId": "UCGDPhXrv1Pwi8GvPrRgK_JA",
+                        "publishedAt": "2020-11-25T05:25:10Z",
+                        "duration": "PT4M9S",
+                        "viewCount": "61546049"
+                    },
+                    {
+                        "id": "vjWtmA4lZZU",
+                        "title": "EXO Just As Usual lyrics (엑소 지켜줄게 가사) (Color Coded Lyrics)",
+                        "channelTitle": "Jaeguchi",
+                        "channelId": "UCmth4hMyizG-_W9jidBqs_A",
+                        "publishedAt": "2021-06-07T10:45:57Z",
+                        "duration": "PT3M30S",
+                        "viewCount": "256480"
+                    }
+                ]
+            },
+            {
+                "name": "안녕 - Special Album - EP",
+                "songs": [
+                    {
+                        "id": "lNvBbh5jDcA",
+                        "title": "JOY 조이 '안녕 (Hello)' MV",
+                        "channelTitle": "SMTOWN",
+                        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                        "publishedAt": "2021-05-31T09:00:16Z",
+                        "duration": "PT4M35S",
+                        "viewCount": "19128041"
+                    },
+                    {
+                        "id": "k3Fa4lOQfbA",
+                        "title": "Jane Birkin et Serge Gainsbourg - Je T'aime,...Moi Non Plus",
+                        "channelTitle": "glivingston73",
+                        "channelId": "UCkKzXeTWOffFFqC_1aTAXQg",
+                        "publishedAt": "2009-05-21T00:11:53Z",
+                        "duration": "PT4M21S",
+                        "viewCount": "31541096"
+                    },
+                    {
+                        "id": "rzgRgtW8TiY",
+                        "title": "JOY 조이 '좋을텐데 (If Only) (Feat. 폴킴)' Live Video",
+                        "channelTitle": "Red Velvet",
+                        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+                        "publishedAt": "2021-06-06T09:00:32Z",
+                        "duration": "PT4M2S",
+                        "viewCount": "1337693"
+                    },
+                    {
+                        "id": "urwLVpkj4rk",
+                        "title": "그럴때마다 Be There For You",
+                        "channelTitle": "JOY - Topic",
+                        "channelId": "UCTEWSEBfdU8GB7J_XV6VBKw",
+                        "publishedAt": "2021-05-31T09:01:51Z",
+                        "duration": "PT3M57S",
+                        "viewCount": "1077196"
+                    }
+                ]
+            },
+            {
+                "name": "Happier Than Ever",
+                "songs": [
+                    {
+                        "id": "7AS9r_E0PY4",
+                        "title": "Billie Eilish - Getting Older (Official Lyric Video)",
+                        "channelTitle": "BillieEilishVEVO",
+                        "channelId": "UCDGmojLIoWpXok597xYo8cg",
+                        "publishedAt": "2021-07-30T04:00:01Z",
+                        "duration": "PT4M5S",
+                        "viewCount": "3813835"
+                    },
+                    {
+                        "id": "Dm9Zf1WYQ_A",
+                        "title": "Billie Eilish - my future",
+                        "channelTitle": "BillieEilishVEVO",
+                        "channelId": "UCDGmojLIoWpXok597xYo8cg",
+                        "publishedAt": "2020-07-30T23:00:01Z",
+                        "duration": "PT3M50S",
+                        "viewCount": "96154454"
+                    },
+                    {
+                        "id": "S2dRcipMCpw",
+                        "title": "Billie Eilish - Lost Cause (Official Music Video)",
+                        "channelTitle": "BillieEilishVEVO",
+                        "channelId": "UCDGmojLIoWpXok597xYo8cg",
+                        "publishedAt": "2021-06-02T16:00:12Z",
+                        "duration": "PT3M49S",
+                        "viewCount": "67149604"
+                    }
+                ]
+            },
+            {
+                "name": "After Hours (Deluxe Video Album)",
+                "songs": [
+                    {
+                        "id": "8JrpOFWczLs",
+                        "title": "The Weeknd - Alone Again (Official Live Performance) | Vevo",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2020-11-23T17:38:54Z",
+                        "duration": "PT4M12S",
+                        "viewCount": "7475171"
+                    },
+                    {
+                        "id": "nl71vFvVOvw",
+                        "title": "The Weeknd - Too Late (Audio)",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2020-03-20T04:00:14Z",
+                        "duration": "PT4M1S",
+                        "viewCount": "16762879"
+                    },
+                    {
+                        "id": "pM3nIOYF2W8",
+                        "title": "The Weeknd - Hardest To Love (Audio)",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2020-03-20T04:00:12Z",
+                        "duration": "PT3M33S",
+                        "viewCount": "12304100"
+                    },
+                    {
+                        "id": "MzsU_sn2aIE",
+                        "title": "The Weeknd - Scared To Live (Audio)",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2020-03-20T04:00:06Z",
+                        "duration": "PT3M13S",
+                        "viewCount": "8497544"
+                    },
+                    {
+                        "id": "G0JKdFjWkLA",
+                        "title": "The Weeknd - Snowchild (Animated Video)",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2020-07-22T16:00:05Z",
+                        "duration": "PT4M12S",
+                        "viewCount": "20114507"
+                    },
+                    {
+                        "id": "vsARlcGW0jE",
+                        "title": "The Weeknd - Escape From LA (Audio)",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2020-03-20T04:00:13Z",
+                        "duration": "PT5M57S",
+                        "viewCount": "17026968"
+                    },
+                    {
+                        "id": "1DpH-icPpl0",
+                        "title": "The Weeknd - Heartless (Official Video)",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2019-12-03T22:30:12Z",
+                        "duration": "PT4M10S",
+                        "viewCount": "125566792"
+                    },
+                    {
+                        "id": "6Cs3Pvmmv0E",
+                        "title": "George Michael - Faith (Official Video)",
+                        "channelTitle": "georgemichaelVEVO",
+                        "channelId": "UC7X_qC_rgc3s04Aw1t5DSHg",
+                        "publishedAt": "2010-11-06T03:00:19Z",
+                        "duration": "PT3M44S",
+                        "viewCount": "32930651"
+                    },
+                    {
+                        "id": "4NRXx6U8ABQ",
+                        "title": "The Weeknd - Blinding Lights (Official Video)",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2020-01-21T18:00:10Z",
+                        "duration": "PT4M23S",
+                        "viewCount": "483166291"
+                    },
+                    {
+                        "id": "E3QiD99jPAg",
+                        "title": "The Weeknd - In Your Eyes (Official Audio)",
+                        "channelTitle": "TheWeekndVEVO",
+                        "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                        "publishedAt": "2020-03-20T04:00:04Z",
+                        "duration": "PT3M59S",
+                        "viewCount": "75157564"
+                    }
+                ]
+            },
+            {
+                "name": "The Volunteers",
+                "songs": [
+                    {
+                        "id": "lkz96ByhhB0",
+                        "title": "Violet - Alisson Shore feat. JMakata & Colt (Official Audio)",
+                        "channelTitle": "Alisson Shore",
+                        "channelId": "UCambDjtOe5ZgCxOPg22KZ1g",
+                        "publishedAt": "2018-02-13T12:12:17Z",
+                        "duration": "PT4M29S",
+                        "viewCount": "11191232"
+                    },
+                    {
+                        "id": "1oRFlwlVXvg",
+                        "title": "The Volunteers (더 발룬티어스) 'PINKTOP' MV",
+                        "channelTitle": "The Volunteers",
+                        "channelId": "UCVlcbGb0bA8Db7DAZVuIPJw",
+                        "publishedAt": "2021-06-03T11:30:01Z",
+                        "duration": "PT4M17S",
+                        "viewCount": "96219"
+                    },
+                    {
+                        "id": "BQ_0QLL2gqI",
+                        "title": "Hailee Steinfeld, Alesso - Let Me Go ft. Florida Georgia Line, WATT (Official Video)",
+                        "channelTitle": "HaileeSteinfeldVEVO",
+                        "channelId": "UC7ttiY8KM99aLI79yHT6cAw",
+                        "publishedAt": "2017-11-17T18:00:00Z",
+                        "duration": "PT3M3S",
+                        "viewCount": "88439975"
+                    },
+                    {
+                        "id": "23TSkFq8A9c",
+                        "title": "Time to fight back in my way",
+                        "channelTitle": "The Volunteers - Topic",
+                        "channelId": "UCvUGXgPshGd_6iPJj0o8CRA",
+                        "publishedAt": "2021-05-27T09:20:42Z",
+                        "duration": "PT3M30S",
+                        "viewCount": "107729"
+                    },
+                    {
+                        "id": "gnyW6uaUgk4",
+                        "title": "Hits Radio 1 • Live Radio Pop Music 2020' Hits 2021 - Best English Songs & New Popular Songs 2021",
+                        "channelTitle": "Live Radio Music",
+                        "channelId": "UC0f4WJAjYdwl4XYHz-6FhyQ",
+                        "publishedAt": "2021-01-06T04:15:36Z",
+                        "duration": "P0D",
+                        "viewCount": "21204223"
+                    },
+                    {
+                        "id": "fv3efdiwi_I",
+                        "title": "Nicer",
+                        "channelTitle": "The Volunteers - Topic",
+                        "channelId": "UCvUGXgPshGd_6iPJj0o8CRA",
+                        "publishedAt": "2021-05-27T09:20:43Z",
+                        "duration": "PT4M25S",
+                        "viewCount": "123137"
+                    },
+                    {
+                        "id": "kvVyKycCE4I",
+                        "title": "James Arthur - Medicine (Official Video)",
+                        "channelTitle": "JamesAVEVO",
+                        "channelId": "UCnPjVVu__eOVZnAnjBiGhKA",
+                        "publishedAt": "2021-03-05T17:00:15Z",
+                        "duration": "PT3M32S",
+                        "viewCount": "8798180"
+                    },
+                    {
+                        "id": "pgN-vvVVxMA",
+                        "title": "XXXTENTACION - SAD!",
+                        "channelTitle": "XXXTENTACION",
+                        "channelId": "UCM9r1xn6s30OnlJWb-jc3Sw",
+                        "publishedAt": "2018-03-02T05:05:53Z",
+                        "duration": "PT2M47S",
+                        "viewCount": "1085651609"
+                    },
+                    {
+                        "id": "ebXbLfLACGM",
+                        "title": "Calvin Harris - Summer (Official Video)",
+                        "channelTitle": "CalvinHarrisVEVO",
+                        "channelId": "UCaHNFIob5Ixv74f5on3lvIw",
+                        "publishedAt": "2014-04-06T23:00:01Z",
+                        "duration": "PT3M54S",
+                        "viewCount": "1485057353"
+                    }
+                ]
+            }
+        ]
+    },
+    "topSongs": {
+        "name": "Top Songs",
+        "songs": [
+            {
+                "id": "yWHrYNP6j4k",
+                "title": "The Kid LAROI, Justin Bieber - Stay (Lyrics)",
+                "channelTitle": "7clouds",
+                "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+                "publishedAt": "2021-07-14T16:55:01Z",
+                "duration": "PT2M20S",
+                "viewCount": "10073056"
+            },
+            {
+                "id": "CuklIb9d3fI",
+                "title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2021-07-09T03:59:12Z",
+                "duration": "PT5M",
+                "viewCount": "258255345"
+            },
+            {
+                "id": "4TWR90KJl84",
+                "title": "aespa 에스파 'Next Level' MV",
+                "channelTitle": "SMTOWN",
+                "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                "publishedAt": "2021-05-17T09:00:02Z",
+                "duration": "PT3M56S",
+                "viewCount": "136111915"
+            },
+            {
+                "id": "tg2uF3R_Ozo",
+                "title": "SOMI (전소미) - 'DUMB DUMB' M/V",
+                "channelTitle": "THEBLACKLABEL",
+                "channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+                "publishedAt": "2021-08-02T09:00:15Z",
+                "duration": "PT2M59S",
+                "viewCount": "48971057"
+            },
+            {
+                "id": "WMweEpGlu_U",
+                "title": "BTS (방탄소년단) 'Butter' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2021-05-21T03:46:13Z",
+                "duration": "PT3M3S",
+                "viewCount": "513239902"
+            },
+            {
+                "id": "orJSJGHjBLI",
+                "title": "Ed Sheeran - Bad Habits [Official Video]",
+                "channelTitle": "Ed Sheeran",
+                "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+                "publishedAt": "2021-06-25T04:00:33Z",
+                "duration": "PT4M1S",
+                "viewCount": "113352663"
+            },
+            {
+                "id": "tQ0yjYUFKAE",
+                "title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
+                "channelTitle": "JustinBieberVEVO",
+                "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+                "publishedAt": "2021-03-19T04:00:15Z",
+                "duration": "PT3M18S",
+                "viewCount": "351888767"
+            },
+            {
+                "id": "gdZLi9oWNZg",
+                "title": "BTS (방탄소년단) 'Dynamite' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2020-08-21T03:58:10Z",
+                "duration": "PT3M44S",
+                "viewCount": "1209798958"
+            },
+            {
+                "id": "0EVVKs6DQLo",
+                "title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
+                "channelTitle": "dojacatVEVO",
+                "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+                "publishedAt": "2021-04-09T04:00:00Z",
+                "duration": "PT5M16S",
+                "viewCount": "174880398"
+            },
+            {
+                "id": "XA2YEHn-A8Q",
+                "title": "TWICE \"Alcohol-Free\" M/V",
+                "channelTitle": "JYP Entertainment",
+                "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+                "publishedAt": "2021-06-09T08:58:12Z",
+                "duration": "PT3M34S",
+                "viewCount": "154639579"
+            },
+            {
+                "id": "gNi_6U5Pm_o",
+                "title": "Olivia Rodrigo - good 4 u (Official Video)",
+                "channelTitle": "OliviaRodrigoVEVO",
+                "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+                "publishedAt": "2021-05-14T04:00:09Z",
+                "duration": "PT3M19S",
+                "viewCount": "221247317"
+            },
+            {
+                "id": "hmUyEDG7Jy0",
+                "title": "Marshmello x Jonas Brothers - Leave Before You Love Me (Official Music Video)",
+                "channelTitle": "MarshmelloVEVO",
+                "channelId": "UCPW4ObAtDezrOGo2gjYOctg",
+                "publishedAt": "2021-05-24T22:00:12Z",
+                "duration": "PT2M45S",
+                "viewCount": "31973419"
+            },
+            {
+                "id": "HzOjwL7IP_o",
+                "title": "(MV)오마이걸(OH MY GIRL)_Dun Dun Dance",
+                "channelTitle": "OH MY GIRL",
+                "channelId": "UC-qYkzKFdekoEniRu_FS3zg",
+                "publishedAt": "2021-05-10T09:00:02Z",
+                "duration": "PT4M8S",
+                "viewCount": "35538736"
+            },
+            {
+                "id": "LIIDh-qI9oI",
+                "title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
+                "channelTitle": "TheWeekndVEVO",
+                "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                "publishedAt": "2021-04-23T04:00:06Z",
+                "duration": "PT3M26S",
+                "viewCount": "127841909"
+            },
+            {
+                "id": "AJPLgrfBiBo",
+                "title": "헤이즈 (Heize) - '헤픈 우연 (HAPPEN)' MV (with 송중기)",
+                "channelTitle": "Heize official",
+                "channelId": "UCsXigGjbC_l4ttk-oahTfVg",
+                "publishedAt": "2021-05-20T08:58:14Z",
+                "duration": "PT3M50S",
+                "viewCount": "10940923"
+            },
+            {
+                "id": "adLGHcj_fmA",
+                "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]",
+                "channelTitle": "Bruno Mars",
+                "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+                "publishedAt": "2021-03-05T05:00:00Z",
+                "duration": "PT4M9S",
+                "viewCount": "366527560"
+            },
+            {
+                "id": "5GJWxDKyk3A",
+                "title": "Billie Eilish - Happier Than Ever (Official Music Video)",
+                "channelTitle": "BillieEilishVEVO",
+                "channelId": "UCDGmojLIoWpXok597xYo8cg",
+                "publishedAt": "2021-07-30T16:00:09Z",
+                "duration": "PT5M16S",
+                "viewCount": "29418952"
+            },
+            {
+                "id": "CKZvWhCqx1s",
+                "title": "ROSÉ - 'On The Ground' M/V",
+                "channelTitle": "BLACKPINK",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "publishedAt": "2021-03-12T05:00:15Z",
+                "duration": "PT3M9S",
+                "viewCount": "211414648"
+            },
+            {
+                "id": "dyRsYk0LyA8",
+                "title": "BLACKPINK – ‘Lovesick Girls’ M/V",
+                "channelTitle": "BLACKPINK",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "publishedAt": "2020-10-02T04:00:13Z",
+                "duration": "PT3M22S",
+                "viewCount": "466761633"
+            },
+            {
+                "id": "lNvBbh5jDcA",
+                "title": "JOY 조이 '안녕 (Hello)' MV",
+                "channelTitle": "SMTOWN",
+                "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                "publishedAt": "2021-05-31T09:00:16Z",
+                "duration": "PT4M35S",
+                "viewCount": "19128041"
+            },
+            {
+                "id": "4NRXx6U8ABQ",
+                "title": "The Weeknd - Blinding Lights (Official Video)",
+                "channelTitle": "TheWeekndVEVO",
+                "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                "publishedAt": "2020-01-21T18:00:10Z",
+                "duration": "PT4M23S",
+                "viewCount": "483166291"
+            },
+            {
+                "id": "BSzSn-PRdtI",
+                "title": "Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)",
+                "channelTitle": "Maroon5VEVO",
+                "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+                "publishedAt": "2021-03-11T17:00:14Z",
+                "duration": "PT3M49S",
+                "viewCount": "74043594"
+            },
+            {
+                "id": "CKZvWhCqx1s",
+                "title": "ROSÉ - 'On The Ground' M/V",
+                "channelTitle": "BLACKPINK",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "publishedAt": "2021-03-12T05:00:15Z",
+                "duration": "PT3M9S",
+                "viewCount": "211414648"
+            },
+            {
+                "id": "ZeerrnuLi5E",
+                "title": "aespa 에스파 'Black Mamba' MV",
+                "channelTitle": "SMTOWN",
+                "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                "publishedAt": "2020-11-17T09:00:22Z",
+                "duration": "PT3M50S",
+                "viewCount": "168840789"
+            },
+            {
+                "id": "ioNng23DkIM",
+                "title": "BLACKPINK - 'How You Like That' M/V",
+                "channelTitle": "BLACKPINK",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "publishedAt": "2020-06-26T08:58:14Z",
+                "duration": "PT3M4S",
+                "viewCount": "939927697"
+            },
+            {
+                "id": "ENjrJ_zyeUc",
+                "title": "Justin Bieber - Off My Face (Live from Paris)",
+                "channelTitle": "Justin Bieber",
+                "channelId": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+                "publishedAt": "2021-04-13T23:36:10Z",
+                "duration": "PT2M44S",
+                "viewCount": "9028785"
+            },
+            {
+                "id": "XsX3ATc3FbA",
+                "title": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2019-04-12T09:00:02Z",
+                "duration": "PT4M13S",
+                "viewCount": "1324805582"
+            },
+            {
+                "id": "lCiV4wACZ8w",
+                "title": "Post Malone - Motley Crew (Official Video)",
+                "channelTitle": "PostMaloneVEVO",
+                "channelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
+                "publishedAt": "2021-07-12T20:00:12Z",
+                "duration": "PT3M3S",
+                "viewCount": "14650228"
+            },
+            {
+                "id": "-5q5mZbe3V8",
+                "title": "BTS (방탄소년단) 'Life Goes On' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2020-11-20T04:58:11Z",
+                "duration": "PT3M51S",
+                "viewCount": "374411529"
+            },
+            {
+                "id": "E07s5ZYygMg",
+                "title": "Harry Styles - Watermelon Sugar (Official Video)",
+                "channelTitle": "HarryStylesVEVO",
+                "channelId": "UCbOCbp5gXL8jigIBZLqMPrw",
+                "publishedAt": "2020-05-18T16:00:11Z",
+                "duration": "PT3M9S",
+                "viewCount": "252679177"
+            },
+            {
+                "id": "JXgV1rXUoME",
+                "title": "Doja Cat, The Weeknd - You Right (Official Video)",
+                "channelTitle": "Doja Cat",
+                "channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
+                "publishedAt": "2021-06-25T04:00:10Z",
+                "duration": "PT3M10S",
+                "viewCount": "57640708"
+            },
+            {
+                "id": "szj8w-5nqE4",
+                "title": "호미들 - 사이렌 Remix (Feat. UNEDUCATED KID, Paul Blanco) [사이렌 Remix]ㅣLyrics/가사",
+                "channelTitle": "알파",
+                "channelId": "UCGuE0TrBNIZKfordUwAQe2w",
+                "publishedAt": "2021-03-20T09:29:00Z",
+                "duration": "PT3M18S",
+                "viewCount": "9299495"
+            },
+            {
+                "id": "J1QrbeOPUbg",
+                "title": "Tate McRae, Khalid - working (Audio)",
+                "channelTitle": "TateMcRaeVEVO",
+                "channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+                "publishedAt": "2021-06-17T14:00:11Z",
+                "duration": "PT3M32S",
+                "viewCount": "1507558"
+            },
+            {
+                "id": "sLgz57tguKo",
+                "title": "Måneskin - Beggin' (Lyrics/Testo)",
+                "channelTitle": "Vibe Music",
+                "channelId": "UChO8h2G8UjOVc081rgYU8XQ",
+                "publishedAt": "2021-06-10T16:04:38Z",
+                "duration": "PT3M34S",
+                "viewCount": "85803361"
+            },
+            {
+                "id": "TUVcZfQe-Kw",
+                "title": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+                "channelTitle": "Dua Lipa",
+                "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+                "publishedAt": "2020-10-02T12:00:12Z",
+                "duration": "PT3M51S",
+                "viewCount": "331059377"
+            },
+            {
+                "id": "mZz9uYdj_v4",
+                "title": "악동뮤지션(AKMU) - 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 / 가사",
+                "channelTitle": "Music is my life",
+                "channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
+                "publishedAt": "2019-09-25T10:18:01Z",
+                "duration": "PT4M51S",
+                "viewCount": "15919959"
+            }
+        ]
+    }
+}
