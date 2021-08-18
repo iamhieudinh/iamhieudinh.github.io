@@ -1,6 +1,6 @@
 {
     "hotTracks": {
-        "title": "Handmade Playlists",
+        "title": "Our Editors’ Favorites",
         "results": [
             {
                 "name": "Today’s Hits",
@@ -12,7 +12,7 @@
                         "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
                         "publishedAt": "2021-07-14T16:55:01Z",
                         "duration": "PT2M20S",
-                        "viewCount": "11116262"
+                        "viewCount": "11812264"
                     },
                     {
                         "id": "6tsu2oeZJgo",
@@ -21,7 +21,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-21T04:00:02Z",
                         "duration": "PT3M50S",
-                        "viewCount": "53839530"
+                        "viewCount": "54272624"
                     },
                     {
                         "id": "0EVVKs6DQLo",
@@ -30,7 +30,7 @@
                         "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
                         "publishedAt": "2021-04-09T04:00:00Z",
                         "duration": "PT5M16S",
-                        "viewCount": "176590842"
+                        "viewCount": "177660198"
                     },
                     {
                         "id": "mRD0-GxqHVo",
@@ -39,7 +39,7 @@
                         "channelId": "UCOMLtULLvoymORim06O1vaw",
                         "publishedAt": "2020-06-29T18:30:09Z",
                         "duration": "PT3M56S",
-                        "viewCount": "36043696"
+                        "viewCount": "36201388"
                     },
                     {
                         "id": "orJSJGHjBLI",
@@ -48,21 +48,57 @@
                         "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
                         "publishedAt": "2021-06-25T04:00:33Z",
                         "duration": "PT4M1S",
-                        "viewCount": "116652932"
+                        "viewCount": "118497540"
                     }
                 ]
             },
             {
-                "name": "ALT CTRL",
+                "name": "A-List Pop",
                 "songs": [
                     {
-                        "id": "wvsP_lzh2-8",
-                        "title": "Lorde - Solar Power",
-                        "channelTitle": "LordeVEVO",
-                        "channelId": "UCVrPiUtl29kULN2HIAm244Q",
-                        "publishedAt": "2021-06-10T22:00:32Z",
-                        "duration": "PT3M21S",
-                        "viewCount": "20729020"
+                        "id": "yWHrYNP6j4k",
+                        "title": "The Kid LAROI, Justin Bieber - Stay (Lyrics)",
+                        "channelTitle": "7clouds",
+                        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+                        "publishedAt": "2021-07-14T16:55:01Z",
+                        "duration": "PT2M20S",
+                        "viewCount": "11812264"
+                    },
+                    {
+                        "id": "6tsu2oeZJgo",
+                        "title": "Olivia Rodrigo - traitor (Lyric Video)",
+                        "channelTitle": "OliviaRodrigoVEVO",
+                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+                        "publishedAt": "2021-05-21T04:00:02Z",
+                        "duration": "PT3M50S",
+                        "viewCount": "54272624"
+                    },
+                    {
+                        "id": "orJSJGHjBLI",
+                        "title": "Ed Sheeran - Bad Habits [Official Video]",
+                        "channelTitle": "Ed Sheeran",
+                        "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+                        "publishedAt": "2021-06-25T04:00:33Z",
+                        "duration": "PT4M1S",
+                        "viewCount": "118497540"
+                    },
+                    {
+                        "id": "hmUyEDG7Jy0",
+                        "title": "Marshmello x Jonas Brothers - Leave Before You Love Me (Official Music Video)",
+                        "channelTitle": "MarshmelloVEVO",
+                        "channelId": "UCPW4ObAtDezrOGo2gjYOctg",
+                        "publishedAt": "2021-05-24T22:00:12Z",
+                        "duration": "PT2M45S",
+                        "viewCount": "32932918"
+                    },
+                    {
+                        "id": "TUVcZfQe-Kw",
+                        "title": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+                        "channelTitle": "Dua Lipa",
+                        "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+                        "publishedAt": "2020-10-02T12:00:12Z",
+                        "duration": "PT3M51S",
+                        "viewCount": "333816957"
                     }
                 ]
             },
@@ -76,7 +112,7 @@
                         "channelId": "UCTwct4oAsyuyGxOtva0FcUg",
                         "publishedAt": "2021-03-05T18:27:56Z",
                         "duration": "PT3M14S",
-                        "viewCount": "11292261"
+                        "viewCount": "11353296"
                     },
                     {
                         "id": "BTivsHlVcGU",
@@ -85,7 +121,7 @@
                         "channelId": "UCrFB54bqp8sda4udJyNswlA",
                         "publishedAt": "2021-05-04T22:42:27Z",
                         "duration": "PT3M57S",
-                        "viewCount": "66487916"
+                        "viewCount": "66996548"
                     },
                     {
                         "id": "w2IhccXakkE",
@@ -94,7 +130,7 @@
                         "channelId": "UCojuFn_hfMyScH5hSHTBADQ",
                         "publishedAt": "2021-04-09T04:00:15Z",
                         "duration": "PT2M49S",
-                        "viewCount": "112717026"
+                        "viewCount": "113048410"
                     },
                     {
                         "id": "AAhcBx5Bl-Y",
@@ -103,7 +139,7 @@
                         "channelId": "UC7r-J2sPQVv9i3iNcte1u-A",
                         "publishedAt": "2021-04-23T04:00:10Z",
                         "duration": "PT3M3S",
-                        "viewCount": "27769585"
+                        "viewCount": "27842804"
                     }
                 ]
             }
@@ -117,6 +153,20 @@
         "title": "Top Albums",
         "results": [
             {
+                "name": "Queendom - The 6th Mini Album - EP",
+                "songs": [
+                    {
+                        "id": "c9RzZpV460k",
+                        "title": "Red Velvet 레드벨벳 'Queendom' MV",
+                        "channelTitle": "SMTOWN",
+                        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                        "publishedAt": "2021-08-16T09:00:48Z",
+                        "duration": "PT3M10S",
+                        "viewCount": "25177581"
+                    }
+                ]
+            },
+            {
                 "name": "Fast & Furious 9: The Fast Saga (Original Motion Picture Soundtrack)",
                 "songs": [
                     {
@@ -126,7 +176,7 @@
                         "channelId": "UChSYQS0A6GO8wvSKAbaskQg",
                         "publishedAt": "2011-06-08T16:00:00Z",
                         "duration": "PT4M10S",
-                        "viewCount": "159455793"
+                        "viewCount": "159501877"
                     },
                     {
                         "id": "PzSpQpqHKic",
@@ -135,7 +185,7 @@
                         "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
                         "publishedAt": "2021-06-18T04:00:15Z",
                         "duration": "PT2M49S",
-                        "viewCount": "1749395"
+                        "viewCount": "1775796"
                     },
                     {
                         "id": "P7xcbaY6DSQ",
@@ -144,7 +194,7 @@
                         "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
                         "publishedAt": "2021-06-18T04:00:07Z",
                         "duration": "PT2M53S",
-                        "viewCount": "811567"
+                        "viewCount": "820783"
                     },
                     {
                         "id": "ez1YgRexThQ",
@@ -153,7 +203,7 @@
                         "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
                         "publishedAt": "2021-06-18T04:00:27Z",
                         "duration": "PT2M34S",
-                        "viewCount": "3501317"
+                        "viewCount": "3535035"
                     },
                     {
                         "id": "PwSd1_K8bjQ",
@@ -162,7 +212,7 @@
                         "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
                         "publishedAt": "2021-06-18T04:00:07Z",
                         "duration": "PT2M30S",
-                        "viewCount": "598479"
+                        "viewCount": "608788"
                     },
                     {
                         "id": "0Q4JVtWaZTU",
@@ -171,7 +221,7 @@
                         "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
                         "publishedAt": "2021-06-18T04:00:01Z",
                         "duration": "PT3M48S",
-                        "viewCount": "1293240"
+                        "viewCount": "1312827"
                     },
                     {
                         "id": "kyL7PfCrHAE",
@@ -180,7 +230,7 @@
                         "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
                         "publishedAt": "2021-06-18T04:00:31Z",
                         "duration": "PT2M21S",
-                        "viewCount": "446233"
+                        "viewCount": "451886"
                     },
                     {
                         "id": "s_yWthzaZFs",
@@ -189,7 +239,7 @@
                         "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
                         "publishedAt": "2021-06-18T04:00:17Z",
                         "duration": "PT2M34S",
-                        "viewCount": "1225404"
+                        "viewCount": "1234219"
                     },
                     {
                         "id": "UvkmSRzgGG4",
@@ -198,7 +248,7 @@
                         "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
                         "publishedAt": "2021-06-18T04:00:17Z",
                         "duration": "PT2M49S",
-                        "viewCount": "782039"
+                        "viewCount": "793726"
                     }
                 ]
             },
@@ -212,7 +262,7 @@
                         "channelId": "UC_kRDKYrUlrbtrSiyu5Tflg",
                         "publishedAt": "2021-02-22T14:21:45Z",
                         "duration": "PT7M58S",
-                        "viewCount": "26578009"
+                        "viewCount": "26587528"
                     },
                     {
                         "id": "vcGbefQBvJ4",
@@ -221,7 +271,7 @@
                         "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                         "publishedAt": "2021-01-18T14:00:09Z",
                         "duration": "PT4M42S",
-                        "viewCount": "35243616"
+                        "viewCount": "35336743"
                     },
                     {
                         "id": "kzdJkT4kp-A",
@@ -230,7 +280,7 @@
                         "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                         "publishedAt": "2020-05-11T11:00:11Z",
                         "duration": "PT3M23S",
-                        "viewCount": "59652792"
+                        "viewCount": "59745660"
                     },
                     {
                         "id": "sAuEeM_6zpk",
@@ -239,7 +289,7 @@
                         "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                         "publishedAt": "2020-01-18T12:00:13Z",
                         "duration": "PT4M",
-                        "viewCount": "36705097"
+                        "viewCount": "36793554"
                     },
                     {
                         "id": "8iuLXODzL04",
@@ -248,7 +298,7 @@
                         "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                         "publishedAt": "2020-07-20T11:00:13Z",
                         "duration": "PT4M24S",
-                        "viewCount": "38701684"
+                        "viewCount": "38821021"
                     },
                     {
                         "id": "Y4nEEZwckuU",
@@ -257,7 +307,7 @@
                         "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                         "publishedAt": "2020-12-01T11:00:11Z",
                         "duration": "PT4M23S",
-                        "viewCount": "52010469"
+                        "viewCount": "52198386"
                     },
                     {
                         "id": "vd3IlOjSUGQ",
@@ -266,7 +316,7 @@
                         "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                         "publishedAt": "2020-12-18T11:00:10Z",
                         "duration": "PT4M5S",
-                        "viewCount": "26798210"
+                        "viewCount": "26872434"
                     },
                     {
                         "id": "x8VYWazR5mE",
@@ -275,93 +325,7 @@
                         "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                         "publishedAt": "2019-11-16T13:00:11Z",
                         "duration": "PT4M36S",
-                        "viewCount": "241942141"
-                    }
-                ]
-            },
-            {
-                "name": "BTS, THE BEST",
-                "songs": [
-                    {
-                        "id": "zFT3f9biz68",
-                        "title": "BTS (방탄소년단) 'Film out' Official MV",
-                        "channelTitle": "HYBE LABELS",
-                        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-                        "publishedAt": "2021-04-01T15:00:09Z",
-                        "duration": "PT3M49S",
-                        "viewCount": "158181822"
-                    },
-                    {
-                        "id": "WmyTWs8FeMs",
-                        "title": "DNA (Japanese ver.)",
-                        "channelTitle": "BTS - Topic",
-                        "channelId": "UC9vrvNSL3xcWGSkV86REBSg",
-                        "publishedAt": "2021-06-15T15:06:08Z",
-                        "duration": "PT3M44S",
-                        "viewCount": "248291"
-                    },
-                    {
-                        "id": "ZPZSF3n5Fg8",
-                        "title": "Best Of Me (Japanese Version)",
-                        "channelTitle": "BTS - Topic",
-                        "channelId": "UC9vrvNSL3xcWGSkV86REBSg",
-                        "publishedAt": "2021-04-06T02:19:04Z",
-                        "duration": "PT3M48S",
-                        "viewCount": "435750"
-                    },
-                    {
-                        "id": "0NKUpo_xKyQ",
-                        "title": "Ellie Goulding - Lights (Official Video)",
-                        "channelTitle": "EllieGouldingVEVO",
-                        "channelId": "UCvu362oukLMN1miydXcLxGg",
-                        "publishedAt": "2011-01-20T17:56:25Z",
-                        "duration": "PT3M34S",
-                        "viewCount": "182929724"
-                    },
-                    {
-                        "id": "7OX7dIRReSA",
-                        "title": "BTS (防弾少年団) '血、汗、涙 -Japanese Ver.-' Official MV",
-                        "channelTitle": "UNIVERSAL MUSIC JAPAN",
-                        "channelId": "UCl2aT0nRejTCQO_LHZAftBw",
-                        "publishedAt": "2017-05-09T15:00:00Z",
-                        "duration": "PT4M13S",
-                        "viewCount": "49354398"
-                    },
-                    {
-                        "id": "74dalENKT9U",
-                        "title": "Black Swan (Japanese ver.)",
-                        "channelTitle": "BTS - Topic",
-                        "channelId": "UC9vrvNSL3xcWGSkV86REBSg",
-                        "publishedAt": "2020-07-14T15:01:04Z",
-                        "duration": "PT3M19S",
-                        "viewCount": "1118941"
-                    },
-                    {
-                        "id": "CxnJf0tWu48",
-                        "title": "BTS (防弾少年団) 'Airplane pt.2 -Japanese ver.-' Official MV",
-                        "channelTitle": "UNIVERSAL MUSIC JAPAN",
-                        "channelId": "UCl2aT0nRejTCQO_LHZAftBw",
-                        "publishedAt": "2018-11-06T15:00:01Z",
-                        "duration": "PT3M48S",
-                        "viewCount": "201394814"
-                    },
-                    {
-                        "id": "mYsxaHkYaCM",
-                        "title": "Go Go (Japanese ver.)",
-                        "channelTitle": "BTS - Topic",
-                        "channelId": "UC9vrvNSL3xcWGSkV86REBSg",
-                        "publishedAt": "2021-06-15T15:09:29Z",
-                        "duration": "PT3M57S",
-                        "viewCount": "329303"
-                    },
-                    {
-                        "id": "bev5d3Eaqz4",
-                        "title": "IDOL (Japanese ver.)",
-                        "channelTitle": "BTS - Topic",
-                        "channelId": "UC9vrvNSL3xcWGSkV86REBSg",
-                        "publishedAt": "2020-07-14T15:01:00Z",
-                        "duration": "PT3M44S",
-                        "viewCount": "1021578"
+                        "viewCount": "242005242"
                     }
                 ]
             }
@@ -377,7 +341,7 @@
                 "channelId": "UC3IZKseVpdzPSBaWxBxundA",
                 "publishedAt": "2021-07-09T03:59:12Z",
                 "duration": "PT5M",
-                "viewCount": "262023684"
+                "viewCount": "264382977"
             },
             {
                 "id": "WMweEpGlu_U",
@@ -386,7 +350,7 @@
                 "channelId": "UC3IZKseVpdzPSBaWxBxundA",
                 "publishedAt": "2021-05-21T03:46:13Z",
                 "duration": "PT3M3S",
-                "viewCount": "515922096"
+                "viewCount": "517601003"
             },
             {
                 "id": "AqaQsL-8I_M",
@@ -395,7 +359,7 @@
                 "channelId": "UCKrdjiuS66yXOdEZ_cOD_TA",
                 "publishedAt": "2021-02-04T02:30:09Z",
                 "duration": "PT3M1S",
-                "viewCount": "81217290"
+                "viewCount": "81329650"
             },
             {
                 "id": "yXZd7xVdpJ0",
@@ -404,7 +368,7 @@
                 "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
                 "publishedAt": "2020-10-30T13:00:13Z",
                 "duration": "PT5M12S",
-                "viewCount": "72115729"
+                "viewCount": "72252975"
             },
             {
                 "id": "gdZLi9oWNZg",
@@ -413,7 +377,7 @@
                 "channelId": "UC3IZKseVpdzPSBaWxBxundA",
                 "publishedAt": "2020-08-21T03:58:10Z",
                 "duration": "PT3M44S",
-                "viewCount": "1211678373"
+                "viewCount": "1212828348"
             },
             {
                 "id": "TcLLpZBWsck",
@@ -422,7 +386,7 @@
                 "channelId": "UCNIy6zQyP7SuLEIaiwymfUA",
                 "publishedAt": "2021-05-21T13:00:11Z",
                 "duration": "PT4M1S",
-                "viewCount": "21221647"
+                "viewCount": "21472444"
             },
             {
                 "id": "x8VYWazR5mE",
@@ -431,7 +395,7 @@
                 "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                 "publishedAt": "2019-11-16T13:00:11Z",
                 "duration": "PT4M36S",
-                "viewCount": "241942141"
+                "viewCount": "242005242"
             },
             {
                 "id": "dy90tA3TT1c",
@@ -440,7 +404,7 @@
                 "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                 "publishedAt": "2021-01-13T13:00:11Z",
                 "duration": "PT3M29S",
-                "viewCount": "126219073"
+                "viewCount": "126703923"
             },
             {
                 "id": "q09Gs6e5XVI",
@@ -449,34 +413,7 @@
                 "channelId": "UCMI5tfhifxlSOOh1ErnfJuw",
                 "publishedAt": "2020-05-29T12:00:11Z",
                 "duration": "PT4M32S",
-                "viewCount": "19498149"
-            },
-            {
-                "id": "YnSW8ian29w",
-                "title": "【Ado】踊",
-                "channelTitle": "Ado",
-                "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
-                "publishedAt": "2021-04-27T11:00:14Z",
-                "duration": "PT3M29S",
-                "viewCount": "68947534"
-            },
-            {
-                "id": "Y4nEEZwckuU",
-                "title": "YOASOBI「群青」Official Music Video",
-                "channelTitle": "Ayase / YOASOBI",
-                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
-                "publishedAt": "2020-12-01T11:00:11Z",
-                "duration": "PT4M23S",
-                "viewCount": "52010469"
-            },
-            {
-                "id": "zkZARKFuzNQ",
-                "title": "Awesome City Club / 勿忘  (MUSIC VIDEO)",
-                "channelTitle": "Awesome City Club ‖オーサムシティクラブ",
-                "channelId": "UCW66DYvzKs5bmcCqjMqT3-w",
-                "publishedAt": "2021-01-27T12:00:11Z",
-                "duration": "PT4M33S",
-                "viewCount": "38165597"
+                "viewCount": "19607436"
             },
             {
                 "id": "yWHrYNP6j4k",
@@ -485,7 +422,34 @@
                 "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
                 "publishedAt": "2021-07-14T16:55:01Z",
                 "duration": "PT2M20S",
-                "viewCount": "11116262"
+                "viewCount": "11812264"
+            },
+            {
+                "id": "YnSW8ian29w",
+                "title": "【Ado】踊",
+                "channelTitle": "Ado",
+                "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
+                "publishedAt": "2021-04-27T11:00:14Z",
+                "duration": "PT3M29S",
+                "viewCount": "69363158"
+            },
+            {
+                "id": "Y4nEEZwckuU",
+                "title": "YOASOBI「群青」Official Music Video",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2020-12-01T11:00:11Z",
+                "duration": "PT4M23S",
+                "viewCount": "52198386"
+            },
+            {
+                "id": "zkZARKFuzNQ",
+                "title": "Awesome City Club / 勿忘  (MUSIC VIDEO)",
+                "channelTitle": "Awesome City Club ‖オーサムシティクラブ",
+                "channelId": "UCW66DYvzKs5bmcCqjMqT3-w",
+                "publishedAt": "2021-01-27T12:00:11Z",
+                "duration": "PT4M33S",
+                "viewCount": "38283683"
             },
             {
                 "id": "kMcawQWipSM",
@@ -494,7 +458,7 @@
                 "channelId": "UCKqTO6M56djXJBjKfwJJo3A",
                 "publishedAt": "2018-07-20T04:00:06Z",
                 "duration": "PT3M13S",
-                "viewCount": "4827581"
+                "viewCount": "4830857"
             },
             {
                 "id": "Zy_KuTFwot4",
@@ -503,16 +467,7 @@
                 "channelId": "UCOXlVW6fGmawr3LR154FlEg",
                 "publishedAt": "2020-09-09T03:00:10Z",
                 "duration": "PT3M28S",
-                "viewCount": "43254591"
-            },
-            {
-                "id": "WAMxwRtNrPY",
-                "title": "Novelbright - ツキミソウ [Official Music Video]",
-                "channelTitle": "Novelbright",
-                "channelId": "UCIJAlAYCNN8RACtDDsy9K6g",
-                "publishedAt": "2020-12-11T13:00:12Z",
-                "duration": "PT5M17S",
-                "viewCount": "26403230"
+                "viewCount": "43331362"
             },
             {
                 "id": "-CrGCR4RuWg",
@@ -521,7 +476,16 @@
                 "channelId": "UCHAXrJraS1OucvsblMrhxXg",
                 "publishedAt": "2020-12-18T10:05:18Z",
                 "duration": "PT2M40S",
-                "viewCount": "16959516"
+                "viewCount": "17011681"
+            },
+            {
+                "id": "WAMxwRtNrPY",
+                "title": "Novelbright - ツキミソウ [Official Music Video]",
+                "channelTitle": "Novelbright",
+                "channelId": "UCIJAlAYCNN8RACtDDsy9K6g",
+                "publishedAt": "2020-12-11T13:00:12Z",
+                "duration": "PT5M17S",
+                "viewCount": "26524739"
             },
             {
                 "id": "1DPldNasDgY",
@@ -530,7 +494,7 @@
                 "channelId": "UCgipy6-EqjT-1BCDndXX1PA",
                 "publishedAt": "2021-05-24T11:00:14Z",
                 "duration": "PT3M23S",
-                "viewCount": "13967862"
+                "viewCount": "14029628"
             },
             {
                 "id": "mfwdvhYIGtw",
@@ -539,25 +503,7 @@
                 "channelId": "UCOXlVW6fGmawr3LR154FlEg",
                 "publishedAt": "2021-01-27T03:02:24Z",
                 "duration": "PT3M30S",
-                "viewCount": "12262105"
-            },
-            {
-                "id": "gsT6eKsnT0M",
-                "title": "DISH// (北村匠海) - 猫 / THE FIRST TAKE",
-                "channelTitle": "THE FIRST TAKE",
-                "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
-                "publishedAt": "2020-03-20T13:00:11Z",
-                "duration": "PT5M34S",
-                "viewCount": "149413725"
-            },
-            {
-                "id": "Qp3b-RXtz4w",
-                "title": "【Ado】うっせぇわ",
-                "channelTitle": "Ado",
-                "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
-                "publishedAt": "2020-10-23T11:00:11Z",
-                "duration": "PT3M23S",
-                "viewCount": "169454941"
+                "viewCount": "12331076"
             },
             {
                 "id": "VfATdDI3604",
@@ -566,7 +512,25 @@
                 "channelId": "UCI6B8NkZKqlFWoiC_xE-hzA",
                 "publishedAt": "2021-05-09T11:12:29Z",
                 "duration": "PT3M41S",
-                "viewCount": "16554397"
+                "viewCount": "16675536"
+            },
+            {
+                "id": "gsT6eKsnT0M",
+                "title": "DISH// (北村匠海) - 猫 / THE FIRST TAKE",
+                "channelTitle": "THE FIRST TAKE",
+                "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
+                "publishedAt": "2020-03-20T13:00:11Z",
+                "duration": "PT5M34S",
+                "viewCount": "149590840"
+            },
+            {
+                "id": "Qp3b-RXtz4w",
+                "title": "【Ado】うっせぇわ",
+                "channelTitle": "Ado",
+                "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
+                "publishedAt": "2020-10-23T11:00:11Z",
+                "duration": "PT3M23S",
+                "viewCount": "169774902"
             },
             {
                 "id": "1tk1pqwrOys",
@@ -575,16 +539,7 @@
                 "channelId": "UCUXfRsEIJ9xO1DT7TbEWksw",
                 "publishedAt": "2020-11-20T10:00:00Z",
                 "duration": "PT3M44S",
-                "viewCount": "157441912"
-            },
-            {
-                "id": "kzdJkT4kp-A",
-                "title": "YOASOBI「ハルジオン」Official Music Video",
-                "channelTitle": "Ayase / YOASOBI",
-                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
-                "publishedAt": "2020-05-11T11:00:11Z",
-                "duration": "PT3M23S",
-                "viewCount": "59652792"
+                "viewCount": "157882764"
             },
             {
                 "id": "_rs52auqcmE",
@@ -593,16 +548,16 @@
                 "channelId": "UCUebubwSuTHfHjWJI4gCS9A",
                 "publishedAt": "2018-10-17T16:40:26Z",
                 "duration": "PT3M29S",
-                "viewCount": "75208173"
+                "viewCount": "75222114"
             },
             {
-                "id": "9IHwqdz8Xhw",
-                "title": "BTS (방탄소년단) 'Stay Gold' Official MV",
-                "channelTitle": "HYBE LABELS",
-                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-                "publishedAt": "2020-06-26T08:59:11Z",
-                "duration": "PT4M16S",
-                "viewCount": "195935340"
+                "id": "kzdJkT4kp-A",
+                "title": "YOASOBI「ハルジオン」Official Music Video",
+                "channelTitle": "Ayase / YOASOBI",
+                "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+                "publishedAt": "2020-05-11T11:00:11Z",
+                "duration": "PT3M23S",
+                "viewCount": "59745660"
             },
             {
                 "id": "vd3IlOjSUGQ",
@@ -611,7 +566,7 @@
                 "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                 "publishedAt": "2020-12-18T11:00:10Z",
                 "duration": "PT4M5S",
-                "viewCount": "26798210"
+                "viewCount": "26872434"
             },
             {
                 "id": "R7wI90H6Wuc",
@@ -620,16 +575,16 @@
                 "channelId": "UCZwXiIKBc9ok5QsOqXk5kiw",
                 "publishedAt": "2020-09-13T10:33:49Z",
                 "duration": "PT3M20S",
-                "viewCount": "44570047"
+                "viewCount": "44664216"
             },
             {
-                "id": "zFT3f9biz68",
-                "title": "BTS (방탄소년단) 'Film out' Official MV",
+                "id": "9IHwqdz8Xhw",
+                "title": "BTS (방탄소년단) 'Stay Gold' Official MV",
                 "channelTitle": "HYBE LABELS",
                 "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-                "publishedAt": "2021-04-01T15:00:09Z",
-                "duration": "PT3M49S",
-                "viewCount": "158181822"
+                "publishedAt": "2020-06-26T08:59:11Z",
+                "duration": "PT4M16S",
+                "viewCount": "196081920"
             },
             {
                 "id": "vcGbefQBvJ4",
@@ -638,16 +593,16 @@
                 "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                 "publishedAt": "2021-01-18T14:00:09Z",
                 "duration": "PT4M42S",
-                "viewCount": "35243616"
+                "viewCount": "35336743"
             },
             {
-                "id": "4DxL6IKmXx4",
-                "title": "LiSA 『炎』 -MUSiC CLiP-",
-                "channelTitle": "LiSA Official YouTube",
-                "channelId": "UCqEfdEvLG5oQWNYlDQrGlKw",
-                "publishedAt": "2020-10-13T03:00:07Z",
-                "duration": "PT5M2S",
-                "viewCount": "208631927"
+                "id": "zFT3f9biz68",
+                "title": "BTS (방탄소년단) 'Film out' Official MV",
+                "channelTitle": "HYBE LABELS",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "publishedAt": "2021-04-01T15:00:09Z",
+                "duration": "PT3M49S",
+                "viewCount": "158457401"
             },
             {
                 "id": "ZeIGVnkYX04",
@@ -656,7 +611,7 @@
                 "channelId": "UC8_Ag6BVp43Vmrx6eillK9g",
                 "publishedAt": "2020-05-26T10:06:33Z",
                 "duration": "PT3M24S",
-                "viewCount": "22409362"
+                "viewCount": "22458888"
             },
             {
                 "id": "MBdVXkSdhwU",
@@ -665,16 +620,16 @@
                 "channelId": "UC3IZKseVpdzPSBaWxBxundA",
                 "publishedAt": "2017-09-18T09:00:02Z",
                 "duration": "PT4M16S",
-                "viewCount": "1327260454"
+                "viewCount": "1327889269"
             },
             {
-                "id": "0xSiBpUdW4E",
-                "title": "あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】",
-                "channelTitle": "あいみょん",
-                "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
-                "publishedAt": "2018-07-17T23:00:01Z",
-                "duration": "PT5M22S",
-                "viewCount": "251967712"
+                "id": "4DxL6IKmXx4",
+                "title": "LiSA 『炎』 -MUSiC CLiP-",
+                "channelTitle": "LiSA Official YouTube",
+                "channelId": "UCqEfdEvLG5oQWNYlDQrGlKw",
+                "publishedAt": "2020-10-13T03:00:07Z",
+                "duration": "PT5M2S",
+                "viewCount": "208889493"
             },
             {
                 "id": "XsX3ATc3FbA",
@@ -683,16 +638,7 @@
                 "channelId": "UC3IZKseVpdzPSBaWxBxundA",
                 "publishedAt": "2019-04-12T09:00:02Z",
                 "duration": "PT4M13S",
-                "viewCount": "1326331810"
-            },
-            {
-                "id": "7WZ1Kt3zraY",
-                "title": "米津玄師 - Pale Blue",
-                "channelTitle": "米津玄師",
-                "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
-                "publishedAt": "2021-06-04T13:54:55Z",
-                "duration": "PT5M22S",
-                "viewCount": "36996567"
+                "viewCount": "1327281460"
             },
             {
                 "id": "ReCnlwVZj1M",
@@ -701,7 +647,25 @@
                 "channelId": "UC3vg17IZ1IV73xx069jG44w",
                 "publishedAt": "2018-03-16T09:00:01Z",
                 "duration": "PT5M24S",
-                "viewCount": "53969590"
+                "viewCount": "54038949"
+            },
+            {
+                "id": "0xSiBpUdW4E",
+                "title": "あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】",
+                "channelTitle": "あいみょん",
+                "channelId": "UCG8MvaPCa2ecKH3GZyFxduA",
+                "publishedAt": "2018-07-17T23:00:01Z",
+                "duration": "PT5M22S",
+                "viewCount": "252100226"
+            },
+            {
+                "id": "7WZ1Kt3zraY",
+                "title": "米津玄師 - Pale Blue",
+                "channelTitle": "米津玄師",
+                "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
+                "publishedAt": "2021-06-04T13:54:55Z",
+                "duration": "PT5M22S",
+                "viewCount": "37162452"
             },
             {
                 "id": "UM9XNpgrqVk",
@@ -710,25 +674,7 @@
                 "channelId": "UC1FQWQ3y3-e8l1pCtWhJt5A",
                 "publishedAt": "2020-07-02T15:00:10Z",
                 "duration": "PT3M53S",
-                "viewCount": "11518777"
-            },
-            {
-                "id": "9qfPF4fpiHE",
-                "title": "優里 『ピーターパン』Official Music Video（フル）",
-                "channelTitle": "優里 Official YouTube Channel",
-                "channelId": "UCBNVZPlWoR7oArfzJNrK9yw",
-                "publishedAt": "2020-09-02T13:00:14Z",
-                "duration": "PT3M57S",
-                "viewCount": "20683830"
-            },
-            {
-                "id": "ilnLczvLGAY",
-                "title": "星野源 – 不思議 (Official Video)",
-                "channelTitle": "星野源",
-                "channelId": "UCPKlrgZXnnb89nSeITvTdGA",
-                "publishedAt": "2021-05-30T12:00:13Z",
-                "duration": "PT5M54S",
-                "viewCount": "17631366"
+                "viewCount": "11557757"
             },
             {
                 "id": "323j5BRFi7s",
@@ -737,7 +683,16 @@
                 "channelId": "UC1-EP9cKVrNQqvG-drnDA7Q",
                 "publishedAt": "2020-02-06T08:58:38Z",
                 "duration": "PT3M26S",
-                "viewCount": "26515993"
+                "viewCount": "26562796"
+            },
+            {
+                "id": "9qfPF4fpiHE",
+                "title": "優里 『ピーターパン』Official Music Video（フル）",
+                "channelTitle": "優里 Official YouTube Channel",
+                "channelId": "UCBNVZPlWoR7oArfzJNrK9yw",
+                "publishedAt": "2020-09-02T13:00:14Z",
+                "duration": "PT3M57S",
+                "viewCount": "20739209"
             },
             {
                 "id": "sOiMD45QGLs",
@@ -746,7 +701,7 @@
                 "channelId": "UCln9P4Qm3-EAY4aiEPmRwEA",
                 "publishedAt": "2021-02-14T11:00:16Z",
                 "duration": "PT4M37S",
-                "viewCount": "68286038"
+                "viewCount": "68496289"
             },
             {
                 "id": "sAuEeM_6zpk",
@@ -755,16 +710,16 @@
                 "channelId": "UCvpredjG93ifbCP1Y77JyFA",
                 "publishedAt": "2020-01-18T12:00:13Z",
                 "duration": "PT4M",
-                "viewCount": "36705097"
+                "viewCount": "36793554"
             },
             {
-                "id": "7W-6qJnza5w",
-                "title": "優里「かくれんぼ」Official Music Video",
-                "channelTitle": "JMSTV1",
-                "channelId": "UCj8RXhnU4RR9wnRUYQoyLqw",
-                "publishedAt": "2019-12-09T10:00:02Z",
-                "duration": "PT4M32S",
-                "viewCount": "35483477"
+                "id": "ilnLczvLGAY",
+                "title": "星野源 – 不思議 (Official Video)",
+                "channelTitle": "星野源",
+                "channelId": "UCPKlrgZXnnb89nSeITvTdGA",
+                "publishedAt": "2021-05-30T12:00:13Z",
+                "duration": "PT5M54S",
+                "viewCount": "17708198"
             },
             {
                 "id": "-5q5mZbe3V8",
@@ -773,7 +728,16 @@
                 "channelId": "UC3IZKseVpdzPSBaWxBxundA",
                 "publishedAt": "2020-11-20T04:58:11Z",
                 "duration": "PT3M51S",
-                "viewCount": "375008146"
+                "viewCount": "375391095"
+            },
+            {
+                "id": "7W-6qJnza5w",
+                "title": "優里「かくれんぼ」Official Music Video",
+                "channelTitle": "JMSTV1",
+                "channelId": "UCj8RXhnU4RR9wnRUYQoyLqw",
+                "publishedAt": "2019-12-09T10:00:02Z",
+                "duration": "PT4M32S",
+                "viewCount": "35519609"
             }
         ]
     }
