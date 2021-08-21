@@ -1,10 +1,19 @@
 {
     "hotTracks": {
-        "title": "We Recommend",
+        "title": "From Our Editors",
         "results": [
             {
                 "name": "Today’s Hits",
                 "songs": [
+                    {
+                        "id": "dI3xkL7qUAc",
+                        "title": "Doja Cat - Need To Know (Official Video)",
+                        "channelTitle": "dojacatVEVO",
+                        "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+                        "publishedAt": "2021-06-11T14:00:11Z",
+                        "duration": "PT3M40S",
+                        "viewCount": "60585082"
+                    },
                     {
                         "id": "yWHrYNP6j4k",
                         "title": "The Kid LAROI, Justin Bieber - Stay (Lyrics)",
@@ -12,7 +21,7 @@
                         "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
                         "publishedAt": "2021-07-14T16:55:01Z",
                         "duration": "PT2M20S",
-                        "viewCount": "13005704"
+                        "viewCount": "13619339"
                     },
                     {
                         "id": "6tsu2oeZJgo",
@@ -21,16 +30,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-21T04:00:02Z",
                         "duration": "PT3M50S",
-                        "viewCount": "54968330"
-                    },
-                    {
-                        "id": "0EVVKs6DQLo",
-                        "title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
-                        "channelTitle": "dojacatVEVO",
-                        "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-                        "publishedAt": "2021-04-09T04:00:00Z",
-                        "duration": "PT5M16S",
-                        "viewCount": "179393441"
+                        "viewCount": "55329558"
                     },
                     {
                         "id": "mRD0-GxqHVo",
@@ -39,48 +39,7 @@
                         "channelId": "UCOMLtULLvoymORim06O1vaw",
                         "publishedAt": "2020-06-29T18:30:09Z",
                         "duration": "PT3M56S",
-                        "viewCount": "36449280"
-                    },
-                    {
-                        "id": "orJSJGHjBLI",
-                        "title": "Ed Sheeran - Bad Habits [Official Video]",
-                        "channelTitle": "Ed Sheeran",
-                        "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-                        "publishedAt": "2021-06-25T04:00:33Z",
-                        "duration": "PT4M1S",
-                        "viewCount": "121390898"
-                    }
-                ]
-            },
-            {
-                "name": "¡Dale Play!",
-                "songs": [
-                    {
-                        "id": "CFPLIaMpGrY",
-                        "title": "Rauw Alejandro - Todo de Ti (Video Oficial)",
-                        "channelTitle": "RauwAlejandroTv",
-                        "channelId": "UC_Av98lDjf5KvFib5elhpYg",
-                        "publishedAt": "2021-05-20T16:00:15Z",
-                        "duration": "PT3M32S",
-                        "viewCount": "309697965"
-                    },
-                    {
-                        "id": "doLMt10ytHY",
-                        "title": "Bad Bunny - Yonaguni (Video Oficial)",
-                        "channelTitle": "Bad Bunny",
-                        "channelId": "UCmBA_wu8xGg1OfOkfW13Q0Q",
-                        "publishedAt": "2021-06-04T04:00:11Z",
-                        "duration": "PT3M28S",
-                        "viewCount": "301317218"
-                    },
-                    {
-                        "id": "bQOh1cvMo00",
-                        "title": "Wisin, Jhay Cortez, Anuel - \"Fiel Remix\" (Official Video)  ft. Myke Towers, Los Legendarios",
-                        "channelTitle": "Wisin",
-                        "channelId": "UCP8rCSNr4WqZBgT3OmqhDHg",
-                        "publishedAt": "2021-06-15T22:00:10Z",
-                        "duration": "PT6M1S",
-                        "viewCount": "85239064"
+                        "viewCount": "36591381"
                     }
                 ]
             },
@@ -88,36 +47,36 @@
                 "name": "R&B Now",
                 "songs": [
                     {
+                        "id": "SlPhMPnQ58k",
+                        "title": "Maroon 5 - Memories (Official Video)",
+                        "channelTitle": "Maroon5VEVO",
+                        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+                        "publishedAt": "2019-10-08T14:00:10Z",
+                        "duration": "PT3M16S",
+                        "viewCount": "756951952"
+                    },
+                    {
                         "id": "PAFAfhod9TU",
                         "title": "H.E.R. - Damage (Official Video)",
                         "channelTitle": "HERMusicVEVO",
                         "channelId": "UCQT3bmChpmnR5ThhY_ewoOQ",
                         "publishedAt": "2020-10-21T14:00:10Z",
                         "duration": "PT3M45S",
-                        "viewCount": "67731797"
+                        "viewCount": "67880294"
                     }
                 ]
             },
             {
-                "name": "Superbloom",
+                "name": "danceXL",
                 "songs": [
                     {
-                        "id": "J1QrbeOPUbg",
-                        "title": "Tate McRae, Khalid - working (Audio)",
-                        "channelTitle": "TateMcRaeVEVO",
-                        "channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
-                        "publishedAt": "2021-06-17T14:00:11Z",
-                        "duration": "PT3M32S",
-                        "viewCount": "1521844"
-                    },
-                    {
-                        "id": "cii6ruuycQA",
-                        "title": "Olivia Rodrigo - deja vu (Official Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-04-01T16:00:27Z",
-                        "duration": "PT3M52S",
-                        "viewCount": "149907309"
+                        "id": "tpoveIuHVOg",
+                        "title": "King Topher, MUNNDAY – Pressure(ft. MAO)",
+                        "channelTitle": "Astralwerks Records",
+                        "channelId": "UCpyaRZ-FSkiI1NqEZAiNpMw",
+                        "publishedAt": "2021-04-30T04:30:12Z",
+                        "duration": "PT2M47S",
+                        "viewCount": "124957"
                     }
                 ]
             }
@@ -127,34 +86,39 @@
         "title": "New Music",
         "results": [
             {
-                "name": "Good Things",
+                "name": "Solar Power",
                 "songs": [
                     {
-                        "id": "on_IPWtYdc0",
-                        "title": "Regard, Troye Sivan, Tate McRae - You (Official Video)",
-                        "channelTitle": "RegardVEVO",
-                        "channelId": "UCt5w59lhSmE8teqw2SkUxJg",
-                        "publishedAt": "2021-05-27T16:00:11Z",
-                        "duration": "PT4M27S",
-                        "viewCount": "7024650"
+                        "id": "wvsP_lzh2-8",
+                        "title": "Lorde - Solar Power",
+                        "channelTitle": "LordeVEVO",
+                        "channelId": "UCVrPiUtl29kULN2HIAm244Q",
+                        "publishedAt": "2021-06-10T22:00:32Z",
+                        "duration": "PT3M21S",
+                        "viewCount": "21080815"
+                    }
+                ]
+            },
+            {
+                "name": "Cheers to the Best Memories",
+                "songs": [
+                    {
+                        "id": "SlPhMPnQ58k",
+                        "title": "Maroon 5 - Memories (Official Video)",
+                        "channelTitle": "Maroon5VEVO",
+                        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+                        "publishedAt": "2019-10-08T14:00:10Z",
+                        "duration": "PT3M16S",
+                        "viewCount": "756951952"
                     },
                     {
-                        "id": "XnceukLjrxk",
-                        "title": "PRETTYMUCH - Lying (Official Video) ft. Lil Tjay",
-                        "channelTitle": "PrettyMuchVEVO",
-                        "channelId": "UCy_JTXp58oTDBQHAh9Vqbiw",
-                        "publishedAt": "2019-07-19T15:57:41Z",
-                        "duration": "PT3M23S",
-                        "viewCount": "6713899"
-                    },
-                    {
-                        "id": "QJO3ROT-A4E",
-                        "title": "One Direction - What Makes You Beautiful (Official Video)",
-                        "channelTitle": "OneDirectionVEVO",
-                        "channelId": "UCbW18JZRgko_mOGm5er8Yzg",
-                        "publishedAt": "2011-08-19T15:00:00Z",
-                        "duration": "PT3M27S",
-                        "viewCount": "1288041242"
+                        "id": "J9NQFACZYEU",
+                        "title": "Calvin Harris - Outside (Official Video) ft. Ellie Goulding",
+                        "channelTitle": "CalvinHarrisVEVO",
+                        "channelId": "UCaHNFIob5Ixv74f5on3lvIw",
+                        "publishedAt": "2014-11-12T08:00:01Z",
+                        "duration": "PT3M46S",
+                        "viewCount": "597661786"
                     }
                 ]
             }
@@ -173,7 +137,7 @@
                         "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
                         "publishedAt": "2021-06-25T04:00:01Z",
                         "duration": "PT2M54S",
-                        "viewCount": "22960742"
+                        "viewCount": "23823504"
                     },
                     {
                         "id": "dI3xkL7qUAc",
@@ -182,7 +146,7 @@
                         "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
                         "publishedAt": "2021-06-11T14:00:11Z",
                         "duration": "PT3M40S",
-                        "viewCount": "59739855"
+                        "viewCount": "60585082"
                     },
                     {
                         "id": "JXgV1rXUoME",
@@ -191,7 +155,7 @@
                         "channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
                         "publishedAt": "2021-06-25T04:00:10Z",
                         "duration": "PT3M10S",
-                        "viewCount": "59398485"
+                        "viewCount": "59779676"
                     }
                 ]
             },
@@ -205,7 +169,7 @@
                         "channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
                         "publishedAt": "2021-05-31T19:00:20Z",
                         "duration": "PT3M29S",
-                        "viewCount": "21788141"
+                        "viewCount": "21867702"
                     },
                     {
                         "id": "BAsRTTO8L2k",
@@ -214,7 +178,7 @@
                         "channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
                         "publishedAt": "2021-06-04T19:00:02Z",
                         "duration": "PT3M38S",
-                        "viewCount": "17632269"
+                        "viewCount": "17727335"
                     },
                     {
                         "id": "XnceukLjrxk",
@@ -223,12 +187,12 @@
                         "channelId": "UCy_JTXp58oTDBQHAh9Vqbiw",
                         "publishedAt": "2019-07-19T15:57:41Z",
                         "duration": "PT3M23S",
-                        "viewCount": "6713899"
+                        "viewCount": "6715708"
                     }
                 ]
             },
             {
-                "name": "SOUR",
+                "name": "*O*R",
                 "songs": [
                     {
                         "id": "hM2U8cb8lhI",
@@ -237,7 +201,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-21T04:00:12Z",
                         "duration": "PT2M25S",
-                        "viewCount": "25211128"
+                        "viewCount": "25318923"
                     },
                     {
                         "id": "6tsu2oeZJgo",
@@ -246,7 +210,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-21T04:00:02Z",
                         "duration": "PT3M50S",
-                        "viewCount": "54968330"
+                        "viewCount": "55329558"
                     },
                     {
                         "id": "ZmDBbnmKpqQ",
@@ -255,7 +219,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-01-08T05:00:22Z",
                         "duration": "PT4M7S",
-                        "viewCount": "273466304"
+                        "viewCount": "273905824"
                     },
                     {
                         "id": "w-HfMiue7-k",
@@ -264,7 +228,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-21T04:00:13Z",
                         "duration": "PT2M45S",
-                        "viewCount": "14544453"
+                        "viewCount": "14600440"
                     },
                     {
                         "id": "cii6ruuycQA",
@@ -273,7 +237,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-04-01T16:00:27Z",
                         "duration": "PT3M52S",
-                        "viewCount": "149907309"
+                        "viewCount": "150340112"
                     },
                     {
                         "id": "gNi_6U5Pm_o",
@@ -282,7 +246,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-14T04:00:09Z",
                         "duration": "PT3M19S",
-                        "viewCount": "226794341"
+                        "viewCount": "227949542"
                     },
                     {
                         "id": "AqRXiQkyxvI",
@@ -291,7 +255,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-21T04:00:02Z",
                         "duration": "PT3M24S",
-                        "viewCount": "18467240"
+                        "viewCount": "18538190"
                     },
                     {
                         "id": "m7Bc3pLyij0",
@@ -300,7 +264,7 @@
                         "channelId": "UCEdvpU2pFRCVqU6yIPyTpMQ",
                         "publishedAt": "2018-09-24T13:58:16Z",
                         "duration": "PT3M54S",
-                        "viewCount": "857040925"
+                        "viewCount": "857465578"
                     },
                     {
                         "id": "Z-9gQjUZMm0",
@@ -309,7 +273,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-21T04:00:09Z",
                         "duration": "PT2M54S",
-                        "viewCount": "31492255"
+                        "viewCount": "31772699"
                     },
                     {
                         "id": "AyX_LL9nWSE",
@@ -318,7 +282,7 @@
                         "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                         "publishedAt": "2021-05-21T04:00:03Z",
                         "duration": "PT2M34S",
-                        "viewCount": "29950556"
+                        "viewCount": "30130749"
                     }
                 ]
             }
@@ -334,7 +298,7 @@
                 "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
                 "publishedAt": "2021-07-14T16:55:01Z",
                 "duration": "PT2M20S",
-                "viewCount": "13005704"
+                "viewCount": "13619339"
             },
             {
                 "id": "5GJWxDKyk3A",
@@ -343,16 +307,7 @@
                 "channelId": "UCDGmojLIoWpXok597xYo8cg",
                 "publishedAt": "2021-07-30T16:00:09Z",
                 "duration": "PT5M16S",
-                "viewCount": "33796189"
-            },
-            {
-                "id": "dI3xkL7qUAc",
-                "title": "Doja Cat - Need To Know (Official Video)",
-                "channelTitle": "dojacatVEVO",
-                "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-                "publishedAt": "2021-06-11T14:00:11Z",
-                "duration": "PT3M40S",
-                "viewCount": "59739855"
+                "viewCount": "34626592"
             },
             {
                 "id": "0oBeEnY2CAQ",
@@ -361,7 +316,16 @@
                 "channelId": "UCTwct4oAsyuyGxOtva0FcUg",
                 "publishedAt": "2021-03-05T18:27:56Z",
                 "duration": "PT3M14S",
-                "viewCount": "11442632"
+                "viewCount": "11491840"
+            },
+            {
+                "id": "dI3xkL7qUAc",
+                "title": "Doja Cat - Need To Know (Official Video)",
+                "channelTitle": "dojacatVEVO",
+                "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+                "publishedAt": "2021-06-11T14:00:11Z",
+                "duration": "PT3M40S",
+                "viewCount": "60585082"
             },
             {
                 "id": "gNi_6U5Pm_o",
@@ -370,16 +334,7 @@
                 "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                 "publishedAt": "2021-05-14T04:00:09Z",
                 "duration": "PT3M19S",
-                "viewCount": "226794341"
-            },
-            {
-                "id": "0EVVKs6DQLo",
-                "title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
-                "channelTitle": "dojacatVEVO",
-                "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-                "publishedAt": "2021-04-09T04:00:00Z",
-                "duration": "PT5M16S",
-                "viewCount": "179393441"
+                "viewCount": "227949542"
             },
             {
                 "id": "BTivsHlVcGU",
@@ -388,7 +343,7 @@
                 "channelId": "UCrFB54bqp8sda4udJyNswlA",
                 "publishedAt": "2021-05-04T22:42:27Z",
                 "duration": "PT3M57S",
-                "viewCount": "67792220"
+                "viewCount": "68288204"
             },
             {
                 "id": "w2IhccXakkE",
@@ -397,7 +352,7 @@
                 "channelId": "UCojuFn_hfMyScH5hSHTBADQ",
                 "publishedAt": "2021-04-09T04:00:15Z",
                 "duration": "PT2M49S",
-                "viewCount": "113537487"
+                "viewCount": "113819715"
             },
             {
                 "id": "AAhcBx5Bl-Y",
@@ -406,7 +361,16 @@
                 "channelId": "UC7r-J2sPQVv9i3iNcte1u-A",
                 "publishedAt": "2021-04-23T04:00:10Z",
                 "duration": "PT3M3S",
-                "viewCount": "27948346"
+                "viewCount": "28010052"
+            },
+            {
+                "id": "0EVVKs6DQLo",
+                "title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
+                "channelTitle": "dojacatVEVO",
+                "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+                "publishedAt": "2021-04-09T04:00:00Z",
+                "duration": "PT5M16S",
+                "viewCount": "180334820"
             },
             {
                 "id": "sJDRfZJFAk0",
@@ -415,7 +379,7 @@
                 "channelId": "UChQdA1rid5kKZh6oIc6DLNg",
                 "publishedAt": "2021-06-04T04:00:14Z",
                 "duration": "PT4M30S",
-                "viewCount": "19318846"
+                "viewCount": "19447370"
             },
             {
                 "id": "6tsu2oeZJgo",
@@ -424,7 +388,7 @@
                 "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
                 "publishedAt": "2021-05-21T04:00:02Z",
                 "duration": "PT3M50S",
-                "viewCount": "54968330"
+                "viewCount": "55329558"
             },
             {
                 "id": "orJSJGHjBLI",
@@ -433,7 +397,7 @@
                 "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
                 "publishedAt": "2021-06-25T04:00:33Z",
                 "duration": "PT4M1S",
-                "viewCount": "121390898"
+                "viewCount": "123004134"
             },
             {
                 "id": "CFPLIaMpGrY",
@@ -442,7 +406,7 @@
                 "channelId": "UC_Av98lDjf5KvFib5elhpYg",
                 "publishedAt": "2021-05-20T16:00:15Z",
                 "duration": "PT3M32S",
-                "viewCount": "309697965"
+                "viewCount": "311439133"
             },
             {
                 "id": "doLMt10ytHY",
@@ -451,7 +415,7 @@
                 "channelId": "UCmBA_wu8xGg1OfOkfW13Q0Q",
                 "publishedAt": "2021-06-04T04:00:11Z",
                 "duration": "PT3M28S",
-                "viewCount": "301317218"
+                "viewCount": "303309358"
             },
             {
                 "id": "KynkMn5Hv3Q",
@@ -460,7 +424,7 @@
                 "channelId": "UCKrdjiuS66yXOdEZ_cOD_TA",
                 "publishedAt": "2021-06-11T04:00:12Z",
                 "duration": "PT4M53S",
-                "viewCount": "24524751"
+                "viewCount": "24658950"
             },
             {
                 "id": "0-Tm65i96TY",
@@ -469,16 +433,7 @@
                 "channelId": "UCTBIIbIs83IBsy4E1BQxYBw",
                 "publishedAt": "2021-01-02T17:00:01Z",
                 "duration": "PT3M16S",
-                "viewCount": "183764797"
-            },
-            {
-                "id": "mRD0-GxqHVo",
-                "title": "Glass Animals - Heat Waves (Official Video)",
-                "channelTitle": "GlassAnimalsVEVO",
-                "channelId": "UCOMLtULLvoymORim06O1vaw",
-                "publishedAt": "2020-06-29T18:30:09Z",
-                "duration": "PT3M56S",
-                "viewCount": "36449280"
+                "viewCount": "184094985"
             },
             {
                 "id": "-QiovlGJi_U",
@@ -487,16 +442,16 @@
                 "channelId": "UCqwxMqUcL-XC3D9-fTP93Mg",
                 "publishedAt": "2020-11-13T05:00:01Z",
                 "duration": "PT3M34S",
-                "viewCount": "30095341"
+                "viewCount": "30182427"
             },
             {
-                "id": "cii6ruuycQA",
-                "title": "Olivia Rodrigo - deja vu (Official Video)",
-                "channelTitle": "OliviaRodrigoVEVO",
-                "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                "publishedAt": "2021-04-01T16:00:27Z",
-                "duration": "PT3M52S",
-                "viewCount": "149907309"
+                "id": "mRD0-GxqHVo",
+                "title": "Glass Animals - Heat Waves (Official Video)",
+                "channelTitle": "GlassAnimalsVEVO",
+                "channelId": "UCOMLtULLvoymORim06O1vaw",
+                "publishedAt": "2020-06-29T18:30:09Z",
+                "duration": "PT3M56S",
+                "viewCount": "36591381"
             },
             {
                 "id": "2V_uAAAH-_Q",
@@ -505,7 +460,16 @@
                 "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
                 "publishedAt": "2021-06-25T04:00:01Z",
                 "duration": "PT2M54S",
-                "viewCount": "22960742"
+                "viewCount": "23823504"
+            },
+            {
+                "id": "cii6ruuycQA",
+                "title": "Olivia Rodrigo - deja vu (Official Video)",
+                "channelTitle": "OliviaRodrigoVEVO",
+                "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+                "publishedAt": "2021-04-01T16:00:27Z",
+                "duration": "PT3M52S",
+                "viewCount": "150340112"
             },
             {
                 "id": "adLGHcj_fmA",
@@ -514,16 +478,7 @@
                 "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
                 "publishedAt": "2021-03-05T05:00:00Z",
                 "duration": "PT4M9S",
-                "viewCount": "371088599"
-            },
-            {
-                "id": "JXgV1rXUoME",
-                "title": "Doja Cat, The Weeknd - You Right (Official Video)",
-                "channelTitle": "Doja Cat",
-                "channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
-                "publishedAt": "2021-06-25T04:00:10Z",
-                "duration": "PT3M10S",
-                "viewCount": "59398485"
+                "viewCount": "372090880"
             },
             {
                 "id": "y_zudlv_lXg",
@@ -532,7 +487,7 @@
                 "channelId": "UCFpoaM12604J5sn625SIn1A",
                 "publishedAt": "2021-04-29T17:00:34Z",
                 "duration": "PT3M1S",
-                "viewCount": "8595583"
+                "viewCount": "8630801"
             },
             {
                 "id": "gVGRIBWy6ig",
@@ -541,7 +496,16 @@
                 "channelId": "UCFpoaM12604J5sn625SIn1A",
                 "publishedAt": "2021-05-21T04:00:11Z",
                 "duration": "PT3M18S",
-                "viewCount": "34139885"
+                "viewCount": "34424245"
+            },
+            {
+                "id": "JXgV1rXUoME",
+                "title": "Doja Cat, The Weeknd - You Right (Official Video)",
+                "channelTitle": "Doja Cat",
+                "channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
+                "publishedAt": "2021-06-25T04:00:10Z",
+                "duration": "PT3M10S",
+                "viewCount": "59779676"
             },
             {
                 "id": "CTYXd__nbvo",
@@ -550,7 +514,7 @@
                 "channelId": "UCzQNgpWWPLuoAC6zA3VejzA",
                 "publishedAt": "2021-06-14T15:00:09Z",
                 "duration": "PT3M44S",
-                "viewCount": "7381483"
+                "viewCount": "7472596"
             },
             {
                 "id": "uWRlisQu4fo",
@@ -559,7 +523,7 @@
                 "channelId": "UCa3ZoB87QoSaLM0qODmrMfA",
                 "publishedAt": "2021-03-12T05:00:14Z",
                 "duration": "PT4M8S",
-                "viewCount": "108044546"
+                "viewCount": "108299060"
             },
             {
                 "id": "tQ0yjYUFKAE",
@@ -568,7 +532,7 @@
                 "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
                 "publishedAt": "2021-03-19T04:00:15Z",
                 "duration": "PT3M18S",
-                "viewCount": "356316600"
+                "viewCount": "357230601"
             },
             {
                 "id": "1H6xw0B3phU",
@@ -577,7 +541,7 @@
                 "channelId": "UC7r-J2sPQVv9i3iNcte1u-A",
                 "publishedAt": "2021-02-03T15:00:02Z",
                 "duration": "PT2M36S",
-                "viewCount": "44708626"
+                "viewCount": "44784183"
             },
             {
                 "id": "BAsRTTO8L2k",
@@ -586,16 +550,7 @@
                 "channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
                 "publishedAt": "2021-06-04T19:00:02Z",
                 "duration": "PT3M38S",
-                "viewCount": "17632269"
-            },
-            {
-                "id": "ZLX-GY0dJgc",
-                "title": "J. Cole - p r i d e . i s . t h e . d e v i l  feat. Lil' Baby (Official Audio)",
-                "channelTitle": "J. Cole",
-                "channelId": "UCnc6db-y3IU7CkT_yeVXdVg",
-                "publishedAt": "2021-05-14T04:00:17Z",
-                "duration": "PT3M39S",
-                "viewCount": "16000413"
+                "viewCount": "17727335"
             },
             {
                 "id": "AeaR5QbXgpM",
@@ -604,25 +559,16 @@
                 "channelId": "UCenjunBhBhvKjfDAESnoppw",
                 "publishedAt": "2021-03-10T05:00:13Z",
                 "duration": "PT4M10S",
-                "viewCount": "64655631"
+                "viewCount": "64840003"
             },
             {
-                "id": "LIIDh-qI9oI",
-                "title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
-                "channelTitle": "TheWeekndVEVO",
-                "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
-                "publishedAt": "2021-04-23T04:00:06Z",
-                "duration": "PT3M26S",
-                "viewCount": "130127289"
-            },
-            {
-                "id": "6swmTBVI83k",
-                "title": "Lil Nas X - MONTERO (Call Me By Your Name) (Official Video)",
-                "channelTitle": "LilNasXVEVO",
-                "channelId": "UCtTfSyci2urfwXXu_eRpNRA",
-                "publishedAt": "2021-03-26T04:00:14Z",
-                "duration": "PT3M10S",
-                "viewCount": "328154181"
+                "id": "ZLX-GY0dJgc",
+                "title": "J. Cole - p r i d e . i s . t h e . d e v i l  feat. Lil' Baby (Official Audio)",
+                "channelTitle": "J. Cole",
+                "channelId": "UCnc6db-y3IU7CkT_yeVXdVg",
+                "publishedAt": "2021-05-14T04:00:17Z",
+                "duration": "PT3M39S",
+                "viewCount": "16078057"
             },
             {
                 "id": "J9NQFACZYEU",
@@ -631,7 +577,25 @@
                 "channelId": "UCaHNFIob5Ixv74f5on3lvIw",
                 "publishedAt": "2014-11-12T08:00:01Z",
                 "duration": "PT3M46S",
-                "viewCount": "597551211"
+                "viewCount": "597661786"
+            },
+            {
+                "id": "6swmTBVI83k",
+                "title": "Lil Nas X - MONTERO (Call Me By Your Name) (Official Video)",
+                "channelTitle": "LilNasXVEVO",
+                "channelId": "UCtTfSyci2urfwXXu_eRpNRA",
+                "publishedAt": "2021-03-26T04:00:14Z",
+                "duration": "PT3M10S",
+                "viewCount": "328989446"
+            },
+            {
+                "id": "LIIDh-qI9oI",
+                "title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
+                "channelTitle": "TheWeekndVEVO",
+                "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+                "publishedAt": "2021-04-23T04:00:06Z",
+                "duration": "PT3M26S",
+                "viewCount": "130621843"
             }
         ]
     }
