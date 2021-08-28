@@ -2,4 +2,7 @@
 node_modules
 package-lock.json
 package.json
-cache.json
+countries.json
+playlist-detail.json
+playlists.json
+top-songs.json
