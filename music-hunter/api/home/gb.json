@@ -1,517 +1,1616 @@
 {
-    "hotTracks": {
-        "title": "New Releases",
-        "results": []
-    },
-    "newReleases": {
-        "title": "New Releases",
-        "results": []
-    },
-    "topAlbums": {
-        "title": "Top Albums",
-        "results": [
-            {
-                "name": "Planet Her (Deluxe)",
-                "songs": [
-                    {
-                        "id": "2V_uAAAH-_Q",
-                        "title": "Doja Cat - Woman (Visualizer)",
-                        "channelTitle": "dojacatVEVO",
-                        "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-                        "publishedAt": "2021-06-25T04:00:01Z",
-                        "duration": "PT2M54S",
-                        "viewCount": "23823504"
-                    },
-                    {
-                        "id": "dI3xkL7qUAc",
-                        "title": "Doja Cat - Need To Know (Official Video)",
-                        "channelTitle": "dojacatVEVO",
-                        "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-                        "publishedAt": "2021-06-11T14:00:11Z",
-                        "duration": "PT3M40S",
-                        "viewCount": "60585082"
-                    },
-                    {
-                        "id": "JXgV1rXUoME",
-                        "title": "Doja Cat, The Weeknd - You Right (Official Video)",
-                        "channelTitle": "Doja Cat",
-                        "channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
-                        "publishedAt": "2021-06-25T04:00:10Z",
-                        "duration": "PT3M10S",
-                        "viewCount": "59779676"
-                    }
-                ]
-            },
-            {
-                "name": "SOUR",
-                "songs": [
-                    {
-                        "id": "hM2U8cb8lhI",
-                        "title": "Olivia Rodrigo - brutal (Lyric Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-05-21T04:00:12Z",
-                        "duration": "PT2M25S",
-                        "viewCount": "25318923"
-                    },
-                    {
-                        "id": "6tsu2oeZJgo",
-                        "title": "Olivia Rodrigo - traitor (Lyric Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-05-21T04:00:02Z",
-                        "duration": "PT3M50S",
-                        "viewCount": "55329558"
-                    },
-                    {
-                        "id": "ZmDBbnmKpqQ",
-                        "title": "Olivia Rodrigo - drivers license (Official Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-01-08T05:00:22Z",
-                        "duration": "PT4M7S",
-                        "viewCount": "273905824"
-                    },
-                    {
-                        "id": "w-HfMiue7-k",
-                        "title": "Olivia Rodrigo - 1 step forward, 3 steps back (Lyric Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-05-21T04:00:13Z",
-                        "duration": "PT2M45S",
-                        "viewCount": "14600236"
-                    },
-                    {
-                        "id": "cii6ruuycQA",
-                        "title": "Olivia Rodrigo - deja vu (Official Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-04-01T16:00:27Z",
-                        "duration": "PT3M52S",
-                        "viewCount": "150340112"
-                    },
-                    {
-                        "id": "gNi_6U5Pm_o",
-                        "title": "Olivia Rodrigo - good 4 u (Official Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-05-14T04:00:09Z",
-                        "duration": "PT3M19S",
-                        "viewCount": "227949542"
-                    },
-                    {
-                        "id": "AqRXiQkyxvI",
-                        "title": "Olivia Rodrigo - enough for you (Lyric Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-05-21T04:00:02Z",
-                        "duration": "PT3M24S",
-                        "viewCount": "18538190"
-                    },
-                    {
-                        "id": "m7Bc3pLyij0",
-                        "title": "Marshmello ft. Bastille - Happier (Official Music Video)",
-                        "channelTitle": "Marshmello",
-                        "channelId": "UCEdvpU2pFRCVqU6yIPyTpMQ",
-                        "publishedAt": "2018-09-24T13:58:16Z",
-                        "duration": "PT3M54S",
-                        "viewCount": "857464641"
-                    },
-                    {
-                        "id": "Z-9gQjUZMm0",
-                        "title": "Olivia Rodrigo - jealousy, jealousy (Lyric Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-05-21T04:00:09Z",
-                        "duration": "PT2M54S",
-                        "viewCount": "31772699"
-                    },
-                    {
-                        "id": "AyX_LL9nWSE",
-                        "title": "Olivia Rodrigo - favorite crime (Lyric Video)",
-                        "channelTitle": "OliviaRodrigoVEVO",
-                        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                        "publishedAt": "2021-05-21T04:00:03Z",
-                        "duration": "PT2M34S",
-                        "viewCount": "30130749"
-                    }
-                ]
-            },
-            {
-                "name": "Happier Than Ever",
-                "songs": [
-                    {
-                        "id": "7AS9r_E0PY4",
-                        "title": "Billie Eilish - Getting Older (Official Lyric Video)",
-                        "channelTitle": "BillieEilishVEVO",
-                        "channelId": "UCDGmojLIoWpXok597xYo8cg",
-                        "publishedAt": "2021-07-30T04:00:01Z",
-                        "duration": "PT4M5S",
-                        "viewCount": "4201406"
-                    },
-                    {
-                        "id": "Dm9Zf1WYQ_A",
-                        "title": "Billie Eilish - my future",
-                        "channelTitle": "BillieEilishVEVO",
-                        "channelId": "UCDGmojLIoWpXok597xYo8cg",
-                        "publishedAt": "2020-07-30T23:00:01Z",
-                        "duration": "PT3M50S",
-                        "viewCount": "96528710"
-                    },
-                    {
-                        "id": "S2dRcipMCpw",
-                        "title": "Billie Eilish - Lost Cause (Official Music Video)",
-                        "channelTitle": "BillieEilishVEVO",
-                        "channelId": "UCDGmojLIoWpXok597xYo8cg",
-                        "publishedAt": "2021-06-02T16:00:12Z",
-                        "duration": "PT3M49S",
-                        "viewCount": "68113969"
-                    }
-                ]
-            },
-            {
-                "name": "Solar Power",
-                "songs": [
-                    {
-                        "id": "wvsP_lzh2-8",
-                        "title": "Lorde - Solar Power",
-                        "channelTitle": "LordeVEVO",
-                        "channelId": "UCVrPiUtl29kULN2HIAm244Q",
-                        "publishedAt": "2021-06-10T22:00:32Z",
-                        "duration": "PT3M21S",
-                        "viewCount": "21080442"
-                    }
-                ]
-            }
-        ]
-    },
-    "topSongs": {
-        "name": "Top Songs",
-        "songs": [
-            {
-                "id": "orJSJGHjBLI",
-                "title": "Ed Sheeran - Bad Habits [Official Video]",
-                "channelTitle": "Ed Sheeran",
-                "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-                "publishedAt": "2021-06-25T04:00:33Z",
-                "duration": "PT4M1S",
-                "viewCount": "123004118"
-            },
-            {
-                "id": "yWHrYNP6j4k",
-                "title": "The Kid LAROI, Justin Bieber - Stay (Lyrics)",
-                "channelTitle": "7clouds",
-                "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
-                "publishedAt": "2021-07-14T16:55:01Z",
-                "duration": "PT2M20S",
-                "viewCount": "13619339"
-            },
-            {
-                "id": "MkElfR_NPBI",
-                "title": "Little Mix - Black Magic (Official Video)",
-                "channelTitle": "littlemixVEVO",
-                "channelId": "UCssD3_aDYhaG44mwP53CO0w",
-                "publishedAt": "2015-05-29T07:00:00Z",
-                "duration": "PT3M46S",
-                "viewCount": "831866560"
-            },
-            {
-                "id": "gNi_6U5Pm_o",
-                "title": "Olivia Rodrigo - good 4 u (Official Video)",
-                "channelTitle": "OliviaRodrigoVEVO",
-                "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                "publishedAt": "2021-05-14T04:00:09Z",
-                "duration": "PT3M19S",
-                "viewCount": "227949542"
-            },
-            {
-                "id": "HIv3ClkEhrA",
-                "title": "Galantis, David Guetta & Little Mix - Heartbreak Anthem (Official Music Video)",
-                "channelTitle": "Galantis",
-                "channelId": "UC0YlhwQabxkHb2nfRTzsTTA",
-                "publishedAt": "2021-05-20T16:00:14Z",
-                "duration": "PT3M29S",
-                "viewCount": "28473603"
-            },
-            {
-                "id": "hhc29kfULwo",
-                "title": "Rain Radio & DJ Craig Gorman - Talk About",
-                "channelTitle": "House Nation",
-                "channelId": "UCj_Y-xJ2DRDGP4ilfzplCOQ",
-                "publishedAt": "2021-05-14T16:39:01Z",
-                "duration": "PT2M42S",
-                "viewCount": "2016093"
-            },
-            {
-                "id": "5GJWxDKyk3A",
-                "title": "Billie Eilish - Happier Than Ever (Official Music Video)",
-                "channelTitle": "BillieEilishVEVO",
-                "channelId": "UCDGmojLIoWpXok597xYo8cg",
-                "publishedAt": "2021-07-30T16:00:09Z",
-                "duration": "PT5M16S",
-                "viewCount": "34626592"
-            },
-            {
-                "id": "M6ZZKNPrSPw",
-                "title": "Måneskin - I WANNA BE YOUR SLAVE (Lyrics/Testo) Eurovision 2021",
-                "channelTitle": "Vibe Music",
-                "channelId": "UChO8h2G8UjOVc081rgYU8XQ",
-                "publishedAt": "2021-06-03T17:50:09Z",
-                "duration": "PT2M54S",
-                "viewCount": "51123802"
-            },
-            {
-                "id": "ehcRu2xPXHU",
-                "title": "Mabel - Let Them Know (Official Video)",
-                "channelTitle": "MabelVEVO",
-                "channelId": "UCodP65FAmmdVWTaGFD5Qz-Q",
-                "publishedAt": "2021-06-18T07:00:10Z",
-                "duration": "PT3M3S",
-                "viewCount": "4658506"
-            },
-            {
-                "id": "4hu5iCqQVcM",
-                "title": "Calvin Harris - By Your Side (Official Video) ft. Tom Grennan",
-                "channelTitle": "CalvinHarrisVEVO",
-                "channelId": "UCaHNFIob5Ixv74f5on3lvIw",
-                "publishedAt": "2021-06-11T15:00:10Z",
-                "duration": "PT3M10S",
-                "viewCount": "10580898"
-            },
-            {
-                "id": "dI3xkL7qUAc",
-                "title": "Doja Cat - Need To Know (Official Video)",
-                "channelTitle": "dojacatVEVO",
-                "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-                "publishedAt": "2021-06-11T14:00:11Z",
-                "duration": "PT3M40S",
-                "viewCount": "60585082"
-            },
-            {
-                "id": "6tsu2oeZJgo",
-                "title": "Olivia Rodrigo - traitor (Lyric Video)",
-                "channelTitle": "OliviaRodrigoVEVO",
-                "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                "publishedAt": "2021-05-21T04:00:02Z",
-                "duration": "PT3M50S",
-                "viewCount": "55329558"
-            },
-            {
-                "id": "sLgz57tguKo",
-                "title": "Måneskin - Beggin' (Lyrics/Testo)",
-                "channelTitle": "Vibe Music",
-                "channelId": "UChO8h2G8UjOVc081rgYU8XQ",
-                "publishedAt": "2021-06-10T16:04:38Z",
-                "duration": "PT3M34S",
-                "viewCount": "89474489"
-            },
-            {
-                "id": "0EVVKs6DQLo",
-                "title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
-                "channelTitle": "dojacatVEVO",
-                "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-                "publishedAt": "2021-04-09T04:00:00Z",
-                "duration": "PT5M16S",
-                "viewCount": "180334820"
-            },
-            {
-                "id": "2V_uAAAH-_Q",
-                "title": "Doja Cat - Woman (Visualizer)",
-                "channelTitle": "dojacatVEVO",
-                "channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-                "publishedAt": "2021-06-25T04:00:01Z",
-                "duration": "PT2M54S",
-                "viewCount": "23823504"
-            },
-            {
-                "id": "mCk9QSh1e6Y",
-                "title": "PS1 - Life Goes On (Lyric Video) ft. Alex Hosking",
-                "channelTitle": "PS1VEVO",
-                "channelId": "UCrGCiUnUpkEiptzcMMi27Ug",
-                "publishedAt": "2021-04-09T07:00:09Z",
-                "duration": "PT3M",
-                "viewCount": "1065727"
-            },
-            {
-                "id": "2Z8L4Qed8F8",
-                "title": "Anne-Marie & Niall Horan - Our Song [Official Video]",
-                "channelTitle": "Anne-Marie",
-                "channelId": "UCBL7ZxVX4GvW4CFiES_-0YA",
-                "publishedAt": "2021-05-21T12:00:22Z",
-                "duration": "PT3M6S",
-                "viewCount": "28575338"
-            },
-            {
-                "id": "LIIDh-qI9oI",
-                "title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
-                "channelTitle": "TheWeekndVEVO",
-                "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
-                "publishedAt": "2021-04-23T04:00:06Z",
-                "duration": "PT3M26S",
-                "viewCount": "130620938"
-            },
-            {
-                "id": "cii6ruuycQA",
-                "title": "Olivia Rodrigo - deja vu (Official Video)",
-                "channelTitle": "OliviaRodrigoVEVO",
-                "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                "publishedAt": "2021-04-01T16:00:27Z",
-                "duration": "PT3M52S",
-                "viewCount": "150340112"
-            },
-            {
-                "id": "hmUyEDG7Jy0",
-                "title": "Marshmello x Jonas Brothers - Leave Before You Love Me (Official Music Video)",
-                "channelTitle": "MarshmelloVEVO",
-                "channelId": "UCPW4ObAtDezrOGo2gjYOctg",
-                "publishedAt": "2021-05-24T22:00:12Z",
-                "duration": "PT2M45S",
-                "viewCount": "33945395"
-            },
-            {
-                "id": "6swmTBVI83k",
-                "title": "Lil Nas X - MONTERO (Call Me By Your Name) (Official Video)",
-                "channelTitle": "LilNasXVEVO",
-                "channelId": "UCtTfSyci2urfwXXu_eRpNRA",
-                "publishedAt": "2021-03-26T04:00:14Z",
-                "duration": "PT3M10S",
-                "viewCount": "328989446"
-            },
-            {
-                "id": "tsYcrzkK7pw",
-                "title": "Mimi Webb - Dumb Love (Official Music Video)",
-                "channelTitle": "MimiWebbVEVO",
-                "channelId": "UCiXkBK6_kLz4uAqedG-dPCA",
-                "publishedAt": "2021-06-11T13:00:12Z",
-                "duration": "PT3M33S",
-                "viewCount": "2876877"
-            },
-            {
-                "id": "4NRXx6U8ABQ",
-                "title": "The Weeknd - Blinding Lights (Official Video)",
-                "channelTitle": "TheWeekndVEVO",
-                "channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
-                "publishedAt": "2020-01-21T18:00:10Z",
-                "duration": "PT4M23S",
-                "viewCount": "485368628"
-            },
-            {
-                "id": "3TW9NKEgRzw",
-                "title": "Tom Zanetti - Didn't Know",
-                "channelTitle": "Tom Zanetti",
-                "channelId": "UCC_X0F8R00FdN37XepRuMFA",
-                "publishedAt": "2021-03-11T19:00:15Z",
-                "duration": "PT2M54S",
-                "viewCount": "6791898"
-            },
-            {
-                "id": "8g_cDtjM0aY",
-                "title": "Ella Henderson x Tom Grennan - Let’s Go Home Together",
-                "channelTitle": "Ella Henderson",
-                "channelId": "UCudD8EgOQpI_-2bR8hSeJaQ",
-                "publishedAt": "2021-02-25T18:00:12Z",
-                "duration": "PT3M38S",
-                "viewCount": "7662400"
-            },
-            {
-                "id": "HC7p5PjrC1E",
-                "title": "ArrDee - Oliver Twist [Music Video] | GRM Daily",
-                "channelTitle": "GRM Daily",
-                "channelId": "UCqTwKvjbTENZDGbz2si47ag",
-                "publishedAt": "2021-06-03T18:00:12Z",
-                "duration": "PT3M4S",
-                "viewCount": "19267817"
-            },
-            {
-                "id": "gGdGFtwCNBE",
-                "title": "The Killers - Mr. Brightside (Official Music Video)",
-                "channelTitle": "TheKillersVEVO",
-                "channelId": "UCjB3CzA-MwHrDzuXGweNiMg",
-                "publishedAt": "2009-06-16T22:53:31Z",
-                "duration": "PT3M48S",
-                "viewCount": "441945887"
-            },
-            {
-                "id": "uR8Mrt1IpXg",
-                "title": "Red Velvet 레드벨벳 'Psycho' MV",
-                "channelTitle": "SMTOWN",
-                "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-                "publishedAt": "2019-12-23T09:00:11Z",
-                "duration": "PT3M36S",
-                "viewCount": "296032413"
-            },
-            {
-                "id": "tQ0yjYUFKAE",
-                "title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
-                "channelTitle": "JustinBieberVEVO",
-                "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
-                "publishedAt": "2021-03-19T04:00:15Z",
-                "duration": "PT3M18S",
-                "viewCount": "357230601"
-            },
-            {
-                "id": "BAVH9_jMbuM",
-                "title": "Mimi Webb - Good Without (Lyrics)",
-                "channelTitle": "NewMelody",
-                "channelId": "UCj4mJaB6K3a6eCw1xIQ2jsA",
-                "publishedAt": "2021-03-26T17:49:34Z",
-                "duration": "PT3M3S",
-                "viewCount": "7473117"
-            },
-            {
-                "id": "CRuOOxF-ENQ",
-                "title": "Joel Corry x MNEK - Head & Heart [Official Video]",
-                "channelTitle": "Joel Corry",
-                "channelId": "UCr-yZBBIzqOkcHjmAF7YR7A",
-                "publishedAt": "2020-07-10T10:00:09Z",
-                "duration": "PT2M48S",
-                "viewCount": "205621634"
-            },
-            {
-                "id": "ZmDBbnmKpqQ",
-                "title": "Olivia Rodrigo - drivers license (Official Video)",
-                "channelTitle": "OliviaRodrigoVEVO",
-                "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-                "publishedAt": "2021-01-08T05:00:22Z",
-                "duration": "PT4M7S",
-                "viewCount": "273905824"
-            },
-            {
-                "id": "15-vLIZ_2mU",
-                "title": "Little Mix - Confetti (Official Video) ft. Saweetie",
-                "channelTitle": "littlemixVEVO",
-                "channelId": "UCssD3_aDYhaG44mwP53CO0w",
-                "publishedAt": "2021-04-30T08:00:00Z",
-                "duration": "PT5M58S",
-                "viewCount": "29339489"
-            },
-            {
-                "id": "JXgV1rXUoME",
-                "title": "Doja Cat, The Weeknd - You Right (Official Video)",
-                "channelTitle": "Doja Cat",
-                "channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
-                "publishedAt": "2021-06-25T04:00:10Z",
-                "duration": "PT3M10S",
-                "viewCount": "59779676"
-            },
-            {
-                "id": "mRD0-GxqHVo",
-                "title": "Glass Animals - Heat Waves (Official Video)",
-                "channelTitle": "GlassAnimalsVEVO",
-                "channelId": "UCOMLtULLvoymORim06O1vaw",
-                "publishedAt": "2020-06-29T18:30:09Z",
-                "duration": "PT3M56S",
-                "viewCount": "36591381"
-            },
-            {
-                "id": "E07s5ZYygMg",
-                "title": "Harry Styles - Watermelon Sugar (Official Video)",
-                "channelTitle": "HarryStylesVEVO",
-                "channelId": "UCbOCbp5gXL8jigIBZLqMPrw",
-                "publishedAt": "2020-05-18T16:00:11Z",
-                "duration": "PT3M9S",
-                "viewCount": "254111792"
-            }
-        ]
-    }
+	"hotTracks": {
+		"name": "New Releases",
+		"results": [
+			{
+				"name": "Certified Lover Boy",
+				"songs": [
+					{
+						"id": "IxVuT8cgccM",
+						"title": "Drake - Champagne Poetry (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:09Z",
+						"duration": "PT5M37S",
+						"viewCount": "5092441"
+					},
+					{
+						"id": "RJDZBozre1g",
+						"title": "Drake - Papi’s Home (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:17Z",
+						"duration": "PT2M59S",
+						"viewCount": "2287834"
+					},
+					{
+						"id": "b8M6N0FTpNc",
+						"title": "Drake - Girls Want Girls (Official Audio) ft. Lil Baby",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:22Z",
+						"duration": "PT3M43S",
+						"viewCount": "4940695"
+					},
+					{
+						"id": "eEdVtJW_PwE",
+						"title": "Drake - In The Bible (Official Audio) ft. Lil Durk, Giveon",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:48Z",
+						"duration": "PT4M57S",
+						"viewCount": "2951200"
+					},
+					{
+						"id": "Pnz4wbCblmM",
+						"title": "Drake - Love All (Audio) ft. JAY-Z",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:19Z",
+						"duration": "PT3M49S",
+						"viewCount": "3464242"
+					},
+					{
+						"id": "THVbtGqEO1o",
+						"title": "Drake - Fair Trade (Audio) ft. Travis Scott",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:52Z",
+						"duration": "PT4M52S",
+						"viewCount": "9644274"
+					},
+					{
+						"id": "vX9msKu75qs",
+						"title": "Drake ft. Future and Young Thug - Way 2 Sexy (Official Video)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:00:38Z",
+						"duration": "PT4M41S",
+						"viewCount": "20143248"
+					},
+					{
+						"id": "fhEqtynX_xc",
+						"title": "Drake - TSU (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:32Z",
+						"duration": "PT5M10S",
+						"viewCount": "2713856"
+					},
+					{
+						"id": "Oh-Al70frOc",
+						"title": "Drake - N 2 Deep (Official Audio) ft. Future",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:44Z",
+						"duration": "PT4M34S",
+						"viewCount": "2406497"
+					},
+					{
+						"id": "ZIu-V_xEehs",
+						"title": "Drake - Pipe Down (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:08:55Z",
+						"duration": "PT3M27S",
+						"viewCount": "1505229"
+					},
+					{
+						"id": "9rlW2rUzyn0",
+						"title": "Drake - Yebba’s Heartbreak (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:08:43Z",
+						"duration": "PT2M15S",
+						"viewCount": "1139181"
+					},
+					{
+						"id": "_dSN9EaQotw",
+						"title": "Drake - No Friends In The Industry (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:17Z",
+						"duration": "PT3M25S",
+						"viewCount": "2408547"
+					},
+					{
+						"id": "3HFY0xuHybk",
+						"title": "Drake - Knife Talk (Official Audio) ft. 21 Savage, Project Pat",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:41Z",
+						"duration": "PT4M4S",
+						"viewCount": "4483439"
+					},
+					{
+						"id": "L6W1_fUurpA",
+						"title": "Drake - 7am On Bridle Path (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:11Z",
+						"duration": "PT4M",
+						"viewCount": "1811485"
+					},
+					{
+						"id": "bpXztWUPPFQ",
+						"title": "Drake - Race My Mind (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:34Z",
+						"duration": "PT4M31S",
+						"viewCount": "1237242"
+					},
+					{
+						"id": "pwtWYFUwenE",
+						"title": "Drake - Fountains (Audio) ft. Tems",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:41Z",
+						"duration": "PT3M13S",
+						"viewCount": "1258703"
+					},
+					{
+						"id": "84y-jaEiFZU",
+						"title": "Drake - Get Along Better (Official Audio) ft. Ty Dolla $ign",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:07Z",
+						"duration": "PT3M50S",
+						"viewCount": "1302239"
+					},
+					{
+						"id": "x6Nr6EX3AwY",
+						"title": "Drake - You Only Live Twice (Official Audio) ft. Lil Wayne, Rick Ross",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:44Z",
+						"duration": "PT3M34S",
+						"viewCount": "1619840"
+					},
+					{
+						"id": "3aYA2dK2L-U",
+						"title": "Drake - IMY2 (Official Audio) ft. Kid Cudi",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:21Z",
+						"duration": "PT4M13S",
+						"viewCount": "1313124"
+					},
+					{
+						"id": "EK8aKKeUmmU",
+						"title": "Drake - Fucking Fans (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:45Z",
+						"duration": "PT4M6S",
+						"viewCount": "769982"
+					},
+					{
+						"id": "2_TPmfd02xc",
+						"title": "Drake - The Remorse (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:29Z",
+						"duration": "PT5M52S",
+						"viewCount": "1113052"
+					}
+				]
+			},
+			{
+				"name": "Apple Music Home Session: Rag'n'Bone Man - Single",
+				"songs": [
+					{
+						"id": "5XhJMbpykG4",
+						"title": "This Week: September 10, 2021 | Apple Music",
+						"channelTitle": "Apple Music",
+						"channelId": "UCBv7HEHuVlNAELGi5XJd85Q",
+						"publishedAt": "2021-09-10T17:03:47Z",
+						"duration": "PT1M",
+						"viewCount": "640"
+					},
+					{
+						"id": "7TspZ1MS424",
+						"title": "Foy Vance - She Burns & Upbeat, Feelgood | Mahogany Session",
+						"channelTitle": "Mahogany",
+						"channelId": "UCG36u-k09zdIPQh5EEdVgTA",
+						"publishedAt": "2016-05-26T17:00:01Z",
+						"duration": "PT7M27S",
+						"viewCount": "1598790"
+					}
+				]
+			},
+			{
+				"name": "Donda",
+				"songs": [
+					{
+						"id": "o7jsf2PeYB8",
+						"title": "Pop Smoke - Tell The Vision (Audio) ft. Kanye West, Pusha T",
+						"channelTitle": "POPSMOKEVEVO",
+						"channelId": "UCHuyAbMG3UshUqNLYCUjaPg",
+						"publishedAt": "2021-07-16T04:00:12Z",
+						"duration": "PT3M36S",
+						"viewCount": "5184663"
+					},
+					{
+						"id": "LuvfMDhTyMA",
+						"title": "Matt Maher - Lord, I Need You (Official Lyric Video)",
+						"channelTitle": "mattmaherVEVO",
+						"channelId": "UC-wLLrVeYdrG5xhZkqkUcwg",
+						"publishedAt": "2013-05-01T16:04:27Z",
+						"duration": "PT3M28S",
+						"viewCount": "39016061"
+					}
+				]
+			},
+			{
+				"name": "star-crossed",
+				"songs": [
+					{
+						"id": "ah4r5XjBNRo",
+						"title": "KACEY MUSGRAVES - star-crossed (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-08-23T16:19:42Z",
+						"duration": "PT3M20S",
+						"viewCount": "275438"
+					},
+					{
+						"id": "eFu1P-BPglE",
+						"title": "Kacey Musgraves - good wife (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:10Z",
+						"duration": "PT4M2S",
+						"viewCount": "29972"
+					},
+					{
+						"id": "OZ3RoAU-NZ0",
+						"title": "Kacey Musgraves - cherry blossom (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:07Z",
+						"duration": "PT3M15S",
+						"viewCount": "16702"
+					},
+					{
+						"id": "aFDa0Qv9wXA",
+						"title": "KACEY MUSGRAVES - simple times (official music video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:11Z",
+						"duration": "PT5M47S",
+						"viewCount": "354870"
+					},
+					{
+						"id": "_DeexsyPXYw",
+						"title": "Kacey Musgraves - if this was a movie.. (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:10Z",
+						"duration": "PT3M25S",
+						"viewCount": "12372"
+					},
+					{
+						"id": "i-0PaQanGBc",
+						"title": "KACEY MUSGRAVES - justified (official music video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-08-27T04:00:11Z",
+						"duration": "PT4M21S",
+						"viewCount": "1554448"
+					},
+					{
+						"id": "hawIGkpGMMc",
+						"title": "Declan - An Angel (Official)",
+						"channelTitle": "DeclanGalbraithVEVO",
+						"channelId": "UC9tqBK5iQ9FjjM_zJu74E6w",
+						"publishedAt": "2018-05-10T11:30:01Z",
+						"duration": "PT3M42S",
+						"viewCount": "5507161"
+					},
+					{
+						"id": "3EWjQ9FG5V0",
+						"title": "Kacey Musgraves - breadwinner (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:02Z",
+						"duration": "PT3M41S",
+						"viewCount": "23365"
+					},
+					{
+						"id": "Igy7ZFauA0I",
+						"title": "Kacey Musgraves - camera roll (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:11Z",
+						"duration": "PT2M52S",
+						"viewCount": "18076"
+					},
+					{
+						"id": "LGQCQ44PCpQ",
+						"title": "Kacey Musgraves - easier said (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:08Z",
+						"duration": "PT3M18S",
+						"viewCount": "13477"
+					},
+					{
+						"id": "QACXR0J-2UA",
+						"title": "Kacey Musgraves - hookup scene (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:16Z",
+						"duration": "PT3M32S",
+						"viewCount": "17053"
+					},
+					{
+						"id": "x1oTD_b9hyw",
+						"title": "Kacey Musgraves - keep lookin’ up (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:31Z",
+						"duration": "PT2M57S",
+						"viewCount": "14795"
+					},
+					{
+						"id": "CC2O5Ad7D30",
+						"title": "Kacey Musgraves - what doesn’t kill me (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:03Z",
+						"duration": "PT2M28S",
+						"viewCount": "11754"
+					},
+					{
+						"id": "vRCgBRL0NUo",
+						"title": "Kacey Musgraves - there is a light (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:20Z",
+						"duration": "PT4M2S",
+						"viewCount": "14342"
+					},
+					{
+						"id": "cIrGQD84F1g",
+						"title": "Mercedes Sosa - Gracias A La Vida",
+						"channelTitle": "watchCulturetainment",
+						"channelId": "UCuJXQzdMnQuNGkYJqgIwb-w",
+						"publishedAt": "2009-10-04T22:14:56Z",
+						"duration": "PT5M30S",
+						"viewCount": "9178234"
+					}
+				]
+			}
+		],
+		"updatedAt": "09112021"
+	},
+	"newReleases": {
+		"name": "New Releases",
+		"results": [
+			{
+				"name": "Certified Lover Boy",
+				"songs": [
+					{
+						"id": "IxVuT8cgccM",
+						"title": "Drake - Champagne Poetry (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:09Z",
+						"duration": "PT5M37S",
+						"viewCount": "5092441"
+					},
+					{
+						"id": "RJDZBozre1g",
+						"title": "Drake - Papi’s Home (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:17Z",
+						"duration": "PT2M59S",
+						"viewCount": "2287834"
+					},
+					{
+						"id": "b8M6N0FTpNc",
+						"title": "Drake - Girls Want Girls (Official Audio) ft. Lil Baby",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:22Z",
+						"duration": "PT3M43S",
+						"viewCount": "4941888"
+					},
+					{
+						"id": "eEdVtJW_PwE",
+						"title": "Drake - In The Bible (Official Audio) ft. Lil Durk, Giveon",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:48Z",
+						"duration": "PT4M57S",
+						"viewCount": "2951200"
+					},
+					{
+						"id": "Pnz4wbCblmM",
+						"title": "Drake - Love All (Audio) ft. JAY-Z",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:19Z",
+						"duration": "PT3M49S",
+						"viewCount": "3464242"
+					},
+					{
+						"id": "THVbtGqEO1o",
+						"title": "Drake - Fair Trade (Audio) ft. Travis Scott",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:52Z",
+						"duration": "PT4M52S",
+						"viewCount": "9644274"
+					},
+					{
+						"id": "vX9msKu75qs",
+						"title": "Drake ft. Future and Young Thug - Way 2 Sexy (Official Video)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:00:38Z",
+						"duration": "PT4M41S",
+						"viewCount": "20145232"
+					},
+					{
+						"id": "fhEqtynX_xc",
+						"title": "Drake - TSU (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:32Z",
+						"duration": "PT5M10S",
+						"viewCount": "2713856"
+					},
+					{
+						"id": "Oh-Al70frOc",
+						"title": "Drake - N 2 Deep (Official Audio) ft. Future",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:44Z",
+						"duration": "PT4M34S",
+						"viewCount": "2406497"
+					},
+					{
+						"id": "ZIu-V_xEehs",
+						"title": "Drake - Pipe Down (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:08:55Z",
+						"duration": "PT3M27S",
+						"viewCount": "1505480"
+					},
+					{
+						"id": "9rlW2rUzyn0",
+						"title": "Drake - Yebba’s Heartbreak (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:08:43Z",
+						"duration": "PT2M15S",
+						"viewCount": "1139181"
+					},
+					{
+						"id": "_dSN9EaQotw",
+						"title": "Drake - No Friends In The Industry (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:17Z",
+						"duration": "PT3M25S",
+						"viewCount": "2409029"
+					},
+					{
+						"id": "3HFY0xuHybk",
+						"title": "Drake - Knife Talk (Official Audio) ft. 21 Savage, Project Pat",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:41Z",
+						"duration": "PT4M4S",
+						"viewCount": "4483439"
+					},
+					{
+						"id": "L6W1_fUurpA",
+						"title": "Drake - 7am On Bridle Path (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:11Z",
+						"duration": "PT4M",
+						"viewCount": "1811485"
+					},
+					{
+						"id": "bpXztWUPPFQ",
+						"title": "Drake - Race My Mind (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:34Z",
+						"duration": "PT4M31S",
+						"viewCount": "1237242"
+					},
+					{
+						"id": "pwtWYFUwenE",
+						"title": "Drake - Fountains (Audio) ft. Tems",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:41Z",
+						"duration": "PT3M13S",
+						"viewCount": "1258902"
+					},
+					{
+						"id": "84y-jaEiFZU",
+						"title": "Drake - Get Along Better (Official Audio) ft. Ty Dolla $ign",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:07Z",
+						"duration": "PT3M50S",
+						"viewCount": "1302239"
+					},
+					{
+						"id": "x6Nr6EX3AwY",
+						"title": "Drake - You Only Live Twice (Official Audio) ft. Lil Wayne, Rick Ross",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:44Z",
+						"duration": "PT3M34S",
+						"viewCount": "1619840"
+					},
+					{
+						"id": "3aYA2dK2L-U",
+						"title": "Drake - IMY2 (Official Audio) ft. Kid Cudi",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:21Z",
+						"duration": "PT4M13S",
+						"viewCount": "1313124"
+					},
+					{
+						"id": "EK8aKKeUmmU",
+						"title": "Drake - Fucking Fans (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:45Z",
+						"duration": "PT4M6S",
+						"viewCount": "769982"
+					},
+					{
+						"id": "2_TPmfd02xc",
+						"title": "Drake - The Remorse (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:29Z",
+						"duration": "PT5M52S",
+						"viewCount": "1113052"
+					}
+				]
+			},
+			{
+				"name": "Apple Music Home Session: Rag'n'Bone Man - Single",
+				"songs": [
+					{
+						"id": "5ovMe4-MPGc",
+						"title": "Billie Eilish: 'me & dad radio' and Recording Music at Home | Apple Music",
+						"channelTitle": "Apple Music",
+						"channelId": "UCBv7HEHuVlNAELGi5XJd85Q",
+						"publishedAt": "2020-05-09T17:00:18Z",
+						"duration": "PT7M13S",
+						"viewCount": "187592"
+					},
+					{
+						"id": "7TspZ1MS424",
+						"title": "Foy Vance - She Burns & Upbeat, Feelgood | Mahogany Session",
+						"channelTitle": "Mahogany",
+						"channelId": "UCG36u-k09zdIPQh5EEdVgTA",
+						"publishedAt": "2016-05-26T17:00:01Z",
+						"duration": "PT7M27S",
+						"viewCount": "1598790"
+					}
+				]
+			},
+			{
+				"name": "Donda",
+				"songs": [
+					{
+						"id": "o7jsf2PeYB8",
+						"title": "Pop Smoke - Tell The Vision (Audio) ft. Kanye West, Pusha T",
+						"channelTitle": "POPSMOKEVEVO",
+						"channelId": "UCHuyAbMG3UshUqNLYCUjaPg",
+						"publishedAt": "2021-07-16T04:00:12Z",
+						"duration": "PT3M36S",
+						"viewCount": "5184663"
+					},
+					{
+						"id": "LuvfMDhTyMA",
+						"title": "Matt Maher - Lord, I Need You (Official Lyric Video)",
+						"channelTitle": "mattmaherVEVO",
+						"channelId": "UC-wLLrVeYdrG5xhZkqkUcwg",
+						"publishedAt": "2013-05-01T16:04:27Z",
+						"duration": "PT3M28S",
+						"viewCount": "39016061"
+					}
+				]
+			},
+			{
+				"name": "star-crossed",
+				"songs": [
+					{
+						"id": "ah4r5XjBNRo",
+						"title": "KACEY MUSGRAVES - star-crossed (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-08-23T16:19:42Z",
+						"duration": "PT3M20S",
+						"viewCount": "275438"
+					},
+					{
+						"id": "eFu1P-BPglE",
+						"title": "Kacey Musgraves - good wife (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:10Z",
+						"duration": "PT4M2S",
+						"viewCount": "29972"
+					},
+					{
+						"id": "OZ3RoAU-NZ0",
+						"title": "Kacey Musgraves - cherry blossom (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:07Z",
+						"duration": "PT3M15S",
+						"viewCount": "16702"
+					},
+					{
+						"id": "aFDa0Qv9wXA",
+						"title": "KACEY MUSGRAVES - simple times (official music video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:11Z",
+						"duration": "PT5M47S",
+						"viewCount": "354870"
+					},
+					{
+						"id": "_DeexsyPXYw",
+						"title": "Kacey Musgraves - if this was a movie.. (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:10Z",
+						"duration": "PT3M25S",
+						"viewCount": "12372"
+					},
+					{
+						"id": "i-0PaQanGBc",
+						"title": "KACEY MUSGRAVES - justified (official music video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-08-27T04:00:11Z",
+						"duration": "PT4M21S",
+						"viewCount": "1554448"
+					},
+					{
+						"id": "hawIGkpGMMc",
+						"title": "Declan - An Angel (Official)",
+						"channelTitle": "DeclanGalbraithVEVO",
+						"channelId": "UC9tqBK5iQ9FjjM_zJu74E6w",
+						"publishedAt": "2018-05-10T11:30:01Z",
+						"duration": "PT3M42S",
+						"viewCount": "5507161"
+					},
+					{
+						"id": "3EWjQ9FG5V0",
+						"title": "Kacey Musgraves - breadwinner (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:02Z",
+						"duration": "PT3M41S",
+						"viewCount": "23365"
+					},
+					{
+						"id": "Igy7ZFauA0I",
+						"title": "Kacey Musgraves - camera roll (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:11Z",
+						"duration": "PT2M52S",
+						"viewCount": "18076"
+					},
+					{
+						"id": "LGQCQ44PCpQ",
+						"title": "Kacey Musgraves - easier said (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:08Z",
+						"duration": "PT3M18S",
+						"viewCount": "13477"
+					},
+					{
+						"id": "QACXR0J-2UA",
+						"title": "Kacey Musgraves - hookup scene (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:16Z",
+						"duration": "PT3M32S",
+						"viewCount": "17053"
+					},
+					{
+						"id": "x1oTD_b9hyw",
+						"title": "Kacey Musgraves - keep lookin’ up (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:31Z",
+						"duration": "PT2M57S",
+						"viewCount": "14795"
+					},
+					{
+						"id": "CC2O5Ad7D30",
+						"title": "Kacey Musgraves - what doesn’t kill me (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:03Z",
+						"duration": "PT2M28S",
+						"viewCount": "11754"
+					},
+					{
+						"id": "vRCgBRL0NUo",
+						"title": "Kacey Musgraves - there is a light (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:20Z",
+						"duration": "PT4M2S",
+						"viewCount": "14342"
+					},
+					{
+						"id": "cIrGQD84F1g",
+						"title": "Mercedes Sosa - Gracias A La Vida",
+						"channelTitle": "watchCulturetainment",
+						"channelId": "UCuJXQzdMnQuNGkYJqgIwb-w",
+						"publishedAt": "2009-10-04T22:14:56Z",
+						"duration": "PT5M30S",
+						"viewCount": "9178234"
+					}
+				]
+			}
+		],
+		"updatedAt": "09112021"
+	},
+	"topAlbums": {
+		"name": "Top Albums",
+		"results": [
+			{
+				"name": "Certified Lover Boy",
+				"songs": [
+					{
+						"id": "IxVuT8cgccM",
+						"title": "Drake - Champagne Poetry (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:09Z",
+						"duration": "PT5M37S",
+						"viewCount": "5092441"
+					},
+					{
+						"id": "RJDZBozre1g",
+						"title": "Drake - Papi’s Home (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:17Z",
+						"duration": "PT2M59S",
+						"viewCount": "2287834"
+					},
+					{
+						"id": "b8M6N0FTpNc",
+						"title": "Drake - Girls Want Girls (Official Audio) ft. Lil Baby",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:22Z",
+						"duration": "PT3M43S",
+						"viewCount": "4941888"
+					},
+					{
+						"id": "eEdVtJW_PwE",
+						"title": "Drake - In The Bible (Official Audio) ft. Lil Durk, Giveon",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:48Z",
+						"duration": "PT4M57S",
+						"viewCount": "2951200"
+					},
+					{
+						"id": "Pnz4wbCblmM",
+						"title": "Drake - Love All (Audio) ft. JAY-Z",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:19Z",
+						"duration": "PT3M49S",
+						"viewCount": "3464242"
+					},
+					{
+						"id": "THVbtGqEO1o",
+						"title": "Drake - Fair Trade (Audio) ft. Travis Scott",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:52Z",
+						"duration": "PT4M52S",
+						"viewCount": "9644274"
+					},
+					{
+						"id": "vX9msKu75qs",
+						"title": "Drake ft. Future and Young Thug - Way 2 Sexy (Official Video)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:00:38Z",
+						"duration": "PT4M41S",
+						"viewCount": "20147259"
+					},
+					{
+						"id": "fhEqtynX_xc",
+						"title": "Drake - TSU (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:32Z",
+						"duration": "PT5M10S",
+						"viewCount": "2713856"
+					},
+					{
+						"id": "Oh-Al70frOc",
+						"title": "Drake - N 2 Deep (Official Audio) ft. Future",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:44Z",
+						"duration": "PT4M34S",
+						"viewCount": "2406497"
+					},
+					{
+						"id": "ZIu-V_xEehs",
+						"title": "Drake - Pipe Down (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:08:55Z",
+						"duration": "PT3M27S",
+						"viewCount": "1505480"
+					},
+					{
+						"id": "9rlW2rUzyn0",
+						"title": "Drake - Yebba’s Heartbreak (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:08:43Z",
+						"duration": "PT2M15S",
+						"viewCount": "1139181"
+					},
+					{
+						"id": "_dSN9EaQotw",
+						"title": "Drake - No Friends In The Industry (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:17Z",
+						"duration": "PT3M25S",
+						"viewCount": "2409029"
+					},
+					{
+						"id": "3HFY0xuHybk",
+						"title": "Drake - Knife Talk (Official Audio) ft. 21 Savage, Project Pat",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:41Z",
+						"duration": "PT4M4S",
+						"viewCount": "4483439"
+					},
+					{
+						"id": "L6W1_fUurpA",
+						"title": "Drake - 7am On Bridle Path (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:11Z",
+						"duration": "PT4M",
+						"viewCount": "1811485"
+					},
+					{
+						"id": "bpXztWUPPFQ",
+						"title": "Drake - Race My Mind (Official Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:34Z",
+						"duration": "PT4M31S",
+						"viewCount": "1237242"
+					},
+					{
+						"id": "pwtWYFUwenE",
+						"title": "Drake - Fountains (Audio) ft. Tems",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:41Z",
+						"duration": "PT3M13S",
+						"viewCount": "1258902"
+					},
+					{
+						"id": "84y-jaEiFZU",
+						"title": "Drake - Get Along Better (Official Audio) ft. Ty Dolla $ign",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:07Z",
+						"duration": "PT3M50S",
+						"viewCount": "1302239"
+					},
+					{
+						"id": "x6Nr6EX3AwY",
+						"title": "Drake - You Only Live Twice (Official Audio) ft. Lil Wayne, Rick Ross",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:44Z",
+						"duration": "PT3M34S",
+						"viewCount": "1619840"
+					},
+					{
+						"id": "3aYA2dK2L-U",
+						"title": "Drake - IMY2 (Official Audio) ft. Kid Cudi",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:21Z",
+						"duration": "PT4M13S",
+						"viewCount": "1313124"
+					},
+					{
+						"id": "EK8aKKeUmmU",
+						"title": "Drake - Fucking Fans (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:45Z",
+						"duration": "PT4M6S",
+						"viewCount": "769982"
+					},
+					{
+						"id": "2_TPmfd02xc",
+						"title": "Drake - The Remorse (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:29Z",
+						"duration": "PT5M52S",
+						"viewCount": "1113052"
+					}
+				]
+			},
+			{
+				"name": "Donda",
+				"songs": [
+					{
+						"id": "o7jsf2PeYB8",
+						"title": "Pop Smoke - Tell The Vision (Audio) ft. Kanye West, Pusha T",
+						"channelTitle": "POPSMOKEVEVO",
+						"channelId": "UCHuyAbMG3UshUqNLYCUjaPg",
+						"publishedAt": "2021-07-16T04:00:12Z",
+						"duration": "PT3M36S",
+						"viewCount": "5184663"
+					},
+					{
+						"id": "LuvfMDhTyMA",
+						"title": "Matt Maher - Lord, I Need You (Official Lyric Video)",
+						"channelTitle": "mattmaherVEVO",
+						"channelId": "UC-wLLrVeYdrG5xhZkqkUcwg",
+						"publishedAt": "2013-05-01T16:04:27Z",
+						"duration": "PT3M28S",
+						"viewCount": "39016061"
+					}
+				]
+			},
+			{
+				"name": "We're All Alone In This Together",
+				"songs": [
+					{
+						"id": "IsMVNk1WxSE",
+						"title": "Boz Scaggs - We're All Alone (Lyrics)",
+						"channelTitle": "A1 Clouds",
+						"channelId": "UCVTiFa0RXsagMmboTICsNFg",
+						"publishedAt": "2020-04-16T15:31:38Z",
+						"duration": "PT4M7S",
+						"viewCount": "209881"
+					},
+					{
+						"id": "1lWxMne0NEk",
+						"title": "Dave - Verdansk",
+						"channelTitle": "Santan Dave",
+						"channelId": "UC5-cg5RahETrjGu-r8zjYCQ",
+						"publishedAt": "2021-09-08T20:27:55Z",
+						"duration": "PT5M20S",
+						"viewCount": "871997"
+					},
+					{
+						"id": "oFqVvjq6BGM",
+						"title": "Dave - Clash (ft. Stormzy)",
+						"channelTitle": "Santan Dave",
+						"channelId": "UC5-cg5RahETrjGu-r8zjYCQ",
+						"publishedAt": "2021-07-09T11:20:45Z",
+						"duration": "PT4M11S",
+						"viewCount": "16875108"
+					},
+					{
+						"id": "y-JqH1M4Ya8",
+						"title": "David Bowie - Lazarus (Video)",
+						"channelTitle": "DavidBowieVEVO",
+						"channelId": "UCh8hlIe7EcmVilHjnrE7gNw",
+						"publishedAt": "2016-01-07T08:00:00Z",
+						"duration": "PT4M9S",
+						"viewCount": "59019733"
+					},
+					{
+						"id": "KMRaMqMDCI8",
+						"title": "Dave - Both Sides Of A Smile (Lyrics) ft. James Blake",
+						"channelTitle": "RAVE",
+						"channelId": "UCvLO0eZ7UcTmN24uM1fedTg",
+						"publishedAt": "2021-07-23T01:52:12Z",
+						"duration": "PT8M43S",
+						"viewCount": "91829"
+					},
+					{
+						"id": "8qVJJd7YN0k",
+						"title": "Dave - Twenty To One (Lyrics)",
+						"channelTitle": "UK Music ",
+						"channelId": "UC9n3bgWdeB7TQT-xw43fnHQ",
+						"publishedAt": "2021-07-23T00:22:29Z",
+						"duration": "PT3M15S",
+						"viewCount": "72071"
+					},
+					{
+						"id": "AByfaYcOm4A",
+						"title": "Demi Lovato - Heart Attack (Official Video)",
+						"channelTitle": "DemiLovatoVEVO",
+						"channelId": "UCnyB9MYKRkSFK3IIB32CoVw",
+						"publishedAt": "2013-04-09T23:00:07Z",
+						"duration": "PT3M36S",
+						"viewCount": "647115437"
+					}
+				]
+			},
+			{
+				"name": "Planet Her (Deluxe)",
+				"songs": [
+					{
+						"id": "2V_uAAAH-_Q",
+						"title": "Doja Cat - Woman (Visualizer)",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-25T04:00:01Z",
+						"duration": "PT2M54S",
+						"viewCount": "40551961"
+					},
+					{
+						"id": "WXyLdg4mJxo",
+						"title": "James Arthur - Naked",
+						"channelTitle": "JamesAVEVO",
+						"channelId": "UCnPjVVu__eOVZnAnjBiGhKA",
+						"publishedAt": "2017-12-01T08:00:02Z",
+						"duration": "PT4M2S",
+						"viewCount": "257049118"
+					},
+					{
+						"id": "Qn8v3si_mDI",
+						"title": "Doja Cat - Payday (Visualizer) ft. Young Thug",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-25T04:00:06Z",
+						"duration": "PT3M34S",
+						"viewCount": "2931717"
+					},
+					{
+						"id": "zln8SZO6yYY",
+						"title": "Doja Cat - Get Into It (Yuh) (Visualizer)",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-25T04:00:32Z",
+						"duration": "PT2M19S",
+						"viewCount": "16440242"
+					},
+					{
+						"id": "OjHAOvR8kps",
+						"title": "Doja Cat - I Don't Do Drugs (Visualizer) ft. Ariana Grande",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-25T04:00:15Z",
+						"duration": "PT3M10S",
+						"viewCount": "11282545"
+					},
+					{
+						"id": "pOZpy3vlNwE",
+						"title": "Doja Cat - Love To Dream (Official Live Performance) | Vevo",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-07-06T16:00:21Z",
+						"duration": "PT3M47S",
+						"viewCount": "3939005"
+					},
+					{
+						"id": "JXgV1rXUoME",
+						"title": "Doja Cat, The Weeknd - You Right (Official Video)",
+						"channelTitle": "Doja Cat",
+						"channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
+						"publishedAt": "2021-06-25T04:00:10Z",
+						"duration": "PT3M10S",
+						"viewCount": "66653129"
+					},
+					{
+						"id": "rc9f8-gFa7Q",
+						"title": "Doja Cat - Been Like This (Visualizer)",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-25T04:00:30Z",
+						"duration": "PT2M59S",
+						"viewCount": "3877749"
+					},
+					{
+						"id": "TJoS_CZlbjc",
+						"title": "Doja Cat - Options (Visualizer) ft. JID",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-25T04:00:24Z",
+						"duration": "PT2M40S",
+						"viewCount": "2538541"
+					},
+					{
+						"id": "Ix4L9am2Kwk",
+						"title": "Doja Cat - Ain't Shit (Visualizer)",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-25T04:00:06Z",
+						"duration": "PT2M55S",
+						"viewCount": "16092741"
+					},
+					{
+						"id": "1-xGerv5FOk",
+						"title": "Alan Walker - Alone",
+						"channelTitle": "Alan Walker",
+						"channelId": "UCJrOtniJ0-NWz37R30urifQ",
+						"publishedAt": "2016-12-02T07:59:01Z",
+						"duration": "PT2M44S",
+						"viewCount": "1203703106"
+					},
+					{
+						"id": "0EVVKs6DQLo",
+						"title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-04-09T04:00:00Z",
+						"duration": "PT5M16S",
+						"viewCount": "198587075"
+					},
+					{
+						"id": "eRRz29Q-RJc",
+						"title": "Doja Cat, The Weeknd - You Right (Extended (Audio))",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-27T04:00:09Z",
+						"duration": "PT4M8S",
+						"viewCount": "8153447"
+					},
+					{
+						"id": "Wc-pdVEBoDw",
+						"title": "Doja Cat - Tonight (Audio) ft. Eve",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-27T04:00:09Z",
+						"duration": "PT2M51S",
+						"viewCount": "1211195"
+					},
+					{
+						"id": "Pw-0pbY9JeU",
+						"title": "twenty one pilots - Ride (Official Video)",
+						"channelTitle": "twenty one pilots",
+						"channelId": "UCBQZwaNPFfJ1gZ1fLZpAEGw",
+						"publishedAt": "2015-05-13T22:00:26Z",
+						"duration": "PT3M46S",
+						"viewCount": "1179735739"
+					},
+					{
+						"id": "Ac75PgJg-8w",
+						"title": "Doja Cat - Why Why (Audio) ft. Gunna",
+						"channelTitle": "dojacatVEVO",
+						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+						"publishedAt": "2021-06-27T04:00:02Z",
+						"duration": "PT3M1S",
+						"viewCount": "959344"
+					}
+				]
+			}
+		],
+		"updatedAt": "09112021"
+	},
+	"topSongs": {
+		"name": "Top Songs",
+		"songs": [
+			{
+				"id": "b8M6N0FTpNc",
+				"title": "Drake - Girls Want Girls (Official Audio) ft. Lil Baby",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:10:22Z",
+				"duration": "PT3M43S",
+				"viewCount": "4941888"
+			},
+			{
+				"id": "THVbtGqEO1o",
+				"title": "Drake - Fair Trade (Audio) ft. Travis Scott",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:11:52Z",
+				"duration": "PT4M52S",
+				"viewCount": "9644274"
+			},
+			{
+				"id": "orJSJGHjBLI",
+				"title": "Ed Sheeran - Bad Habits [Official Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2021-06-25T04:00:33Z",
+				"duration": "PT4M1S",
+				"viewCount": "150579078"
+			},
+			{
+				"id": "vX9msKu75qs",
+				"title": "Drake ft. Future and Young Thug - Way 2 Sexy (Official Video)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:00:38Z",
+				"duration": "PT4M41S",
+				"viewCount": "20147259"
+			},
+			{
+				"id": "Y3GxA9jY4R8",
+				"title": "The Kid LAROI - STAY (Lyrics) Ft. Justin Bieber",
+				"channelTitle": "The New Vibe",
+				"channelId": "UCG9LCoMgPwWdflKSXkbaiqw",
+				"publishedAt": "2021-09-09T12:30:08Z",
+				"duration": "PT2M22S",
+				"viewCount": "659020"
+			},
+			{
+				"id": "IxVuT8cgccM",
+				"title": "Drake - Champagne Poetry (Official Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:09:09Z",
+				"duration": "PT5M37S",
+				"viewCount": "5092441"
+			},
+			{
+				"id": "Pnz4wbCblmM",
+				"title": "Drake - Love All (Audio) ft. JAY-Z",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:11:19Z",
+				"duration": "PT3M49S",
+				"viewCount": "3464242"
+			},
+			{
+				"id": "eEdVtJW_PwE",
+				"title": "Drake - In The Bible (Official Audio) ft. Lil Durk, Giveon",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:10:48Z",
+				"duration": "PT4M57S",
+				"viewCount": "2951200"
+			},
+			{
+				"id": "NhCxrUEW3PM",
+				"title": "Becky Hill, David Guetta - Remember (Official Video)",
+				"channelTitle": "BeckyHillVEVO",
+				"channelId": "UC8jnu7YFvbM8G2zR_gpUkWg",
+				"publishedAt": "2021-06-25T07:30:09Z",
+				"duration": "PT2M40S",
+				"viewCount": "6850011"
+			},
+			{
+				"id": "MkElfR_NPBI",
+				"title": "Little Mix - Black Magic (Official Video)",
+				"channelTitle": "littlemixVEVO",
+				"channelId": "UCssD3_aDYhaG44mwP53CO0w",
+				"publishedAt": "2015-05-29T07:00:00Z",
+				"duration": "PT3M46S",
+				"viewCount": "839092703"
+			},
+			{
+				"id": "RJDZBozre1g",
+				"title": "Drake - Papi’s Home (Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:09:17Z",
+				"duration": "PT2M59S",
+				"viewCount": "2288366"
+			},
+			{
+				"id": "fhEqtynX_xc",
+				"title": "Drake - TSU (Official Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:11:32Z",
+				"duration": "PT5M10S",
+				"viewCount": "2713856"
+			},
+			{
+				"id": "_dSN9EaQotw",
+				"title": "Drake - No Friends In The Industry (Official Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:11:17Z",
+				"duration": "PT3M25S",
+				"viewCount": "2409029"
+			},
+			{
+				"id": "Oh-Al70frOc",
+				"title": "Drake - N 2 Deep (Official Audio) ft. Future",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:10:44Z",
+				"duration": "PT4M34S",
+				"viewCount": "2406497"
+			},
+			{
+				"id": "gNi_6U5Pm_o",
+				"title": "Olivia Rodrigo - good 4 u (Official Video)",
+				"channelTitle": "OliviaRodrigoVEVO",
+				"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+				"publishedAt": "2021-05-14T04:00:09Z",
+				"duration": "PT3M19S",
+				"viewCount": "249316347"
+			},
+			{
+				"id": "3HFY0xuHybk",
+				"title": "Drake - Knife Talk (Official Audio) ft. 21 Savage, Project Pat",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:10:41Z",
+				"duration": "PT4M4S",
+				"viewCount": "4483439"
+			},
+			{
+				"id": "HIv3ClkEhrA",
+				"title": "Galantis, David Guetta & Little Mix - Heartbreak Anthem (Official Music Video)",
+				"channelTitle": "Galantis",
+				"channelId": "UC0YlhwQabxkHb2nfRTzsTTA",
+				"publishedAt": "2021-05-20T16:00:14Z",
+				"duration": "PT3M29S",
+				"viewCount": "32217178"
+			},
+			{
+				"id": "qod03PVTLqk",
+				"title": "Elton John, Dua Lipa - Cold Heart (PNAU Remix) (Official Video)",
+				"channelTitle": "EltonJohnVEVO",
+				"channelId": "UCI8Ry7NdFNLel-S8dWU7mDA",
+				"publishedAt": "2021-08-13T12:00:13Z",
+				"duration": "PT4M15S",
+				"viewCount": "13119534"
+			},
+			{
+				"id": "oFqVvjq6BGM",
+				"title": "Dave - Clash (ft. Stormzy)",
+				"channelTitle": "Santan Dave",
+				"channelId": "UC5-cg5RahETrjGu-r8zjYCQ",
+				"publishedAt": "2021-07-09T11:20:45Z",
+				"duration": "PT4M11S",
+				"viewCount": "16875108"
+			},
+			{
+				"id": "ZIu-V_xEehs",
+				"title": "Drake - Pipe Down (Official Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:08:55Z",
+				"duration": "PT3M27S",
+				"viewCount": "1505480"
+			},
+			{
+				"id": "pwtWYFUwenE",
+				"title": "Drake - Fountains (Audio) ft. Tems",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:10:41Z",
+				"duration": "PT3M13S",
+				"viewCount": "1258902"
+			},
+			{
+				"id": "L6W1_fUurpA",
+				"title": "Drake - 7am On Bridle Path (Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:10:11Z",
+				"duration": "PT4M",
+				"viewCount": "1811813"
+			},
+			{
+				"id": "hhc29kfULwo",
+				"title": "Rain Radio & DJ Craig Gorman - Talk About",
+				"channelTitle": "House Nation",
+				"channelId": "UCj_Y-xJ2DRDGP4ilfzplCOQ",
+				"publishedAt": "2021-05-14T16:39:01Z",
+				"duration": "PT2M42S",
+				"viewCount": "3038903"
+			},
+			{
+				"id": "bpXztWUPPFQ",
+				"title": "Drake - Race My Mind (Official Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:09:34Z",
+				"duration": "PT4M31S",
+				"viewCount": "1237242"
+			},
+			{
+				"id": "7_Su3bBGXzw",
+				"title": "Anne-Marie & Little Mix - Kiss My (Uh Oh) [Official Video]",
+				"channelTitle": "Anne-Marie",
+				"channelId": "UCBL7ZxVX4GvW4CFiES_-0YA",
+				"publishedAt": "2021-07-23T12:00:11Z",
+				"duration": "PT4M43S",
+				"viewCount": "12055577"
+			},
+			{
+				"id": "2V_uAAAH-_Q",
+				"title": "Doja Cat - Woman (Visualizer)",
+				"channelTitle": "dojacatVEVO",
+				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+				"publishedAt": "2021-06-25T04:00:01Z",
+				"duration": "PT2M54S",
+				"viewCount": "40551961"
+			},
+			{
+				"id": "x6Nr6EX3AwY",
+				"title": "Drake - You Only Live Twice (Official Audio) ft. Lil Wayne, Rick Ross",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:09:44Z",
+				"duration": "PT3M34S",
+				"viewCount": "1619840"
+			},
+			{
+				"id": "9rlW2rUzyn0",
+				"title": "Drake - Yebba’s Heartbreak (Official Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:08:43Z",
+				"duration": "PT2M15S",
+				"viewCount": "1139181"
+			},
+			{
+				"id": "84y-jaEiFZU",
+				"title": "Drake - Get Along Better (Official Audio) ft. Ty Dolla $ign",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:11:07Z",
+				"duration": "PT3M50S",
+				"viewCount": "1302239"
+			},
+			{
+				"id": "MveDLwDIZiI",
+				"title": "Shouse - Love Tonight (David Guetta Remix)",
+				"channelTitle": "David Guetta",
+				"channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
+				"publishedAt": "2021-06-12T09:27:21Z",
+				"duration": "PT3M2S",
+				"viewCount": "4687503"
+			},
+			{
+				"id": "KT7F15T9VBI",
+				"title": "Glass Animals - Heat Waves (Lyric video)",
+				"channelTitle": "Glass Animals",
+				"channelId": "UCJTs-KheOMNstaGrDL4K55Q",
+				"publishedAt": "2020-07-20T19:39:48Z",
+				"duration": "PT3M59S",
+				"viewCount": "37725429"
+			},
+			{
+				"id": "6c2qML_Q-9o",
+				"title": "Clean Bandit & Topic - Drive (feat. Wes Nelson) [Official Lyric Video]",
+				"channelTitle": "Clean Bandit",
+				"channelId": "UCvhQPdeTHzIRneScV8MIocg",
+				"publishedAt": "2021-07-30T09:00:02Z",
+				"duration": "PT3M",
+				"viewCount": "844969"
+			},
+			{
+				"id": "R4kRgIkpTxQ",
+				"title": "Becky Hill & Topic - My Heart Goes (La Di Da) | Official Lyric Video",
+				"channelTitle": "Becky Hill Official",
+				"channelId": "UCr6o7T_bNQPzHlRAtQz7EDw",
+				"publishedAt": "2021-08-24T16:01:47Z",
+				"duration": "PT2M29S",
+				"viewCount": "581116"
+			},
+			{
+				"id": "EK8aKKeUmmU",
+				"title": "Drake - Fucking Fans (Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:09:45Z",
+				"duration": "PT4M6S",
+				"viewCount": "769982"
+			},
+			{
+				"id": "3aYA2dK2L-U",
+				"title": "Drake - IMY2 (Official Audio) ft. Kid Cudi",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:09:21Z",
+				"duration": "PT4M13S",
+				"viewCount": "1313124"
+			},
+			{
+				"id": "b_rn7bwD8qQ",
+				"title": "Billie Eilish - Happier Than Ever (From Disney’s Happier Than Ever: A Love Letter To LA)",
+				"channelTitle": "BillieEilishVEVO",
+				"channelId": "UCDGmojLIoWpXok597xYo8cg",
+				"publishedAt": "2021-09-10T16:00:31Z",
+				"duration": "PT4M56S",
+				"viewCount": "653370"
+			},
+			{
+				"id": "2aJfC8JR2No",
+				"title": "David Guetta x MistaJam x John Newman - If You Really Love Me (How Will I Know) [Official Video]",
+				"channelTitle": "David Guetta",
+				"channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
+				"publishedAt": "2021-07-15T16:00:10Z",
+				"duration": "PT3M16S",
+				"viewCount": "3682384"
+			},
+			{
+				"id": "t3CoEyYEf4A",
+				"title": "Ed Sheeran - Visiting Hours [Official Performance Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2021-08-19T13:00:24Z",
+				"duration": "PT3M49S",
+				"viewCount": "11793209"
+			},
+			{
+				"id": "yOb9Xaug35M",
+				"title": "Måneskin - I WANNA BE YOUR SLAVE (Official Video)",
+				"channelTitle": "ManeskinVEVO",
+				"channelId": "UCmJv8qQwd49Q1XiUN1y7_Gw",
+				"publishedAt": "2021-07-15T17:00:11Z",
+				"duration": "PT2M53S",
+				"viewCount": "40614264"
+			},
+			{
+				"id": "xRM6tGdX3d0",
+				"title": "MENTIS - Excuses (feat. Kate Wild)",
+				"channelTitle": "musicTap",
+				"channelId": "UCHnbHITHMGuFYXC27-7KXpQ",
+				"publishedAt": "2021-05-20T14:17:43Z",
+				"duration": "PT2M53S",
+				"viewCount": "241393"
+			},
+			{
+				"id": "2_TPmfd02xc",
+				"title": "Drake - The Remorse (Audio)",
+				"channelTitle": "DrakeVEVO",
+				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+				"publishedAt": "2021-09-03T16:10:29Z",
+				"duration": "PT5M52S",
+				"viewCount": "1113249"
+			},
+			{
+				"id": "VGP6JP_hAPM",
+				"title": "Arman Cekin & Faydee - Better Days (Lyrics) ft. Karra",
+				"channelTitle": "AirwaveMusicTV",
+				"channelId": "UCwIgPuUJXuf2nY-nKsEvLOg",
+				"publishedAt": "2019-11-18T17:00:12Z",
+				"duration": "PT3M8S",
+				"viewCount": "19755702"
+			},
+			{
+				"id": "EZ1JY038yF8",
+				"title": "Tion Wayne x ArrDee - Wid It [Music Video] | GRM Daily",
+				"channelTitle": "GRM Daily",
+				"channelId": "UCqTwKvjbTENZDGbz2si47ag",
+				"publishedAt": "2021-08-19T20:00:26Z",
+				"duration": "PT3M35S",
+				"viewCount": "4825620"
+			},
+			{
+				"id": "1lWxMne0NEk",
+				"title": "Dave - Verdansk",
+				"channelTitle": "Santan Dave",
+				"channelId": "UC5-cg5RahETrjGu-r8zjYCQ",
+				"publishedAt": "2021-09-08T20:27:55Z",
+				"duration": "PT5M20S",
+				"viewCount": "872252"
+			}
+		],
+		"updatedAt": "09112021"
+	}
 }
