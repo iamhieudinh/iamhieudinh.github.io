@@ -12,7 +12,7 @@
 						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 						"publishedAt": "2021-06-25T04:00:33Z",
 						"duration": "PT4M1S",
-						"viewCount": "154514285"
+						"viewCount": "155412241"
 					}
 				]
 			},
@@ -26,7 +26,7 @@
 						"channelId": "UCkUCuYrbtwAsDgk6y-YmJHw",
 						"publishedAt": "2021-07-02T05:02:11Z",
 						"duration": "PT3M18S",
-						"viewCount": "3181038"
+						"viewCount": "3215517"
 					}
 				]
 			},
@@ -40,7 +40,7 @@
 						"channelId": "UCjK8ORC71kwyj1DWFwril_A",
 						"publishedAt": "2021-01-15T00:00:10Z",
 						"duration": "PT2M49S",
-						"viewCount": "81984360"
+						"viewCount": "82013137"
 					}
 				]
 			},
@@ -54,12 +54,12 @@
 						"channelId": "UCGej5zp_KWZ-b_1w4Rq2hyA",
 						"publishedAt": "2014-12-10T08:00:03Z",
 						"duration": "PT3M59S",
-						"viewCount": "103014660"
+						"viewCount": "103025733"
 					}
 				]
 			}
 		],
-		"updatedAt": "09142021"
+		"updatedAt": "09152021"
 	},
 	"newReleases": {
 		"name": "Viet Music",
@@ -74,7 +74,7 @@
 						"channelId": "UCB_0AewT7m8Z8JYDVgO25bg",
 						"publishedAt": "2021-09-13T02:00:02Z",
 						"duration": "PT3M29S",
-						"viewCount": "117"
+						"viewCount": "148"
 					},
 					{
 						"id": "_iBMpA9isms",
@@ -83,7 +83,7 @@
 						"channelId": "UCB_0AewT7m8Z8JYDVgO25bg",
 						"publishedAt": "2021-09-13T02:00:12Z",
 						"duration": "PT4M19S",
-						"viewCount": "193"
+						"viewCount": "228"
 					},
 					{
 						"id": "5uu2CwXVihQ",
@@ -92,7 +92,7 @@
 						"channelId": "UCB_0AewT7m8Z8JYDVgO25bg",
 						"publishedAt": "2021-09-13T02:00:01Z",
 						"duration": "PT4M51S",
-						"viewCount": "109"
+						"viewCount": "127"
 					},
 					{
 						"id": "pVsOnLATZ_Y",
@@ -101,7 +101,7 @@
 						"channelId": "UCB_0AewT7m8Z8JYDVgO25bg",
 						"publishedAt": "2021-09-13T02:00:06Z",
 						"duration": "PT3M38S",
-						"viewCount": "74"
+						"viewCount": "90"
 					}
 				]
 			},
@@ -115,12 +115,12 @@
 						"channelId": "UCJOfeazyZi-UjRZ2y8zSQCA",
 						"publishedAt": "2021-09-09T12:00:11Z",
 						"duration": "PT3M27S",
-						"viewCount": "31248"
+						"viewCount": "33295"
 					}
 				]
 			}
 		],
-		"updatedAt": "09142021"
+		"updatedAt": "09152021"
 	},
 	"topAlbums": {
 		"name": "Top Albums",
@@ -135,7 +135,7 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-09-03T09:00:11Z",
 						"duration": "PT4M3S",
-						"viewCount": "5200267"
+						"viewCount": "5287751"
 					},
 					{
 						"id": "3AyMjyHu1bA",
@@ -144,7 +144,7 @@
 						"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
 						"publishedAt": "2020-02-12T20:00:01Z",
 						"duration": "PT3M45S",
-						"viewCount": "420163423"
+						"viewCount": "420407472"
 					},
 					{
 						"id": "2d_zqX3vDk4",
@@ -153,7 +153,7 @@
 						"channelId": "UCupX2J-p__tFgUy2eF9sbHA",
 						"publishedAt": "2021-09-09T10:39:46Z",
 						"duration": "PT3M4S",
-						"viewCount": "7249"
+						"viewCount": "7794"
 					},
 					{
 						"id": "1pBiCChscGY",
@@ -162,7 +162,7 @@
 						"channelId": "UC-w7D3GsJecTHA8Sjcyn6sQ",
 						"publishedAt": "2021-06-22T04:00:59Z",
 						"duration": "PT4M57S",
-						"viewCount": "2371110"
+						"viewCount": "2380128"
 					},
 					{
 						"id": "GLlP-CNlY9I",
@@ -171,7 +171,7 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-09-09T09:00:13Z",
 						"duration": "PT3M36S",
-						"viewCount": "2914690"
+						"viewCount": "3085360"
 					},
 					{
 						"id": "ww9hZfgC2d8",
@@ -180,7 +180,16 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-09-14T09:00:11Z",
 						"duration": "PT3M34S",
-						"viewCount": "60741"
+						"viewCount": "522310"
+					},
+					{
+						"id": "V2Vrak9TtIY",
+						"title": "DMTN(디엠티엔) _ Safety Zone MV",
+						"channelTitle": "1theK (원더케이)",
+						"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+						"publishedAt": "2013-01-29T03:00:14Z",
+						"duration": "PT4M7S",
+						"viewCount": "1128436"
 					},
 					{
 						"id": "i0p1bmr0EmE",
@@ -189,7 +198,7 @@
 						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
 						"publishedAt": "2018-04-09T08:59:51Z",
 						"duration": "PT3M44S",
-						"viewCount": "561626073"
+						"viewCount": "562034130"
 					},
 					{
 						"id": "KmOVNVZEP9o",
@@ -198,125 +207,188 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-08-27T09:00:13Z",
 						"duration": "PT5M31S",
-						"viewCount": "2316803"
+						"viewCount": "2390392"
 					}
 				]
 			},
 			{
-				"name": "=",
+				"name": "SOUR (Video Version)",
 				"songs": [
 					{
-						"id": "z2_Lrg6rRks",
-						"title": "Ed Sheeran - Shivers [Official Lyric Video]",
-						"channelTitle": "Ed Sheeran",
-						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-						"publishedAt": "2021-09-13T16:00:36Z",
-						"duration": "PT3M29S",
-						"viewCount": "386569"
+						"id": "OGUy2UmRxJ0",
+						"title": "Olivia Rodrigo - brutal (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-08-23T17:00:10Z",
+						"duration": "PT2M54S",
+						"viewCount": "19572836"
 					},
 					{
-						"id": "orJSJGHjBLI",
-						"title": "Ed Sheeran - Bad Habits [Official Video]",
-						"channelTitle": "Ed Sheeran",
-						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-						"publishedAt": "2021-06-25T04:00:33Z",
-						"duration": "PT4M1S",
-						"viewCount": "154518146"
+						"id": "6tsu2oeZJgo",
+						"title": "Olivia Rodrigo - traitor (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:02Z",
+						"duration": "PT3M50S",
+						"viewCount": "62627790"
 					},
 					{
-						"id": "koVHN6eO4Xg",
-						"title": "T.I. - Live Your Life ft. Rihanna [Official Video]",
-						"channelTitle": "TIvsTIP",
-						"channelId": "UCsD7zvGKkqB7GvQpygW2few",
-						"publishedAt": "2008-10-27T16:50:13Z",
-						"duration": "PT5M32S",
-						"viewCount": "224932596"
+						"id": "ZmDBbnmKpqQ",
+						"title": "Olivia Rodrigo - drivers license (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-01-08T05:00:22Z",
+						"duration": "PT4M7S",
+						"viewCount": "284618851"
 					},
 					{
-						"id": "29MQWQzvz7U",
-						"title": "Justine Skye ft Tyga - Collide (Prod. DJ Mustard)",
-						"channelTitle": "Justine Skye",
-						"channelId": "UCmbzA2bP0GqrqekDDkRg-DQ",
-						"publishedAt": "2014-08-25T18:52:45Z",
-						"duration": "PT4M20S",
-						"viewCount": "4447874"
+						"id": "w-HfMiue7-k",
+						"title": "Olivia Rodrigo - 1 step forward, 3 steps back (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:13Z",
+						"duration": "PT2M45S",
+						"viewCount": "15768766"
 					},
 					{
-						"id": "64DtWBXjU2Y",
-						"title": "DAY6「Stop The Rain」Music Video",
-						"channelTitle": "Warner Music Japan",
-						"channelId": "UCfb-Ly0RXaUGxglFJmPji1g",
-						"publishedAt": "2018-06-18T01:00:00Z",
-						"duration": "PT4M38S",
-						"viewCount": "3992647"
+						"id": "cii6ruuycQA",
+						"title": "Olivia Rodrigo - deja vu (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-04-01T16:00:27Z",
+						"duration": "PT3M52S",
+						"viewCount": "160760281"
 					},
 					{
-						"id": "qIy3-uR3u1A",
-						"title": "BTS Taehyung & NIve \"Love You In Slow Motion\" April 27, 2020 on BTS_twt",
-						"channelTitle": "stareski",
-						"channelId": "UCE2Ghqnn45T5ZfB_7QYsLCA",
-						"publishedAt": "2020-04-28T02:39:36Z",
-						"duration": "PT1M22S",
-						"viewCount": "29203"
+						"id": "gNi_6U5Pm_o",
+						"title": "Olivia Rodrigo - good 4 u (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-14T04:00:09Z",
+						"duration": "PT3M19S",
+						"viewCount": "252890907"
 					},
 					{
-						"id": "t3CoEyYEf4A",
-						"title": "Ed Sheeran - Visiting Hours [Official Performance Video]",
-						"channelTitle": "Ed Sheeran",
-						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-						"publishedAt": "2021-08-19T13:00:24Z",
-						"duration": "PT3M49S",
-						"viewCount": "12686717"
+						"id": "AqRXiQkyxvI",
+						"title": "Olivia Rodrigo - enough for you (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:02Z",
+						"duration": "PT3M24S",
+						"viewCount": "19942760"
 					},
 					{
-						"id": "CX45pYvxDiA",
-						"title": "Mr. Sandman - The Chordettes",
-						"channelTitle": "RiulDoamnei",
-						"channelId": "UCEvjvslgH-e29mufOOKC6Qg",
-						"publishedAt": "2010-03-21T23:28:36Z",
-						"duration": "PT2M24S",
-						"viewCount": "47096325"
+						"id": "ZQFmRXgeR-s",
+						"title": "Olivia Rodrigo - happier (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:10Z",
+						"duration": "PT2M57S",
+						"viewCount": "71709947"
+					},
+					{
+						"id": "Z-9gQjUZMm0",
+						"title": "Olivia Rodrigo - jealousy, jealousy (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:09Z",
+						"duration": "PT2M54S",
+						"viewCount": "37574499"
+					},
+					{
+						"id": "AyX_LL9nWSE",
+						"title": "Olivia Rodrigo - favorite crime (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:03Z",
+						"duration": "PT2M34S",
+						"viewCount": "34114591"
+					},
+					{
+						"id": "ZLlsmB1D4Q0",
+						"title": "Olivia Rodrigo - hope ur ok (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:08Z",
+						"duration": "PT3M31S",
+						"viewCount": "11906952"
+					},
+					{
+						"id": "ZmDBbnmKpqQ",
+						"title": "Olivia Rodrigo - drivers license (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-01-08T05:00:22Z",
+						"duration": "PT4M7S",
+						"viewCount": "284618851"
+					},
+					{
+						"id": "cii6ruuycQA",
+						"title": "Olivia Rodrigo - deja vu (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-04-01T16:00:27Z",
+						"duration": "PT3M52S",
+						"viewCount": "160760281"
+					},
+					{
+						"id": "gNi_6U5Pm_o",
+						"title": "Olivia Rodrigo - good 4 u (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-14T04:00:09Z",
+						"duration": "PT3M19S",
+						"viewCount": "252890907"
+					},
+					{
+						"id": "OGUy2UmRxJ0",
+						"title": "Olivia Rodrigo - brutal (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-08-23T17:00:10Z",
+						"duration": "PT2M54S",
+						"viewCount": "19572836"
 					}
 				]
 			},
 			{
-				"name": "Love, Yerin - EP",
+				"name": "ZERO : FEVER, Pt. 3 - EP",
 				"songs": [
 					{
-						"id": "weRHyjj34ZE",
-						"title": "Shakira - Whenever, Wherever (Video)",
-						"channelTitle": "shakiraVEVO",
-						"channelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
-						"publishedAt": "2009-10-03T20:24:15Z",
-						"duration": "PT3M18S",
-						"viewCount": "592935062"
+						"id": "9CPrit3Mh7M",
+						"title": "ATEEZ (에이티즈) - ‘ETERNAL SUNSHINE’ Lyrics [Color Coded_Han_Rom_Eng]",
+						"channelTitle": "Zaty Farhani",
+						"channelId": "UCdV79O72wNg4Trqsc_934TQ",
+						"publishedAt": "2021-09-13T10:33:42Z",
+						"duration": "PT4M2S",
+						"viewCount": "23716"
 					},
 					{
-						"id": "74_yqNBhQbA",
-						"title": "백예린 (Yerin Baek) 'Antifreeze' Lyric Video",
-						"channelTitle": "Yerin Baek",
-						"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-						"publishedAt": "2021-09-10T09:00:03Z",
-						"duration": "PT4M15S",
-						"viewCount": "130770"
+						"id": "1mnFrzKyIWg",
+						"title": "ATEEZ (에이티즈) - ‘FEELING LIKE I DO’ Lyrics [Color Coded_Han_Rom_Eng]",
+						"channelTitle": "Zaty Farhani",
+						"channelId": "UCdV79O72wNg4Trqsc_934TQ",
+						"publishedAt": "2021-09-13T11:06:21Z",
+						"duration": "PT3M51S",
+						"viewCount": "13621"
 					},
 					{
-						"id": "a3Z4RWZa9WA",
-						"title": "Big Bad Voodoo Daddy - Why Me? (Official Video)",
-						"channelTitle": "BigBadVoodooVEVO",
-						"channelId": "UC_qsVkL8Kf27hyv9oTxHOhQ",
-						"publishedAt": "2013-01-15T08:00:41Z",
-						"duration": "PT3M43S",
-						"viewCount": "16844993"
+						"id": "cii6ruuycQA",
+						"title": "Olivia Rodrigo - deja vu (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-04-01T16:00:27Z",
+						"duration": "PT3M52S",
+						"viewCount": "160760281"
 					},
 					{
-						"id": "vKMoRT-dM0Q",
-						"title": "Pyo Ye Jin (표예진) - 'A Walk' [산책] TAXI DRIVER OST Part 3 [모범택시 OST Part 3] Lyrics/가사 [Han|Rom|Eng]",
-						"channelTitle": "AlphaSubs",
-						"channelId": "UCDkKuGZovR6UUYkUgtW0FlQ",
-						"publishedAt": "2021-04-30T09:46:34Z",
-						"duration": "PT4M31S",
-						"viewCount": "150374"
+						"id": "kpBpxIlNvqs",
+						"title": "ATEEZ (에이티즈) - ‘NOT TOO LATE’ (밤하늘) Lyrics [Color Coded_Han_Rom_Eng]",
+						"channelTitle": "Zaty Farhani",
+						"channelId": "UCdV79O72wNg4Trqsc_934TQ",
+						"publishedAt": "2021-09-13T13:35:57Z",
+						"duration": "PT4M7S",
+						"viewCount": "21958"
 					}
 				]
 			},
@@ -325,12 +397,12 @@
 				"songs": [
 					{
 						"id": "eFu1P-BPglE",
-						"title": "Kacey Musgraves - good wife (official lyric video)",
+						"title": "KACEY MUSGRAVES - good wife (official lyric video)",
 						"channelTitle": "KaceyMusgravesVEVO",
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-09-10T04:00:10Z",
 						"duration": "PT4M2S",
-						"viewCount": "62851"
+						"viewCount": "69287"
 					},
 					{
 						"id": "tXV7dfvSefo",
@@ -339,7 +411,7 @@
 						"channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
 						"publishedAt": "2012-04-02T00:50:31Z",
 						"duration": "PT4M56S",
-						"viewCount": "26397278"
+						"viewCount": "26398764"
 					},
 					{
 						"id": "aFDa0Qv9wXA",
@@ -348,7 +420,7 @@
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-09-10T04:00:11Z",
 						"duration": "PT5M47S",
-						"viewCount": "1155186"
+						"viewCount": "1337135"
 					},
 					{
 						"id": "O8qdfrEUtcU",
@@ -357,7 +429,7 @@
 						"channelId": "UCKZ_gyRjtN4V2fjMkBFwX6g",
 						"publishedAt": "2011-12-14T01:24:30Z",
 						"duration": "PT4M6S",
-						"viewCount": "4578277"
+						"viewCount": "4579024"
 					},
 					{
 						"id": "i-0PaQanGBc",
@@ -366,7 +438,7 @@
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-08-27T04:00:11Z",
 						"duration": "PT4M21S",
-						"viewCount": "1659895"
+						"viewCount": "1679612"
 					},
 					{
 						"id": "hawIGkpGMMc",
@@ -375,25 +447,25 @@
 						"channelId": "UC9tqBK5iQ9FjjM_zJu74E6w",
 						"publishedAt": "2018-05-10T11:30:01Z",
 						"duration": "PT3M42S",
-						"viewCount": "5536902"
+						"viewCount": "5543808"
 					},
 					{
 						"id": "3EWjQ9FG5V0",
-						"title": "Kacey Musgraves - breadwinner (official lyric video)",
+						"title": "KACEY MUSGRAVES - breadwinner (official lyric video)",
 						"channelTitle": "KaceyMusgravesVEVO",
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-09-10T04:00:02Z",
 						"duration": "PT3M41S",
-						"viewCount": "52521"
+						"viewCount": "61410"
 					},
 					{
 						"id": "Igy7ZFauA0I",
-						"title": "Kacey Musgraves - camera roll (official lyric video)",
+						"title": "KACEY MUSGRAVES - camera roll (official lyric video)",
 						"channelTitle": "KaceyMusgravesVEVO",
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-09-10T04:00:11Z",
 						"duration": "PT2M52S",
-						"viewCount": "36949"
+						"viewCount": "41286"
 					},
 					{
 						"id": "cfI36wjg8nY",
@@ -402,34 +474,43 @@
 						"channelId": "UC1EwyHfJHEKnA7kKfcGhlIw",
 						"publishedAt": "2018-11-30T05:00:03Z",
 						"duration": "PT3M27S",
-						"viewCount": "690969"
+						"viewCount": "691122"
 					},
 					{
 						"id": "QACXR0J-2UA",
-						"title": "Kacey Musgraves - hookup scene (official lyric video)",
+						"title": "KACEY MUSGRAVES - hookup scene (official lyric video)",
 						"channelTitle": "KaceyMusgravesVEVO",
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-09-10T04:00:16Z",
 						"duration": "PT3M32S",
-						"viewCount": "33319"
+						"viewCount": "36911"
 					},
 					{
 						"id": "x1oTD_b9hyw",
-						"title": "Kacey Musgraves - keep lookin’ up (official lyric video)",
+						"title": "KACEY MUSGRAVES - keep lookin’ up (official lyric video)",
 						"channelTitle": "KaceyMusgravesVEVO",
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-09-10T04:00:31Z",
 						"duration": "PT2M57S",
-						"viewCount": "28652"
+						"viewCount": "32040"
 					},
 					{
 						"id": "CC2O5Ad7D30",
-						"title": "Kacey Musgraves - what doesn’t kill me (official lyric video)",
+						"title": "KACEY MUSGRAVES - what doesn’t kill me (official lyric video)",
 						"channelTitle": "KaceyMusgravesVEVO",
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-09-10T04:00:03Z",
 						"duration": "PT2M28S",
-						"viewCount": "24627"
+						"viewCount": "27423"
+					},
+					{
+						"id": "vRCgBRL0NUo",
+						"title": "KACEY MUSGRAVES - there is a light (official lyric video)",
+						"channelTitle": "KaceyMusgravesVEVO",
+						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
+						"publishedAt": "2021-09-10T04:00:20Z",
+						"duration": "PT4M2S",
+						"viewCount": "30330"
 					},
 					{
 						"id": "cIrGQD84F1g",
@@ -438,12 +519,12 @@
 						"channelId": "UCuJXQzdMnQuNGkYJqgIwb-w",
 						"publishedAt": "2009-10-04T22:14:56Z",
 						"duration": "PT5M30S",
-						"viewCount": "9193911"
+						"viewCount": "9197521"
 					}
 				]
 			}
 		],
-		"updatedAt": "09142021"
+		"updatedAt": "09152021"
 	},
 	"topSongs": {
 		"name": "Top Songs",
@@ -455,7 +536,7 @@
 				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
 				"publishedAt": "2021-09-10T04:00:13Z",
 				"duration": "PT3M27S",
-				"viewCount": "134820021"
+				"viewCount": "142250233"
 			},
 			{
 				"id": "joLR_b8ERak",
@@ -464,16 +545,7 @@
 				"channelId": "UCmth4hMyizG-_W9jidBqs_A",
 				"publishedAt": "2021-09-10T04:27:11Z",
 				"duration": "PT2M47S",
-				"viewCount": "2971888"
-			},
-			{
-				"id": "vpRi8S6uXAg",
-				"title": "có hẹn với thanh xuân - MONSTAR | official music video",
-				"channelTitle": "ST.319 Entertainment",
-				"channelId": "UCSnVteUNlhr1SqCjTQx0PDQ",
-				"publishedAt": "2021-07-18T12:00:12Z",
-				"duration": "PT4M29S",
-				"viewCount": "6875697"
+				"viewCount": "3256768"
 			},
 			{
 				"id": "tyYwOEKKcZc",
@@ -482,25 +554,7 @@
 				"channelId": "UCnsa7fw1hZHP5qvf8zVGnvA",
 				"publishedAt": "2021-09-09T22:00:32Z",
 				"duration": "PT3M41S",
-				"viewCount": "652834"
-			},
-			{
-				"id": "kfw7MYah2n0",
-				"title": "3107 3 - W/n  ft. ( Nâu,Duongg,Titie )| OFFICIAL MV",
-				"channelTitle": "W/n",
-				"channelId": "UC6UrwtJjV4xPxxZo-ZEpQYA",
-				"publishedAt": "2021-07-31T13:00:09Z",
-				"duration": "PT3M55S",
-				"viewCount": "19444092"
-			},
-			{
-				"id": "orJSJGHjBLI",
-				"title": "Ed Sheeran - Bad Habits [Official Video]",
-				"channelTitle": "Ed Sheeran",
-				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-				"publishedAt": "2021-06-25T04:00:33Z",
-				"duration": "PT4M1S",
-				"viewCount": "154518146"
+				"viewCount": "724707"
 			},
 			{
 				"id": "z2_Lrg6rRks",
@@ -509,7 +563,25 @@
 				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 				"publishedAt": "2021-09-13T16:00:36Z",
 				"duration": "PT3M29S",
-				"viewCount": "387860"
+				"viewCount": "666376"
+			},
+			{
+				"id": "vpRi8S6uXAg",
+				"title": "có hẹn với thanh xuân - MONSTAR | official music video",
+				"channelTitle": "ST.319 Entertainment",
+				"channelId": "UCSnVteUNlhr1SqCjTQx0PDQ",
+				"publishedAt": "2021-07-18T12:00:12Z",
+				"duration": "PT4M29S",
+				"viewCount": "6940740"
+			},
+			{
+				"id": "orJSJGHjBLI",
+				"title": "Ed Sheeran - Bad Habits [Official Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2021-06-25T04:00:33Z",
+				"duration": "PT4M1S",
+				"viewCount": "155415376"
 			},
 			{
 				"id": "xypzmu5mMPY",
@@ -518,7 +590,25 @@
 				"channelId": "UClyA28-01x4z60eWQ2kiNbA",
 				"publishedAt": "2021-04-29T14:57:12Z",
 				"duration": "PT4M49S",
-				"viewCount": "127622182"
+				"viewCount": "127717391"
+			},
+			{
+				"id": "kfw7MYah2n0",
+				"title": "3107 3 - W/n  ft. ( Nâu,Duongg,Titie )| OFFICIAL MV",
+				"channelTitle": "W/n",
+				"channelId": "UC6UrwtJjV4xPxxZo-ZEpQYA",
+				"publishedAt": "2021-07-31T13:00:09Z",
+				"duration": "PT3M55S",
+				"viewCount": "19518040"
+			},
+			{
+				"id": "MRLVI0Kf73U",
+				"title": "dhruv - double take (Lyrics)",
+				"channelTitle": "Pizza Music",
+				"channelId": "UCa2Nr1Qm93k07VuwEXCnrog",
+				"publishedAt": "2021-09-14T17:00:13Z",
+				"duration": "PT2M55S",
+				"viewCount": "18628"
 			},
 			{
 				"id": "0EVVKs6DQLo",
@@ -527,16 +617,7 @@
 				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
 				"publishedAt": "2021-04-09T04:00:00Z",
 				"duration": "PT5M16S",
-				"viewCount": "201037787"
-			},
-			{
-				"id": "MJof72w7-r4",
-				"title": "double take - dhruv // ( lyrics vietsub )",
-				"channelTitle": "Peace.k2",
-				"channelId": "UC-Beiv6Egi5F3C-ffjKiVoQ",
-				"publishedAt": "2021-05-26T11:15:12Z",
-				"duration": "PT3M19S",
-				"viewCount": "3236274"
+				"viewCount": "201643721"
 			},
 			{
 				"id": "psZ1g9fMfeo",
@@ -545,7 +626,7 @@
 				"channelId": "UClyA28-01x4z60eWQ2kiNbA",
 				"publishedAt": "2020-12-20T13:20:10Z",
 				"duration": "PT14M51S",
-				"viewCount": "84227376"
+				"viewCount": "84257964"
 			},
 			{
 				"id": "R3trO4a49go",
@@ -554,34 +635,7 @@
 				"channelId": "UCCCRRUvgvygH82HAugJjDLw",
 				"publishedAt": "2021-07-14T12:00:09Z",
 				"duration": "PT5M18S",
-				"viewCount": "12682490"
-			},
-			{
-				"id": "Zzn9-ATB9aU",
-				"title": "Nàng Thơ | Hoàng Dũng | Official MV",
-				"channelTitle": "Hoàng Dũng",
-				"channelId": "UCZzKnnb8ENdw1AFrK8xLDDg",
-				"publishedAt": "2020-08-03T13:00:12Z",
-				"duration": "PT5M22S",
-				"viewCount": "79079252"
-			},
-			{
-				"id": "faSVTByG0LQ",
-				"title": "WREN EVANS - THÍCH EM HƠI NHIỀU (OFFICIAL MUSIC VIDEO)",
-				"channelTitle": "Wren Evans Official",
-				"channelId": "UCtpX-hGGBtH2ZvVX9_5RwFg",
-				"publishedAt": "2021-06-18T13:00:12Z",
-				"duration": "PT3M21S",
-				"viewCount": "15493026"
-			},
-			{
-				"id": "mnBAZ-VkuEg",
-				"title": "JSOL & HOÀNG DUYÊN - SÀI GÒN HÔM NAY MƯA | Official MV",
-				"channelTitle": "DreamS Entertainment",
-				"channelId": "UCePk6_QtQ7zbcR4HBuS357A",
-				"publishedAt": "2021-05-29T13:00:13Z",
-				"duration": "PT4M16S",
-				"viewCount": "10762762"
+				"viewCount": "12724142"
 			},
 			{
 				"id": "tQ0yjYUFKAE",
@@ -590,7 +644,34 @@
 				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
 				"publishedAt": "2021-03-19T04:00:15Z",
 				"duration": "PT3M18S",
-				"viewCount": "377963373"
+				"viewCount": "378605099"
+			},
+			{
+				"id": "Zzn9-ATB9aU",
+				"title": "Nàng Thơ | Hoàng Dũng | Official MV",
+				"channelTitle": "Hoàng Dũng",
+				"channelId": "UCZzKnnb8ENdw1AFrK8xLDDg",
+				"publishedAt": "2020-08-03T13:00:12Z",
+				"duration": "PT5M22S",
+				"viewCount": "79119166"
+			},
+			{
+				"id": "faSVTByG0LQ",
+				"title": "WREN EVANS - THÍCH EM HƠI NHIỀU (OFFICIAL MUSIC VIDEO)",
+				"channelTitle": "Wren Evans Official",
+				"channelId": "UCtpX-hGGBtH2ZvVX9_5RwFg",
+				"publishedAt": "2021-06-18T13:00:12Z",
+				"duration": "PT3M21S",
+				"viewCount": "15527401"
+			},
+			{
+				"id": "mnBAZ-VkuEg",
+				"title": "JSOL & HOÀNG DUYÊN - SÀI GÒN HÔM NAY MƯA | Official MV",
+				"channelTitle": "DreamS Entertainment",
+				"channelId": "UCePk6_QtQ7zbcR4HBuS357A",
+				"publishedAt": "2021-05-29T13:00:13Z",
+				"duration": "PT4M16S",
+				"viewCount": "10778410"
 			},
 			{
 				"id": "wssbBe_t-r4",
@@ -599,25 +680,7 @@
 				"channelId": "UCpg3O1quTzj7QpDHdhu6pNw",
 				"publishedAt": "2021-08-18T13:00:12Z",
 				"duration": "PT5M32S",
-				"viewCount": "6233102"
-			},
-			{
-				"id": "KmOVNVZEP9o",
-				"title": "이하이 (LeeHi) - 'ONLY' Official MV (ENG/CHN)",
-				"channelTitle": "AOMGOFFICIAL",
-				"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-				"publishedAt": "2021-08-27T09:00:13Z",
-				"duration": "PT5M31S",
-				"viewCount": "2316803"
-			},
-			{
-				"id": "K9_VFxzCuQ0",
-				"title": "ROSÉ - 'Gone' M/V",
-				"channelTitle": "BLACKPINK",
-				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-				"publishedAt": "2021-04-04T15:00:06Z",
-				"duration": "PT3M41S",
-				"viewCount": "126790235"
+				"viewCount": "6285717"
 			},
 			{
 				"id": "ioNng23DkIM",
@@ -626,133 +689,16 @@
 				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
 				"publishedAt": "2020-06-26T08:58:14Z",
 				"duration": "PT3M4S",
-				"viewCount": "962236763"
+				"viewCount": "962883067"
 			},
 			{
-				"id": "CKZvWhCqx1s",
-				"title": "ROSÉ - 'On The Ground' M/V",
+				"id": "K9_VFxzCuQ0",
+				"title": "ROSÉ - 'Gone' M/V",
 				"channelTitle": "BLACKPINK",
 				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-				"publishedAt": "2021-03-12T05:00:15Z",
-				"duration": "PT3M9S",
-				"viewCount": "224862013"
-			},
-			{
-				"id": "LIIDh-qI9oI",
-				"title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
-				"channelTitle": "TheWeekndVEVO",
-				"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
-				"publishedAt": "2021-04-23T04:00:06Z",
-				"duration": "PT3M26S",
-				"viewCount": "141499614"
-			},
-			{
-				"id": "sG9JhIRuTkA",
-				"title": "SOOBIN - THÁNG NĂM (Official Music Video)",
-				"channelTitle": "SOOBIN Official",
-				"channelId": "UCpVvunMbMvVj9DgCiOSBdcg",
-				"publishedAt": "2020-12-15T13:00:16Z",
-				"duration": "PT3M57S",
-				"viewCount": "9477382"
-			},
-			{
-				"id": "dI3xkL7qUAc",
-				"title": "Doja Cat - Need To Know (Official Video)",
-				"channelTitle": "dojacatVEVO",
-				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-				"publishedAt": "2021-06-11T14:00:11Z",
-				"duration": "PT3M40S",
-				"viewCount": "78430334"
-			},
-			{
-				"id": "Ws-QlpSltr8",
-				"title": "Đen - Trốn Tìm ft. MTV band (M/V)",
-				"channelTitle": "Đen Vâu Official",
-				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
-				"publishedAt": "2021-05-13T13:00:16Z",
-				"duration": "PT4M13S",
-				"viewCount": "45346626"
-			},
-			{
-				"id": "lxFmeBhoA1Y",
-				"title": "[Official Lyric Video] Tháng Mấy Em Nhớ Anh? || Hà Anh Tuấn",
-				"channelTitle": "Hà Anh Tuấn",
-				"channelId": "UCV7qWy2FoFZ4v4p1x_R-n3Q",
-				"publishedAt": "2021-04-01T14:00:18Z",
-				"duration": "PT6M10S",
-				"viewCount": "14350315"
-			},
-			{
-				"id": "d44UTUSTYKU",
-				"title": "SOOBIN X SLIMV - THE PLAYAH (Special Performance / Official Music Video)",
-				"channelTitle": "SOOBIN Official",
-				"channelId": "UCpVvunMbMvVj9DgCiOSBdcg",
-				"publishedAt": "2021-05-14T13:00:18Z",
-				"duration": "PT8M27S",
-				"viewCount": "28762543"
-			},
-			{
-				"id": "KKc_RMln5UY",
-				"title": "Đen - Lối Nhỏ ft. Phương Anh Đào (M/V)",
-				"channelTitle": "Đen Vâu Official",
-				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
-				"publishedAt": "2019-10-21T13:30:15Z",
-				"duration": "PT4M57S",
-				"viewCount": "118408315"
-			},
-			{
-				"id": "c9RzZpV460k",
-				"title": "Red Velvet 레드벨벳 'Queendom' MV",
-				"channelTitle": "SMTOWN",
-				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-				"publishedAt": "2021-08-16T09:00:48Z",
-				"duration": "PT3M10S",
-				"viewCount": "64525809"
-			},
-			{
-				"id": "BdPk9ipvczM",
-				"title": "'SÀI GÒN ĐAU LÒNG QUÁ' toàn kỷ niệm chúng ta... | HỨA KIM TUYỀN x HOÀNG DUYÊN (OFFICIAL MV)",
-				"channelTitle": "Hứa Kim Tuyền",
-				"channelId": "UCS2cqd5fmWvAo5l0mWeOJcA",
-				"publishedAt": "2021-03-28T12:00:16Z",
-				"duration": "PT5M13S",
-				"viewCount": "41076785"
-			},
-			{
-				"id": "CuklIb9d3fI",
-				"title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
-				"channelTitle": "HYBE LABELS",
-				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-				"publishedAt": "2021-07-09T03:59:12Z",
-				"duration": "PT5M",
-				"viewCount": "306178973"
-			},
-			{
-				"id": "adLGHcj_fmA",
-				"title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]",
-				"channelTitle": "Bruno Mars",
-				"channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
-				"publishedAt": "2021-03-05T05:00:00Z",
-				"duration": "PT4M9S",
-				"viewCount": "392704537"
-			},
-			{
-				"id": "Zw7AXeVOU2w",
-				"title": "Sub Urban & Bella Poarch - INFERNO (Lyrics)",
-				"channelTitle": "Blueberry",
-				"channelId": "UCK47S4lcvEoN__hPB4sICmg",
-				"publishedAt": "2021-09-13T13:30:05Z",
-				"duration": "PT2M14S",
-				"viewCount": "29459"
-			},
-			{
-				"id": "xPYLSvJDbh8",
-				"title": "BLACKPINK - 'PRETTY SAVAGE' (Japan Version) Lyrics [Color Coded_Kan_Rom_Eng]",
-				"channelTitle": "Zaty Farhani",
-				"channelId": "UCdV79O72wNg4Trqsc_934TQ",
-				"publishedAt": "2021-08-02T16:12:16Z",
-				"duration": "PT3M53S",
-				"viewCount": "180858"
+				"publishedAt": "2021-04-04T15:00:06Z",
+				"duration": "PT3M41S",
+				"viewCount": "127189798"
 			},
 			{
 				"id": "UTHLKHL_whs",
@@ -761,7 +707,106 @@
 				"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 				"publishedAt": "2021-07-23T04:00:12Z",
 				"duration": "PT3M56S",
-				"viewCount": "115964633"
+				"viewCount": "117040097"
+			},
+			{
+				"id": "dI3xkL7qUAc",
+				"title": "Doja Cat - Need To Know (Official Video)",
+				"channelTitle": "dojacatVEVO",
+				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+				"publishedAt": "2021-06-11T14:00:11Z",
+				"duration": "PT3M40S",
+				"viewCount": "78970351"
+			},
+			{
+				"id": "Ws-QlpSltr8",
+				"title": "Đen - Trốn Tìm ft. MTV band (M/V)",
+				"channelTitle": "Đen Vâu Official",
+				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
+				"publishedAt": "2021-05-13T13:00:16Z",
+				"duration": "PT4M13S",
+				"viewCount": "45385236"
+			},
+			{
+				"id": "CKZvWhCqx1s",
+				"title": "ROSÉ - 'On The Ground' M/V",
+				"channelTitle": "BLACKPINK",
+				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
+				"publishedAt": "2021-03-12T05:00:15Z",
+				"duration": "PT3M9S",
+				"viewCount": "225352517"
+			},
+			{
+				"id": "LIIDh-qI9oI",
+				"title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
+				"channelTitle": "TheWeekndVEVO",
+				"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+				"publishedAt": "2021-04-23T04:00:06Z",
+				"duration": "PT3M26S",
+				"viewCount": "141823352"
+			},
+			{
+				"id": "UyXngX4kTfE",
+				"title": "THÁNG NĂM ( THE PLAYAH ) SOOBIN x SLIMV | NEW VERSION | MV LYRICS",
+				"channelTitle": "Hee Official",
+				"channelId": "UCrjx9LsiJVxXavwKq1jQxtA",
+				"publishedAt": "2021-06-01T19:57:51Z",
+				"duration": "PT3M11S",
+				"viewCount": "2382219"
+			},
+			{
+				"id": "d44UTUSTYKU",
+				"title": "SOOBIN X SLIMV - THE PLAYAH (Special Performance / Official Music Video)",
+				"channelTitle": "SOOBIN Official",
+				"channelId": "UCpVvunMbMvVj9DgCiOSBdcg",
+				"publishedAt": "2021-05-14T13:00:18Z",
+				"duration": "PT8M27S",
+				"viewCount": "28808649"
+			},
+			{
+				"id": "lxFmeBhoA1Y",
+				"title": "[Official Lyric Video] Tháng Mấy Em Nhớ Anh? || Hà Anh Tuấn",
+				"channelTitle": "Hà Anh Tuấn",
+				"channelId": "UCV7qWy2FoFZ4v4p1x_R-n3Q",
+				"publishedAt": "2021-04-01T14:00:18Z",
+				"duration": "PT6M10S",
+				"viewCount": "14381521"
+			},
+			{
+				"id": "adLGHcj_fmA",
+				"title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]",
+				"channelTitle": "Bruno Mars",
+				"channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+				"publishedAt": "2021-03-05T05:00:00Z",
+				"duration": "PT4M9S",
+				"viewCount": "393244737"
+			},
+			{
+				"id": "KKc_RMln5UY",
+				"title": "Đen - Lối Nhỏ ft. Phương Anh Đào (M/V)",
+				"channelTitle": "Đen Vâu Official",
+				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
+				"publishedAt": "2019-10-21T13:30:15Z",
+				"duration": "PT4M57S",
+				"viewCount": "118446177"
+			},
+			{
+				"id": "CuklIb9d3fI",
+				"title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2021-07-09T03:59:12Z",
+				"duration": "PT5M",
+				"viewCount": "307214323"
+			},
+			{
+				"id": "c9RzZpV460k",
+				"title": "Red Velvet 레드벨벳 'Queendom' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2021-08-16T09:00:48Z",
+				"duration": "PT3M10S",
+				"viewCount": "64891376"
 			},
 			{
 				"id": "tcYodQoapMg",
@@ -770,7 +815,7 @@
 				"channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
 				"publishedAt": "2020-10-23T04:00:10Z",
 				"duration": "PT2M58S",
-				"viewCount": "361763270"
+				"viewCount": "361964041"
 			},
 			{
 				"id": "8CEJoCr_9UI",
@@ -779,25 +824,7 @@
 				"channelId": "UCnzEF-_PurXQTK2uQ-A3Oww",
 				"publishedAt": "2020-09-24T19:00:10Z",
 				"duration": "PT3M12S",
-				"viewCount": "120292091"
-			},
-			{
-				"id": "tg2uF3R_Ozo",
-				"title": "SOMI (전소미) - 'DUMB DUMB' M/V",
-				"channelTitle": "THEBLACKLABEL",
-				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
-				"publishedAt": "2021-08-02T09:00:15Z",
-				"duration": "PT2M59S",
-				"viewCount": "76232215"
-			},
-			{
-				"id": "LbANX0zTlDk",
-				"title": "ERIK - 'Dịu Dàng Em Đến' (Official MV)",
-				"channelTitle": "ERIK Official",
-				"channelId": "UCQnw0PycCRlSsT8fQlTDyBA",
-				"publishedAt": "2021-08-30T12:00:12Z",
-				"duration": "PT3M9S",
-				"viewCount": "709065"
+				"viewCount": "120384759"
 			},
 			{
 				"id": "n6Pnzi6r9NU",
@@ -806,25 +833,43 @@
 				"channelId": "UCePWSQHSdXqzQlzyJfwY1Jg",
 				"publishedAt": "2020-12-10T13:00:10Z",
 				"duration": "PT5M43S",
-				"viewCount": "33488292"
+				"viewCount": "33518131"
 			},
 			{
-				"id": "dyRsYk0LyA8",
-				"title": "BLACKPINK - 'Lovesick Girls' M/V",
-				"channelTitle": "BLACKPINK",
-				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-				"publishedAt": "2020-10-02T04:00:13Z",
-				"duration": "PT3M22S",
-				"viewCount": "480466963"
+				"id": "xPYLSvJDbh8",
+				"title": "BLACKPINK - 'PRETTY SAVAGE' (Japan Version) Lyrics [Color Coded_Kan_Rom_Eng]",
+				"channelTitle": "Zaty Farhani",
+				"channelId": "UCdV79O72wNg4Trqsc_934TQ",
+				"publishedAt": "2021-08-02T16:12:16Z",
+				"duration": "PT3M53S",
+				"viewCount": "181997"
 			},
 			{
-				"id": "fHI8X4OXluQ",
-				"title": "The Weeknd - Blinding Lights (Official Audio)",
-				"channelTitle": "TheWeekndVEVO",
-				"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
-				"publishedAt": "2019-11-29T05:00:08Z",
-				"duration": "PT3M24S",
-				"viewCount": "583507562"
+				"id": "gNi_6U5Pm_o",
+				"title": "Olivia Rodrigo - good 4 u (Official Video)",
+				"channelTitle": "OliviaRodrigoVEVO",
+				"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+				"publishedAt": "2021-05-14T04:00:09Z",
+				"duration": "PT3M19S",
+				"viewCount": "252890907"
+			},
+			{
+				"id": "BdPk9ipvczM",
+				"title": "'SÀI GÒN ĐAU LÒNG QUÁ' toàn kỷ niệm chúng ta... | HỨA KIM TUYỀN x HOÀNG DUYÊN (OFFICIAL MV)",
+				"channelTitle": "Hứa Kim Tuyền",
+				"channelId": "UCS2cqd5fmWvAo5l0mWeOJcA",
+				"publishedAt": "2021-03-28T12:00:16Z",
+				"duration": "PT5M13S",
+				"viewCount": "41107002"
+			},
+			{
+				"id": "Zw7AXeVOU2w",
+				"title": "Sub Urban & Bella Poarch - INFERNO (Lyrics)",
+				"channelTitle": "Blueberry",
+				"channelId": "UCK47S4lcvEoN__hPB4sICmg",
+				"publishedAt": "2021-09-13T13:30:05Z",
+				"duration": "PT2M14S",
+				"viewCount": "68698"
 			},
 			{
 				"id": "vTJdVE_gjI0",
@@ -833,7 +878,7 @@
 				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
 				"publishedAt": "2020-12-18T13:00:20Z",
 				"duration": "PT3M26S",
-				"viewCount": "99520126"
+				"viewCount": "99553741"
 			},
 			{
 				"id": "EROYsCK0vK4",
@@ -842,7 +887,16 @@
 				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 				"publishedAt": "2021-09-14T09:00:13Z",
 				"duration": "PT3M30S",
-				"viewCount": "166713"
+				"viewCount": "879712"
+			},
+			{
+				"id": "cii6ruuycQA",
+				"title": "Olivia Rodrigo - deja vu (Official Video)",
+				"channelTitle": "OliviaRodrigoVEVO",
+				"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+				"publishedAt": "2021-04-01T16:00:27Z",
+				"duration": "PT3M52S",
+				"viewCount": "160760281"
 			},
 			{
 				"id": "fOoSbUoayQE",
@@ -851,9 +905,36 @@
 				"channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
 				"publishedAt": "2019-10-01T20:00:11Z",
 				"duration": "PT3M22S",
-				"viewCount": "56118714"
+				"viewCount": "56216092"
+			},
+			{
+				"id": "tg2uF3R_Ozo",
+				"title": "SOMI (전소미) - 'DUMB DUMB' M/V",
+				"channelTitle": "THEBLACKLABEL",
+				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+				"publishedAt": "2021-08-02T09:00:15Z",
+				"duration": "PT2M59S",
+				"viewCount": "76762081"
+			},
+			{
+				"id": "ZQFmRXgeR-s",
+				"title": "Olivia Rodrigo - happier (Lyric Video)",
+				"channelTitle": "OliviaRodrigoVEVO",
+				"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+				"publishedAt": "2021-05-21T04:00:10Z",
+				"duration": "PT2M57S",
+				"viewCount": "71709947"
+			},
+			{
+				"id": "ECxVfrwwTp0",
+				"title": "Gác lại âu lo - Da LAB ft. Miu Lê (Official MV)",
+				"channelTitle": "Da LAB Official",
+				"channelId": "UCCCRRUvgvygH82HAugJjDLw",
+				"publishedAt": "2020-07-25T12:00:13Z",
+				"duration": "PT5M7S",
+				"viewCount": "67403372"
 			}
 		],
-		"updatedAt": "09142021"
+		"updatedAt": "09152021"
 	}
 }

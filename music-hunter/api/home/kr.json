@@ -1,6 +1,6 @@
 {
 	"hotTracks": {
-		"name": "이번 주의 신곡",
+		"name": "고르고 골랐어요",
 		"results": [
 			{
 				"name": "danceXL",
@@ -12,7 +12,7 @@
 						"channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
 						"publishedAt": "2021-06-12T09:27:21Z",
 						"duration": "PT3M2S",
-						"viewCount": "4928954"
+						"viewCount": "4982756"
 					},
 					{
 						"id": "N9RrlA69WvU",
@@ -21,7 +21,16 @@
 						"channelId": "UC4rasfm9J-X4jNl9SvXp8xA",
 						"publishedAt": "2021-09-09T16:00:11Z",
 						"duration": "PT3M24S",
-						"viewCount": "191884"
+						"viewCount": "207288"
+					},
+					{
+						"id": "_OLqf1eDqF8",
+						"title": "Ella Mai - One Day / Don't Want You",
+						"channelTitle": "DISCONNECT TO CONNECT",
+						"channelId": "UCvP_Dfi7teKov4Ih6lQFqdw",
+						"publishedAt": "2016-10-20T19:40:46Z",
+						"duration": "PT6M33S",
+						"viewCount": "10229709"
 					},
 					{
 						"id": "u4FF6MpcsRw",
@@ -30,7 +39,7 @@
 						"channelId": "UCZijND2e2tPp2AQL8Go2YSg",
 						"publishedAt": "2009-10-25T19:53:07Z",
 						"duration": "PT3M11S",
-						"viewCount": "133677575"
+						"viewCount": "133694465"
 					},
 					{
 						"id": "QH2a6V-W87U",
@@ -39,7 +48,7 @@
 						"channelId": "UCcsGmYitOT9kpZA6wPHXpGQ",
 						"publishedAt": "2021-05-21T16:00:16Z",
 						"duration": "PT3M3S",
-						"viewCount": "17211423"
+						"viewCount": "17327543"
 					},
 					{
 						"id": "vBLQFGHtSzg",
@@ -48,7 +57,7 @@
 						"channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
 						"publishedAt": "2016-01-29T04:31:46Z",
 						"duration": "PT3M11S",
-						"viewCount": "12103081"
+						"viewCount": "12104207"
 					},
 					{
 						"id": "xxW_RfXBDes",
@@ -57,7 +66,7 @@
 						"channelId": "UCTyZ4LCVRiCEVfkVqdi0m3A",
 						"publishedAt": "2021-08-17T16:00:28Z",
 						"duration": "PT3M39S",
-						"viewCount": "24008"
+						"viewCount": "24124"
 					},
 					{
 						"id": "HA1PeQVa9EY",
@@ -66,7 +75,7 @@
 						"channelId": "UC5y0HXSuNiM0U_U3-8wiTBQ",
 						"publishedAt": "2021-09-03T08:01:23Z",
 						"duration": "PT3M7S",
-						"viewCount": "23082"
+						"viewCount": "24024"
 					},
 					{
 						"id": "T6QKqFPRZSA",
@@ -75,7 +84,7 @@
 						"channelId": "UCxISpPHkXV4RmeqOO4Z04Lg",
 						"publishedAt": "2010-06-23T23:21:30Z",
 						"duration": "PT3M57S",
-						"viewCount": "127879128"
+						"viewCount": "127921053"
 					},
 					{
 						"id": "zfvEpnTr0xM",
@@ -84,7 +93,7 @@
 						"channelId": "UCa10nxShhzNrCE1o2ZOPztg",
 						"publishedAt": "2016-04-04T12:00:02Z",
 						"duration": "PT3M42S",
-						"viewCount": "38436289"
+						"viewCount": "38449715"
 					},
 					{
 						"id": "f8KzimfmUOI",
@@ -93,7 +102,7 @@
 						"channelId": "UC8y7Xa0E1Lo6PnVsu2KJbOA",
 						"publishedAt": "2021-08-06T18:54:48Z",
 						"duration": "PT2M43S",
-						"viewCount": "402794"
+						"viewCount": "404928"
 					},
 					{
 						"id": "tzJlBq8CtrQ",
@@ -102,7 +111,7 @@
 						"channelId": "UC0q_gYblgTWdeH6zCMTzrDw",
 						"publishedAt": "2021-09-08T17:09:54Z",
 						"duration": "PT3M9S",
-						"viewCount": "13727"
+						"viewCount": "15194"
 					},
 					{
 						"id": "XwygpUFTUNM",
@@ -111,7 +120,7 @@
 						"channelId": "UCnOxaDXBiBXg9Nn9hKWu6aw",
 						"publishedAt": "2019-07-26T09:54:33Z",
 						"duration": "PT2M23S",
-						"viewCount": "421049"
+						"viewCount": "421166"
 					},
 					{
 						"id": "mH2jgeDrwKw",
@@ -120,7 +129,7 @@
 						"channelId": "UCO8lgagfl3hp_Q1x9HPdfqw",
 						"publishedAt": "2021-08-20T16:00:11Z",
 						"duration": "PT2M14S",
-						"viewCount": "124388"
+						"viewCount": "126722"
 					},
 					{
 						"id": "FSrskWH2MQw",
@@ -129,7 +138,7 @@
 						"channelId": "UCaHNFIob5Ixv74f5on3lvIw",
 						"publishedAt": "2021-08-13T04:00:04Z",
 						"duration": "PT3M39S",
-						"viewCount": "369491"
+						"viewCount": "371687"
 					},
 					{
 						"id": "_kqQDCxRCzM",
@@ -138,7 +147,7 @@
 						"channelId": "UCbW18JZRgko_mOGm5er8Yzg",
 						"publishedAt": "2014-04-18T15:00:04Z",
 						"duration": "PT4M5S",
-						"viewCount": "533453277"
+						"viewCount": "533528184"
 					},
 					{
 						"id": "t2NgsJrrAyM",
@@ -147,7 +156,7 @@
 						"channelId": "UCmKdSrwf1e8coqAzUsrVHZw",
 						"publishedAt": "2015-11-05T12:00:01Z",
 						"duration": "PT5M1S",
-						"viewCount": "272827184"
+						"viewCount": "272860832"
 					},
 					{
 						"id": "MkElfR_NPBI",
@@ -156,7 +165,7 @@
 						"channelId": "UCssD3_aDYhaG44mwP53CO0w",
 						"publishedAt": "2015-05-29T07:00:00Z",
 						"duration": "PT3M46S",
-						"viewCount": "840047456"
+						"viewCount": "840239125"
 					},
 					{
 						"id": "DZQoELxGsy0",
@@ -165,7 +174,7 @@
 						"channelId": "UCnr1-8gbgQ7YFd8twlBDhhg",
 						"publishedAt": "2021-07-30T04:00:34Z",
 						"duration": "PT3M17S",
-						"viewCount": "1754847"
+						"viewCount": "1767686"
 					},
 					{
 						"id": "c8Qm5_rjX78",
@@ -174,7 +183,7 @@
 						"channelId": "UCp0E1M0xLFcaQKT42uFcfaQ",
 						"publishedAt": "2021-07-15T23:00:12Z",
 						"duration": "PT3M23S",
-						"viewCount": "39382"
+						"viewCount": "40077"
 					},
 					{
 						"id": "eY_mrU8MPfI",
@@ -183,7 +192,7 @@
 						"channelId": "UC9zX2xZIJ4cnwRsgBpHGvMg",
 						"publishedAt": "2009-10-03T21:00:55Z",
 						"duration": "PT3M30S",
-						"viewCount": "56308739"
+						"viewCount": "56316422"
 					},
 					{
 						"id": "DyksH5MR4s8",
@@ -192,7 +201,7 @@
 						"channelId": "UC4AOAP_FpyFbm_LuIK1voEw",
 						"publishedAt": "2021-06-11T08:00:12Z",
 						"duration": "PT2M55S",
-						"viewCount": "60077"
+						"viewCount": "60117"
 					},
 					{
 						"id": "FdzKagaiebo",
@@ -201,7 +210,7 @@
 						"channelId": "UCqSxNFz4qIZA0tEkupipvKQ",
 						"publishedAt": "2017-04-05T14:05:00Z",
 						"duration": "PT4M34S",
-						"viewCount": "4447224"
+						"viewCount": "4451396"
 					},
 					{
 						"id": "yzx7vdzSAAM",
@@ -210,7 +219,7 @@
 						"channelId": "UCGZXYc32ri4D0gSLPf2pZXQ",
 						"publishedAt": "2021-08-12T15:00:34Z",
 						"duration": "PT3M13S",
-						"viewCount": "111302"
+						"viewCount": "111457"
 					},
 					{
 						"id": "FUy4H03r4Hs",
@@ -219,7 +228,7 @@
 						"channelId": "UC0q_gYblgTWdeH6zCMTzrDw",
 						"publishedAt": "2021-07-16T08:00:11Z",
 						"duration": "PT2M49S",
-						"viewCount": "120917"
+						"viewCount": "121793"
 					},
 					{
 						"id": "l3fUEyv9RLg",
@@ -228,7 +237,7 @@
 						"channelId": "UCbrTFteKMiRSES5SPjBvw9w",
 						"publishedAt": "2021-01-15T08:51:12Z",
 						"duration": "PT3M",
-						"viewCount": "5680110"
+						"viewCount": "5689181"
 					},
 					{
 						"id": "t2NgsJrrAyM",
@@ -237,7 +246,7 @@
 						"channelId": "UCmKdSrwf1e8coqAzUsrVHZw",
 						"publishedAt": "2015-11-05T12:00:01Z",
 						"duration": "PT5M1S",
-						"viewCount": "272827184"
+						"viewCount": "272860832"
 					},
 					{
 						"id": "94Rq2TX0wj4",
@@ -246,7 +255,7 @@
 						"channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
 						"publishedAt": "2015-01-19T20:00:03Z",
 						"duration": "PT3M15S",
-						"viewCount": "168950178"
+						"viewCount": "168968633"
 					},
 					{
 						"id": "9zHS8y-Z4Ok",
@@ -255,7 +264,7 @@
 						"channelId": "UCjtuVVoUtBP9iYDOkVY3lOQ",
 						"publishedAt": "2021-04-17T00:48:21Z",
 						"duration": "PT4M5S",
-						"viewCount": "5274530"
+						"viewCount": "5302055"
 					},
 					{
 						"id": "QY-_47UnpL8",
@@ -264,7 +273,7 @@
 						"channelId": "UCHyIRc7fPN9rRtLUmzfNQgg",
 						"publishedAt": "2021-02-03T17:00:12Z",
 						"duration": "PT3M23S",
-						"viewCount": "380389"
+						"viewCount": "380686"
 					},
 					{
 						"id": "4cS4vNKvRkI",
@@ -273,7 +282,7 @@
 						"channelId": "UCVeETS7uZTAARqvv2zssZCw",
 						"publishedAt": "2021-07-09T13:22:38Z",
 						"duration": "PT2M55S",
-						"viewCount": "195269"
+						"viewCount": "197511"
 					},
 					{
 						"id": "llP0zwD28Ho",
@@ -282,7 +291,7 @@
 						"channelId": "UCO8lgagfl3hp_Q1x9HPdfqw",
 						"publishedAt": "2021-06-25T04:00:57Z",
 						"duration": "PT2M31S",
-						"viewCount": "79381"
+						"viewCount": "79885"
 					},
 					{
 						"id": "CkQKci52OFQ",
@@ -291,16 +300,16 @@
 						"channelId": "UCt5w59lhSmE8teqw2SkUxJg",
 						"publishedAt": "2021-06-04T07:00:08Z",
 						"duration": "PT2M39S",
-						"viewCount": "139283"
+						"viewCount": "140061"
 					},
 					{
-						"id": "53N99Nim6WE",
-						"title": "Echoes",
-						"channelTitle": "Pink Floyd - Topic",
-						"channelId": "UCO6LS_5W7vqG9mALDNzSFug",
-						"publishedAt": "2016-01-08T16:54:31Z",
-						"duration": "PT23M35S",
-						"viewCount": "13116013"
+						"id": "y-E7_VHLvkE",
+						"title": "Pink Floyd -\"Echoes\"  Pompeii",
+						"channelTitle": "HDPinkFloyd",
+						"channelId": "UC3bLiTc7_UpKSl0dnYR-d3A",
+						"publishedAt": "2013-05-16T05:15:22Z",
+						"duration": "PT10M21S",
+						"viewCount": "31056708"
 					},
 					{
 						"id": "Jd7LFChoWFA",
@@ -309,7 +318,7 @@
 						"channelId": "UCxwfF3K6wypQ4BxeGrURHhg",
 						"publishedAt": "2021-05-15T14:00:05Z",
 						"duration": "PT2M40S",
-						"viewCount": "50754"
+						"viewCount": "50833"
 					},
 					{
 						"id": "ozv4q2ov3Mk",
@@ -318,7 +327,7 @@
 						"channelId": "UCaHNFIob5Ixv74f5on3lvIw",
 						"publishedAt": "2017-06-27T04:00:02Z",
 						"duration": "PT3M43S",
-						"viewCount": "593520349"
+						"viewCount": "593616032"
 					},
 					{
 						"id": "4hu5iCqQVcM",
@@ -327,7 +336,7 @@
 						"channelId": "UCaHNFIob5Ixv74f5on3lvIw",
 						"publishedAt": "2021-06-11T15:00:10Z",
 						"duration": "PT3M10S",
-						"viewCount": "12651920"
+						"viewCount": "12710434"
 					},
 					{
 						"id": "Q_GyneFGQ74",
@@ -336,7 +345,7 @@
 						"channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
 						"publishedAt": "2012-08-28T05:02:49Z",
 						"duration": "PT4M10S",
-						"viewCount": "16631818"
+						"viewCount": "16632481"
 					},
 					{
 						"id": "Hs8QGv2VqJA",
@@ -345,7 +354,7 @@
 						"channelId": "UCwpmEwAbLPUHH_9y8JazVnA",
 						"publishedAt": "2014-06-15T15:00:00Z",
 						"duration": "PT4M10S",
-						"viewCount": "40853820"
+						"viewCount": "40856108"
 					},
 					{
 						"id": "AR8D2yqgQ1U",
@@ -354,7 +363,7 @@
 						"channelId": "UCT5vFiVvdOOQ7Y_xFsCZ1yg",
 						"publishedAt": "2009-03-10T08:42:38Z",
 						"duration": "PT5M18S",
-						"viewCount": "172909194"
+						"viewCount": "172969291"
 					},
 					{
 						"id": "YH18coS7c9E",
@@ -363,7 +372,7 @@
 						"channelId": "UCEdvpU2pFRCVqU6yIPyTpMQ",
 						"publishedAt": "2021-06-11T03:55:10Z",
 						"duration": "PT3M9S",
-						"viewCount": "9454590"
+						"viewCount": "9480168"
 					},
 					{
 						"id": "tpoveIuHVOg",
@@ -372,7 +381,7 @@
 						"channelId": "UCpyaRZ-FSkiI1NqEZAiNpMw",
 						"publishedAt": "2021-04-30T04:30:12Z",
 						"duration": "PT2M47S",
-						"viewCount": "128934"
+						"viewCount": "129009"
 					}
 				]
 			},
@@ -386,16 +395,7 @@
 						"channelId": "UCLSH9fErJNb8lIiyCmwY3tA",
 						"publishedAt": "2021-08-22T09:00:13Z",
 						"duration": "PT3M40S",
-						"viewCount": "599342"
-					},
-					{
-						"id": "blYo4WheVgA",
-						"title": "Mac Miller - Surf",
-						"channelTitle": "Mac Miller",
-						"channelId": "UC3SEvBYhullC-aaEmbEQflg",
-						"publishedAt": "2020-01-17T05:00:07Z",
-						"duration": "PT5M31S",
-						"viewCount": "24996451"
+						"viewCount": "607970"
 					},
 					{
 						"id": "zZpmpVnloqQ",
@@ -404,7 +404,7 @@
 						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
 						"publishedAt": "2021-08-12T03:00:31Z",
 						"duration": "PT2M39S",
-						"viewCount": "1885"
+						"viewCount": "1890"
 					},
 					{
 						"id": "45swn-vohx8",
@@ -413,7 +413,7 @@
 						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
 						"publishedAt": "2021-08-04T09:00:02Z",
 						"duration": "PT3M48S",
-						"viewCount": "9754"
+						"viewCount": "9772"
 					},
 					{
 						"id": "w95xKFP8ZRU",
@@ -422,7 +422,7 @@
 						"channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
 						"publishedAt": "2021-07-28T15:00:39Z",
 						"duration": "PT2M44S",
-						"viewCount": "93922"
+						"viewCount": "94249"
 					},
 					{
 						"id": "qCmGwi3QM6A",
@@ -431,7 +431,7 @@
 						"channelId": "UCIfWn9lUtwS_cpXooKA5Jug",
 						"publishedAt": "2021-08-15T13:11:51Z",
 						"duration": "PT21M47S",
-						"viewCount": "8207"
+						"viewCount": "8280"
 					},
 					{
 						"id": "MRTU2g-fggA",
@@ -440,7 +440,7 @@
 						"channelId": "UCBjKdFIaFF6CP8aHGnV9kTg",
 						"publishedAt": "2021-08-04T04:53:44Z",
 						"duration": "PT4M",
-						"viewCount": "3188"
+						"viewCount": "3199"
 					},
 					{
 						"id": "cX3MBDgZtqQ",
@@ -449,7 +449,7 @@
 						"channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
 						"publishedAt": "2021-08-02T03:00:10Z",
 						"duration": "PT3M19S",
-						"viewCount": "7345"
+						"viewCount": "7356"
 					},
 					{
 						"id": "iej6wjh9ORI",
@@ -458,7 +458,7 @@
 						"channelId": "UCR9EuMWhNOQ5xbMRnAxl5Vg",
 						"publishedAt": "2016-07-10T15:00:30Z",
 						"duration": "PT10H12S",
-						"viewCount": "2773245"
+						"viewCount": "2777018"
 					},
 					{
 						"id": "sC-UgHt-RPA",
@@ -467,7 +467,7 @@
 						"channelId": "UCnhZuoNcL89qNax7YlWvavQ",
 						"publishedAt": "2021-07-19T09:00:20Z",
 						"duration": "PT4M40S",
-						"viewCount": "1888"
+						"viewCount": "1895"
 					},
 					{
 						"id": "VuUU6kWdR2w",
@@ -476,7 +476,7 @@
 						"channelId": "UCrgmcWsu4pBRmEQz1l5cklQ",
 						"publishedAt": "2021-07-12T09:06:28Z",
 						"duration": "PT3M23S",
-						"viewCount": "25985"
+						"viewCount": "26088"
 					},
 					{
 						"id": "SJOgTMP8cs4",
@@ -485,7 +485,7 @@
 						"channelId": "UCq3Ci-h945sbEYXpVlw7rJg",
 						"publishedAt": "2018-12-14T15:00:05Z",
 						"duration": "PT3M14S",
-						"viewCount": "134929312"
+						"viewCount": "134942706"
 					},
 					{
 						"id": "3Mxi08_hy_8",
@@ -494,7 +494,7 @@
 						"channelId": "UC7d7vqJZVYTauXZMzjqFz9w",
 						"publishedAt": "2017-04-16T03:39:41Z",
 						"duration": "PT4M15S",
-						"viewCount": "820543"
+						"viewCount": "820802"
 					},
 					{
 						"id": "zpatRtyFWkM",
@@ -503,7 +503,7 @@
 						"channelId": "UC2U9kSoYZaeaaeOHK9TyAag",
 						"publishedAt": "2015-10-05T08:28:59Z",
 						"duration": "PT3M46S",
-						"viewCount": "535471"
+						"viewCount": "535555"
 					},
 					{
 						"id": "e2Tdtw9RRyw",
@@ -512,7 +512,7 @@
 						"channelId": "UCLSH9fErJNb8lIiyCmwY3tA",
 						"publishedAt": "2021-06-10T09:00:10Z",
 						"duration": "PT3M42S",
-						"viewCount": "3364073"
+						"viewCount": "3366417"
 					},
 					{
 						"id": "t4d4qf5bfXM",
@@ -521,7 +521,7 @@
 						"channelId": "UC_C92qtT-S6w-K39WCKC_JQ",
 						"publishedAt": "2021-06-05T09:00:32Z",
 						"duration": "PT3M33S",
-						"viewCount": "8230"
+						"viewCount": "8246"
 					},
 					{
 						"id": "p5oheqsitLg",
@@ -530,7 +530,7 @@
 						"channelId": "UCyLHKUjX_fy8akafmRMr-PA",
 						"publishedAt": "2021-06-11T03:00:23Z",
 						"duration": "PT4M23S",
-						"viewCount": "1957"
+						"viewCount": "1958"
 					},
 					{
 						"id": "eyCXuLLnRPg",
@@ -539,16 +539,7 @@
 						"channelId": "UCuwqlhB2uuT7Et305pzkoxg",
 						"publishedAt": "2021-05-31T09:12:05Z",
 						"duration": "PT4M2S",
-						"viewCount": "167681"
-					},
-					{
-						"id": "fqBpGiVn2k0",
-						"title": "snooze / wotaku feat. 初音ミク(Hatsune Miku)",
-						"channelTitle": "wotaku",
-						"channelId": "UChl7kAxzdXCUQDQzk5Qm30g",
-						"publishedAt": "2021-08-20T09:06:09Z",
-						"duration": "PT2M57S",
-						"viewCount": "187825"
+						"viewCount": "168200"
 					},
 					{
 						"id": "yCcaNAqFjE8",
@@ -557,16 +548,7 @@
 						"channelId": "UCGuE0TrBNIZKfordUwAQe2w",
 						"publishedAt": "2021-05-20T13:00:22Z",
 						"duration": "PT3M7S",
-						"viewCount": "154491"
-					},
-					{
-						"id": "bqKIfsfNogA",
-						"title": "노래방 인기차트 발라드 TOP 20 (2021년 9월 1차) 노래모음 | KPOP (BALLAD) ★ Singing Room Chart",
-						"channelTitle": "낭스월드",
-						"channelId": "UCeprvjzu8c9gYC5oLfW9nvg",
-						"publishedAt": "2021-09-11T10:05:00Z",
-						"duration": "PT1H29M10S",
-						"viewCount": "59629"
+						"viewCount": "154712"
 					},
 					{
 						"id": "EaleKN9GQ54",
@@ -575,16 +557,7 @@
 						"channelId": "UC_f09Vv3Z3OpaL_SSalb36g",
 						"publishedAt": "2009-12-14T01:21:59Z",
 						"duration": "PT4M46S",
-						"viewCount": "11624185"
-					},
-					{
-						"id": "WpmYwDhxZoU",
-						"title": "[MV] Mad Clown(매드클라운) _ Without You(견딜만해) (Feat. Hyolyn(효린))",
-						"channelTitle": "1theK (원더케이)",
-						"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
-						"publishedAt": "2014-04-04T03:02:55Z",
-						"duration": "PT4M7S",
-						"viewCount": "8566694"
+						"viewCount": "11627495"
 					},
 					{
 						"id": "SMYYm7MgJZ4",
@@ -593,7 +566,7 @@
 						"channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
 						"publishedAt": "2021-04-22T03:00:04Z",
 						"duration": "PT2M49S",
-						"viewCount": "15631"
+						"viewCount": "15639"
 					},
 					{
 						"id": "rzBCcNLnVjU",
@@ -602,7 +575,7 @@
 						"channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
 						"publishedAt": "2021-04-29T03:00:11Z",
 						"duration": "PT3M2S",
-						"viewCount": "2399"
+						"viewCount": "2406"
 					},
 					{
 						"id": "nw0-U4LjbSk",
@@ -611,7 +584,7 @@
 						"channelId": "UCk2YAB5jZjE5FZT6Lvjj6Zg",
 						"publishedAt": "2021-04-11T06:53:33Z",
 						"duration": "PT2M36S",
-						"viewCount": "21014"
+						"viewCount": "21097"
 					},
 					{
 						"id": "G_Bw-GJUZME",
@@ -620,7 +593,7 @@
 						"channelId": "UC1UVqxc3NmqUK3Ddkd5y5Jw",
 						"publishedAt": "2021-04-12T08:00:02Z",
 						"duration": "PT4M4S",
-						"viewCount": "537"
+						"viewCount": "539"
 					},
 					{
 						"id": "VFuskUHuBl8",
@@ -629,7 +602,7 @@
 						"channelId": "UCBytbEcl_hMmqK6CR-XO33Q",
 						"publishedAt": "2021-04-17T04:26:09Z",
 						"duration": "PT3M58S",
-						"viewCount": "1348"
+						"viewCount": "1349"
 					},
 					{
 						"id": "Dw9zYITkLjE",
@@ -638,7 +611,7 @@
 						"channelId": "UCbGzcPUtRSU8jMr2rAWhntg",
 						"publishedAt": "2019-06-27T04:09:25Z",
 						"duration": "PT3M26S",
-						"viewCount": "7055"
+						"viewCount": "7073"
 					},
 					{
 						"id": "gcqM5YcBeik",
@@ -647,7 +620,7 @@
 						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
 						"publishedAt": "2021-04-14T09:00:03Z",
 						"duration": "PT3M57S",
-						"viewCount": "1742923"
+						"viewCount": "1743474"
 					},
 					{
 						"id": "Br3mjxGsoM0",
@@ -656,7 +629,7 @@
 						"channelId": "UC8SpOUpbXJeIiFDU6bd-HIA",
 						"publishedAt": "2021-04-06T03:05:17Z",
 						"duration": "PT3M16S",
-						"viewCount": "5251"
+						"viewCount": "5261"
 					},
 					{
 						"id": "yuWDZIeS840",
@@ -665,7 +638,7 @@
 						"channelId": "UCLvhr40dgoBcV4XBlOhauNw",
 						"publishedAt": "2018-06-28T02:13:51Z",
 						"duration": "PT3M58S",
-						"viewCount": "3774403"
+						"viewCount": "3774747"
 					},
 					{
 						"id": "q84LYw8kJGU",
@@ -674,7 +647,7 @@
 						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
 						"publishedAt": "2021-03-25T03:00:08Z",
 						"duration": "PT2M57S",
-						"viewCount": "83041"
+						"viewCount": "83185"
 					},
 					{
 						"id": "HDyKwja-htw",
@@ -683,7 +656,7 @@
 						"channelId": "UCLDLJuFIOQZixN8jtEI8X5w",
 						"publishedAt": "2020-10-09T09:00:11Z",
 						"duration": "PT3M20S",
-						"viewCount": "27018872"
+						"viewCount": "27049313"
 					},
 					{
 						"id": "orJSJGHjBLI",
@@ -692,7 +665,7 @@
 						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 						"publishedAt": "2021-06-25T04:00:33Z",
 						"duration": "PT4M1S",
-						"viewCount": "154513336"
+						"viewCount": "155412106"
 					},
 					{
 						"id": "r7WvmEj-Z0o",
@@ -701,7 +674,7 @@
 						"channelId": "UC5OBmqxzDB-Pq3wXW4KYQKw",
 						"publishedAt": "2021-02-14T03:00:30Z",
 						"duration": "PT3M34S",
-						"viewCount": "16466"
+						"viewCount": "16500"
 					},
 					{
 						"id": "LjhCEhWiKXk",
@@ -710,7 +683,7 @@
 						"channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
 						"publishedAt": "2010-09-08T21:29:01Z",
 						"duration": "PT3M57S",
-						"viewCount": "1650576755"
+						"viewCount": "1650779566"
 					}
 				]
 			},
@@ -724,7 +697,7 @@
 						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
 						"publishedAt": "2021-06-11T14:00:11Z",
 						"duration": "PT3M40S",
-						"viewCount": "78429269"
+						"viewCount": "78969725"
 					},
 					{
 						"id": "awkkyBH2zEo",
@@ -733,7 +706,7 @@
 						"channelId": "UCOmHUn--16B90oW2L6FRR3A",
 						"publishedAt": "2021-09-10T04:00:13Z",
 						"duration": "PT3M27S",
-						"viewCount": "134745301"
+						"viewCount": "142250233"
 					},
 					{
 						"id": "vX9msKu75qs",
@@ -742,16 +715,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:00:38Z",
 						"duration": "PT4M41S",
-						"viewCount": "23744244"
-					},
-					{
-						"id": "NBgLUCVBEuo",
-						"title": "STAYC STEREOTYPE Lyrics (스테이씨 색안경 가사) [Color Coded Lyrics/Han/Rom/Eng]",
-						"channelTitle": "Lemoring",
-						"channelId": "UC2dAS5opN0op-VkOcRBhoGg",
-						"publishedAt": "2021-09-06T09:20:38Z",
-						"duration": "PT3M17S",
-						"viewCount": "261533"
+						"viewCount": "24629277"
 					},
 					{
 						"id": "z2_Lrg6rRks",
@@ -760,7 +724,7 @@
 						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 						"publishedAt": "2021-09-13T16:00:36Z",
 						"duration": "PT3M29S",
-						"viewCount": "386568"
+						"viewCount": "666376"
 					},
 					{
 						"id": "GLlP-CNlY9I",
@@ -769,7 +733,7 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-09-09T09:00:13Z",
 						"duration": "PT3M36S",
-						"viewCount": "2913865"
+						"viewCount": "3084629"
 					},
 					{
 						"id": "4P9XUrniiK4",
@@ -778,7 +742,7 @@
 						"channelId": "UCXVMHu5xDH1oOfUGvaLyjGg",
 						"publishedAt": "2021-08-13T04:00:11Z",
 						"duration": "PT3M7S",
-						"viewCount": "28262881"
+						"viewCount": "28468980"
 					},
 					{
 						"id": "tg2uF3R_Ozo",
@@ -787,7 +751,7 @@
 						"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
 						"publishedAt": "2021-08-02T09:00:15Z",
 						"duration": "PT2M59S",
-						"viewCount": "76230160"
+						"viewCount": "76759377"
 					},
 					{
 						"id": "b8M6N0FTpNc",
@@ -796,7 +760,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:22Z",
 						"duration": "PT3M43S",
-						"viewCount": "6022851"
+						"viewCount": "6281742"
 					},
 					{
 						"id": "t3CoEyYEf4A",
@@ -805,7 +769,7 @@
 						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 						"publishedAt": "2021-08-19T13:00:24Z",
 						"duration": "PT3M49S",
-						"viewCount": "12686267"
+						"viewCount": "12795125"
 					},
 					{
 						"id": "c9RzZpV460k",
@@ -814,7 +778,7 @@
 						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 						"publishedAt": "2021-08-16T09:00:48Z",
 						"duration": "PT3M10S",
-						"viewCount": "64523475"
+						"viewCount": "64889117"
 					},
 					{
 						"id": "cds_rfHsJ3Y",
@@ -823,7 +787,7 @@
 						"channelId": "UC_TVqp_SyG6j5hG-xVRy95A",
 						"publishedAt": "2021-08-20T04:00:12Z",
 						"duration": "PT2M48S",
-						"viewCount": "16992614"
+						"viewCount": "17358468"
 					},
 					{
 						"id": "JzODRUBBXpc",
@@ -832,7 +796,7 @@
 						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
 						"publishedAt": "2021-08-17T08:58:10Z",
 						"duration": "PT3M57S",
-						"viewCount": "25146514"
+						"viewCount": "25400812"
 					},
 					{
 						"id": "v9lZ2MEx8oU",
@@ -841,7 +805,7 @@
 						"channelId": "UC4-TgOSMJHn-LtY4zCzbQhw",
 						"publishedAt": "2021-08-20T04:00:13Z",
 						"duration": "PT3M1S",
-						"viewCount": "14995083"
+						"viewCount": "15137329"
 					},
 					{
 						"id": "KRUWn3dLoRg",
@@ -850,7 +814,7 @@
 						"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
 						"publishedAt": "2021-03-19T04:00:10Z",
 						"duration": "PT2M34S",
-						"viewCount": "8756123"
+						"viewCount": "8805203"
 					},
 					{
 						"id": "EaswWiwMVs8",
@@ -859,7 +823,7 @@
 						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
 						"publishedAt": "2021-08-23T08:59:54Z",
 						"duration": "PT3M19S",
-						"viewCount": "72275220"
+						"viewCount": "73172290"
 					},
 					{
 						"id": "-M__Nh-HvmA",
@@ -868,7 +832,7 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-08-24T09:00:07Z",
 						"duration": "PT3M22S",
-						"viewCount": "809103"
+						"viewCount": "822349"
 					},
 					{
 						"id": "OGUy2UmRxJ0",
@@ -877,7 +841,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-08-23T17:00:10Z",
 						"duration": "PT2M54S",
-						"viewCount": "19357224"
+						"viewCount": "19571874"
 					},
 					{
 						"id": "V0wInr_xATk",
@@ -886,16 +850,16 @@
 						"channelId": "UCsVpgRB8YHLWA0ZrkhtHvTA",
 						"publishedAt": "2021-08-06T09:00:04Z",
 						"duration": "PT4M49S",
-						"viewCount": "52418894"
+						"viewCount": "52483396"
 					},
 					{
-						"id": "Yb0ZGvccOAY",
-						"title": "Clinton Kane - I GUESS I’M IN LOVE (Lyrics)",
-						"channelTitle": "Vibe Music",
-						"channelId": "UChO8h2G8UjOVc081rgYU8XQ",
-						"publishedAt": "2021-08-22T16:04:06Z",
-						"duration": "PT3M24S",
-						"viewCount": "1360993"
+						"id": "SJsGISX8O8k",
+						"title": "Clinton Kane - I GUESS I'M IN LOVE (Official Video)",
+						"channelTitle": "ClintonKaneVEVO",
+						"channelId": "UCRtk9-rbM5sK9puxDmqikag",
+						"publishedAt": "2021-08-20T04:00:10Z",
+						"duration": "PT3M30S",
+						"viewCount": "3372963"
 					},
 					{
 						"id": "UDEpRK8WL_I",
@@ -904,16 +868,16 @@
 						"channelId": "UC_aEa8K-EOJ3D6gOs7HcyNg",
 						"publishedAt": "2016-10-08T15:15:24Z",
 						"duration": "PT3M31S",
-						"viewCount": "11643138"
+						"viewCount": "11645325"
 					},
 					{
-						"id": "FtJ0m6F6eqw",
-						"title": "[OFF THE BOYZ] ‘THRILL RIDE’ Final Week Behind",
+						"id": "XMs2CIiqRDI",
+						"title": "THE BOYZ(더보이즈) ‘THRILL RIDE’ MV",
 						"channelTitle": "THE BOYZ",
 						"channelId": "UCkJ1rbOrsyPfBuHNfnLPm-Q",
-						"publishedAt": "2021-09-14T09:00:06Z",
-						"duration": "PT16M15S",
-						"viewCount": "16304"
+						"publishedAt": "2021-08-09T09:00:03Z",
+						"duration": "PT3M20S",
+						"viewCount": "31711810"
 					},
 					{
 						"id": "CEw-7cMnBDY",
@@ -922,7 +886,7 @@
 						"channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
 						"publishedAt": "2021-07-30T04:00:03Z",
 						"duration": "PT3M24S",
-						"viewCount": "49168378"
+						"viewCount": "49407636"
 					},
 					{
 						"id": "5GJWxDKyk3A",
@@ -931,7 +895,7 @@
 						"channelId": "UCDGmojLIoWpXok597xYo8cg",
 						"publishedAt": "2021-07-30T16:00:09Z",
 						"duration": "PT5M16S",
-						"viewCount": "52072527"
+						"viewCount": "52653755"
 					},
 					{
 						"id": "tsYcrzkK7pw",
@@ -940,7 +904,7 @@
 						"channelId": "UCiXkBK6_kLz4uAqedG-dPCA",
 						"publishedAt": "2021-06-11T13:00:12Z",
 						"duration": "PT3M33S",
-						"viewCount": "3273343"
+						"viewCount": "3285000"
 					},
 					{
 						"id": "rhTl_OyehF8",
@@ -949,7 +913,7 @@
 						"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
 						"publishedAt": "2021-08-06T04:00:09Z",
 						"duration": "PT3M45S",
-						"viewCount": "41138945"
+						"viewCount": "41592766"
 					},
 					{
 						"id": "UTHLKHL_whs",
@@ -958,7 +922,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-07-23T04:00:12Z",
 						"duration": "PT3M56S",
-						"viewCount": "115962120"
+						"viewCount": "117036275"
 					},
 					{
 						"id": "CuklIb9d3fI",
@@ -967,7 +931,7 @@
 						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
 						"publishedAt": "2021-07-09T03:59:12Z",
 						"duration": "PT5M",
-						"viewCount": "306173908"
+						"viewCount": "307208942"
 					},
 					{
 						"id": "m77FDcKg96Q",
@@ -976,16 +940,16 @@
 						"channelId": "UCE0-Bxu88d4bsGCv34zvtbA",
 						"publishedAt": "2020-10-29T23:11:00Z",
 						"duration": "PT4M10S",
-						"viewCount": "28127357"
+						"viewCount": "28357822"
 					},
 					{
-						"id": "13MvatpPQv4",
-						"title": "Doja Cat - Ain't Shit (Official Live Performance) | Vevo",
+						"id": "Ix4L9am2Kwk",
+						"title": "Doja Cat - Ain't Shit (Visualizer)",
 						"channelTitle": "dojacatVEVO",
 						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-						"publishedAt": "2021-07-02T16:00:01Z",
-						"duration": "PT2M59S",
-						"viewCount": "23071968"
+						"publishedAt": "2021-06-25T04:00:06Z",
+						"duration": "PT2M55S",
+						"viewCount": "16400731"
 					},
 					{
 						"id": "EROYsCK0vK4",
@@ -994,7 +958,7 @@
 						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 						"publishedAt": "2021-09-14T09:00:13Z",
 						"duration": "PT3M30S",
-						"viewCount": "160555"
+						"viewCount": "877618"
 					},
 					{
 						"id": "lCiV4wACZ8w",
@@ -1003,7 +967,7 @@
 						"channelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
 						"publishedAt": "2021-07-12T20:00:12Z",
 						"duration": "PT3M3S",
-						"viewCount": "20399439"
+						"viewCount": "20519628"
 					},
 					{
 						"id": "gNi_6U5Pm_o",
@@ -1012,7 +976,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-14T04:00:09Z",
 						"duration": "PT3M19S",
-						"viewCount": "252134062"
+						"viewCount": "252887733"
 					},
 					{
 						"id": "CKZvWhCqx1s",
@@ -1021,7 +985,7 @@
 						"channelId": "UCOmHUn--16B90oW2L6FRR3A",
 						"publishedAt": "2021-03-12T05:00:15Z",
 						"duration": "PT3M9S",
-						"viewCount": "224859354"
+						"viewCount": "225350187"
 					},
 					{
 						"id": "orJSJGHjBLI",
@@ -1030,7 +994,7 @@
 						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 						"publishedAt": "2021-06-25T04:00:33Z",
 						"duration": "PT4M1S",
-						"viewCount": "154514285"
+						"viewCount": "155412106"
 					},
 					{
 						"id": "WMweEpGlu_U",
@@ -1039,7 +1003,7 @@
 						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
 						"publishedAt": "2021-05-21T03:46:13Z",
 						"duration": "PT3M3S",
-						"viewCount": "551492949"
+						"viewCount": "552423087"
 					},
 					{
 						"id": "qod03PVTLqk",
@@ -1048,7 +1012,7 @@
 						"channelId": "UCI8Ry7NdFNLel-S8dWU7mDA",
 						"publishedAt": "2021-08-13T12:00:13Z",
 						"duration": "PT4M15S",
-						"viewCount": "14820067"
+						"viewCount": "15223751"
 					},
 					{
 						"id": "RmuL-BPFi2Q",
@@ -1057,7 +1021,7 @@
 						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 						"publishedAt": "2021-07-06T09:00:09Z",
 						"duration": "PT4M7S",
-						"viewCount": "19795598"
+						"viewCount": "19883648"
 					},
 					{
 						"id": "LIIDh-qI9oI",
@@ -1066,7 +1030,7 @@
 						"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
 						"publishedAt": "2021-04-23T04:00:06Z",
 						"duration": "PT3M26S",
-						"viewCount": "141497652"
+						"viewCount": "141821995"
 					},
 					{
 						"id": "KCpWMEsiN3Q",
@@ -1075,7 +1039,7 @@
 						"channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
 						"publishedAt": "2020-06-22T09:00:07Z",
 						"duration": "PT3M10S",
-						"viewCount": "1471019"
+						"viewCount": "1487410"
 					},
 					{
 						"id": "lNvBbh5jDcA",
@@ -1084,7 +1048,7 @@
 						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 						"publishedAt": "2021-05-31T09:00:16Z",
 						"duration": "PT4M35S",
-						"viewCount": "21265816"
+						"viewCount": "21304907"
 					},
 					{
 						"id": "XA2YEHn-A8Q",
@@ -1093,7 +1057,16 @@
 						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
 						"publishedAt": "2021-06-09T08:58:12Z",
 						"duration": "PT3M34S",
-						"viewCount": "169028435"
+						"viewCount": "169363015"
+					},
+					{
+						"id": "6tsu2oeZJgo",
+						"title": "Olivia Rodrigo - traitor (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:02Z",
+						"duration": "PT3M50S",
+						"viewCount": "62626508"
 					},
 					{
 						"id": "hmUyEDG7Jy0",
@@ -1102,7 +1075,7 @@
 						"channelId": "UCPW4ObAtDezrOGo2gjYOctg",
 						"publishedAt": "2021-05-24T22:00:12Z",
 						"duration": "PT2M45S",
-						"viewCount": "41707873"
+						"viewCount": "41957419"
 					}
 				]
 			},
@@ -1116,7 +1089,7 @@
 						"channelId": "UCa_4DcdTB9QfK0LY9-7qWuQ",
 						"publishedAt": "2021-09-02T17:00:24Z",
 						"duration": "PT5M20S",
-						"viewCount": "19875868"
+						"viewCount": "20186702"
 					},
 					{
 						"id": "69i9J3XQ8vw",
@@ -1125,7 +1098,7 @@
 						"channelId": "UCozJsFq5BE_nrVGr567EwOQ",
 						"publishedAt": "2021-06-28T03:59:54Z",
 						"duration": "PT2M50S",
-						"viewCount": "313403"
+						"viewCount": "315457"
 					},
 					{
 						"id": "CevxZvSJLk8",
@@ -1134,7 +1107,7 @@
 						"channelId": "UC-8Q-hLdECwQmaWNwXitYDw",
 						"publishedAt": "2013-09-05T20:00:22Z",
 						"duration": "PT4M30S",
-						"viewCount": "3429154199"
+						"viewCount": "3429626141"
 					},
 					{
 						"id": "PIE5QtkxzvM",
@@ -1143,7 +1116,7 @@
 						"channelId": "UCqs-lZOF6bv7ayLr4B8mWHg",
 						"publishedAt": "2009-10-03T04:39:37Z",
 						"duration": "PT3M33S",
-						"viewCount": "79700249"
+						"viewCount": "79716390"
 					},
 					{
 						"id": "SNhOgS3BHjw",
@@ -1152,7 +1125,7 @@
 						"channelId": "UCI3H1FsjbdqGcLq93ZilV5g",
 						"publishedAt": "2017-10-06T04:00:02Z",
 						"duration": "PT4M1S",
-						"viewCount": "32750213"
+						"viewCount": "32768489"
 					},
 					{
 						"id": "lDK9QqIzhwk",
@@ -1161,7 +1134,7 @@
 						"channelId": "UCwlTofOAY79PS_GhmborAdA",
 						"publishedAt": "2009-06-17T00:35:28Z",
 						"duration": "PT4M9S",
-						"viewCount": "835457650"
+						"viewCount": "835675944"
 					},
 					{
 						"id": "UdRJY-jlEhQ",
@@ -1170,7 +1143,7 @@
 						"channelId": "UCQeiBlCcS4-XGwFjrvDn96w",
 						"publishedAt": "2019-08-08T02:26:27Z",
 						"duration": "PT3M26S",
-						"viewCount": "31931353"
+						"viewCount": "31939342"
 					},
 					{
 						"id": "1k8craCGpgs",
@@ -1179,7 +1152,7 @@
 						"channelId": "UCoehRqkqt8QGZCWPrXxltXg",
 						"publishedAt": "2013-04-16T07:00:12Z",
 						"duration": "PT4M11S",
-						"viewCount": "180634254"
+						"viewCount": "180754884"
 					},
 					{
 						"id": "b7k0a5hYnSI",
@@ -1188,7 +1161,7 @@
 						"channelId": "UCGyeamaAa4XbEZo7OBy2nnA",
 						"publishedAt": "2009-10-25T19:02:08Z",
 						"duration": "PT3M47S",
-						"viewCount": "101154380"
+						"viewCount": "101181903"
 					},
 					{
 						"id": "bxV-OOIamyk",
@@ -1197,7 +1170,7 @@
 						"channelId": "UClVrJwcIy7saPcGc1nct80A",
 						"publishedAt": "2012-05-24T22:01:30Z",
 						"duration": "PT3M55S",
-						"viewCount": "68074329"
+						"viewCount": "68079095"
 					},
 					{
 						"id": "btPJPFnesV4",
@@ -1206,7 +1179,7 @@
 						"channelId": "UC2HeedakS9zS9CmOEJQntMg",
 						"publishedAt": "2009-11-14T13:05:10Z",
 						"duration": "PT4M5S",
-						"viewCount": "721795837"
+						"viewCount": "722000211"
 					},
 					{
 						"id": "KHchLxioU08",
@@ -1215,16 +1188,16 @@
 						"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
 						"publishedAt": "2012-12-18T06:02:29Z",
 						"duration": "PT4M2S",
-						"viewCount": "1578097"
+						"viewCount": "1578204"
 					},
 					{
-						"id": "sxbX-z5-QHs",
-						"title": "Leona Lewis - A Moment Like This (Official Video)",
-						"channelTitle": "leonalewisVEVO",
-						"channelId": "UChvAV3_iEHsbt8bIL1wYc0g",
-						"publishedAt": "2009-10-03T05:33:30Z",
-						"duration": "PT4M18S",
-						"viewCount": "47098548"
+						"id": "S7b8ADhadJU",
+						"title": "Kelly Clarkson - A Moment Like This (VIDEO)",
+						"channelTitle": "kellyclarksonVEVO",
+						"channelId": "UC6QdZ-5j9t_836_xJPAaRSw",
+						"publishedAt": "2011-07-25T17:39:08Z",
+						"duration": "PT3M46S",
+						"viewCount": "19591587"
 					},
 					{
 						"id": "QUQsqBqxoR4",
@@ -1233,7 +1206,7 @@
 						"channelId": "UCeorj4gQq9KLidnoC-XCbCQ",
 						"publishedAt": "2013-05-14T07:00:09Z",
 						"duration": "PT3M58S",
-						"viewCount": "123343946"
+						"viewCount": "123370455"
 					},
 					{
 						"id": "4BQLE_RrTSU",
@@ -1242,16 +1215,16 @@
 						"channelId": "UC3CO0G5_dhzUk7W9BVBahdw",
 						"publishedAt": "2014-02-24T20:17:24Z",
 						"duration": "PT4M43S",
-						"viewCount": "24801152"
+						"viewCount": "24810925"
 					},
 					{
-						"id": "k0DqRstCgj4",
-						"title": "NCT U 엔시티 유 'Baby Don't Stop' MV",
-						"channelTitle": "SMTOWN",
-						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-						"publishedAt": "2018-02-26T15:00:05Z",
-						"duration": "PT3M9S",
-						"viewCount": "88483222"
+						"id": "MKfzMOC19Fc",
+						"title": "5 Seconds of Summer - Don't Stop (Official Video)",
+						"channelTitle": "5SOSVEVO",
+						"channelId": "UClesqLjeKJd-dG8xLfzJyCQ",
+						"publishedAt": "2014-05-19T06:00:01Z",
+						"duration": "PT3M39S",
+						"viewCount": "88815980"
 					},
 					{
 						"id": "QGJuMBdaqIw",
@@ -1260,7 +1233,7 @@
 						"channelId": "UC-8Q-hLdECwQmaWNwXitYDw",
 						"publishedAt": "2010-10-28T19:37:50Z",
 						"duration": "PT3M54S",
-						"viewCount": "1327973616"
+						"viewCount": "1328084094"
 					},
 					{
 						"id": "ZHwVBirqD2s",
@@ -1269,7 +1242,7 @@
 						"channelId": "UCI8Ry7NdFNLel-S8dWU7mDA",
 						"publishedAt": "2010-09-01T16:07:55Z",
 						"duration": "PT3M3S",
-						"viewCount": "123714162"
+						"viewCount": "123765396"
 					},
 					{
 						"id": "ARt9HV9T0w8",
@@ -1278,7 +1251,7 @@
 						"channelId": "UC0RKPIqgL98gqKmYlr-V5-A",
 						"publishedAt": "2016-06-22T19:29:48Z",
 						"duration": "PT3M18S",
-						"viewCount": "119522927"
+						"viewCount": "119549372"
 					},
 					{
 						"id": "lWA2pjMjpBs",
@@ -1287,7 +1260,7 @@
 						"channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
 						"publishedAt": "2012-11-09T00:18:50Z",
 						"duration": "PT4M43S",
-						"viewCount": "1796356314"
+						"viewCount": "1796806407"
 					},
 					{
 						"id": "AoAm4om0wTs",
@@ -1296,7 +1269,7 @@
 						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
 						"publishedAt": "2020-05-22T17:00:09Z",
 						"duration": "PT3M9S",
-						"viewCount": "334149782"
+						"viewCount": "334264842"
 					},
 					{
 						"id": "fyMhvkC3A84",
@@ -1305,16 +1278,16 @@
 						"channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
 						"publishedAt": "2011-06-29T03:39:49Z",
 						"duration": "PT4M10S",
-						"viewCount": "217192066"
+						"viewCount": "217208613"
 					},
 					{
-						"id": "XW--IGAfeas",
-						"title": "Tupac - Keep Ya Head Up (Official Video)",
-						"channelTitle": "TheLoverboyy",
-						"channelId": "UCXY1yocKSj4HNmgaHnCT0xw",
-						"publishedAt": "2008-07-30T17:09:03Z",
-						"duration": "PT4M29S",
-						"viewCount": "31069056"
+						"id": "ADP65wbBUpc",
+						"title": "Ben Howard - Keep Your Head Up",
+						"channelTitle": "BenHowardVEVO",
+						"channelId": "UCFS0CJgXUt7NjwrUN--vFRg",
+						"publishedAt": "2011-08-18T17:37:26Z",
+						"duration": "PT3M55S",
+						"viewCount": "31784704"
 					},
 					{
 						"id": "tPC9VID6M9s",
@@ -1323,7 +1296,7 @@
 						"channelId": "UCrFB54bqp8sda4udJyNswlA",
 						"publishedAt": "2019-05-17T04:00:10Z",
 						"duration": "PT3M26S",
-						"viewCount": "38313256"
+						"viewCount": "38316947"
 					},
 					{
 						"id": "xo1VInw-SKc",
@@ -1332,7 +1305,7 @@
 						"channelId": "UCG-8AlopydqubtQLoNoqXLQ",
 						"publishedAt": "2015-05-19T14:00:05Z",
 						"duration": "PT3M26S",
-						"viewCount": "553569742"
+						"viewCount": "553677019"
 					},
 					{
 						"id": "Xn676-fLq7I",
@@ -1341,7 +1314,7 @@
 						"channelId": "UC6QdZ-5j9t_836_xJPAaRSw",
 						"publishedAt": "2011-12-14T08:00:00Z",
 						"duration": "PT3M41S",
-						"viewCount": "401629510"
+						"viewCount": "401709049"
 					},
 					{
 						"id": "PmPNW1_LuaI",
@@ -1350,7 +1323,7 @@
 						"channelId": "UCA3nrVC6HlfDs414V_SYlbQ",
 						"publishedAt": "2020-10-06T16:00:12Z",
 						"duration": "PT3M3S",
-						"viewCount": "1504824"
+						"viewCount": "1505680"
 					},
 					{
 						"id": "I0czvJ_jikg",
@@ -1359,7 +1332,7 @@
 						"channelId": "UCCsEkPFtMYnfQoTenSsur-w",
 						"publishedAt": "2018-07-12T14:00:03Z",
 						"duration": "PT3M20S",
-						"viewCount": "166129119"
+						"viewCount": "166251731"
 					},
 					{
 						"id": "7wtfhZwyrcc",
@@ -1368,7 +1341,7 @@
 						"channelId": "UCpx_k19S2vUutWUUM9qmXEg",
 						"publishedAt": "2017-03-07T14:00:00Z",
 						"duration": "PT3M37S",
-						"viewCount": "2018108075"
+						"viewCount": "2018880763"
 					},
 					{
 						"id": "Rqsfa5At214",
@@ -1377,7 +1350,7 @@
 						"channelId": "UCvhQPdeTHzIRneScV8MIocg",
 						"publishedAt": "2021-01-29T16:00:10Z",
 						"duration": "PT3M34S",
-						"viewCount": "9670900"
+						"viewCount": "9678005"
 					},
 					{
 						"id": "NG2zyeVRcbs",
@@ -1386,7 +1359,7 @@
 						"channelId": "UCpPwodiYc4ceaqEBB54trHQ",
 						"publishedAt": "2009-02-14T01:49:27Z",
 						"duration": "PT3M49S",
-						"viewCount": "425604425"
+						"viewCount": "425658456"
 					},
 					{
 						"id": "54nu59EZwF8",
@@ -1395,7 +1368,7 @@
 						"channelId": "UC-8Q-hLdECwQmaWNwXitYDw",
 						"publishedAt": "2020-09-04T15:00:01Z",
 						"duration": "PT3M2S",
-						"viewCount": "2376630"
+						"viewCount": "2377498"
 					},
 					{
 						"id": "NutHKRKBgR0",
@@ -1404,7 +1377,7 @@
 						"channelId": "UC-8Q-hLdECwQmaWNwXitYDw",
 						"publishedAt": "2020-05-15T04:00:10Z",
 						"duration": "PT2M57S",
-						"viewCount": "27711439"
+						"viewCount": "27715465"
 					},
 					{
 						"id": "LqmpI4-RMUc",
@@ -1413,7 +1386,7 @@
 						"channelId": "UCj4mJaB6K3a6eCw1xIQ2jsA",
 						"publishedAt": "2021-02-18T17:49:34Z",
 						"duration": "PT2M54S",
-						"viewCount": "699503"
+						"viewCount": "700455"
 					},
 					{
 						"id": "J91ti_MpdHA",
@@ -1422,16 +1395,16 @@
 						"channelId": "UCETZ7r1_8C1DNFDO-7UXwqw",
 						"publishedAt": "2012-10-19T22:15:07Z",
 						"duration": "PT3M53S",
-						"viewCount": "349059062"
+						"viewCount": "349133337"
 					},
 					{
-						"id": "JGuWb_81als",
-						"title": "2WEI - Survivor (Epic Cover - \"Tomb Raider - Trailer 2 Music\")",
-						"channelTitle": "Epic Heaven Music",
-						"channelId": "UCbbmbkmZAqYFCXaYjDoDSIQ",
-						"publishedAt": "2018-01-21T00:40:36Z",
-						"duration": "PT3M16S",
-						"viewCount": "45446978"
+						"id": "TUq4F95e4HE",
+						"title": "2WEI - Survivor (Lyrics Video)",
+						"channelTitle": "Dynamix",
+						"channelId": "UCEIyzZ655WRXJ74hrCU7g7A",
+						"publishedAt": "2018-06-14T18:00:28Z",
+						"duration": "PT2M49S",
+						"viewCount": "5597491"
 					},
 					{
 						"id": "mR7aJc5lanc",
@@ -1440,7 +1413,7 @@
 						"channelId": "UCNnnwVSI5Ndo2I4Y-LPuuew",
 						"publishedAt": "2020-05-13T00:30:08Z",
 						"duration": "PT2M52S",
-						"viewCount": "2229378"
+						"viewCount": "2230045"
 					},
 					{
 						"id": "sIaT8Jl2zpI",
@@ -1449,7 +1422,7 @@
 						"channelId": "UCPJFvbf8tNE9-_aYgeXfdKA",
 						"publishedAt": "2018-07-13T17:00:07Z",
 						"duration": "PT4M31S",
-						"viewCount": "225605264"
+						"viewCount": "225706428"
 					},
 					{
 						"id": "WtejRvpwscY",
@@ -1458,7 +1431,7 @@
 						"channelId": "UCY7sBX18GXc2O_9UvI4GeXQ",
 						"publishedAt": "2015-11-06T12:47:17Z",
 						"duration": "PT4M19S",
-						"viewCount": "50218305"
+						"viewCount": "50221937"
 					},
 					{
 						"id": "SJOgTMP8cs4",
@@ -1467,7 +1440,7 @@
 						"channelId": "UCq3Ci-h945sbEYXpVlw7rJg",
 						"publishedAt": "2018-12-14T15:00:05Z",
 						"duration": "PT3M14S",
-						"viewCount": "134929312"
+						"viewCount": "134942706"
 					},
 					{
 						"id": "VGP6JP_hAPM",
@@ -1476,7 +1449,7 @@
 						"channelId": "UCwIgPuUJXuf2nY-nKsEvLOg",
 						"publishedAt": "2019-11-18T17:00:12Z",
 						"duration": "PT3M8S",
-						"viewCount": "19828571"
+						"viewCount": "19849368"
 					},
 					{
 						"id": "pO40TcKa_5U",
@@ -1485,7 +1458,7 @@
 						"channelId": "UCucKz2TKdSCCEy2tGue1emw",
 						"publishedAt": "2011-09-12T16:59:43Z",
 						"duration": "PT4M1S",
-						"viewCount": "31811748"
+						"viewCount": "31828552"
 					},
 					{
 						"id": "BWf-eARnf6U",
@@ -1494,204 +1467,87 @@
 						"channelId": "UCulYu1HEIa7f70L2lYZWHOw",
 						"publishedAt": "2009-10-03T04:53:04Z",
 						"duration": "PT6M23S",
-						"viewCount": "187969711"
+						"viewCount": "187994028"
 					}
 				]
 			}
 		],
-		"updatedAt": "09142021"
+		"updatedAt": "09152021"
 	},
 	"newReleases": {
 		"name": "최신곡",
 		"results": [
 			{
-				"name": "Where Have All the Flowers Gone?",
+				"name": "사진으로부터 - Single",
 				"songs": [
 					{
-						"id": "VbQrhOWkonk",
-						"title": "Ashnikko - STUPID Feat. Yung Baby Tate (Official Video)",
-						"channelTitle": "Ashnikko",
-						"channelId": "UCprhwr86ckrMC2q9jX8qMnw",
-						"publishedAt": "2019-10-22T17:00:12Z",
-						"duration": "PT2M50S",
-						"viewCount": "63868574"
-					},
-					{
-						"id": "fRh_vgS2dFE",
-						"title": "Justin Bieber - Sorry (PURPOSE : The Movement)",
-						"channelTitle": "JustinBieberVEVO",
-						"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
-						"publishedAt": "2015-10-22T20:00:02Z",
-						"duration": "PT3M26S",
-						"viewCount": "3466587516"
-					},
-					{
-						"id": "8D6sRD8n2zE",
-						"title": "Deb Never & Jim-E Stack - Sweet & Spice (Official Video)",
-						"channelTitle": "Deb Never",
-						"channelId": "UCz1T8TcD5N3qShKpsSNq4Dg",
-						"publishedAt": "2021-08-13T19:00:11Z",
-						"duration": "PT3M9S",
-						"viewCount": "112595"
-					},
-					{
-						"id": "VaIv4PfCPME",
-						"title": "Greatest Funk Songs  - The Best  Funk Hits of All Time",
-						"channelTitle": "Music Everyday",
-						"channelId": "UC8MezBoLqzssKDrJ8Kiho3w",
-						"publishedAt": "2019-04-02T09:58:20Z",
-						"duration": "PT2H54M29S",
-						"viewCount": "4368678"
-					},
-					{
-						"id": "WTJSt4wP2ME",
-						"title": "K'NAAN - Wavin' Flag (Coca-Cola Celebration Mix)",
-						"channelTitle": "KnaanVEVO",
-						"channelId": "UCrAft3zAvQoshgeRvpEWwWA",
-						"publishedAt": "2010-03-05T19:06:32Z",
-						"duration": "PT3M45S",
-						"viewCount": "314926998"
-					},
-					{
-						"id": "xeA7sqs0yi0",
-						"title": "YoungBoy Never Broke Again - Red Eye [Official Audio]",
-						"channelTitle": "YoungBoy Never Broke Again",
-						"channelId": "UClW4jraMKz6Qj69lJf-tODA",
-						"publishedAt": "2020-02-21T05:00:13Z",
-						"duration": "PT2M37S",
-						"viewCount": "31320740"
+						"id": "kdoJfYG0GrE",
+						"title": "태인(TAIN) - 사진으로부터(From.Photograph) [Official Video]",
+						"channelTitle": "태인 / TAIN",
+						"channelId": "UCkmXNeQ9gAqaWJGnNVEuAcw",
+						"publishedAt": "2021-09-14T03:02:41Z",
+						"duration": "PT3M10S",
+						"viewCount": "1946"
 					}
 				]
 			},
 			{
-				"name": "선물",
+				"name": "ZERO : FEVER, Pt. 3 - EP",
 				"songs": [
 					{
-						"id": "Ai94UyJX5gE",
-						"title": "백예린 (Yerin Baek) '그럴때마다' Lyric Video",
-						"channelTitle": "Yerin Baek",
-						"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-						"publishedAt": "2021-09-10T09:00:07Z",
-						"duration": "PT3M44S",
-						"viewCount": "83249"
+						"id": "9CPrit3Mh7M",
+						"title": "ATEEZ (에이티즈) - ‘ETERNAL SUNSHINE’ Lyrics [Color Coded_Han_Rom_Eng]",
+						"channelTitle": "Zaty Farhani",
+						"channelId": "UCdV79O72wNg4Trqsc_934TQ",
+						"publishedAt": "2021-09-13T10:33:42Z",
+						"duration": "PT4M2S",
+						"viewCount": "23696"
 					},
 					{
-						"id": "74_yqNBhQbA",
-						"title": "백예린 (Yerin Baek) 'Antifreeze' Lyric Video",
-						"channelTitle": "Yerin Baek",
-						"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-						"publishedAt": "2021-09-10T09:00:03Z",
-						"duration": "PT4M15S",
-						"viewCount": "130700"
+						"id": "1mnFrzKyIWg",
+						"title": "ATEEZ (에이티즈) - ‘FEELING LIKE I DO’ Lyrics [Color Coded_Han_Rom_Eng]",
+						"channelTitle": "Zaty Farhani",
+						"channelId": "UCdV79O72wNg4Trqsc_934TQ",
+						"publishedAt": "2021-09-13T11:06:21Z",
+						"duration": "PT3M51S",
+						"viewCount": "13594"
 					},
 					{
-						"id": "QGgKZlTsriM",
-						"title": "백예린 (Yerin Baek) '돌아가자' Lyric Video",
-						"channelTitle": "Yerin Baek",
-						"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-						"publishedAt": "2021-09-10T09:00:11Z",
-						"duration": "PT4M8S",
-						"viewCount": "67600"
+						"id": "cii6ruuycQA",
+						"title": "Olivia Rodrigo - deja vu (Official Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-04-01T16:00:27Z",
+						"duration": "PT3M52S",
+						"viewCount": "160758577"
 					},
 					{
-						"id": "rDd1ZmMjwQs",
-						"title": "백예린 (Yerin Baek) '왜? 날' Lyric Video",
-						"channelTitle": "Yerin Baek",
-						"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-						"publishedAt": "2021-09-10T09:00:31Z",
-						"duration": "PT4M12S",
-						"viewCount": "123235"
-					},
-					{
-						"id": "Vg0foqYOOt8",
-						"title": "백예린 (Yerin Baek) '한계' Lyric Video",
-						"channelTitle": "Yerin Baek",
-						"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-						"publishedAt": "2021-09-10T09:00:29Z",
-						"duration": "PT3M57S",
-						"viewCount": "118019"
-					},
-					{
-						"id": "bJjcdw-w3Hs",
-						"title": "백예린 (Yerin Baek) - 산책 | 가사",
-						"channelTitle": "Hello, My Music Player",
-						"channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
-						"publishedAt": "2021-09-10T09:12:24Z",
-						"duration": "PT3M27S",
-						"viewCount": "16469"
+						"id": "LCBsfLaJl-A",
+						"title": "경서 - 밤하늘의 별을 (2020) / 가사",
+						"channelTitle": "Music is my life",
+						"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
+						"publishedAt": "2020-12-05T10:56:28Z",
+						"duration": "PT4M9S",
+						"viewCount": "2103222"
 					}
 				]
 			},
 			{
-				"name": "4 ONLY",
+				"name": "감정은 왜 항상 제멋대로야 (feat. KROM & 햄찌) - Single",
 				"songs": [
 					{
-						"id": "fDB4CkyrR4U",
-						"title": "이하이 (LeeHi) - '구원자 (Savior) (Feat. B.I)' Official MV (ENG/CHN)",
-						"channelTitle": "AOMGOFFICIAL",
-						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-						"publishedAt": "2021-09-03T09:00:11Z",
-						"duration": "PT4M3S",
-						"viewCount": "5199890"
-					},
-					{
-						"id": "bl8M8gCFMpA",
-						"title": "Lee Hi Intentions Lyrics (이하이 그대의 의도 가사) (Color Coded Lyrics Eng/Rom/Han)",
-						"channelTitle": "Jendukie",
-						"channelId": "UCgNx1CYVzHU3ryIZHW77NuQ",
-						"publishedAt": "2021-09-09T11:06:21Z",
-						"duration": "PT3M58S",
-						"viewCount": "2603"
-					},
-					{
-						"id": "1pBiCChscGY",
-						"title": "Jaden - BYE (Official Visualizer)",
-						"channelTitle": "Jaden",
-						"channelId": "UC-w7D3GsJecTHA8Sjcyn6sQ",
-						"publishedAt": "2021-06-22T04:00:59Z",
-						"duration": "PT4M57S",
-						"viewCount": "2371070"
-					},
-					{
-						"id": "GLlP-CNlY9I",
-						"title": "이하이 (LeeHi) - '빨간 립스틱 (Red Lipstick) (Feat. 윤미래)' Official MV (ENG/CHN)",
-						"channelTitle": "AOMGOFFICIAL",
-						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-						"publishedAt": "2021-09-09T09:00:13Z",
-						"duration": "PT3M36S",
-						"viewCount": "2913865"
-					},
-					{
-						"id": "ww9hZfgC2d8",
-						"title": "이하이 (LeeHi) - '머리어깨무릎발 (H.S.K.T.) (Feat. 원슈타인)' Official MV (ENG/CHN)",
-						"channelTitle": "AOMGOFFICIAL",
-						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-						"publishedAt": "2021-09-14T09:00:11Z",
-						"duration": "PT3M34S",
-						"viewCount": "57740"
-					},
-					{
-						"id": "2dzTeSy2g4Y",
-						"title": "Vertex - 어려워",
-						"channelTitle": "Twowix",
-						"channelId": "UCjzrt07wES1ZgeTcKtfQCfg",
-						"publishedAt": "2013-09-23T03:24:24Z",
-						"duration": "PT3M55S",
-						"viewCount": "108957"
-					},
-					{
-						"id": "KmOVNVZEP9o",
-						"title": "이하이 (LeeHi) - 'ONLY' Official MV (ENG/CHN)",
-						"channelTitle": "AOMGOFFICIAL",
-						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-						"publishedAt": "2021-08-27T09:00:13Z",
-						"duration": "PT5M31S",
-						"viewCount": "2316397"
+						"id": "01o45AAAzw8",
+						"title": "Baeksik (백식) '감정은 왜 항상 제멋대로야 (Lost in my Emotion)' Official Lyric Video",
+						"channelTitle": "talented",
+						"channelId": "UCAo3viXHR3mqyRjC5pvHOjw",
+						"publishedAt": "2021-09-13T03:33:44Z",
+						"duration": "PT4M29S",
+						"viewCount": "160"
 					}
 				]
 			}
 		],
-		"updatedAt": "09142021"
+		"updatedAt": "09152021"
 	},
 	"topAlbums": {
 		"name": "Top Albums",
@@ -1700,22 +1556,13 @@
 				"name": "STEREOTYPE - EP",
 				"songs": [
 					{
-						"id": "NBgLUCVBEuo",
-						"title": "STAYC STEREOTYPE Lyrics (스테이씨 색안경 가사) [Color Coded Lyrics/Han/Rom/Eng]",
-						"channelTitle": "Lemoring",
-						"channelId": "UC2dAS5opN0op-VkOcRBhoGg",
-						"publishedAt": "2021-09-06T09:20:38Z",
-						"duration": "PT3M17S",
-						"viewCount": "261533"
-					},
-					{
 						"id": "iQp1_GfDhwQ",
 						"title": "Jess Glynne - I'll Be There [Official Video]",
 						"channelTitle": "Jess Glynne",
 						"channelId": "UCRKNyJc9Bo1vbBO_67wyQEQ",
 						"publishedAt": "2018-05-04T09:30:15Z",
 						"duration": "PT3M20S",
-						"viewCount": "108154785"
+						"viewCount": "108192749"
 					},
 					{
 						"id": "Z8eXaXoUJRQ",
@@ -1724,7 +1571,7 @@
 						"channelId": "UCjK8ORC71kwyj1DWFwril_A",
 						"publishedAt": "2013-07-20T01:00:09Z",
 						"duration": "PT3M31S",
-						"viewCount": "375962038"
+						"viewCount": "376013133"
 					}
 				]
 			},
@@ -1738,7 +1585,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:09Z",
 						"duration": "PT5M37S",
-						"viewCount": "6268065"
+						"viewCount": "6547631"
 					},
 					{
 						"id": "RJDZBozre1g",
@@ -1747,7 +1594,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:17Z",
 						"duration": "PT2M59S",
-						"viewCount": "2749301"
+						"viewCount": "2868059"
 					},
 					{
 						"id": "b8M6N0FTpNc",
@@ -1756,7 +1603,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:22Z",
 						"duration": "PT3M43S",
-						"viewCount": "6023323"
+						"viewCount": "6281742"
 					},
 					{
 						"id": "eEdVtJW_PwE",
@@ -1765,7 +1612,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:48Z",
 						"duration": "PT4M57S",
-						"viewCount": "3487849"
+						"viewCount": "3608124"
 					},
 					{
 						"id": "Pnz4wbCblmM",
@@ -1774,7 +1621,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:19Z",
 						"duration": "PT3M49S",
-						"viewCount": "4151379"
+						"viewCount": "4319759"
 					},
 					{
 						"id": "THVbtGqEO1o",
@@ -1783,7 +1630,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:52Z",
 						"duration": "PT4M52S",
-						"viewCount": "11667393"
+						"viewCount": "12156241"
 					},
 					{
 						"id": "vX9msKu75qs",
@@ -1792,7 +1639,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:00:38Z",
 						"duration": "PT4M41S",
-						"viewCount": "23744244"
+						"viewCount": "24633282"
 					},
 					{
 						"id": "fhEqtynX_xc",
@@ -1801,7 +1648,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:32Z",
 						"duration": "PT5M10S",
-						"viewCount": "3239854"
+						"viewCount": "3366102"
 					},
 					{
 						"id": "Oh-Al70frOc",
@@ -1810,7 +1657,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:44Z",
 						"duration": "PT4M34S",
-						"viewCount": "2825644"
+						"viewCount": "2923947"
 					},
 					{
 						"id": "ZIu-V_xEehs",
@@ -1819,7 +1666,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:08:55Z",
 						"duration": "PT3M27S",
-						"viewCount": "1775407"
+						"viewCount": "1846079"
 					},
 					{
 						"id": "9rlW2rUzyn0",
@@ -1828,16 +1675,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:08:43Z",
 						"duration": "PT2M15S",
-						"viewCount": "1328724"
-					},
-					{
-						"id": "_dSN9EaQotw",
-						"title": "Drake - No Friends In The Industry",
-						"channelTitle": "DrakeVEVO",
-						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
-						"publishedAt": "2021-09-03T16:11:17Z",
-						"duration": "PT3M25S",
-						"viewCount": "2901684"
+						"viewCount": "1376889"
 					},
 					{
 						"id": "3HFY0xuHybk",
@@ -1846,7 +1684,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:41Z",
 						"duration": "PT4M4S",
-						"viewCount": "5889477"
+						"viewCount": "6239798"
 					},
 					{
 						"id": "L6W1_fUurpA",
@@ -1855,7 +1693,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:11Z",
 						"duration": "PT4M",
-						"viewCount": "2045638"
+						"viewCount": "2098930"
 					},
 					{
 						"id": "bpXztWUPPFQ",
@@ -1864,7 +1702,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:34Z",
 						"duration": "PT4M31S",
-						"viewCount": "1420444"
+						"viewCount": "1463162"
 					},
 					{
 						"id": "pwtWYFUwenE",
@@ -1873,7 +1711,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:41Z",
 						"duration": "PT3M13S",
-						"viewCount": "1493074"
+						"viewCount": "1552908"
 					},
 					{
 						"id": "84y-jaEiFZU",
@@ -1882,7 +1720,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:07Z",
 						"duration": "PT3M50S",
-						"viewCount": "1480752"
+						"viewCount": "1523141"
 					},
 					{
 						"id": "x6Nr6EX3AwY",
@@ -1891,7 +1729,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:44Z",
 						"duration": "PT3M34S",
-						"viewCount": "1825727"
+						"viewCount": "1874988"
 					},
 					{
 						"id": "3aYA2dK2L-U",
@@ -1900,7 +1738,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:21Z",
 						"duration": "PT4M13S",
-						"viewCount": "1510121"
+						"viewCount": "1555055"
 					},
 					{
 						"id": "EK8aKKeUmmU",
@@ -1909,7 +1747,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:45Z",
 						"duration": "PT4M6S",
-						"viewCount": "868395"
+						"viewCount": "890643"
 					},
 					{
 						"id": "2_TPmfd02xc",
@@ -1918,7 +1756,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:29Z",
 						"duration": "PT5M52S",
-						"viewCount": "1271303"
+						"viewCount": "1306174"
 					}
 				]
 			},
@@ -1932,7 +1770,7 @@
 						"channelId": "UCHuyAbMG3UshUqNLYCUjaPg",
 						"publishedAt": "2021-07-16T04:00:12Z",
 						"duration": "PT3M36S",
-						"viewCount": "5258330"
+						"viewCount": "5277446"
 					}
 				]
 			},
@@ -1946,7 +1784,7 @@
 						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
 						"publishedAt": "2021-09-06T09:00:05Z",
 						"duration": "PT3M35S",
-						"viewCount": "1095022"
+						"viewCount": "1128334"
 					},
 					{
 						"id": "DxQRSf21sqU",
@@ -1955,7 +1793,7 @@
 						"channelId": "UCjCm_aaxFUC4Jdm1ghQGXHA",
 						"publishedAt": "2021-09-06T09:16:20Z",
 						"duration": "PT3M14S",
-						"viewCount": "1082"
+						"viewCount": "1115"
 					},
 					{
 						"id": "kY0stNVw4Sk",
@@ -1964,7 +1802,7 @@
 						"channelId": "UCOCN6u4vdRPRXopBw9VBWJw",
 						"publishedAt": "2021-09-06T13:11:48Z",
 						"duration": "PT3M18S",
-						"viewCount": "575"
+						"viewCount": "595"
 					},
 					{
 						"id": "P16gZt_YHb0",
@@ -1973,7 +1811,7 @@
 						"channelId": "UCyAojDE5b7HoWX6rzYUn5Mg",
 						"publishedAt": "2016-05-11T10:39:17Z",
 						"duration": "PT4M30S",
-						"viewCount": "12074409"
+						"viewCount": "12075073"
 					},
 					{
 						"id": "b2Aj9fSUCQk",
@@ -1982,12 +1820,12 @@
 						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
 						"publishedAt": "2021-09-13T09:00:05Z",
 						"duration": "PT3M39S",
-						"viewCount": "146067"
+						"viewCount": "165896"
 					}
 				]
 			}
 		],
-		"updatedAt": "09142021"
+		"updatedAt": "09152021"
 	},
 	"topSongs": {
 		"name": "Top Songs",
@@ -1999,16 +1837,7 @@
 				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
 				"publishedAt": "2021-09-10T09:00:03Z",
 				"duration": "PT4M15S",
-				"viewCount": "130700"
-			},
-			{
-				"id": "c9RzZpV460k",
-				"title": "Red Velvet 레드벨벳 'Queendom' MV",
-				"channelTitle": "SMTOWN",
-				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-				"publishedAt": "2021-08-16T09:00:48Z",
-				"duration": "PT3M10S",
-				"viewCount": "64523475"
+				"viewCount": "144770"
 			},
 			{
 				"id": "awkkyBH2zEo",
@@ -2017,16 +1846,16 @@
 				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
 				"publishedAt": "2021-09-10T04:00:13Z",
 				"duration": "PT3M27S",
-				"viewCount": "134778122"
+				"viewCount": "142250233"
 			},
 			{
-				"id": "NBgLUCVBEuo",
-				"title": "STAYC STEREOTYPE Lyrics (스테이씨 색안경 가사) [Color Coded Lyrics/Han/Rom/Eng]",
-				"channelTitle": "Lemoring",
-				"channelId": "UC2dAS5opN0op-VkOcRBhoGg",
-				"publishedAt": "2021-09-06T09:20:38Z",
-				"duration": "PT3M17S",
-				"viewCount": "261646"
+				"id": "c9RzZpV460k",
+				"title": "Red Velvet 레드벨벳 'Queendom' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2021-08-16T09:00:48Z",
+				"duration": "PT3M10S",
+				"viewCount": "64889117"
 			},
 			{
 				"id": "EROYsCK0vK4",
@@ -2035,52 +1864,7 @@
 				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 				"publishedAt": "2021-09-14T09:00:13Z",
 				"duration": "PT3M30S",
-				"viewCount": "162381"
-			},
-			{
-				"id": "rDd1ZmMjwQs",
-				"title": "백예린 (Yerin Baek) '왜? 날' Lyric Video",
-				"channelTitle": "Yerin Baek",
-				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-				"publishedAt": "2021-09-10T09:00:31Z",
-				"duration": "PT4M12S",
-				"viewCount": "123235"
-			},
-			{
-				"id": "CuklIb9d3fI",
-				"title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
-				"channelTitle": "HYBE LABELS",
-				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-				"publishedAt": "2021-07-09T03:59:12Z",
-				"duration": "PT5M",
-				"viewCount": "306173908"
-			},
-			{
-				"id": "tg2uF3R_Ozo",
-				"title": "SOMI (전소미) - 'DUMB DUMB' M/V",
-				"channelTitle": "THEBLACKLABEL",
-				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
-				"publishedAt": "2021-08-02T09:00:15Z",
-				"duration": "PT2M59S",
-				"viewCount": "76230160"
-			},
-			{
-				"id": "orJSJGHjBLI",
-				"title": "Ed Sheeran - Bad Habits [Official Video]",
-				"channelTitle": "Ed Sheeran",
-				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-				"publishedAt": "2021-06-25T04:00:33Z",
-				"duration": "PT4M1S",
-				"viewCount": "154514285"
-			},
-			{
-				"id": "Ai94UyJX5gE",
-				"title": "백예린 (Yerin Baek) '그럴때마다' Lyric Video",
-				"channelTitle": "Yerin Baek",
-				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-				"publishedAt": "2021-09-10T09:00:07Z",
-				"duration": "PT3M44S",
-				"viewCount": "83249"
+				"viewCount": "879712"
 			},
 			{
 				"id": "GLlP-CNlY9I",
@@ -2089,7 +1873,16 @@
 				"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 				"publishedAt": "2021-09-09T09:00:13Z",
 				"duration": "PT3M36S",
-				"viewCount": "2913865"
+				"viewCount": "3084629"
+			},
+			{
+				"id": "rDd1ZmMjwQs",
+				"title": "백예린 (Yerin Baek) '왜? 날' Lyric Video",
+				"channelTitle": "Yerin Baek",
+				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
+				"publishedAt": "2021-09-10T09:00:31Z",
+				"duration": "PT4M12S",
+				"viewCount": "132118"
 			},
 			{
 				"id": "Vg0foqYOOt8",
@@ -2098,61 +1891,34 @@
 				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
 				"publishedAt": "2021-09-10T09:00:29Z",
 				"duration": "PT3M57S",
-				"viewCount": "118019"
+				"viewCount": "129429"
 			},
 			{
-				"id": "RmuL-BPFi2Q",
-				"title": "TAEYEON 태연 'Weekend' MV",
-				"channelTitle": "SMTOWN",
-				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-				"publishedAt": "2021-07-06T09:00:09Z",
-				"duration": "PT4M7S",
-				"viewCount": "19795598"
+				"id": "orJSJGHjBLI",
+				"title": "Ed Sheeran - Bad Habits [Official Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2021-06-25T04:00:33Z",
+				"duration": "PT4M1S",
+				"viewCount": "155412106"
 			},
 			{
-				"id": "bJjcdw-w3Hs",
-				"title": "백예린 (Yerin Baek) - 산책 | 가사",
-				"channelTitle": "Hello, My Music Player",
-				"channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
-				"publishedAt": "2021-09-10T09:12:24Z",
-				"duration": "PT3M27S",
-				"viewCount": "16469"
-			},
-			{
-				"id": "QGgKZlTsriM",
-				"title": "백예린 (Yerin Baek) '돌아가자' Lyric Video",
-				"channelTitle": "Yerin Baek",
-				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-				"publishedAt": "2021-09-10T09:00:11Z",
-				"duration": "PT4M8S",
-				"viewCount": "67600"
-			},
-			{
-				"id": "uO59tfQ2TbA",
-				"title": "David Guetta - Hey Mama (Official Video) ft Nicki Minaj, Bebe Rexha & Afrojack",
-				"channelTitle": "David Guetta",
-				"channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
-				"publishedAt": "2015-05-19T19:41:51Z",
-				"duration": "PT3M20S",
-				"viewCount": "1482601874"
-			},
-			{
-				"id": "WMweEpGlu_U",
-				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"id": "CuklIb9d3fI",
+				"title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
 				"channelTitle": "HYBE LABELS",
 				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-				"publishedAt": "2021-05-21T03:46:13Z",
-				"duration": "PT3M3S",
-				"viewCount": "551492950"
+				"publishedAt": "2021-07-09T03:59:12Z",
+				"duration": "PT5M",
+				"viewCount": "307208942"
 			},
 			{
-				"id": "Fc9fVi-_DWE",
-				"title": "이무진 - 신호등 /가사",
-				"channelTitle": "Music is my life",
-				"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
-				"publishedAt": "2021-08-04T07:40:05Z",
-				"duration": "PT4M25S",
-				"viewCount": "2769361"
+				"id": "tg2uF3R_Ozo",
+				"title": "SOMI (전소미) - 'DUMB DUMB' M/V",
+				"channelTitle": "THEBLACKLABEL",
+				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+				"publishedAt": "2021-08-02T09:00:15Z",
+				"duration": "PT2M59S",
+				"viewCount": "76762081"
 			},
 			{
 				"id": "z2_Lrg6rRks",
@@ -2161,7 +1927,70 @@
 				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 				"publishedAt": "2021-09-13T16:00:36Z",
 				"duration": "PT3M29S",
-				"viewCount": "386569"
+				"viewCount": "666376"
+			},
+			{
+				"id": "Ai94UyJX5gE",
+				"title": "백예린 (Yerin Baek) '그럴때마다' Lyric Video",
+				"channelTitle": "Yerin Baek",
+				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
+				"publishedAt": "2021-09-10T09:00:07Z",
+				"duration": "PT3M44S",
+				"viewCount": "89814"
+			},
+			{
+				"id": "RmuL-BPFi2Q",
+				"title": "TAEYEON 태연 'Weekend' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2021-07-06T09:00:09Z",
+				"duration": "PT4M7S",
+				"viewCount": "19883648"
+			},
+			{
+				"id": "uO59tfQ2TbA",
+				"title": "David Guetta - Hey Mama (Official Video) ft Nicki Minaj, Bebe Rexha & Afrojack",
+				"channelTitle": "David Guetta",
+				"channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
+				"publishedAt": "2015-05-19T19:41:51Z",
+				"duration": "PT3M20S",
+				"viewCount": "1482789775"
+			},
+			{
+				"id": "bJjcdw-w3Hs",
+				"title": "백예린 (Yerin Baek) - 산책 | 가사",
+				"channelTitle": "Hello, My Music Player",
+				"channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
+				"publishedAt": "2021-09-10T09:12:24Z",
+				"duration": "PT3M27S",
+				"viewCount": "18624"
+			},
+			{
+				"id": "QGgKZlTsriM",
+				"title": "백예린 (Yerin Baek) '돌아가자' Lyric Video",
+				"channelTitle": "Yerin Baek",
+				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
+				"publishedAt": "2021-09-10T09:00:11Z",
+				"duration": "PT4M8S",
+				"viewCount": "73223"
+			},
+			{
+				"id": "WMweEpGlu_U",
+				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2021-05-21T03:46:13Z",
+				"duration": "PT3M3S",
+				"viewCount": "552423087"
+			},
+			{
+				"id": "Fc9fVi-_DWE",
+				"title": "이무진 - 신호등 /가사",
+				"channelTitle": "Music is my life",
+				"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
+				"publishedAt": "2021-08-04T07:40:05Z",
+				"duration": "PT4M25S",
+				"viewCount": "2816009"
 			},
 			{
 				"id": "KCpWMEsiN3Q",
@@ -2170,16 +1999,7 @@
 				"channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
 				"publishedAt": "2020-06-22T09:00:07Z",
 				"duration": "PT3M10S",
-				"viewCount": "1471019"
-			},
-			{
-				"id": "tQ0yjYUFKAE",
-				"title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
-				"channelTitle": "JustinBieberVEVO",
-				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
-				"publishedAt": "2021-03-19T04:00:15Z",
-				"duration": "PT3M18S",
-				"viewCount": "377963373"
+				"viewCount": "1487410"
 			},
 			{
 				"id": "tyYwOEKKcZc",
@@ -2188,7 +2008,16 @@
 				"channelId": "UCnsa7fw1hZHP5qvf8zVGnvA",
 				"publishedAt": "2021-09-09T22:00:32Z",
 				"duration": "PT3M41S",
-				"viewCount": "652568"
+				"viewCount": "724385"
+			},
+			{
+				"id": "tQ0yjYUFKAE",
+				"title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
+				"channelTitle": "JustinBieberVEVO",
+				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+				"publishedAt": "2021-03-19T04:00:15Z",
+				"duration": "PT3M18S",
+				"viewCount": "378605099"
 			},
 			{
 				"id": "gdZLi9oWNZg",
@@ -2197,7 +2026,7 @@
 				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
 				"publishedAt": "2020-08-21T03:58:10Z",
 				"duration": "PT3M44S",
-				"viewCount": "1239588227"
+				"viewCount": "1240376602"
 			},
 			{
 				"id": "fDB4CkyrR4U",
@@ -2206,7 +2035,7 @@
 				"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 				"publishedAt": "2021-09-03T09:00:11Z",
 				"duration": "PT4M3S",
-				"viewCount": "5199890"
+				"viewCount": "5287751"
 			},
 			{
 				"id": "UTHLKHL_whs",
@@ -2215,16 +2044,7 @@
 				"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 				"publishedAt": "2021-07-23T04:00:12Z",
 				"duration": "PT3M56S",
-				"viewCount": "115962120"
-			},
-			{
-				"id": "JzODRUBBXpc",
-				"title": "TXT (투모로우바이투게더) 'LO$ER=LO♡ER' Official MV",
-				"channelTitle": "HYBE LABELS",
-				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-				"publishedAt": "2021-08-17T08:58:10Z",
-				"duration": "PT3M57S",
-				"viewCount": "25146514"
+				"viewCount": "117040097"
 			},
 			{
 				"id": "0EVVKs6DQLo",
@@ -2233,25 +2053,7 @@
 				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
 				"publishedAt": "2021-04-09T04:00:00Z",
 				"duration": "PT5M16S",
-				"viewCount": "201036496"
-			},
-			{
-				"id": "joLR_b8ERak",
-				"title": "LISA MONEY Lyrics (Color Coded Lyrics)",
-				"channelTitle": "Jaeguchi",
-				"channelId": "UCmth4hMyizG-_W9jidBqs_A",
-				"publishedAt": "2021-09-10T04:27:11Z",
-				"duration": "PT2M47S",
-				"viewCount": "2970250"
-			},
-			{
-				"id": "0aaeUI1ucfQ",
-				"title": "[HyunA&DAWN] 'PING PONG' MV",
-				"channelTitle": "HyunA",
-				"channelId": "UC0uTcuuOtUFwtn9aKUVGjXg",
-				"publishedAt": "2021-09-09T09:00:09Z",
-				"duration": "PT2M41S",
-				"viewCount": "7571413"
+				"viewCount": "201643721"
 			},
 			{
 				"id": "vX9msKu75qs",
@@ -2260,7 +2062,7 @@
 				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 				"publishedAt": "2021-09-03T16:00:38Z",
 				"duration": "PT4M41S",
-				"viewCount": "23744244"
+				"viewCount": "24633282"
 			},
 			{
 				"id": "8GPAW4dMxsY",
@@ -2269,16 +2071,25 @@
 				"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
 				"publishedAt": "2021-05-20T09:59:24Z",
 				"duration": "PT3M47S",
-				"viewCount": "4237072"
+				"viewCount": "4248333"
 			},
 			{
-				"id": "HzOjwL7IP_o",
-				"title": "(MV)오마이걸(OH MY GIRL)_Dun Dun Dance",
-				"channelTitle": "OH MY GIRL",
-				"channelId": "UC-qYkzKFdekoEniRu_FS3zg",
-				"publishedAt": "2021-05-10T09:00:02Z",
-				"duration": "PT4M8S",
-				"viewCount": "38571980"
+				"id": "JzODRUBBXpc",
+				"title": "TXT (투모로우바이투게더) 'LO$ER=LO♡ER' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2021-08-17T08:58:10Z",
+				"duration": "PT3M57S",
+				"viewCount": "25400812"
+			},
+			{
+				"id": "0aaeUI1ucfQ",
+				"title": "[HyunA&DAWN] 'PING PONG' MV",
+				"channelTitle": "HyunA",
+				"channelId": "UC0uTcuuOtUFwtn9aKUVGjXg",
+				"publishedAt": "2021-09-09T09:00:09Z",
+				"duration": "PT2M41S",
+				"viewCount": "8179843"
 			},
 			{
 				"id": "dyRsYk0LyA8",
@@ -2287,25 +2098,25 @@
 				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
 				"publishedAt": "2020-10-02T04:00:13Z",
 				"duration": "PT3M22S",
-				"viewCount": "480465605"
+				"viewCount": "480805933"
 			},
 			{
-				"id": "FtJ0m6F6eqw",
-				"title": "[OFF THE BOYZ] ‘THRILL RIDE’ Final Week Behind",
-				"channelTitle": "THE BOYZ",
-				"channelId": "UCkJ1rbOrsyPfBuHNfnLPm-Q",
-				"publishedAt": "2021-09-14T09:00:06Z",
-				"duration": "PT16M15S",
-				"viewCount": "16417"
+				"id": "joLR_b8ERak",
+				"title": "LISA MONEY Lyrics (Color Coded Lyrics)",
+				"channelTitle": "Jaeguchi",
+				"channelId": "UCmth4hMyizG-_W9jidBqs_A",
+				"publishedAt": "2021-09-10T04:27:11Z",
+				"duration": "PT2M47S",
+				"viewCount": "3256768"
 			},
 			{
-				"id": "XA2YEHn-A8Q",
-				"title": "TWICE \"Alcohol-Free\" M/V",
-				"channelTitle": "JYP Entertainment",
-				"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
-				"publishedAt": "2021-06-09T08:58:12Z",
-				"duration": "PT3M34S",
-				"viewCount": "169029473"
+				"id": "HzOjwL7IP_o",
+				"title": "(MV)오마이걸(OH MY GIRL)_Dun Dun Dance",
+				"channelTitle": "OH MY GIRL",
+				"channelId": "UC-qYkzKFdekoEniRu_FS3zg",
+				"publishedAt": "2021-05-10T09:00:02Z",
+				"duration": "PT4M8S",
+				"viewCount": "38639609"
 			},
 			{
 				"id": "K6sH0r_NwUo",
@@ -2314,7 +2125,25 @@
 				"channelId": "UCdlpIyeLu3cfD0jD8SgxxRA",
 				"publishedAt": "2021-06-18T03:08:34Z",
 				"duration": "PT4M23S",
-				"viewCount": "1526018"
+				"viewCount": "1531243"
+			},
+			{
+				"id": "XMs2CIiqRDI",
+				"title": "THE BOYZ(더보이즈) ‘THRILL RIDE’ MV",
+				"channelTitle": "THE BOYZ",
+				"channelId": "UCkJ1rbOrsyPfBuHNfnLPm-Q",
+				"publishedAt": "2021-08-09T09:00:03Z",
+				"duration": "PT3M20S",
+				"viewCount": "31712099"
+			},
+			{
+				"id": "XA2YEHn-A8Q",
+				"title": "TWICE \"Alcohol-Free\" M/V",
+				"channelTitle": "JYP Entertainment",
+				"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+				"publishedAt": "2021-06-09T08:58:12Z",
+				"duration": "PT3M34S",
+				"viewCount": "169364953"
 			},
 			{
 				"id": "b8M6N0FTpNc",
@@ -2323,43 +2152,7 @@
 				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 				"publishedAt": "2021-09-03T16:10:22Z",
 				"duration": "PT3M43S",
-				"viewCount": "6023323"
-			},
-			{
-				"id": "EaswWiwMVs8",
-				"title": "Stray Kids \"소리꾼\" M/V",
-				"channelTitle": "JYP Entertainment",
-				"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
-				"publishedAt": "2021-08-23T08:59:54Z",
-				"duration": "PT3M19S",
-				"viewCount": "72278338"
-			},
-			{
-				"id": "KmOVNVZEP9o",
-				"title": "이하이 (LeeHi) - 'ONLY' Official MV (ENG/CHN)",
-				"channelTitle": "AOMGOFFICIAL",
-				"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-				"publishedAt": "2021-08-27T09:00:13Z",
-				"duration": "PT5M31S",
-				"viewCount": "2316397"
-			},
-			{
-				"id": "QPUjV7epJqE",
-				"title": "NCT DREAM 엔시티 드림 'Hello Future' MV",
-				"channelTitle": "SMTOWN",
-				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-				"publishedAt": "2021-06-28T09:00:13Z",
-				"duration": "PT3M53S",
-				"viewCount": "64892737"
-			},
-			{
-				"id": "t3CoEyYEf4A",
-				"title": "Ed Sheeran - Visiting Hours [Official Performance Video]",
-				"channelTitle": "Ed Sheeran",
-				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-				"publishedAt": "2021-08-19T13:00:24Z",
-				"duration": "PT3M49S",
-				"viewCount": "12686717"
+				"viewCount": "6281742"
 			},
 			{
 				"id": "cds_rfHsJ3Y",
@@ -2368,7 +2161,7 @@
 				"channelId": "UC_TVqp_SyG6j5hG-xVRy95A",
 				"publishedAt": "2021-08-20T04:00:12Z",
 				"duration": "PT2M48S",
-				"viewCount": "16992614"
+				"viewCount": "17358468"
 			},
 			{
 				"id": "LIIDh-qI9oI",
@@ -2377,9 +2170,45 @@
 				"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
 				"publishedAt": "2021-04-23T04:00:06Z",
 				"duration": "PT3M26S",
-				"viewCount": "141498364"
+				"viewCount": "141821995"
+			},
+			{
+				"id": "QPUjV7epJqE",
+				"title": "NCT DREAM 엔시티 드림 'Hello Future' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2021-06-28T09:00:13Z",
+				"duration": "PT3M53S",
+				"viewCount": "64978985"
+			},
+			{
+				"id": "KmOVNVZEP9o",
+				"title": "이하이 (LeeHi) - 'ONLY' Official MV (ENG/CHN)",
+				"channelTitle": "AOMGOFFICIAL",
+				"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
+				"publishedAt": "2021-08-27T09:00:13Z",
+				"duration": "PT5M31S",
+				"viewCount": "2389930"
+			},
+			{
+				"id": "EaswWiwMVs8",
+				"title": "Stray Kids \"소리꾼\" M/V",
+				"channelTitle": "JYP Entertainment",
+				"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+				"publishedAt": "2021-08-23T08:59:54Z",
+				"duration": "PT3M19S",
+				"viewCount": "73172290"
+			},
+			{
+				"id": "t3CoEyYEf4A",
+				"title": "Ed Sheeran - Visiting Hours [Official Performance Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2021-08-19T13:00:24Z",
+				"duration": "PT3M49S",
+				"viewCount": "12795525"
 			}
 		],
-		"updatedAt": "09142021"
+		"updatedAt": "09152021"
 	}
 }
