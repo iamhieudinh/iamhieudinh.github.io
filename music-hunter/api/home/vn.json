@@ -12,7 +12,7 @@
 						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 						"publishedAt": "2021-06-25T04:00:33Z",
 						"duration": "PT4M1S",
-						"viewCount": "162547358"
+						"viewCount": "163461393"
 					}
 				]
 			},
@@ -26,7 +26,7 @@
 						"channelId": "UCkUCuYrbtwAsDgk6y-YmJHw",
 						"publishedAt": "2021-07-02T05:02:11Z",
 						"duration": "PT3M18S",
-						"viewCount": "3507450"
+						"viewCount": "3550580"
 					}
 				]
 			},
@@ -40,7 +40,7 @@
 						"channelId": "UCjK8ORC71kwyj1DWFwril_A",
 						"publishedAt": "2021-01-15T00:00:10Z",
 						"duration": "PT2M49S",
-						"viewCount": "82237282"
+						"viewCount": "82265672"
 					}
 				]
 			},
@@ -54,12 +54,12 @@
 						"channelId": "UCGej5zp_KWZ-b_1w4Rq2hyA",
 						"publishedAt": "2014-12-10T08:00:03Z",
 						"duration": "PT3M59S",
-						"viewCount": "103111485"
+						"viewCount": "103124608"
 					}
 				]
 			}
 		],
-		"updatedAt": "09212021"
+		"updatedAt": "09222021"
 	},
 	"newReleases": {
 		"name": "Viet Music",
@@ -74,7 +74,7 @@
 						"channelId": "UCBZjBKNMZoFih4ubdiIDWLw",
 						"publishedAt": "2015-04-13T20:44:15Z",
 						"duration": "PT4M1S",
-						"viewCount": "2320916"
+						"viewCount": "2320968"
 					},
 					{
 						"id": "rYI-MhFlvpw",
@@ -83,7 +83,7 @@
 						"channelId": "UCLk4KNRmU3Be44yNpziCGRg",
 						"publishedAt": "2019-04-11T12:41:21Z",
 						"duration": "PT3M17S",
-						"viewCount": "3248902"
+						"viewCount": "3248959"
 					},
 					{
 						"id": "tjGJjFE0fxE",
@@ -92,7 +92,7 @@
 						"channelId": "UCPDs5WRe5P-DFW_1EIPqlWQ",
 						"publishedAt": "2021-04-21T09:00:15Z",
 						"duration": "PT5M6S",
-						"viewCount": "19790894"
+						"viewCount": "19865151"
 					},
 					{
 						"id": "hVa_4Yn3aOc",
@@ -101,7 +101,7 @@
 						"channelId": "UCPSX-g40Ti1c5C7sbGNtGzA",
 						"publishedAt": "2016-03-17T15:53:37Z",
 						"duration": "PT3M56S",
-						"viewCount": "2489891"
+						"viewCount": "2490269"
 					},
 					{
 						"id": "LZN4I3K8SC0",
@@ -110,26 +110,67 @@
 						"channelId": "UCLOCzuU5ddDqvd_e3qpomZQ",
 						"publishedAt": "2020-07-11T12:00:11Z",
 						"duration": "PT4M41S",
-						"viewCount": "73175647"
+						"viewCount": "73218656"
 					}
 				]
 			},
 			{
-				"name": "Nếu Em Đi - Single",
+				"name": "Thiên Đường Cô Đơn (feat. Kiên Trịnh) - Single",
 				"songs": [
 					{
-						"id": "tbQa1arl3_w",
-						"title": "Lyrics || Nếu Em Đi (Cover) - DIG DIDZAY",
-						"channelTitle": "BA MUSIC",
-						"channelId": "UCfhmR4rU72fN_BPsft8a87A",
-						"publishedAt": "2019-01-22T15:09:14Z",
-						"duration": "PT4M10S",
-						"viewCount": "51429606"
+						"id": "0-oYzWARQM8",
+						"title": "Thiên Đường Cô Đơn (feat. Kiên Trịnh) (feat. Kiên Trịnh)",
+						"channelTitle": "Various Artists - Topic",
+						"channelId": "UCM-QjVh4S2oi3YD03j-hf9Q",
+						"publishedAt": "2021-09-13T10:03:14Z",
+						"duration": "PT3M33S",
+						"viewCount": "27492"
+					}
+				]
+			},
+			{
+				"name": "Still Good - EP",
+				"songs": [
+					{
+						"id": "ClSh6sLR99Y",
+						"title": "Kim Chi Sun - Darlin' (Mood-Up Vibe) | Still Good EP",
+						"channelTitle": "Kim Chi Sun",
+						"channelId": "UCB_0AewT7m8Z8JYDVgO25bg",
+						"publishedAt": "2021-09-13T02:00:02Z",
+						"duration": "PT3M29S",
+						"viewCount": "284"
+					},
+					{
+						"id": "_iBMpA9isms",
+						"title": "Kim Chi Sun - Baby I'm Good (Wake-Up Tune) | Still Good EP",
+						"channelTitle": "Kim Chi Sun",
+						"channelId": "UCB_0AewT7m8Z8JYDVgO25bg",
+						"publishedAt": "2021-09-13T02:00:12Z",
+						"duration": "PT4M19S",
+						"viewCount": "451"
+					},
+					{
+						"id": "5uu2CwXVihQ",
+						"title": "Kim Chi Sun - Cheat Chat (Morning Thoughts) - ft. CHARLES | Still Good EP",
+						"channelTitle": "Kim Chi Sun",
+						"channelId": "UCB_0AewT7m8Z8JYDVgO25bg",
+						"publishedAt": "2021-09-13T02:00:01Z",
+						"duration": "PT4M51S",
+						"viewCount": "205"
+					},
+					{
+						"id": "pVsOnLATZ_Y",
+						"title": "Kim Chi Sun - Lối Đi Cho Em (Down The Street) | Still Good EP",
+						"channelTitle": "Kim Chi Sun",
+						"channelId": "UCB_0AewT7m8Z8JYDVgO25bg",
+						"publishedAt": "2021-09-13T02:00:06Z",
+						"duration": "PT3M38S",
+						"viewCount": "164"
 					}
 				]
 			}
 		],
-		"updatedAt": "09212021"
+		"updatedAt": "09222021"
 	},
 	"topAlbums": {
 		"name": "Top Albums",
@@ -144,7 +185,16 @@
 						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 						"publishedAt": "2021-09-17T04:00:13Z",
 						"duration": "PT3M55S",
-						"viewCount": "48136652"
+						"viewCount": "49182938"
+					},
+					{
+						"id": "4eWfRjyp2Nc",
+						"title": "Alexandra Stan - Lemonade (OFFICIAL MUSIC VIDEO)",
+						"channelTitle": "maanstudio",
+						"channelId": "UCHSXLQ-xNQm5ks6kMFOoneQ",
+						"publishedAt": "2012-06-04T17:07:02Z",
+						"duration": "PT3M30S",
+						"viewCount": "89719779"
 					},
 					{
 						"id": "oPVte6aMprI",
@@ -153,7 +203,7 @@
 						"channelId": "UC1dVfl5-I98WX3yCy8IJQMg",
 						"publishedAt": "2020-01-19T19:00:06Z",
 						"duration": "PT3H52M18S",
-						"viewCount": "10051616"
+						"viewCount": "10069159"
 					},
 					{
 						"id": "v2JYO8Qah8E",
@@ -162,7 +212,7 @@
 						"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
 						"publishedAt": "2021-09-17T04:00:39Z",
 						"duration": "PT3M19S",
-						"viewCount": "339317"
+						"viewCount": "361327"
 					},
 					{
 						"id": "T-xFua4AxfE",
@@ -171,7 +221,7 @@
 						"channelId": "UCdV79O72wNg4Trqsc_934TQ",
 						"publishedAt": "2021-09-17T10:26:23Z",
 						"duration": "PT4M9S",
-						"viewCount": "15784"
+						"viewCount": "17389"
 					},
 					{
 						"id": "fvqVHOUAnz4",
@@ -180,7 +230,7 @@
 						"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
 						"publishedAt": "2021-09-17T04:00:28Z",
 						"duration": "PT3M43S",
-						"viewCount": "351804"
+						"viewCount": "368711"
 					},
 					{
 						"id": "XhHtN5J74q4",
@@ -189,7 +239,7 @@
 						"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
 						"publishedAt": "2021-09-17T04:00:23Z",
 						"duration": "PT3M39S",
-						"viewCount": "352376"
+						"viewCount": "368483"
 					},
 					{
 						"id": "TkHV4PohqsI",
@@ -198,7 +248,7 @@
 						"channelId": "UCKRp5dNEBko_xLYf_kHuZcw",
 						"publishedAt": "2021-06-15T04:59:28Z",
 						"duration": "PT3M26S",
-						"viewCount": "2651420"
+						"viewCount": "2662148"
 					}
 				]
 			},
@@ -212,34 +262,25 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-03-26T04:00:14Z",
 						"duration": "PT3M10S",
-						"viewCount": "354985871"
+						"viewCount": "355795978"
 					},
 					{
-						"id": "A8RDBD7D7QE",
-						"title": "Lil Nas X - DEAD RIGHT NOW",
-						"channelTitle": "LilNasXVEVO",
-						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
-						"publishedAt": "2021-09-17T04:00:03Z",
-						"duration": "PT3M43S",
-						"viewCount": "2358431"
+						"id": "86M5RcA1ILI",
+						"title": "Lil Nas X - Dead Right Now in the Live Lounge",
+						"channelTitle": "BBCRadio1VEVO",
+						"channelId": "UCKoafhJ9dkAWaEvlXCiBBwA",
+						"publishedAt": "2021-09-21T16:15:01Z",
+						"duration": "PT4M17S",
+						"viewCount": "48483"
 					},
 					{
-						"id": "UTHLKHL_whs",
-						"title": "Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video)",
-						"channelTitle": "LilNasXVEVO",
-						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
-						"publishedAt": "2021-07-23T04:00:12Z",
-						"duration": "PT3M56S",
-						"viewCount": "127225218"
-					},
-					{
-						"id": "QDYDRA5JPLE",
-						"title": "Lil Nas X - THATS WHAT I WANT (Official Video)",
-						"channelTitle": "LilNasXVEVO",
-						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
-						"publishedAt": "2021-09-17T04:00:12Z",
-						"duration": "PT2M42S",
-						"viewCount": "23271113"
+						"id": "7sAJza3Nn_I",
+						"title": "Lil Nas X - That's What I Want in the Live Lounge",
+						"channelTitle": "BBCRadio1VEVO",
+						"channelId": "UCKoafhJ9dkAWaEvlXCiBBwA",
+						"publishedAt": "2021-09-21T16:15:00Z",
+						"duration": "PT2M29S",
+						"viewCount": "66294"
 					},
 					{
 						"id": "h8KOpSeS9A0",
@@ -248,7 +289,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:13Z",
 						"duration": "PT25S",
-						"viewCount": "785978"
+						"viewCount": "842028"
 					},
 					{
 						"id": "iHLmSXJLH8E",
@@ -257,7 +298,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:27Z",
 						"duration": "PT2M57S",
-						"viewCount": "5104529"
+						"viewCount": "5482604"
 					},
 					{
 						"id": "kEC0RdQJA4M",
@@ -266,7 +307,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:12Z",
 						"duration": "PT2M43S",
-						"viewCount": "2114805"
+						"viewCount": "2263026"
 					},
 					{
 						"id": "gqthPLRV7kw",
@@ -275,7 +316,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:28Z",
 						"duration": "PT2M52S",
-						"viewCount": "1958947"
+						"viewCount": "2105503"
 					},
 					{
 						"id": "wuh6YqcQgmM",
@@ -284,7 +325,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:19Z",
 						"duration": "PT2M26S",
-						"viewCount": "5295361"
+						"viewCount": "5775722"
 					},
 					{
 						"id": "BHc2E3pNgA0",
@@ -293,7 +334,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:03Z",
 						"duration": "PT2M27S",
-						"viewCount": "1882587"
+						"viewCount": "2083189"
 					},
 					{
 						"id": "U3BVFY9wnTw",
@@ -302,16 +343,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-05-21T04:00:14Z",
 						"duration": "PT2M53S",
-						"viewCount": "31370926"
-					},
-					{
-						"id": "aV2Dfcz20xQ",
-						"title": "Lil Nas X - VOID",
-						"channelTitle": "LilNasXVEVO",
-						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
-						"publishedAt": "2021-09-17T04:00:01Z",
-						"duration": "PT4M11S",
-						"viewCount": "2494968"
+						"viewCount": "31486996"
 					},
 					{
 						"id": "ROEhuRhrhvE",
@@ -320,7 +352,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:08Z",
 						"duration": "PT2M12S",
-						"viewCount": "2007280"
+						"viewCount": "2204676"
 					},
 					{
 						"id": "KeR2w7KRwAE",
@@ -329,7 +361,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:17Z",
 						"duration": "PT3M32S",
-						"viewCount": "1500317"
+						"viewCount": "1597341"
 					},
 					{
 						"id": "oyliZ8AoPq0",
@@ -338,7 +370,7 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:16Z",
 						"duration": "PT3M2S",
-						"viewCount": "3565774"
+						"viewCount": "3915594"
 					}
 				]
 			},
@@ -352,7 +384,7 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-09-03T09:00:11Z",
 						"duration": "PT4M3S",
-						"viewCount": "5802682"
+						"viewCount": "5866200"
 					},
 					{
 						"id": "3AyMjyHu1bA",
@@ -361,7 +393,7 @@
 						"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
 						"publishedAt": "2020-02-12T20:00:01Z",
 						"duration": "PT3M45S",
-						"viewCount": "422384372"
+						"viewCount": "422654801"
 					},
 					{
 						"id": "2d_zqX3vDk4",
@@ -370,7 +402,7 @@
 						"channelId": "UCupX2J-p__tFgUy2eF9sbHA",
 						"publishedAt": "2021-09-09T10:39:46Z",
 						"duration": "PT3M4S",
-						"viewCount": "10760"
+						"viewCount": "11082"
 					},
 					{
 						"id": "1pBiCChscGY",
@@ -379,7 +411,7 @@
 						"channelId": "UC-w7D3GsJecTHA8Sjcyn6sQ",
 						"publishedAt": "2021-06-22T04:00:59Z",
 						"duration": "PT4M57S",
-						"viewCount": "2450951"
+						"viewCount": "2461714"
 					},
 					{
 						"id": "GLlP-CNlY9I",
@@ -388,7 +420,7 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-09-09T09:00:13Z",
 						"duration": "PT3M36S",
-						"viewCount": "3951678"
+						"viewCount": "4053278"
 					},
 					{
 						"id": "ww9hZfgC2d8",
@@ -397,7 +429,7 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-09-14T09:00:11Z",
 						"duration": "PT3M34S",
-						"viewCount": "1537484"
+						"viewCount": "1603315"
 					},
 					{
 						"id": "i0p1bmr0EmE",
@@ -406,16 +438,7 @@
 						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
 						"publishedAt": "2018-04-09T08:59:51Z",
 						"duration": "PT3M44S",
-						"viewCount": "565094823"
-					},
-					{
-						"id": "UpbC0heMVNY",
-						"title": "darling.",
-						"channelTitle": "heiakim",
-						"channelId": "UCnTB8uNxND40iwvPiyzpnWw",
-						"publishedAt": "2020-03-23T12:00:12Z",
-						"duration": "PT4M39S",
-						"viewCount": "1943537"
+						"viewCount": "565479057"
 					},
 					{
 						"id": "KmOVNVZEP9o",
@@ -424,7 +447,7 @@
 						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 						"publishedAt": "2021-08-27T09:00:13Z",
 						"duration": "PT5M31S",
-						"viewCount": "3339127"
+						"viewCount": "3536784"
 					}
 				]
 			},
@@ -438,16 +461,16 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-08-23T17:00:10Z",
 						"duration": "PT2M54S",
-						"viewCount": "20962685"
+						"viewCount": "21124724"
 					},
 					{
-						"id": "6tsu2oeZJgo",
-						"title": "Olivia Rodrigo - traitor (Lyric Video)",
-						"channelTitle": "OliviaRodrigoVEVO",
-						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-						"publishedAt": "2021-05-21T04:00:02Z",
+						"id": "48-r9QlAvxI",
+						"title": "Olivia Rodrigo - traitor (Lyrics)",
+						"channelTitle": "The New Vibe",
+						"channelId": "UCG9LCoMgPwWdflKSXkbaiqw",
+						"publishedAt": "2021-09-21T12:30:01Z",
 						"duration": "PT3M50S",
-						"viewCount": "64294758"
+						"viewCount": "41610"
 					},
 					{
 						"id": "ZmDBbnmKpqQ",
@@ -456,7 +479,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-01-08T05:00:22Z",
 						"duration": "PT4M7S",
-						"viewCount": "287056525"
+						"viewCount": "287378810"
 					},
 					{
 						"id": "w-HfMiue7-k",
@@ -465,7 +488,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-21T04:00:13Z",
 						"duration": "PT2M45S",
-						"viewCount": "16004973"
+						"viewCount": "16035902"
 					},
 					{
 						"id": "cii6ruuycQA",
@@ -474,7 +497,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-04-01T16:00:27Z",
 						"duration": "PT3M52S",
-						"viewCount": "163115482"
+						"viewCount": "163407027"
 					},
 					{
 						"id": "gNi_6U5Pm_o",
@@ -483,7 +506,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-14T04:00:09Z",
 						"duration": "PT3M19S",
-						"viewCount": "258323513"
+						"viewCount": "259001346"
 					},
 					{
 						"id": "AqRXiQkyxvI",
@@ -492,7 +515,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-21T04:00:02Z",
 						"duration": "PT3M24S",
-						"viewCount": "20230482"
+						"viewCount": "20268540"
 					},
 					{
 						"id": "ZQFmRXgeR-s",
@@ -501,7 +524,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-21T04:00:10Z",
 						"duration": "PT2M57S",
-						"viewCount": "73236505"
+						"viewCount": "73442287"
 					},
 					{
 						"id": "Z-9gQjUZMm0",
@@ -510,7 +533,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-21T04:00:09Z",
 						"duration": "PT2M54S",
-						"viewCount": "38719504"
+						"viewCount": "38865921"
 					},
 					{
 						"id": "AyX_LL9nWSE",
@@ -519,7 +542,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-21T04:00:03Z",
 						"duration": "PT2M34S",
-						"viewCount": "34886082"
+						"viewCount": "34984099"
 					},
 					{
 						"id": "ZLlsmB1D4Q0",
@@ -528,7 +551,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-21T04:00:08Z",
 						"duration": "PT3M31S",
-						"viewCount": "12091344"
+						"viewCount": "12115432"
 					},
 					{
 						"id": "ZmDBbnmKpqQ",
@@ -537,7 +560,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-01-08T05:00:22Z",
 						"duration": "PT4M7S",
-						"viewCount": "287056525"
+						"viewCount": "287378810"
 					},
 					{
 						"id": "cii6ruuycQA",
@@ -546,7 +569,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-04-01T16:00:27Z",
 						"duration": "PT3M52S",
-						"viewCount": "163115482"
+						"viewCount": "163407027"
 					},
 					{
 						"id": "gNi_6U5Pm_o",
@@ -555,7 +578,7 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-05-14T04:00:09Z",
 						"duration": "PT3M19S",
-						"viewCount": "258323513"
+						"viewCount": "259001346"
 					},
 					{
 						"id": "OGUy2UmRxJ0",
@@ -564,16 +587,25 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-08-23T17:00:10Z",
 						"duration": "PT2M54S",
-						"viewCount": "20962685"
+						"viewCount": "21124724"
 					}
 				]
 			}
 		],
-		"updatedAt": "09212021"
+		"updatedAt": "09222021"
 	},
 	"topSongs": {
 		"name": "Top Songs",
 		"songs": [
+			{
+				"id": "kTJczUoc26U",
+				"title": "The Kid LAROI, Justin Bieber - STAY (Official Video)",
+				"channelTitle": "TheKidLAROIVEVO",
+				"channelId": "UCqPbkJrjrsQb_RGlC_4HEgg",
+				"publishedAt": "2021-07-09T04:00:12Z",
+				"duration": "PT2M38S",
+				"viewCount": "192496031"
+			},
 			{
 				"id": "awkkyBH2zEo",
 				"title": "LISA - 'LALISA' M/V",
@@ -581,142 +613,7 @@
 				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
 				"publishedAt": "2021-09-10T04:00:13Z",
 				"duration": "PT3M27S",
-				"viewCount": "184859615"
-			},
-			{
-				"id": "Gdzk0apkyGI",
-				"title": "The Kid LAROI, Justin Bieber - Stay (Lyrics)",
-				"channelTitle": "ÚNICO MUSIC",
-				"channelId": "UCE56OdBWmuBNnMvlQIrg3VQ",
-				"publishedAt": "2021-09-19T17:30:01Z",
-				"duration": "PT2M23S",
-				"viewCount": "663719"
-			},
-			{
-				"id": "joLR_b8ERak",
-				"title": "LISA MONEY Lyrics (Color Coded Lyrics)",
-				"channelTitle": "Jaeguchi",
-				"channelId": "UCmth4hMyizG-_W9jidBqs_A",
-				"publishedAt": "2021-09-10T04:27:11Z",
-				"duration": "PT2M47S",
-				"viewCount": "5385360"
-			},
-			{
-				"id": "tyYwOEKKcZc",
-				"title": "Troye Sivan - Angel Baby (Visualiser)",
-				"channelTitle": "TroyeSivanVEVO",
-				"channelId": "UCnsa7fw1hZHP5qvf8zVGnvA",
-				"publishedAt": "2021-09-09T22:00:32Z",
-				"duration": "PT3M41S",
-				"viewCount": "1100703"
-			},
-			{
-				"id": "vpRi8S6uXAg",
-				"title": "có hẹn với thanh xuân - MONSTAR | official music video",
-				"channelTitle": "ST.319 Entertainment",
-				"channelId": "UCSnVteUNlhr1SqCjTQx0PDQ",
-				"publishedAt": "2021-07-18T12:00:12Z",
-				"duration": "PT4M29S",
-				"viewCount": "7480826"
-			},
-			{
-				"id": "Il0S8BoucSA",
-				"title": "Ed Sheeran - Shivers [Official Video]",
-				"channelTitle": "Ed Sheeran",
-				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-				"publishedAt": "2021-09-09T23:00:12Z",
-				"duration": "PT3M58S",
-				"viewCount": "24037131"
-			},
-			{
-				"id": "orJSJGHjBLI",
-				"title": "Ed Sheeran - Bad Habits [Official Video]",
-				"channelTitle": "Ed Sheeran",
-				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-				"publishedAt": "2021-06-25T04:00:33Z",
-				"duration": "PT4M1S",
-				"viewCount": "162549088"
-			},
-			{
-				"id": "kfw7MYah2n0",
-				"title": "3107 3 - W/n  ft. ( Nâu,Duongg,Titie )| OFFICIAL MV",
-				"channelTitle": "W/n",
-				"channelId": "UC6UrwtJjV4xPxxZo-ZEpQYA",
-				"publishedAt": "2021-07-31T13:00:09Z",
-				"duration": "PT3M55S",
-				"viewCount": "20084907"
-			},
-			{
-				"id": "KmOVNVZEP9o",
-				"title": "이하이 (LeeHi) - 'ONLY' Official MV (ENG/CHN)",
-				"channelTitle": "AOMGOFFICIAL",
-				"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-				"publishedAt": "2021-08-27T09:00:13Z",
-				"duration": "PT5M31S",
-				"viewCount": "3339127"
-			},
-			{
-				"id": "0EVVKs6DQLo",
-				"title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
-				"channelTitle": "dojacatVEVO",
-				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-				"publishedAt": "2021-04-09T04:00:00Z",
-				"duration": "PT5M16S",
-				"viewCount": "206250333"
-			},
-			{
-				"id": "xypzmu5mMPY",
-				"title": "SƠN TÙNG M-TP | MUỘN RỒI MÀ SAO CÒN | OFFICIAL MUSIC VIDEO",
-				"channelTitle": "Sơn Tùng M-TP Official",
-				"channelId": "UClyA28-01x4z60eWQ2kiNbA",
-				"publishedAt": "2021-04-29T14:57:12Z",
-				"duration": "PT4M49S",
-				"viewCount": "128570129"
-			},
-			{
-				"id": "MJof72w7-r4",
-				"title": "double take - dhruv // ( lyrics vietsub )",
-				"channelTitle": "Peace.k2",
-				"channelId": "UC-Beiv6Egi5F3C-ffjKiVoQ",
-				"publishedAt": "2021-05-26T11:15:12Z",
-				"duration": "PT3M19S",
-				"viewCount": "3336845"
-			},
-			{
-				"id": "psZ1g9fMfeo",
-				"title": "SƠN TÙNG M-TP | CHÚNG TA CỦA HIỆN TẠI | OFFICIAL MUSIC VIDEO",
-				"channelTitle": "Sơn Tùng M-TP Official",
-				"channelId": "UClyA28-01x4z60eWQ2kiNbA",
-				"publishedAt": "2020-12-20T13:20:10Z",
-				"duration": "PT14M51S",
-				"viewCount": "84515119"
-			},
-			{
-				"id": "R3trO4a49go",
-				"title": "Thức Giấc - Da LAB (Official Music Video)",
-				"channelTitle": "Da LAB Official",
-				"channelId": "UCCCRRUvgvygH82HAugJjDLw",
-				"publishedAt": "2021-07-14T12:00:09Z",
-				"duration": "PT5M18S",
-				"viewCount": "13066779"
-			},
-			{
-				"id": "tQ0yjYUFKAE",
-				"title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
-				"channelTitle": "JustinBieberVEVO",
-				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
-				"publishedAt": "2021-03-19T04:00:15Z",
-				"duration": "PT3M18S",
-				"viewCount": "383488330"
-			},
-			{
-				"id": "Zzn9-ATB9aU",
-				"title": "Nàng Thơ | Hoàng Dũng | Official MV",
-				"channelTitle": "Hoàng Dũng",
-				"channelId": "UCZzKnnb8ENdw1AFrK8xLDDg",
-				"publishedAt": "2020-08-03T13:00:12Z",
-				"duration": "PT5M22S",
-				"viewCount": "79486309"
+				"viewCount": "189602276"
 			},
 			{
 				"id": "VGP9rtItrEg",
@@ -725,16 +622,124 @@
 				"channelId": "UCKhqOj4gSTegq0kk3hFXw1A",
 				"publishedAt": "2021-01-30T04:44:16Z",
 				"duration": "PT3M31S",
-				"viewCount": "1306804"
+				"viewCount": "1433699"
 			},
 			{
-				"id": "UTHLKHL_whs",
-				"title": "Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video)",
-				"channelTitle": "LilNasXVEVO",
-				"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
-				"publishedAt": "2021-07-23T04:00:12Z",
-				"duration": "PT3M56S",
-				"viewCount": "127225218"
+				"id": "KmOVNVZEP9o",
+				"title": "이하이 (LeeHi) - 'ONLY' Official MV (ENG/CHN)",
+				"channelTitle": "AOMGOFFICIAL",
+				"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
+				"publishedAt": "2021-08-27T09:00:13Z",
+				"duration": "PT5M31S",
+				"viewCount": "3536784"
+			},
+			{
+				"id": "joLR_b8ERak",
+				"title": "LISA MONEY Lyrics (Color Coded Lyrics)",
+				"channelTitle": "Jaeguchi",
+				"channelId": "UCmth4hMyizG-_W9jidBqs_A",
+				"publishedAt": "2021-09-10T04:27:11Z",
+				"duration": "PT2M47S",
+				"viewCount": "5791216"
+			},
+			{
+				"id": "vpRi8S6uXAg",
+				"title": "có hẹn với thanh xuân - MONSTAR | official music video",
+				"channelTitle": "ST.319 Entertainment",
+				"channelId": "UCSnVteUNlhr1SqCjTQx0PDQ",
+				"publishedAt": "2021-07-18T12:00:12Z",
+				"duration": "PT4M29S",
+				"viewCount": "7561308"
+			},
+			{
+				"id": "CUr_UwUUXzU",
+				"title": "Taylor Swift - Wildest Dreams (Taylor’s Version) (Official Audio)",
+				"channelTitle": "TaylorSwiftVEVO",
+				"channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+				"publishedAt": "2021-09-17T22:04:01Z",
+				"duration": "PT3M41S",
+				"viewCount": "3166415"
+			},
+			{
+				"id": "tyYwOEKKcZc",
+				"title": "Troye Sivan - Angel Baby (Visualiser)",
+				"channelTitle": "TroyeSivanVEVO",
+				"channelId": "UCnsa7fw1hZHP5qvf8zVGnvA",
+				"publishedAt": "2021-09-09T22:00:32Z",
+				"duration": "PT3M41S",
+				"viewCount": "1138779"
+			},
+			{
+				"id": "kfw7MYah2n0",
+				"title": "3107 3 - W/n  ft. ( Nâu,Duongg,Titie )| OFFICIAL MV",
+				"channelTitle": "W/n",
+				"channelId": "UC6UrwtJjV4xPxxZo-ZEpQYA",
+				"publishedAt": "2021-07-31T13:00:09Z",
+				"duration": "PT3M55S",
+				"viewCount": "20159240"
+			},
+			{
+				"id": "xypzmu5mMPY",
+				"title": "SƠN TÙNG M-TP | MUỘN RỒI MÀ SAO CÒN | OFFICIAL MUSIC VIDEO",
+				"channelTitle": "Sơn Tùng M-TP Official",
+				"channelId": "UClyA28-01x4z60eWQ2kiNbA",
+				"publishedAt": "2021-04-29T14:57:12Z",
+				"duration": "PT4M49S",
+				"viewCount": "128698102"
+			},
+			{
+				"id": "orJSJGHjBLI",
+				"title": "Ed Sheeran - Bad Habits [Official Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2021-06-25T04:00:33Z",
+				"duration": "PT4M1S",
+				"viewCount": "163461393"
+			},
+			{
+				"id": "7sAJza3Nn_I",
+				"title": "Lil Nas X - That's What I Want in the Live Lounge",
+				"channelTitle": "BBCRadio1VEVO",
+				"channelId": "UCKoafhJ9dkAWaEvlXCiBBwA",
+				"publishedAt": "2021-09-21T16:15:00Z",
+				"duration": "PT2M29S",
+				"viewCount": "66294"
+			},
+			{
+				"id": "MJof72w7-r4",
+				"title": "double take - dhruv // ( lyrics vietsub )",
+				"channelTitle": "Peace.k2",
+				"channelId": "UC-Beiv6Egi5F3C-ffjKiVoQ",
+				"publishedAt": "2021-05-26T11:15:12Z",
+				"duration": "PT3M19S",
+				"viewCount": "3352891"
+			},
+			{
+				"id": "Il0S8BoucSA",
+				"title": "Ed Sheeran - Shivers [Official Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2021-09-09T23:00:12Z",
+				"duration": "PT3M58S",
+				"viewCount": "24849135"
+			},
+			{
+				"id": "psZ1g9fMfeo",
+				"title": "SƠN TÙNG M-TP | CHÚNG TA CỦA HIỆN TẠI | OFFICIAL MUSIC VIDEO",
+				"channelTitle": "Sơn Tùng M-TP Official",
+				"channelId": "UClyA28-01x4z60eWQ2kiNbA",
+				"publishedAt": "2020-12-20T13:20:10Z",
+				"duration": "PT14M51S",
+				"viewCount": "84552609"
+			},
+			{
+				"id": "0EVVKs6DQLo",
+				"title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
+				"channelTitle": "dojacatVEVO",
+				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+				"publishedAt": "2021-04-09T04:00:00Z",
+				"duration": "PT5M16S",
+				"viewCount": "206813487"
 			},
 			{
 				"id": "faSVTByG0LQ",
@@ -743,34 +748,43 @@
 				"channelId": "UCtpX-hGGBtH2ZvVX9_5RwFg",
 				"publishedAt": "2021-06-18T13:00:12Z",
 				"duration": "PT3M21S",
-				"viewCount": "15803498"
+				"viewCount": "15845438"
 			},
 			{
-				"id": "mnBAZ-VkuEg",
-				"title": "JSOL & HOÀNG DUYÊN - SÀI GÒN HÔM NAY MƯA | Official MV",
-				"channelTitle": "DreamS Entertainment",
-				"channelId": "UCePk6_QtQ7zbcR4HBuS357A",
-				"publishedAt": "2021-05-29T13:00:13Z",
-				"duration": "PT4M16S",
-				"viewCount": "10899120"
+				"id": "Zzn9-ATB9aU",
+				"title": "Nàng Thơ | Hoàng Dũng | Official MV",
+				"channelTitle": "Hoàng Dũng",
+				"channelId": "UCZzKnnb8ENdw1AFrK8xLDDg",
+				"publishedAt": "2020-08-03T13:00:12Z",
+				"duration": "PT5M22S",
+				"viewCount": "79541083"
 			},
 			{
-				"id": "LIIDh-qI9oI",
-				"title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
-				"channelTitle": "TheWeekndVEVO",
-				"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
-				"publishedAt": "2021-04-23T04:00:06Z",
-				"duration": "PT3M26S",
-				"viewCount": "144213917"
+				"id": "tQ0yjYUFKAE",
+				"title": "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
+				"channelTitle": "JustinBieberVEVO",
+				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+				"publishedAt": "2021-03-19T04:00:15Z",
+				"duration": "PT3M18S",
+				"viewCount": "384129487"
 			},
 			{
-				"id": "K9_VFxzCuQ0",
-				"title": "ROSÉ - 'Gone' M/V",
-				"channelTitle": "BLACKPINK",
-				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-				"publishedAt": "2021-04-04T15:00:06Z",
-				"duration": "PT3M41S",
-				"viewCount": "129843514"
+				"id": "1oYWnbTSang",
+				"title": "NCT 127 엔시티 127 'Sticker' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2021-09-17T04:00:13Z",
+				"duration": "PT3M55S",
+				"viewCount": "49182938"
+			},
+			{
+				"id": "R3trO4a49go",
+				"title": "Thức Giấc - Da LAB (Official Music Video)",
+				"channelTitle": "Da LAB Official",
+				"channelId": "UCCCRRUvgvygH82HAugJjDLw",
+				"publishedAt": "2021-07-14T12:00:09Z",
+				"duration": "PT5M18S",
+				"viewCount": "13116630"
 			},
 			{
 				"id": "wssbBe_t-r4",
@@ -779,43 +793,16 @@
 				"channelId": "UCpg3O1quTzj7QpDHdhu6pNw",
 				"publishedAt": "2021-08-18T13:00:12Z",
 				"duration": "PT5M32S",
-				"viewCount": "6687559"
+				"viewCount": "6741143"
 			},
 			{
-				"id": "CKZvWhCqx1s",
-				"title": "ROSÉ - 'On The Ground' M/V",
-				"channelTitle": "BLACKPINK",
-				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-				"publishedAt": "2021-03-12T05:00:15Z",
-				"duration": "PT3M9S",
-				"viewCount": "228588465"
-			},
-			{
-				"id": "Ws-QlpSltr8",
-				"title": "Đen - Trốn Tìm ft. MTV band (M/V)",
-				"channelTitle": "Đen Vâu Official",
-				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
-				"publishedAt": "2021-05-13T13:00:16Z",
-				"duration": "PT4M13S",
-				"viewCount": "45713596"
-			},
-			{
-				"id": "ioNng23DkIM",
-				"title": "BLACKPINK - 'How You Like That' M/V",
-				"channelTitle": "BLACKPINK",
-				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-				"publishedAt": "2020-06-26T08:58:14Z",
-				"duration": "PT3M4S",
-				"viewCount": "967090422"
-			},
-			{
-				"id": "d44UTUSTYKU",
-				"title": "SOOBIN X SLIMV - THE PLAYAH (Special Performance / Official Music Video)",
-				"channelTitle": "SOOBIN Official",
-				"channelId": "UCpVvunMbMvVj9DgCiOSBdcg",
-				"publishedAt": "2021-05-14T13:00:18Z",
-				"duration": "PT8M27S",
-				"viewCount": "29206313"
+				"id": "6swmTBVI83k",
+				"title": "Lil Nas X - MONTERO (Call Me By Your Name) (Official Video)",
+				"channelTitle": "LilNasXVEVO",
+				"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
+				"publishedAt": "2021-03-26T04:00:14Z",
+				"duration": "PT3M10S",
+				"viewCount": "355796168"
 			},
 			{
 				"id": "UyXngX4kTfE",
@@ -824,16 +811,70 @@
 				"channelId": "UCrjx9LsiJVxXavwKq1jQxtA",
 				"publishedAt": "2021-06-01T19:57:51Z",
 				"duration": "PT3M11S",
-				"viewCount": "2473955"
+				"viewCount": "2499792"
 			},
 			{
-				"id": "0-oYzWARQM8",
-				"title": "Thiên Đường Cô Đơn (feat. Kiên Trịnh) (feat. Kiên Trịnh)",
-				"channelTitle": "Various Artists - Topic",
-				"channelId": "UCM-QjVh4S2oi3YD03j-hf9Q",
-				"publishedAt": "2021-09-13T10:03:14Z",
-				"duration": "PT3M33S",
-				"viewCount": "27147"
+				"id": "Ws-QlpSltr8",
+				"title": "Đen - Trốn Tìm ft. MTV band (M/V)",
+				"channelTitle": "Đen Vâu Official",
+				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
+				"publishedAt": "2021-05-13T13:00:16Z",
+				"duration": "PT4M13S",
+				"viewCount": "45762614"
+			},
+			{
+				"id": "d44UTUSTYKU",
+				"title": "SOOBIN X SLIMV - THE PLAYAH (Special Performance / Official Music Video)",
+				"channelTitle": "SOOBIN Official",
+				"channelId": "UCpVvunMbMvVj9DgCiOSBdcg",
+				"publishedAt": "2021-05-14T13:00:18Z",
+				"duration": "PT8M27S",
+				"viewCount": "29296890"
+			},
+			{
+				"id": "mnBAZ-VkuEg",
+				"title": "JSOL & HOÀNG DUYÊN - SÀI GÒN HÔM NAY MƯA | Official MV",
+				"channelTitle": "DreamS Entertainment",
+				"channelId": "UCePk6_QtQ7zbcR4HBuS357A",
+				"publishedAt": "2021-05-29T13:00:13Z",
+				"duration": "PT4M16S",
+				"viewCount": "10916290"
+			},
+			{
+				"id": "LIIDh-qI9oI",
+				"title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
+				"channelTitle": "TheWeekndVEVO",
+				"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+				"publishedAt": "2021-04-23T04:00:06Z",
+				"duration": "PT3M26S",
+				"viewCount": "144546636"
+			},
+			{
+				"id": "K9_VFxzCuQ0",
+				"title": "ROSÉ - 'Gone' M/V",
+				"channelTitle": "BLACKPINK",
+				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
+				"publishedAt": "2021-04-04T15:00:06Z",
+				"duration": "PT3M41S",
+				"viewCount": "130183761"
+			},
+			{
+				"id": "v2JYO8Qah8E",
+				"title": "NCT 127 '내일의 나에게 (The Rainy Night)' (Official Audio) | Sticker - The 3rd Album",
+				"channelTitle": "NCT 127",
+				"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
+				"publishedAt": "2021-09-17T04:00:39Z",
+				"duration": "PT3M19S",
+				"viewCount": "361327"
+			},
+			{
+				"id": "CKZvWhCqx1s",
+				"title": "ROSÉ - 'On The Ground' M/V",
+				"channelTitle": "BLACKPINK",
+				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
+				"publishedAt": "2021-03-12T05:00:15Z",
+				"duration": "PT3M9S",
+				"viewCount": "228964505"
 			},
 			{
 				"id": "adLGHcj_fmA",
@@ -842,34 +883,7 @@
 				"channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
 				"publishedAt": "2021-03-05T05:00:00Z",
 				"duration": "PT4M9S",
-				"viewCount": "397350480"
-			},
-			{
-				"id": "KKc_RMln5UY",
-				"title": "Đen - Lối Nhỏ ft. Phương Anh Đào (M/V)",
-				"channelTitle": "Đen Vâu Official",
-				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
-				"publishedAt": "2019-10-21T13:30:15Z",
-				"duration": "PT4M57S",
-				"viewCount": "118762537"
-			},
-			{
-				"id": "n6Pnzi6r9NU",
-				"title": "BƯỚC QUA MÙA CÔ ĐƠN / Vũ. (Official MV)",
-				"channelTitle": "Vũ Official",
-				"channelId": "UCePWSQHSdXqzQlzyJfwY1Jg",
-				"publishedAt": "2020-12-10T13:00:10Z",
-				"duration": "PT5M43S",
-				"viewCount": "33750060"
-			},
-			{
-				"id": "CuklIb9d3fI",
-				"title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
-				"channelTitle": "HYBE LABELS",
-				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-				"publishedAt": "2021-07-09T03:59:12Z",
-				"duration": "PT5M",
-				"viewCount": "315227165"
+				"viewCount": "397852376"
 			},
 			{
 				"id": "gNi_6U5Pm_o",
@@ -878,7 +892,7 @@
 				"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 				"publishedAt": "2021-05-14T04:00:09Z",
 				"duration": "PT3M19S",
-				"viewCount": "258323513"
+				"viewCount": "259003910"
 			},
 			{
 				"id": "BdPk9ipvczM",
@@ -887,43 +901,52 @@
 				"channelId": "UCS2cqd5fmWvAo5l0mWeOJcA",
 				"publishedAt": "2021-03-28T12:00:16Z",
 				"duration": "PT5M13S",
-				"viewCount": "41357003"
+				"viewCount": "41393406"
 			},
 			{
-				"id": "c9RzZpV460k",
-				"title": "Red Velvet 레드벨벳 'Queendom' MV",
-				"channelTitle": "SMTOWN",
-				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-				"publishedAt": "2021-08-16T09:00:48Z",
-				"duration": "PT3M10S",
-				"viewCount": "67485972"
+				"id": "ioNng23DkIM",
+				"title": "BLACKPINK - 'How You Like That' M/V",
+				"channelTitle": "BLACKPINK",
+				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
+				"publishedAt": "2020-06-26T08:58:14Z",
+				"duration": "PT3M4S",
+				"viewCount": "967574123"
 			},
 			{
-				"id": "WMweEpGlu_U",
-				"title": "BTS (방탄소년단) 'Butter' Official MV",
+				"id": "KKc_RMln5UY",
+				"title": "Đen - Lối Nhỏ ft. Phương Anh Đào (M/V)",
+				"channelTitle": "Đen Vâu Official",
+				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
+				"publishedAt": "2019-10-21T13:30:15Z",
+				"duration": "PT4M57S",
+				"viewCount": "118809728"
+			},
+			{
+				"id": "LbANX0zTlDk",
+				"title": "ERIK - 'Dịu Dàng Em Đến' (Official MV)",
+				"channelTitle": "ERIK Official",
+				"channelId": "UCQnw0PycCRlSsT8fQlTDyBA",
+				"publishedAt": "2021-08-30T12:00:12Z",
+				"duration": "PT3M9S",
+				"viewCount": "955038"
+			},
+			{
+				"id": "TUVcZfQe-Kw",
+				"title": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+				"channelTitle": "Dua Lipa",
+				"channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+				"publishedAt": "2020-10-02T12:00:12Z",
+				"duration": "PT3M51S",
+				"viewCount": "362801745"
+			},
+			{
+				"id": "CuklIb9d3fI",
+				"title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
 				"channelTitle": "HYBE LABELS",
 				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-				"publishedAt": "2021-05-21T03:46:13Z",
-				"duration": "PT3M3S",
-				"viewCount": "559293043"
-			},
-			{
-				"id": "ZmDBbnmKpqQ",
-				"title": "Olivia Rodrigo - drivers license (Official Video)",
-				"channelTitle": "OliviaRodrigoVEVO",
-				"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-				"publishedAt": "2021-01-08T05:00:22Z",
-				"duration": "PT4M7S",
-				"viewCount": "287056525"
-			},
-			{
-				"id": "cii6ruuycQA",
-				"title": "Olivia Rodrigo - deja vu (Official Video)",
-				"channelTitle": "OliviaRodrigoVEVO",
-				"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-				"publishedAt": "2021-04-01T16:00:27Z",
-				"duration": "PT3M52S",
-				"viewCount": "163115482"
+				"publishedAt": "2021-07-09T03:59:12Z",
+				"duration": "PT5M",
+				"viewCount": "316291656"
 			},
 			{
 				"id": "lxFmeBhoA1Y",
@@ -932,16 +955,16 @@
 				"channelId": "UCV7qWy2FoFZ4v4p1x_R-n3Q",
 				"publishedAt": "2021-04-01T14:00:18Z",
 				"duration": "PT6M10S",
-				"viewCount": "14616562"
+				"viewCount": "14649057"
 			},
 			{
-				"id": "fOoSbUoayQE",
-				"title": "Charlie Puth - Cheating on You [Official Video]",
-				"channelTitle": "Charlie Puth",
-				"channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
-				"publishedAt": "2019-10-01T20:00:11Z",
-				"duration": "PT3M22S",
-				"viewCount": "56965221"
+				"id": "n6Pnzi6r9NU",
+				"title": "BƯỚC QUA MÙA CÔ ĐƠN / Vũ. (Official MV)",
+				"channelTitle": "Vũ Official",
+				"channelId": "UCePWSQHSdXqzQlzyJfwY1Jg",
+				"publishedAt": "2020-12-10T13:00:10Z",
+				"duration": "PT5M43S",
+				"viewCount": "33782560"
 			},
 			{
 				"id": "vTJdVE_gjI0",
@@ -950,16 +973,7 @@
 				"channelId": "UCWu91J5KWEj1bQhCBuGeJxw",
 				"publishedAt": "2020-12-18T13:00:20Z",
 				"duration": "PT3M26S",
-				"viewCount": "99843335"
-			},
-			{
-				"id": "tcYodQoapMg",
-				"title": "Ariana Grande - positions (official video)",
-				"channelTitle": "ArianaGrandeVevo",
-				"channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
-				"publishedAt": "2020-10-23T04:00:10Z",
-				"duration": "PT2M58S",
-				"viewCount": "363412059"
+				"viewCount": "99882557"
 			},
 			{
 				"id": "8CEJoCr_9UI",
@@ -968,9 +982,18 @@
 				"channelId": "UCnzEF-_PurXQTK2uQ-A3Oww",
 				"publishedAt": "2020-09-24T19:00:10Z",
 				"duration": "PT3M12S",
-				"viewCount": "121229298"
+				"viewCount": "121354613"
+			},
+			{
+				"id": "2V_uAAAH-_Q",
+				"title": "Doja Cat - Woman (Visualizer)",
+				"channelTitle": "dojacatVEVO",
+				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
+				"publishedAt": "2021-06-25T04:00:01Z",
+				"duration": "PT2M54S",
+				"viewCount": "48399218"
 			}
 		],
-		"updatedAt": "09212021"
+		"updatedAt": "09222021"
 	}
 }
