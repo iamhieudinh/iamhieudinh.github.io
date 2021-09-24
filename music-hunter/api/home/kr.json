@@ -1,46 +1,357 @@
 {
 	"hotTracks": {
-		"name": "방금 들어온 신곡",
+		"name": "믿고 들으세요",
 		"results": [
 			{
-				"name": "오늘의 히트곡",
+				"name": "음악으로 일상 탈출",
 				"songs": [
 					{
-						"id": "vX9msKu75qs",
-						"title": "Drake ft. Future and Young Thug - Way 2 Sexy (Official Video)",
-						"channelTitle": "DrakeVEVO",
-						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
-						"publishedAt": "2021-09-03T16:00:38Z",
-						"duration": "PT4M41S",
-						"viewCount": "31694867"
+						"id": "Ju7OECKzS2I",
+						"title": "MIMS - Like This",
+						"channelTitle": "MIMSVEVO",
+						"channelId": "UC2zyWf4e0kuLOuT6kKVs-Xw",
+						"publishedAt": "2007-06-08T00:33:43Z",
+						"duration": "PT3M51S",
+						"viewCount": "8082250"
 					},
 					{
-						"id": "NBgLUCVBEuo",
-						"title": "STAYC STEREOTYPE Lyrics (스테이씨 색안경 가사) [Color Coded Lyrics/Han/Rom/Eng]",
-						"channelTitle": "Lemoring",
-						"channelId": "UC2dAS5opN0op-VkOcRBhoGg",
-						"publishedAt": "2021-09-06T09:20:38Z",
-						"duration": "PT3M17S",
-						"viewCount": "569482"
+						"id": "8fDPh5QKKss",
+						"title": "Oneohtrix Point Never & Elizabeth Fraser - Tales From The Trash Stratum (Official Visual)",
+						"channelTitle": "Oneohtrix Point Never",
+						"channelId": "UC0xbzNitcynZOG9A2Rb_wPw",
+						"publishedAt": "2021-09-13T14:00:02Z",
+						"duration": "PT3M12S",
+						"viewCount": "43238"
 					},
 					{
-						"id": "Il0S8BoucSA",
-						"title": "Ed Sheeran - Shivers [Official Video]",
-						"channelTitle": "Ed Sheeran",
-						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-						"publishedAt": "2021-09-09T23:00:12Z",
-						"duration": "PT3M58S",
-						"viewCount": "25900456"
+						"id": "Er0leZrMaqc",
+						"title": "BEACH HOUSE - \"BLACK CAR\" (OFFICIAL VIDEO)",
+						"channelTitle": "BeachHouseVideoZone",
+						"channelId": "UCN-jxm11fOETNF5JrZsATCg",
+						"publishedAt": "2018-06-18T13:51:55Z",
+						"duration": "PT4M31S",
+						"viewCount": "345732"
 					},
 					{
-						"id": "74_yqNBhQbA",
-						"title": "백예린 (Yerin Baek) 'Antifreeze' Lyric Video",
-						"channelTitle": "Yerin Baek",
-						"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
-						"publishedAt": "2021-09-10T09:00:03Z",
-						"duration": "PT4M15S",
-						"viewCount": "265544"
+						"id": "UvZt2n9PL80",
+						"title": "Descendants 2 – Cast - It's Goin' Down (From \"Descendants 2\"/Sing-Along)",
+						"channelTitle": "DisneyMusicVEVO",
+						"channelId": "UCgwv23FVv3lqh567yagXfNg",
+						"publishedAt": "2020-06-26T04:02:00Z",
+						"duration": "PT3M10S",
+						"viewCount": "47310723"
 					},
+					{
+						"id": "lxRwEPvL-mQ",
+						"title": "NF - When I Grow Up",
+						"channelTitle": "NFVEVO",
+						"channelId": "UCI3H1FsjbdqGcLq93ZilV5g",
+						"publishedAt": "2019-06-27T16:00:12Z",
+						"duration": "PT4M1S",
+						"viewCount": "162681843"
+					},
+					{
+						"id": "Q6-sTkVdAqQ",
+						"title": "Radiohead - In Limbo",
+						"channelTitle": "Newfound Recordings",
+						"channelId": "UC36dWBVwaQ5biymwpVcgNWA",
+						"publishedAt": "2008-09-11T00:44:50Z",
+						"duration": "PT3M32S",
+						"viewCount": "239763"
+					},
+					{
+						"id": "U-0aSX8vnqs",
+						"title": "Moby - Porcelain",
+						"channelTitle": "Cres De Leon",
+						"channelId": "UCfGAd2J_AcZI_2rWUpaF4xQ",
+						"publishedAt": "2010-09-17T09:25:22Z",
+						"duration": "PT4M2S",
+						"viewCount": "114459"
+					},
+					{
+						"id": "A8S5Rd_02uA",
+						"title": "Peggy Gou - 'Han Jan'",
+						"channelTitle": "Ninja Tune",
+						"channelId": "UCEXRv_qihRwjsV91ftx23-A",
+						"publishedAt": "2018-02-26T15:49:50Z",
+						"duration": "PT6M22S",
+						"viewCount": "2596557"
+					},
+					{
+						"id": "8jRa1ftRpc0",
+						"title": "Helado Negro - Outside the Outside (Official Video)",
+						"channelTitle": "Helado Negro",
+						"channelId": "UCLr9Gs9fSHO9zWzgkFY23kw",
+						"publishedAt": "2021-08-25T13:00:10Z",
+						"duration": "PT3M59S",
+						"viewCount": "30603"
+					},
+					{
+						"id": "qmtvcTH9ego",
+						"title": "Fred again.. - Yasminah (See Your Face Again) (Lyrics)",
+						"channelTitle": "Lyrical Track",
+						"channelId": "UC3YXgdg2FCFmi2fnyD4Km1A",
+						"publishedAt": "2021-04-24T07:00:21Z",
+						"duration": "PT3M19S",
+						"viewCount": "4334"
+					},
+					{
+						"id": "gdx4CxLQsrY",
+						"title": "Explosions in the Sky - \"Climbing Bear\"",
+						"channelTitle": "Explosions In The Sky",
+						"channelId": "UCbEPHUUi5JgsLMfA6S_R-Yg",
+						"publishedAt": "2021-08-31T15:00:18Z",
+						"duration": "PT3M19S",
+						"viewCount": "9342"
+					},
+					{
+						"id": "Bt8648TNX1M",
+						"title": "BTS (방탄소년단) 화양연화 on stage : prologue",
+						"channelTitle": "HYBE LABELS",
+						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+						"publishedAt": "2015-10-02T04:33:54Z",
+						"duration": "PT11M58S",
+						"viewCount": "14359529"
+					},
+					{
+						"id": "yqsux6Y1D1M",
+						"title": "ABC Song - Bài hát ABC Tiếng Việt [ Full ] | Giúp Bé Học Chữ Cái Qua Bài hát | VOI TV",
+						"channelTitle": "VOI TV",
+						"channelId": "UCNy5c6_lG6TC2oqKK13hyFQ",
+						"publishedAt": "2018-07-16T04:59:40Z",
+						"duration": "PT6M7S",
+						"viewCount": "113979002"
+					},
+					{
+						"id": "DDwEvwllN0c",
+						"title": "Cher - (This Is) A Song For The Lonely",
+						"channelTitle": "cher1946germany",
+						"channelId": "UCwQx0FvdqGLFveqG1pkajGw",
+						"publishedAt": "2011-03-22T18:41:35Z",
+						"duration": "PT4M5S",
+						"viewCount": "584714"
+					},
+					{
+						"id": "U2waT9TxPU0",
+						"title": "Flo Rida - Low (feat. T-Pain) [from Step Up 2 The Streets O.S.T. / Mail On Sunday] (Official Video)",
+						"channelTitle": "Atlantic Records",
+						"channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
+						"publishedAt": "2009-10-27T02:57:03Z",
+						"duration": "PT3M51S",
+						"viewCount": "101067679"
+					},
+					{
+						"id": "DfYV_iemp5Y",
+						"title": "Ross From Friends - 'The Daisy' (Official Video)",
+						"channelTitle": "Ross From Friends",
+						"channelId": "UCQF0bMNU7G-F07QuLJEJ0GQ",
+						"publishedAt": "2021-08-25T14:00:11Z",
+						"duration": "PT5M48S",
+						"viewCount": "87733"
+					},
+					{
+						"id": "uIswBvJv0wQ",
+						"title": "Nightmares On Wax - Own Me (ft. Haile Supreme) [Official Audio]",
+						"channelTitle": "Nightmares On Wax",
+						"channelId": "UCaedV6NJPEXMTdSRzYntIxw",
+						"publishedAt": "2021-09-01T18:00:15Z",
+						"duration": "PT3M38S",
+						"viewCount": "5767"
+					},
+					{
+						"id": "lzdtOzsn94E",
+						"title": "Hiatus Kaiyote - 'And We Go Gentle' (Official Audio)",
+						"channelTitle": "Hiatus Kaiyote",
+						"channelId": "UCmD8TDgJxofPfxA8GTpaCCQ",
+						"publishedAt": "2021-06-25T04:00:14Z",
+						"duration": "PT3M25S",
+						"viewCount": "80005"
+					},
+					{
+						"id": "aqJxKXO0TEk",
+						"title": "BADBADNOTGOOD - Beside April",
+						"channelTitle": "BADBADNOTGOOD",
+						"channelId": "UCoYAFe4DypQIUqMd1YynPVg",
+						"publishedAt": "2021-09-08T14:00:12Z",
+						"duration": "PT5M13S",
+						"viewCount": "189701"
+					},
+					{
+						"id": "XNFBE0t0hIM",
+						"title": "Dixie D'Amelio - One Whole Day Feat. Wiz Khalifa (Official Video)",
+						"channelTitle": "Dixie D'Amelio",
+						"channelId": "UCLOEGprmycLLbyzBj2jozLg",
+						"publishedAt": "2020-12-04T18:00:09Z",
+						"duration": "PT3M1S",
+						"viewCount": "34245508"
+					},
+					{
+						"id": "mQ055hHdxbE",
+						"title": "John Mayer - New Light (Premium Content!)",
+						"channelTitle": "John Mayer",
+						"channelId": "UCi1mYtUWs0JRkPl6bNVRL_Q",
+						"publishedAt": "2018-05-24T13:42:02Z",
+						"duration": "PT3M49S",
+						"viewCount": "87192759"
+					},
+					{
+						"id": "iqteum_Z3Kk",
+						"title": "Trentemøller: In The Gloaming",
+						"channelTitle": "Trentemøller",
+						"channelId": "UCF5FI-ATbiOxuM0Wpr_1juA",
+						"publishedAt": "2021-09-09T22:00:17Z",
+						"duration": "PT5M18S",
+						"viewCount": "55999"
+					},
+					{
+						"id": "CSnuQcFgvDo",
+						"title": "Aerosmith - What It Takes (Official Music Video)",
+						"channelTitle": "AerosmithVEVO",
+						"channelId": "UCiXsh6CVvfigg8psfsTekUA",
+						"publishedAt": "2010-09-29T21:09:23Z",
+						"duration": "PT5M13S",
+						"viewCount": "21678283"
+					},
+					{
+						"id": "yA4R9qLa26E",
+						"title": "Thundercat - 'Innerstellar Love' (Official Audio)",
+						"channelTitle": "Thundercat",
+						"channelId": "UCQB4-ZjPDfiG1-k0KZlbPug",
+						"publishedAt": "2020-04-02T16:00:25Z",
+						"duration": "PT2M43S",
+						"viewCount": "469802"
+					},
+					{
+						"id": "5keg6W7JMUo",
+						"title": "Makaya McCraven - Frank's Tune (AKA “De’Jeff’s Tune\")",
+						"channelTitle": "Blue Note Records",
+						"channelId": "UCLd5ucnvGl5A0lohJQWVIsw",
+						"publishedAt": "2021-08-25T04:00:02Z",
+						"duration": "PT3M38S",
+						"viewCount": "36081"
+					},
+					{
+						"id": "soeQKRHVqXc",
+						"title": "Nuby Garcia - Pace (Moses Boyd Remix)",
+						"channelTitle": "Nubya Garcia",
+						"channelId": "UCBRzZiCuMHISFx2AaxtTNgQ",
+						"publishedAt": "2021-09-02T04:00:27Z",
+						"duration": "PT5M13S",
+						"viewCount": "14675"
+					},
+					{
+						"id": "DYOLVF5tymM",
+						"title": "Cuco - Ego Death In Thailand (Official Audio)",
+						"channelTitle": "Cuco",
+						"channelId": "UCtUa6Ufbn3FbUbZ7WAXSx5A",
+						"publishedAt": "2019-07-26T04:06:53Z",
+						"duration": "PT3M13S",
+						"viewCount": "535826"
+					},
+					{
+						"id": "ljdCdD6bw70",
+						"title": "Ela Minus - close (feat. Helado Negro) (Buscabulla Remix) (Official Audio)",
+						"channelTitle": "Ela Minus",
+						"channelId": "UCoRNtzYfful7ygcuC8HMQEg",
+						"publishedAt": "2021-08-18T13:30:14Z",
+						"duration": "PT4M4S",
+						"viewCount": "4360"
+					},
+					{
+						"id": "ttWH_9ux1m4",
+						"title": "Tirzah - Hive Mind [feat. Coby Sey]",
+						"channelTitle": "Poso Music",
+						"channelId": "UCgamojgtEOdP_i1rmZ8e0TQ",
+						"publishedAt": "2021-09-08T18:00:15Z",
+						"duration": "PT3M53S",
+						"viewCount": "248"
+					},
+					{
+						"id": "G_kgQHRaP3g",
+						"title": "Maston with L'éclair - Souvenir (Full Album)",
+						"channelTitle": "Nice Guys",
+						"channelId": "UCMmt12UKW571UWtJAgWkWqg",
+						"publishedAt": "2021-09-21T16:00:07Z",
+						"duration": "PT24M32S",
+						"viewCount": "2010"
+					},
+					{
+						"id": "HIQ0dd7B_FU",
+						"title": "Tangerine Dream ‎| Phaedra (HD)",
+						"channelTitle": "Skeleton Archives",
+						"channelId": "UC4JOtpFt_h0MRCf3gA0FGng",
+						"publishedAt": "2019-01-07T16:59:26Z",
+						"duration": "PT38M2S",
+						"viewCount": "253634"
+					},
+					{
+						"id": "kNVhdmiLvkM",
+						"title": "Nicolas Jaar - Colomb",
+						"channelTitle": "Igor Brodecki",
+						"channelId": "UCkC4IF7q6_AE6Kw7nUQKsDg",
+						"publishedAt": "2013-01-14T11:12:00Z",
+						"duration": "PT3M22S",
+						"viewCount": "254003"
+					},
+					{
+						"id": "ewFmBXXVKG8",
+						"title": "MR. SIRO | Không Muốn Yêu Lại Càng Say Đắm | Official Audio",
+						"channelTitle": "Mr. Siro",
+						"channelId": "UCh-A27eKaTrPM_gkfIw_-mA",
+						"publishedAt": "2021-01-01T12:00:11Z",
+						"duration": "PT5M31S",
+						"viewCount": "5981234"
+					},
+					{
+						"id": "9zXrM-wH5nM",
+						"title": "Lucid Express - Wellwave (Official Video)",
+						"channelTitle": "Lucid Express",
+						"channelId": "UC4SA-2FN6T1CkQeQ-YaEm2g",
+						"publishedAt": "2021-04-20T12:55:38Z",
+						"duration": "PT4M47S",
+						"viewCount": "9415"
+					},
+					{
+						"id": "C10y4BiCDbA",
+						"title": "Sofia Kourtesis - 'La Perla (Tourist Remix)' (Official Audo)",
+						"channelTitle": "Ninja Tune",
+						"channelId": "UCEXRv_qihRwjsV91ftx23-A",
+						"publishedAt": "2021-08-19T03:00:05Z",
+						"duration": "PT5M19S",
+						"viewCount": "5942"
+					},
+					{
+						"id": "XKdzDAJe3y0",
+						"title": "Salami Rose Joe Louis - 'We’re Dumb' (Official Visualiser)",
+						"channelTitle": "Brainfeeder",
+						"channelId": "UCkA1oWaPYqdakWDDIvQDzZA",
+						"publishedAt": "2020-12-03T15:00:10Z",
+						"duration": "PT2M37S",
+						"viewCount": "7750"
+					},
+					{
+						"id": "6dpT6KKrIj0",
+						"title": "Yuni Wa - Summertime Eclipses Feat D-SANe8",
+						"channelTitle": "Yuni Wa",
+						"channelId": "UCyExHhL5-wIJFPNcgCsbSPw",
+						"publishedAt": "2021-07-16T04:03:15Z",
+						"duration": "PT3M29S",
+						"viewCount": "301"
+					},
+					{
+						"id": "oaNstV12cl8",
+						"title": "Cocteau Twins - Pitch The Baby",
+						"channelTitle": "rp61productions",
+						"channelId": "UCP9d7jR-AYf9EBacxLPNycw",
+						"publishedAt": "2010-03-24T12:26:13Z",
+						"duration": "PT3M20S",
+						"viewCount": "104722"
+					}
+				]
+			},
+			{
+				"name": "A-List: 팝",
+				"songs": [
 					{
 						"id": "QDYDRA5JPLE",
 						"title": "Lil Nas X - THATS WHAT I WANT (Official Video)",
@@ -48,16 +359,16 @@
 						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 						"publishedAt": "2021-09-17T04:00:12Z",
 						"duration": "PT2M42S",
-						"viewCount": "29446104"
+						"viewCount": "32017726"
 					},
 					{
-						"id": "awkkyBH2zEo",
-						"title": "LISA - 'LALISA' M/V",
-						"channelTitle": "BLACKPINK",
-						"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-						"publishedAt": "2021-09-10T04:00:13Z",
-						"duration": "PT3M27S",
-						"viewCount": "195642507"
+						"id": "hKENUC3MjNc",
+						"title": "The Kid LAROI - STAY (Lyrics) Ft. Justin Bieber",
+						"channelTitle": "The New Vibe",
+						"channelId": "UCG9LCoMgPwWdflKSXkbaiqw",
+						"publishedAt": "2021-09-23T12:30:07Z",
+						"duration": "PT2M22S",
+						"viewCount": "153805"
 					},
 					{
 						"id": "tyYwOEKKcZc",
@@ -66,16 +377,25 @@
 						"channelId": "UCnsa7fw1hZHP5qvf8zVGnvA",
 						"publishedAt": "2021-09-09T22:00:32Z",
 						"duration": "PT3M41S",
-						"viewCount": "1192123"
+						"viewCount": "1242039"
 					},
 					{
-						"id": "GLlP-CNlY9I",
-						"title": "이하이 (LeeHi) - '빨간 립스틱 (Red Lipstick) (Feat. 윤미래)' Official MV (ENG/CHN)",
-						"channelTitle": "AOMGOFFICIAL",
-						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-						"publishedAt": "2021-09-09T09:00:13Z",
-						"duration": "PT3M36S",
-						"viewCount": "4177621"
+						"id": "kjAuUXdSFaM",
+						"title": "Charli XCX - Good Ones [Official Video]",
+						"channelTitle": "Charli XCX",
+						"channelId": "UCOvEMf00DnwdkpOCRWdc6uA",
+						"publishedAt": "2021-09-02T18:00:12Z",
+						"duration": "PT2M50S",
+						"viewCount": "3939195"
+					},
+					{
+						"id": "Il0S8BoucSA",
+						"title": "Ed Sheeran - Shivers [Official Video]",
+						"channelTitle": "Ed Sheeran",
+						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+						"publishedAt": "2021-09-09T23:00:12Z",
+						"duration": "PT3M58S",
+						"viewCount": "26871206"
 					},
 					{
 						"id": "KRUWn3dLoRg",
@@ -84,133 +404,7 @@
 						"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
 						"publishedAt": "2021-03-19T04:00:10Z",
 						"duration": "PT2M34S",
-						"viewCount": "9292356"
-					},
-					{
-						"id": "c9RzZpV460k",
-						"title": "Red Velvet 레드벨벳 'Queendom' MV",
-						"channelTitle": "SMTOWN",
-						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-						"publishedAt": "2021-08-16T09:00:48Z",
-						"duration": "PT3M10S",
-						"viewCount": "68280481"
-					},
-					{
-						"id": "cds_rfHsJ3Y",
-						"title": "Skrillex, Justin Bieber & Don Toliver - Don't Go (Official Music Video)",
-						"channelTitle": "Skrillex",
-						"channelId": "UC_TVqp_SyG6j5hG-xVRy95A",
-						"publishedAt": "2021-08-20T04:00:12Z",
-						"duration": "PT2M48S",
-						"viewCount": "20136979"
-					},
-					{
-						"id": "0aaeUI1ucfQ",
-						"title": "[HyunA&DAWN] 'PING PONG' MV",
-						"channelTitle": "HyunA",
-						"channelId": "UC0uTcuuOtUFwtn9aKUVGjXg",
-						"publishedAt": "2021-09-09T09:00:09Z",
-						"duration": "PT2M41S",
-						"viewCount": "13217354"
-					},
-					{
-						"id": "RyJ5GbzEZC0",
-						"title": "THE ANXIETY, WILLOW, Tyler Cole - Meet Me At Our Spot (Official Audio)",
-						"channelTitle": "THE ANXIETY",
-						"channelId": "UCglBlgC0fh3TqJtrlTcSLiQ",
-						"publishedAt": "2020-03-13T04:00:09Z",
-						"duration": "PT2M43S",
-						"viewCount": "8219987"
-					},
-					{
-						"id": "tg2uF3R_Ozo",
-						"title": "SOMI (전소미) - 'DUMB DUMB' M/V",
-						"channelTitle": "THEBLACKLABEL",
-						"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
-						"publishedAt": "2021-08-02T09:00:15Z",
-						"duration": "PT2M59S",
-						"viewCount": "80905462"
-					},
-					{
-						"id": "b8M6N0FTpNc",
-						"title": "Drake - Girls Want Girls (Official Audio) ft. Lil Baby",
-						"channelTitle": "DrakeVEVO",
-						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
-						"publishedAt": "2021-09-03T16:10:22Z",
-						"duration": "PT3M43S",
-						"viewCount": "8397488"
-					},
-					{
-						"id": "mRD0-GxqHVo",
-						"title": "Glass Animals - Heat Waves (Official Video)",
-						"channelTitle": "GlassAnimalsVEVO",
-						"channelId": "UCOMLtULLvoymORim06O1vaw",
-						"publishedAt": "2020-06-29T18:30:09Z",
-						"duration": "PT3M56S",
-						"viewCount": "47692348"
-					},
-					{
-						"id": "dI3xkL7qUAc",
-						"title": "Doja Cat - Need To Know (Official Video)",
-						"channelTitle": "dojacatVEVO",
-						"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
-						"publishedAt": "2021-06-11T14:00:11Z",
-						"duration": "PT3M40S",
-						"viewCount": "84628229"
-					},
-					{
-						"id": "-q0LE3gtUn8",
-						"title": "Jerrod Niemann - Lover, Lover (Official Video)",
-						"channelTitle": "JerrodNiemannVEVO",
-						"channelId": "UCriKx0GtoHPDVw24mNzfHfg",
-						"publishedAt": "2010-05-05T18:45:46Z",
-						"duration": "PT3M21S",
-						"viewCount": "19953851"
-					},
-					{
-						"id": "4P9XUrniiK4",
-						"title": "Lizzo - Rumors feat. Cardi B [Official Video]",
-						"channelTitle": "Lizzo Music",
-						"channelId": "UCXVMHu5xDH1oOfUGvaLyjGg",
-						"publishedAt": "2021-08-13T04:00:11Z",
-						"duration": "PT3M7S",
-						"viewCount": "30684519"
-					},
-					{
-						"id": "EaswWiwMVs8",
-						"title": "Stray Kids \"소리꾼\" M/V",
-						"channelTitle": "JYP Entertainment",
-						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
-						"publishedAt": "2021-08-23T08:59:54Z",
-						"duration": "PT3M19S",
-						"viewCount": "80808744"
-					},
-					{
-						"id": "t3CoEyYEf4A",
-						"title": "Ed Sheeran - Visiting Hours [Official Performance Video]",
-						"channelTitle": "Ed Sheeran",
-						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-						"publishedAt": "2021-08-19T13:00:24Z",
-						"duration": "PT3M49S",
-						"viewCount": "13707713"
-					},
-					{
-						"id": "v9lZ2MEx8oU",
-						"title": "Shawn Mendes, Tainy - Summer Of Love",
-						"channelTitle": "ShawnMendesVEVO",
-						"channelId": "UC4-TgOSMJHn-LtY4zCzbQhw",
-						"publishedAt": "2021-08-20T04:00:13Z",
-						"duration": "PT3M1S",
-						"viewCount": "16400950"
-					},
-					{
-						"id": "-M__Nh-HvmA",
-						"title": "로꼬 (Loco) - '이대로만 (Feat. 죠지)' Official Music Video [ENG/CHN]",
-						"channelTitle": "AOMGOFFICIAL",
-						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-						"publishedAt": "2021-08-24T09:00:07Z",
-						"duration": "PT3M22S",
-						"viewCount": "943322"
+						"viewCount": "9361854"
 					},
 					{
 						"id": "OGUy2UmRxJ0",
@@ -219,61 +413,88 @@
 						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
 						"publishedAt": "2021-08-23T17:00:10Z",
 						"duration": "PT2M54S",
-						"viewCount": "21371247"
+						"viewCount": "21571019"
 					},
 					{
-						"id": "V0wInr_xATk",
-						"title": "선미 (SUNMI) 'You can't sit with us' MV",
-						"channelTitle": "선미 SUNMI",
-						"channelId": "UCsVpgRB8YHLWA0ZrkhtHvTA",
-						"publishedAt": "2021-08-06T09:00:04Z",
-						"duration": "PT4M49S",
-						"viewCount": "53005383"
+						"id": "mRD0-GxqHVo",
+						"title": "Glass Animals - Heat Waves (Official Video)",
+						"channelTitle": "GlassAnimalsVEVO",
+						"channelId": "UCOMLtULLvoymORim06O1vaw",
+						"publishedAt": "2020-06-29T18:30:09Z",
+						"duration": "PT3M56S",
+						"viewCount": "48166506"
 					},
 					{
-						"id": "SJsGISX8O8k",
-						"title": "Clinton Kane - I GUESS I'M IN LOVE (Official Video)",
-						"channelTitle": "ClintonKaneVEVO",
-						"channelId": "UCRtk9-rbM5sK9puxDmqikag",
-						"publishedAt": "2021-08-20T04:00:10Z",
-						"duration": "PT3M30S",
-						"viewCount": "3824652"
+						"id": "SlPhMPnQ58k",
+						"title": "Maroon 5 - Memories (Official Video)",
+						"channelTitle": "Maroon5VEVO",
+						"channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+						"publishedAt": "2019-10-08T14:00:10Z",
+						"duration": "PT3M16S",
+						"viewCount": "765352067"
 					},
 					{
-						"id": "XMs2CIiqRDI",
-						"title": "THE BOYZ(더보이즈) ‘THRILL RIDE’ MV",
-						"channelTitle": "THE BOYZ",
-						"channelId": "UCkJ1rbOrsyPfBuHNfnLPm-Q",
-						"publishedAt": "2021-08-09T09:00:03Z",
-						"duration": "PT3M20S",
-						"viewCount": "32236078"
+						"id": "IL3HwUOT1uI",
+						"title": "Jonas Brothers - Who's In Your Head (Lyric Video)",
+						"channelTitle": "Jonas Brothers",
+						"channelId": "UCFvXnyAhluG3sa6p3eOs_LA",
+						"publishedAt": "2021-09-17T04:00:09Z",
+						"duration": "PT3M4S",
+						"viewCount": "1457296"
 					},
 					{
-						"id": "CEw-7cMnBDY",
-						"title": "Bruno Mars, Anderson .Paak, Silk Sonic - Skate [Official Music Video]",
-						"channelTitle": "Bruno Mars",
-						"channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
-						"publishedAt": "2021-07-30T04:00:03Z",
-						"duration": "PT3M24S",
-						"viewCount": "53332702"
+						"id": "RyJ5GbzEZC0",
+						"title": "THE ANXIETY, WILLOW, Tyler Cole - Meet Me At Our Spot (Official Audio)",
+						"channelTitle": "THE ANXIETY",
+						"channelId": "UCglBlgC0fh3TqJtrlTcSLiQ",
+						"publishedAt": "2020-03-13T04:00:09Z",
+						"duration": "PT2M43S",
+						"viewCount": "8431563"
 					},
 					{
-						"id": "5GJWxDKyk3A",
-						"title": "Billie Eilish - Happier Than Ever (Official Music Video)",
-						"channelTitle": "BillieEilishVEVO",
-						"channelId": "UCDGmojLIoWpXok597xYo8cg",
-						"publishedAt": "2021-07-30T16:00:09Z",
-						"duration": "PT5M16S",
-						"viewCount": "58563111"
+						"id": "4n3J2uIBqW4",
+						"title": "Griff - One Night (Official Video)",
+						"channelTitle": "Griff",
+						"channelId": "UCIY8ucMI3c54m9P35x6UZOw",
+						"publishedAt": "2021-09-01T11:00:16Z",
+						"duration": "PT2M55S",
+						"viewCount": "1855768"
 					},
 					{
-						"id": "tsYcrzkK7pw",
-						"title": "Mimi Webb - Dumb Love (Official Music Video)",
-						"channelTitle": "MimiWebbVEVO",
-						"channelId": "UCiXkBK6_kLz4uAqedG-dPCA",
-						"publishedAt": "2021-06-11T13:00:12Z",
-						"duration": "PT3M33S",
-						"viewCount": "3388147"
+						"id": "ynU58NRDeaE",
+						"title": "A-Wall - Loverboy (Lyrics)",
+						"channelTitle": "BABEL",
+						"channelId": "UCXLFJOxL_PbNBMhNQ3VAAPw",
+						"publishedAt": "2021-07-14T07:15:43Z",
+						"duration": "PT3M45S",
+						"viewCount": "3578131"
+					},
+					{
+						"id": "v9lZ2MEx8oU",
+						"title": "Shawn Mendes, Tainy - Summer Of Love",
+						"channelTitle": "ShawnMendesVEVO",
+						"channelId": "UC4-TgOSMJHn-LtY4zCzbQhw",
+						"publishedAt": "2021-08-20T04:00:13Z",
+						"duration": "PT3M1S",
+						"viewCount": "16547923"
+					},
+					{
+						"id": "JXgV1rXUoME",
+						"title": "Doja Cat, The Weeknd - You Right (Official Video)",
+						"channelTitle": "Doja Cat",
+						"channelId": "UCzpl23pGTHVYqvKsgY0A-_w",
+						"publishedAt": "2021-06-25T04:00:10Z",
+						"duration": "PT3M10S",
+						"viewCount": "70444303"
+					},
+					{
+						"id": "FfesqRkdSEk",
+						"title": "Chlöe - Have Mercy (Official Video)",
+						"channelTitle": "ChloeBaileyVEVO",
+						"channelId": "UCmxvJOoTGGhWJabszw4oaeQ",
+						"publishedAt": "2021-09-10T04:00:09Z",
+						"duration": "PT3M34S",
+						"viewCount": "16868349"
 					},
 					{
 						"id": "rhTl_OyehF8",
@@ -282,246 +503,7 @@
 						"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
 						"publishedAt": "2021-08-06T04:00:09Z",
 						"duration": "PT3M45S",
-						"viewCount": "45983829"
-					},
-					{
-						"id": "EtiPbWzUY9o",
-						"title": "AKMU - '낙하 (NAKKA) (with IU)' OFFICIAL VIDEO",
-						"channelTitle": "AKMU",
-						"channelId": "UCIcXK1CI8URMIqNO_1cehiQ",
-						"publishedAt": "2021-07-26T10:00:06Z",
-						"duration": "PT3M52S",
-						"viewCount": "9811389"
-					},
-					{
-						"id": "UTHLKHL_whs",
-						"title": "Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video)",
-						"channelTitle": "LilNasXVEVO",
-						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
-						"publishedAt": "2021-07-23T04:00:12Z",
-						"duration": "PT3M56S",
-						"viewCount": "130302070"
-					},
-					{
-						"id": "CuklIb9d3fI",
-						"title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
-						"channelTitle": "HYBE LABELS",
-						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-						"publishedAt": "2021-07-09T03:59:12Z",
-						"duration": "PT5M",
-						"viewCount": "317756865"
-					},
-					{
-						"id": "m77FDcKg96Q",
-						"title": "WizKid - Essence (Audio) ft. Tems",
-						"channelTitle": "WizkidVEVO",
-						"channelId": "UCE0-Bxu88d4bsGCv34zvtbA",
-						"publishedAt": "2020-10-29T23:11:00Z",
-						"duration": "PT4M10S",
-						"viewCount": "30637835"
-					},
-					{
-						"id": "4TWR90KJl84",
-						"title": "aespa 에스파 'Next Level' MV",
-						"channelTitle": "SMTOWN",
-						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-						"publishedAt": "2021-05-17T09:00:02Z",
-						"duration": "PT3M56S",
-						"viewCount": "154999527"
-					},
-					{
-						"id": "kTJczUoc26U",
-						"title": "The Kid LAROI, Justin Bieber - STAY (Official Video)",
-						"channelTitle": "TheKidLAROIVEVO",
-						"channelId": "UCqPbkJrjrsQb_RGlC_4HEgg",
-						"publishedAt": "2021-07-09T04:00:12Z",
-						"duration": "PT2M38S",
-						"viewCount": "196164040"
-					},
-					{
-						"id": "lCiV4wACZ8w",
-						"title": "Post Malone - Motley Crew (Official Video)",
-						"channelTitle": "PostMaloneVEVO",
-						"channelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
-						"publishedAt": "2021-07-12T20:00:12Z",
-						"duration": "PT3M3S",
-						"viewCount": "21690937"
-					},
-					{
-						"id": "gNi_6U5Pm_o",
-						"title": "Olivia Rodrigo - good 4 u (Official Video)",
-						"channelTitle": "OliviaRodrigoVEVO",
-						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
-						"publishedAt": "2021-05-14T04:00:09Z",
-						"duration": "PT3M19S",
-						"viewCount": "259961565"
-					},
-					{
-						"id": "CKZvWhCqx1s",
-						"title": "ROSÉ - 'On The Ground' M/V",
-						"channelTitle": "BLACKPINK",
-						"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-						"publishedAt": "2021-03-12T05:00:15Z",
-						"duration": "PT3M9S",
-						"viewCount": "229441581"
-					},
-					{
-						"id": "9bbOyrtu9H4",
-						"title": "Ed Sheeran - Bad Habits (Lyrics)",
-						"channelTitle": "Blueberry",
-						"channelId": "UCK47S4lcvEoN__hPB4sICmg",
-						"publishedAt": "2021-09-22T13:30:04Z",
-						"duration": "PT3M56S",
-						"viewCount": "3584"
-					},
-					{
-						"id": "WMweEpGlu_U",
-						"title": "BTS (방탄소년단) 'Butter' Official MV",
-						"channelTitle": "HYBE LABELS",
-						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-						"publishedAt": "2021-05-21T03:46:13Z",
-						"duration": "PT3M3S",
-						"viewCount": "561339473"
-					},
-					{
-						"id": "qod03PVTLqk",
-						"title": "Elton John, Dua Lipa - Cold Heart (PNAU Remix) (Official Video)",
-						"channelTitle": "EltonJohnVEVO",
-						"channelId": "UCI8Ry7NdFNLel-S8dWU7mDA",
-						"publishedAt": "2021-08-13T12:00:13Z",
-						"duration": "PT4M15S",
-						"viewCount": "20134715"
-					},
-					{
-						"id": "RmuL-BPFi2Q",
-						"title": "TAEYEON 태연 'Weekend' MV",
-						"channelTitle": "SMTOWN",
-						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-						"publishedAt": "2021-07-06T09:00:09Z",
-						"duration": "PT4M7S",
-						"viewCount": "20779256"
-					},
-					{
-						"id": "LIIDh-qI9oI",
-						"title": "The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video)",
-						"channelTitle": "TheWeekndVEVO",
-						"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
-						"publishedAt": "2021-04-23T04:00:06Z",
-						"duration": "PT3M26S",
-						"viewCount": "145010353"
-					}
-				]
-			},
-			{
-				"name": "즐거운 가족 여행",
-				"songs": [
-					{
-						"id": "CuklIb9d3fI",
-						"title": "BTS (방탄소년단) 'Permission to Dance' Official MV",
-						"channelTitle": "HYBE LABELS",
-						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-						"publishedAt": "2021-07-09T03:59:12Z",
-						"duration": "PT5M",
-						"viewCount": "317756865"
-					},
-					{
-						"id": "4TWR90KJl84",
-						"title": "aespa 에스파 'Next Level' MV",
-						"channelTitle": "SMTOWN",
-						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-						"publishedAt": "2021-05-17T09:00:02Z",
-						"duration": "PT3M56S",
-						"viewCount": "154999527"
-					},
-					{
-						"id": "RmuL-BPFi2Q",
-						"title": "TAEYEON 태연 'Weekend' MV",
-						"channelTitle": "SMTOWN",
-						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-						"publishedAt": "2021-07-06T09:00:09Z",
-						"duration": "PT4M7S",
-						"viewCount": "20779256"
-					},
-					{
-						"id": "CEw-7cMnBDY",
-						"title": "Bruno Mars, Anderson .Paak, Silk Sonic - Skate [Official Music Video]",
-						"channelTitle": "Bruno Mars",
-						"channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
-						"publishedAt": "2021-07-30T04:00:03Z",
-						"duration": "PT3M24S",
-						"viewCount": "53332702"
-					},
-					{
-						"id": "0yBnIUX0QAE",
-						"title": "Toploader - Dancing in the Moonlight (Official Video)",
-						"channelTitle": "ToploaderVEVO",
-						"channelId": "UCsQjwc7TdWUdoSQKhQCwC6w",
-						"publishedAt": "2009-10-25T19:04:12Z",
-						"duration": "PT3M46S",
-						"viewCount": "117906669"
-					},
-					{
-						"id": "Ob7vObnFUJc",
-						"title": "Beyoncé - Love On Top (Official Video)",
-						"channelTitle": "BeyoncéVEVO",
-						"channelId": "UC9zX2xZIJ4cnwRsgBpHGvMg",
-						"publishedAt": "2011-10-16T22:00:00Z",
-						"duration": "PT3M17S",
-						"viewCount": "476866520"
-					},
-					{
-						"id": "HzOjwL7IP_o",
-						"title": "(MV)오마이걸(OH MY GIRL)_Dun Dun Dance",
-						"channelTitle": "OH MY GIRL",
-						"channelId": "UC-qYkzKFdekoEniRu_FS3zg",
-						"publishedAt": "2021-05-10T09:00:02Z",
-						"duration": "PT4M8S",
-						"viewCount": "39256471"
-					},
-					{
-						"id": "PkKnp4SdE-w",
-						"title": "NCT DREAM 엔시티 드림 '맛 (Hot Sauce)' MV",
-						"channelTitle": "SMTOWN",
-						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
-						"publishedAt": "2021-05-10T09:02:33Z",
-						"duration": "PT3M32S",
-						"viewCount": "133990857"
-					},
-					{
-						"id": "RgKAFK5djSk",
-						"title": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
-						"channelTitle": "Wiz Khalifa",
-						"channelId": "UCVp3nfGRxmMadNDuVbJSk8A",
-						"publishedAt": "2015-04-07T03:00:03Z",
-						"duration": "PT3M58S",
-						"viewCount": "5264488777"
-					},
-					{
-						"id": "ePao0cTGG-o",
-						"title": "Marshmello & Halsey - Be Kind (Official Music Video)",
-						"channelTitle": "Marshmello",
-						"channelId": "UCEdvpU2pFRCVqU6yIPyTpMQ",
-						"publishedAt": "2020-06-27T14:00:10Z",
-						"duration": "PT3M5S",
-						"viewCount": "82425597"
-					},
-					{
-						"id": "ncesPhg_h40",
-						"title": "Zachary Knowles - carpool (Lyric Video)",
-						"channelTitle": "ZacharyKnowlesVEVO",
-						"channelId": "UCA6N_80LJD2Wkc__f3ZDsDw",
-						"publishedAt": "2021-03-12T05:00:11Z",
-						"duration": "PT2M45S",
-						"viewCount": "305545"
-					},
-					{
-						"id": "7wtfhZwyrcc",
-						"title": "Imagine Dragons - Believer",
-						"channelTitle": "ImagineDragonsVEVO",
-						"channelId": "UCpx_k19S2vUutWUUM9qmXEg",
-						"publishedAt": "2017-03-07T14:00:00Z",
-						"duration": "PT3M37S",
-						"viewCount": "2026187867"
+						"viewCount": "46487433"
 					},
 					{
 						"id": "TUVcZfQe-Kw",
@@ -530,7 +512,178 @@
 						"channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
 						"publishedAt": "2020-10-02T12:00:12Z",
 						"duration": "PT3M51S",
-						"viewCount": "363656213"
+						"viewCount": "364389401"
+					},
+					{
+						"id": "2C6uxqoz9CI",
+						"title": "iann dior - V12 feat. Lil Uzi Vert (Official Music Video)",
+						"channelTitle": "iann dior",
+						"channelId": "UCtpzjafUx5qbmxJdqm4-qmg",
+						"publishedAt": "2021-09-14T19:00:10Z",
+						"duration": "PT3M",
+						"viewCount": "2505053"
+					},
+					{
+						"id": "IkeZX2hnoOk",
+						"title": "BTS (방탄소년단) 'Butter (feat. Megan Thee Stallion)' Special Performance Video",
+						"channelTitle": "BANGTANTV",
+						"channelId": "UCLkAepWjdylmXSltofFvsYQ",
+						"publishedAt": "2021-09-09T03:00:05Z",
+						"duration": "PT1M9S",
+						"viewCount": "32709327"
+					},
+					{
+						"id": "Oc1hGZjAFwo",
+						"title": "G-Eazy - Breakdown (Official Video) ft. Demi Lovato",
+						"channelTitle": "GEazyMusicVEVO",
+						"channelId": "UCjjC1Jk_1o1VWpLalgo21XQ",
+						"publishedAt": "2021-09-17T04:00:12Z",
+						"duration": "PT2M57S",
+						"viewCount": "1695919"
+					},
+					{
+						"id": "8CEJoCr_9UI",
+						"title": "Pink Sweat$ - At My Worst (Official Video)",
+						"channelTitle": "Pink Sweats",
+						"channelId": "UCnzEF-_PurXQTK2uQ-A3Oww",
+						"publishedAt": "2020-09-24T19:00:10Z",
+						"duration": "PT3M12S",
+						"viewCount": "121644524"
+					},
+					{
+						"id": "lsbJvA_ag3c",
+						"title": "Kehlani - Altar (Official Music Video)",
+						"channelTitle": "Kehlani",
+						"channelId": "UCuE1A4MDBt8YkgUkRAKMtjw",
+						"publishedAt": "2021-09-15T16:00:09Z",
+						"duration": "PT4M2S",
+						"viewCount": "2096184"
+					},
+					{
+						"id": "bpXztWUPPFQ",
+						"title": "Drake - Race My Mind (Audio)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:09:34Z",
+						"duration": "PT4M31S",
+						"viewCount": "1834741"
+					},
+					{
+						"id": "UTHLKHL_whs",
+						"title": "Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video)",
+						"channelTitle": "LilNasXVEVO",
+						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
+						"publishedAt": "2021-07-23T04:00:12Z",
+						"duration": "PT3M56S",
+						"viewCount": "131806643"
+					},
+					{
+						"id": "6tsu2oeZJgo",
+						"title": "Olivia Rodrigo - traitor (Lyric Video)",
+						"channelTitle": "OliviaRodrigoVEVO",
+						"channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+						"publishedAt": "2021-05-21T04:00:02Z",
+						"duration": "PT3M50S",
+						"viewCount": "65119128"
+					},
+					{
+						"id": "KaTDk75TCgw",
+						"title": "EMELINE - this is how i learn to say no (Official Lyric Video)",
+						"channelTitle": "EMELINE",
+						"channelId": "UCtb_HZ3oRfnbkUzHWPtN1NA",
+						"publishedAt": "2021-08-20T04:10:07Z",
+						"duration": "PT2M46S",
+						"viewCount": "344201"
+					},
+					{
+						"id": "fhyk9rchC2c",
+						"title": "MUNA - Silk Chiffon (feat. Phoebe Bridgers)",
+						"channelTitle": "MunaVEVO",
+						"channelId": "UCcii2dpxJDyvoQ7UppBJIGQ",
+						"publishedAt": "2021-09-07T17:00:12Z",
+						"duration": "PT3M15S",
+						"viewCount": "419803"
+					},
+					{
+						"id": "E36658KPKac",
+						"title": "Anz - 'You Could Be (ft. George Riley)' (Official Audio)",
+						"channelTitle": "Anz",
+						"channelId": "UChmwlwU62WJy1gK542aflZw",
+						"publishedAt": "2021-08-30T16:00:06Z",
+						"duration": "PT3M38S",
+						"viewCount": "9358"
+					},
+					{
+						"id": "gH476CxJxfg",
+						"title": "Daniel Powter - Bad Day (Official Music Video) | Warner Vault",
+						"channelTitle": "Warner Records Vault",
+						"channelId": "UCv5emLGrYcQAmbpeFVlzjdg",
+						"publishedAt": "2009-10-27T02:01:38Z",
+						"duration": "PT3M48S",
+						"viewCount": "194503930"
+					},
+					{
+						"id": "qod03PVTLqk",
+						"title": "Elton John, Dua Lipa - Cold Heart (PNAU Remix) (Official Video)",
+						"channelTitle": "EltonJohnVEVO",
+						"channelId": "UCI8Ry7NdFNLel-S8dWU7mDA",
+						"publishedAt": "2021-08-13T12:00:13Z",
+						"duration": "PT4M15S",
+						"viewCount": "20782140"
+					},
+					{
+						"id": "4P9XUrniiK4",
+						"title": "Lizzo - Rumors feat. Cardi B [Official Video]",
+						"channelTitle": "Lizzo Music",
+						"channelId": "UCXVMHu5xDH1oOfUGvaLyjGg",
+						"publishedAt": "2021-08-13T04:00:11Z",
+						"duration": "PT3M7S",
+						"viewCount": "31195078"
+					},
+					{
+						"id": "BC19kwABFwc",
+						"title": "Dua Lipa - Love Again (Official Music Video)",
+						"channelTitle": "Dua Lipa",
+						"channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+						"publishedAt": "2021-06-04T12:00:11Z",
+						"duration": "PT4M23S",
+						"viewCount": "86748314"
+					},
+					{
+						"id": "0Kx3sobEBFE",
+						"title": "Camila Cabello - Don't Go Yet (Official Video)",
+						"channelTitle": "CamilaCabelloVEVO",
+						"channelId": "UCk0wwaFCIkxwSfi6gpRqQUw",
+						"publishedAt": "2021-07-30T19:33:16Z",
+						"duration": "PT3M3S",
+						"viewCount": "24232762"
+					},
+					{
+						"id": "7Azv0G85lh8",
+						"title": "Halsey - I am not a woman, I'm a god",
+						"channelTitle": "HalseyVEVO",
+						"channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+						"publishedAt": "2021-08-27T04:00:00Z",
+						"duration": "PT2M54S",
+						"viewCount": "9882920"
+					},
+					{
+						"id": "9pfPGVfMH74",
+						"title": "Tate McRae, Khalid - working (Official Video)",
+						"channelTitle": "TateMcRaeVEVO",
+						"channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+						"publishedAt": "2021-06-23T14:00:18Z",
+						"duration": "PT3M31S",
+						"viewCount": "7743801"
+					},
+					{
+						"id": "YJpaayMiJqQ",
+						"title": "Nelly, Kane Brown - Grits & Glamour (Official Audio)",
+						"channelTitle": "NellyVEVO",
+						"channelId": "UCzQNgpWWPLuoAC6zA3VejzA",
+						"publishedAt": "2021-08-27T15:15:14Z",
+						"duration": "PT2M56S",
+						"viewCount": "152923"
 					},
 					{
 						"id": "LIIDh-qI9oI",
@@ -539,268 +692,79 @@
 						"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
 						"publishedAt": "2021-04-23T04:00:06Z",
 						"duration": "PT3M26S",
-						"viewCount": "145010353"
+						"viewCount": "145407957"
 					},
 					{
-						"id": "hT_nvWreIhg",
-						"title": "OneRepublic - Counting Stars (Official Music Video)",
+						"id": "O9UgaCWN2Ag",
+						"title": "Clarx & Moe Aly - Healing [NCS Release]",
+						"channelTitle": "NoCopyrightSounds",
+						"channelId": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+						"publishedAt": "2021-05-29T14:15:01Z",
+						"duration": "PT3M2S",
+						"viewCount": "1271220"
+					},
+					{
+						"id": "vNfgVjZF8_4",
+						"title": "OneRepublic - Someday (Official Music Video)",
 						"channelTitle": "OneRepublicVEVO",
 						"channelId": "UCQ5kHOKpF3-1_UCKaqXARRg",
-						"publishedAt": "2013-05-31T07:00:36Z",
-						"duration": "PT4M44S",
-						"viewCount": "3398159683"
+						"publishedAt": "2021-08-27T16:00:09Z",
+						"duration": "PT3M12S",
+						"viewCount": "4256097"
 					},
 					{
-						"id": "RzhAS_GnJIc",
-						"title": "Safe & Sound feat. The Civil Wars (The Hunger Games: Songs From District 12 And Beyond)",
-						"channelTitle": "TaylorSwiftVEVO",
-						"channelId": "UCANLZYMidaCbLQFWXBC95Jg",
-						"publishedAt": "2012-02-16T17:30:41Z",
-						"duration": "PT4M1S",
-						"viewCount": "184609880"
+						"id": "cds_rfHsJ3Y",
+						"title": "Skrillex, Justin Bieber & Don Toliver - Don't Go (Official Music Video)",
+						"channelTitle": "Skrillex",
+						"channelId": "UC_TVqp_SyG6j5hG-xVRy95A",
+						"publishedAt": "2021-08-20T04:00:12Z",
+						"duration": "PT2M48S",
+						"viewCount": "20328707"
 					},
 					{
-						"id": "pBkHHoOIIn8",
-						"title": "Portugal. The Man - Feel It Still (Official Music Video)",
-						"channelTitle": "Portugal. The Man",
-						"channelId": "UC0TobZSDyMaXaoVK_9TcPHA",
-						"publishedAt": "2017-03-06T21:29:32Z",
-						"duration": "PT2M51S",
-						"viewCount": "312696882"
+						"id": "vX9msKu75qs",
+						"title": "Drake ft. Future and Young Thug - Way 2 Sexy (Official Video)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:00:38Z",
+						"duration": "PT4M41S",
+						"viewCount": "32411166"
 					},
 					{
-						"id": "zrsBjYukE8s",
-						"title": "박진영 (J.Y. Park) \"When We Disco (Duet with 선미)\" M/V",
-						"channelTitle": "JYP Entertainment",
-						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
-						"publishedAt": "2020-08-11T09:00:13Z",
-						"duration": "PT4M17S",
-						"viewCount": "39406488"
-					},
-					{
-						"id": "ApXoWvfEYVU",
-						"title": "Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)",
-						"channelTitle": "PostMaloneVEVO",
-						"channelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
-						"publishedAt": "2018-10-18T16:00:03Z",
-						"duration": "PT2M42S",
-						"viewCount": "1574581757"
-					},
-					{
-						"id": "5Wn85Ge22FQ",
-						"title": "[MV] BTS(방탄소년단) _ Run",
-						"channelTitle": "1theK (원더케이)",
-						"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
-						"publishedAt": "2015-11-29T15:00:00Z",
-						"duration": "PT7M31S",
-						"viewCount": "165483238"
-					},
-					{
-						"id": "EpXzUMPfk7s",
-						"title": "Wes Nelson - Nice To Meet Ya ft. Yxng Bane (Official Video)",
-						"channelTitle": "Wes Nelson",
-						"channelId": "UCjktikdgbOkrLeamrIQfbPw",
-						"publishedAt": "2021-04-01T18:30:16Z",
-						"duration": "PT3M2S",
-						"viewCount": "16171246"
-					},
-					{
-						"id": "Y7ix6RITXM0",
-						"title": "Maroon 5 - Maps (Lyric Video)",
-						"channelTitle": "Maroon5VEVO",
-						"channelId": "UCN1hnUccO4FD5WfM7ithXaw",
-						"publishedAt": "2014-06-24T04:00:01Z",
-						"duration": "PT3M9S",
-						"viewCount": "261656424"
-					},
-					{
-						"id": "LWeiydKl0mU",
-						"title": "Justin Bieber - Hold On",
-						"channelTitle": "JustinBieberVEVO",
-						"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
-						"publishedAt": "2021-03-05T05:00:16Z",
-						"duration": "PT5M9S",
-						"viewCount": "64182533"
-					},
-					{
-						"id": "KDM-N8ZGt_E",
-						"title": "죠지, 코스믹보이 george, Cosmic Boy 'love in summer' (Official Audio)",
-						"channelTitle": "CRAFT AND JUN",
-						"channelId": "UCXNJOwaAo7mq1fATjCbew9Q",
-						"publishedAt": "2020-09-23T09:00:04Z",
-						"duration": "PT2M26S",
-						"viewCount": "33340"
-					},
-					{
-						"id": "fWNaR-rxAic",
-						"title": "Carly Rae Jepsen - Call Me Maybe",
-						"channelTitle": "CarlyRaeJepsenVEVO",
-						"channelId": "UCtKuVNj4wVrZvTfxPxAUHcQ",
-						"publishedAt": "2012-03-01T23:21:04Z",
-						"duration": "PT3M20S",
-						"viewCount": "1387743727"
-					},
-					{
-						"id": "VbfpW0pbvaU",
-						"title": "Shawn Mendes - Stitches (Official Video)",
-						"channelTitle": "ShawnMendesVEVO",
-						"channelId": "UC4-TgOSMJHn-LtY4zCzbQhw",
-						"publishedAt": "2015-06-25T00:00:01Z",
-						"duration": "PT4M",
-						"viewCount": "1386340149"
-					},
-					{
-						"id": "CevxZvSJLk8",
-						"title": "Katy Perry - Roar (Official)",
-						"channelTitle": "KatyPerryVEVO",
-						"channelId": "UC-8Q-hLdECwQmaWNwXitYDw",
-						"publishedAt": "2013-09-05T20:00:22Z",
-						"duration": "PT4M30S",
-						"viewCount": "3434289159"
-					},
-					{
-						"id": "y83x7MgzWOA",
-						"title": "Ed Sheeran & Justin Bieber - I Don't Care [Official Music Video]",
-						"channelTitle": "Ed Sheeran",
-						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-						"publishedAt": "2019-05-17T12:58:44Z",
-						"duration": "PT3M43S",
-						"viewCount": "483347309"
-					},
-					{
-						"id": "oxqnFJ3lp5k",
-						"title": "Train - Drive By (Official Music Video)",
-						"channelTitle": "TrainVEVO",
-						"channelId": "UC5e_2fVZJ2heCb799A04AtA",
-						"publishedAt": "2012-02-15T08:00:00Z",
-						"duration": "PT3M29S",
-						"viewCount": "178070316"
-					},
-					{
-						"id": "K0ibBPhiaG0",
-						"title": "Ed Sheeran - Castle On The Hill [Official Music Video]",
-						"channelTitle": "Ed Sheeran",
-						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-						"publishedAt": "2017-01-23T11:21:26Z",
-						"duration": "PT4M48S",
-						"viewCount": "472222865"
-					},
-					{
-						"id": "2Z8L4Qed8F8",
-						"title": "Anne-Marie & Niall Horan - Our Song [Official Video]",
-						"channelTitle": "Anne-Marie",
-						"channelId": "UCBL7ZxVX4GvW4CFiES_-0YA",
-						"publishedAt": "2021-05-21T12:00:22Z",
-						"duration": "PT3M6S",
-						"viewCount": "30850402"
-					},
-					{
-						"id": "aXzVF3XeS8M",
-						"title": "Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]",
-						"channelTitle": "TaylorSwiftVEVO",
-						"channelId": "UCANLZYMidaCbLQFWXBC95Jg",
-						"publishedAt": "2021-02-12T05:00:00Z",
-						"duration": "PT4M1S",
-						"viewCount": "26238594"
-					},
-					{
-						"id": "0uLI6BnVh6w",
-						"title": "Elle King - Ex's & Oh's (Official Video)",
-						"channelTitle": "ElleKingVEVO",
-						"channelId": "UCglELn2MzAGxlYeiZr4jdvw",
-						"publishedAt": "2015-05-01T07:00:30Z",
-						"duration": "PT3M45S",
-						"viewCount": "162710031"
-					},
-					{
-						"id": "gdZLi9oWNZg",
-						"title": "BTS (방탄소년단) 'Dynamite' Official MV",
-						"channelTitle": "HYBE LABELS",
-						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
-						"publishedAt": "2020-08-21T03:58:10Z",
-						"duration": "PT3M44S",
-						"viewCount": "1247989274"
-					},
-					{
-						"id": "ZNra8eK0K6k",
-						"title": "Alessia Cara - How Far I'll Go (Official Video)",
-						"channelTitle": "DisneyMusicVEVO",
-						"channelId": "UCgwv23FVv3lqh567yagXfNg",
-						"publishedAt": "2016-11-03T12:45:00Z",
-						"duration": "PT3M3S",
-						"viewCount": "265483727"
-					},
-					{
-						"id": "1DoI5WTjd3w",
-						"title": "Imagine Dragons - Follow You (Lyric Video)",
-						"channelTitle": "ImagineDragonsVEVO",
-						"channelId": "UCpx_k19S2vUutWUUM9qmXEg",
-						"publishedAt": "2021-03-12T05:00:00Z",
-						"duration": "PT2M57S",
-						"viewCount": "29044390"
-					},
-					{
-						"id": "BSzSn-PRdtI",
-						"title": "Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)",
-						"channelTitle": "Maroon5VEVO",
-						"channelId": "UCN1hnUccO4FD5WfM7ithXaw",
-						"publishedAt": "2021-03-11T17:00:14Z",
-						"duration": "PT3M49S",
-						"viewCount": "81785684"
-					},
-					{
-						"id": "tg00YEETFzg",
-						"title": "Rihanna - We Found Love ft. Calvin Harris",
-						"channelTitle": "RihannaVEVO",
-						"channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
-						"publishedAt": "2011-10-20T04:00:00Z",
-						"duration": "PT4M36S",
-						"viewCount": "992817875"
-					},
-					{
-						"id": "J1OsKJW51HY",
-						"title": "P!nk - Walk Me Home (Official Video)",
-						"channelTitle": "PinkVEVO",
-						"channelId": "UCXJDX1KK6t121Z9FLhu5o2A",
-						"publishedAt": "2019-03-21T17:45:00Z",
-						"duration": "PT3M17S",
-						"viewCount": "115710549"
-					},
-					{
-						"id": "_83KqwEEGw4",
-						"title": "Surfaces - Sunday Best (Official Music Video)",
-						"channelTitle": "Surfaces",
-						"channelId": "UC1B3dGJReX_5F6rmgZS_o7Q",
-						"publishedAt": "2019-07-10T20:17:53Z",
-						"duration": "PT2M57S",
-						"viewCount": "121410555"
-					},
-					{
-						"id": "Pw-0pbY9JeU",
-						"title": "twenty one pilots - Ride (Official Video)",
-						"channelTitle": "twenty one pilots",
-						"channelId": "UCBQZwaNPFfJ1gZ1fLZpAEGw",
-						"publishedAt": "2015-05-13T22:00:26Z",
+						"id": "cJTmumMot1U",
+						"title": "Selena Gomez, Camilo - 999 (Official Video)",
+						"channelTitle": "SelenaGomezVEVO",
+						"channelId": "UCjK8ORC71kwyj1DWFwril_A",
+						"publishedAt": "2021-08-27T00:00:10Z",
 						"duration": "PT3M46S",
-						"viewCount": "1184447460"
+						"viewCount": "13824725"
 					},
 					{
-						"id": "h_m-BjrxmgI",
-						"title": "Plain White T's - Hey There Delilah (Official Video)",
-						"channelTitle": "HollywoodRecordsVEVO",
-						"channelId": "UCpPwodiYc4ceaqEBB54trHQ",
-						"publishedAt": "2007-01-27T02:19:18Z",
-						"duration": "PT4M3S",
-						"viewCount": "90106075"
+						"id": "orJSJGHjBLI",
+						"title": "Ed Sheeran - Bad Habits [Official Video]",
+						"channelTitle": "Ed Sheeran",
+						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+						"publishedAt": "2021-06-25T04:00:33Z",
+						"duration": "PT4M1S",
+						"viewCount": "165714694"
 					},
 					{
-						"id": "Cwkej79U3ek",
-						"title": "Vanessa Carlton - A Thousand Miles (Official Video)",
-						"channelTitle": "VanessaCarltonVEVO",
-						"channelId": "UCMjTkVHcsbIZ8OhcdXAH0bA",
-						"publishedAt": "2009-06-16T23:02:27Z",
-						"duration": "PT4M29S",
-						"viewCount": "298993668"
+						"id": "J_jeROLgWJk",
+						"title": "Mimi Webb - 24/5 (Lyrics)",
+						"channelTitle": "NewMelody",
+						"channelId": "UCj4mJaB6K3a6eCw1xIQ2jsA",
+						"publishedAt": "2021-09-10T16:49:35Z",
+						"duration": "PT2M34S",
+						"viewCount": "160619"
+					},
+					{
+						"id": "R4kRgIkpTxQ",
+						"title": "Becky Hill & Topic - My Heart Goes (La Di Da) | Official Lyric Video",
+						"channelTitle": "Becky Hill Official",
+						"channelId": "UCr6o7T_bNQPzHlRAtQz7EDw",
+						"publishedAt": "2021-08-24T16:01:47Z",
+						"duration": "PT2M29S",
+						"viewCount": "1076947"
 					}
 				]
 			},
@@ -808,13 +772,13 @@
 				"name": "오늘의 어쿠스틱",
 				"songs": [
 					{
-						"id": "SJsGISX8O8k",
-						"title": "Clinton Kane - I GUESS I'M IN LOVE (Official Video)",
-						"channelTitle": "ClintonKaneVEVO",
-						"channelId": "UCRtk9-rbM5sK9puxDmqikag",
-						"publishedAt": "2021-08-20T04:00:10Z",
-						"duration": "PT3M30S",
-						"viewCount": "3824652"
+						"id": "Yb0ZGvccOAY",
+						"title": "Clinton Kane - I GUESS I’M IN LOVE (Lyrics)",
+						"channelTitle": "Vibe Music",
+						"channelId": "UChO8h2G8UjOVc081rgYU8XQ",
+						"publishedAt": "2021-08-22T16:04:06Z",
+						"duration": "PT3M24S",
+						"viewCount": "1884136"
 					},
 					{
 						"id": "V7FJw5U57cE",
@@ -823,7 +787,7 @@
 						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
 						"publishedAt": "2021-08-27T03:00:17Z",
 						"duration": "PT3M24S",
-						"viewCount": "24851"
+						"viewCount": "25024"
 					},
 					{
 						"id": "muLqukEiVm4",
@@ -832,7 +796,7 @@
 						"channelId": "UC_uNGUWSqVKTzfoBKQ_LmXw",
 						"publishedAt": "2021-08-20T04:00:32Z",
 						"duration": "PT3M5S",
-						"viewCount": "147377"
+						"viewCount": "149464"
 					},
 					{
 						"id": "Ocf7xxl8dQ8",
@@ -841,7 +805,7 @@
 						"channelId": "UCRhQ9Y1IvYiImMnme_4maIg",
 						"publishedAt": "2021-08-17T09:00:08Z",
 						"duration": "PT2M43S",
-						"viewCount": "1638"
+						"viewCount": "1656"
 					},
 					{
 						"id": "7TTUjv-rv9w",
@@ -850,7 +814,7 @@
 						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
 						"publishedAt": "2021-07-19T03:00:02Z",
 						"duration": "PT4M44S",
-						"viewCount": "16327"
+						"viewCount": "16336"
 					},
 					{
 						"id": "qxReUsiK4OE",
@@ -859,7 +823,7 @@
 						"channelId": "UC_WGiIlaHbt-nXQQVueIvwA",
 						"publishedAt": "2021-06-25T16:00:17Z",
 						"duration": "PT3M57S",
-						"viewCount": "1499767"
+						"viewCount": "1500191"
 					},
 					{
 						"id": "V_Ew3Ddyykg",
@@ -868,7 +832,7 @@
 						"channelId": "UCULMsMUROHZa8ceYlE3rQuA",
 						"publishedAt": "2018-03-18T12:54:11Z",
 						"duration": "PT5M41S",
-						"viewCount": "22832432"
+						"viewCount": "22844144"
 					},
 					{
 						"id": "6Gygq8LGJHQ",
@@ -877,16 +841,16 @@
 						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
 						"publishedAt": "2021-06-19T03:00:04Z",
 						"duration": "PT4M4S",
-						"viewCount": "2799"
+						"viewCount": "2802"
 					},
 					{
-						"id": "oUbpGmR1-QM",
-						"title": "Jay Sean - Down ft. Lil Wayne (Official Music Video)",
-						"channelTitle": "JaySeanVEVO",
-						"channelId": "UCdfbxcSrqYvM5pqDmTWr1eQ",
-						"publishedAt": "2009-11-24T17:29:47Z",
-						"duration": "PT3M44S",
-						"viewCount": "286578868"
+						"id": "ehZECQUvMhE",
+						"title": "Jay Sean - Down ft. Lil Wayne (Lyrics)",
+						"channelTitle": "Audioandlyrics",
+						"channelId": "UChWcegNjI5qZV-8jBgFAJ6A",
+						"publishedAt": "2018-09-07T22:44:51Z",
+						"duration": "PT3M33S",
+						"viewCount": "24272269"
 					},
 					{
 						"id": "5TAOsPcBgO0",
@@ -895,7 +859,7 @@
 						"channelId": "UCRMj2SMqUR_kOfsgTtKqSYA",
 						"publishedAt": "2021-04-30T14:07:00Z",
 						"duration": "PT3M25S",
-						"viewCount": "3095"
+						"viewCount": "3115"
 					},
 					{
 						"id": "_hMJ1ZuXAis",
@@ -904,7 +868,7 @@
 						"channelId": "UCa7Req2QScZfzxUYtmlAcyg",
 						"publishedAt": "2021-09-17T04:00:19Z",
 						"duration": "PT3M7S",
-						"viewCount": "687036"
+						"viewCount": "837462"
 					},
 					{
 						"id": "acI-lpmaKNM",
@@ -913,7 +877,7 @@
 						"channelId": "UCs8ynQgjoKZblUXosXoeOEQ",
 						"publishedAt": "2021-09-17T04:00:01Z",
 						"duration": "PT3M22S",
-						"viewCount": "144351"
+						"viewCount": "158466"
 					},
 					{
 						"id": "aFDa0Qv9wXA",
@@ -922,16 +886,7 @@
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-09-10T04:00:11Z",
 						"duration": "PT5M47S",
-						"viewCount": "2092731"
-					},
-					{
-						"id": "GoOawGoGb3Y",
-						"title": "[Official Audio] 택우 (TAEKWOO) - 아무 말이 없었네 (You didn't say anything)",
-						"channelTitle": "POCLANOS",
-						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
-						"publishedAt": "2021-06-08T09:00:06Z",
-						"duration": "PT3M5S",
-						"viewCount": "2333"
+						"viewCount": "2162816"
 					},
 					{
 						"id": "V48mfuiUCK8",
@@ -940,7 +895,16 @@
 						"channelId": "UC2QiHEas5QM7ReVjH36-lUw",
 						"publishedAt": "2021-09-20T21:36:46Z",
 						"duration": "PT3M54S",
-						"viewCount": "373"
+						"viewCount": "413"
+					},
+					{
+						"id": "0vKch3y4Nzc",
+						"title": "10Tik x Yaksta- FREEDOM (Official Animated Lyrics Video)",
+						"channelTitle": "10Tik Official",
+						"channelId": "UCIp3aONWG6byOn3wwzTBusg",
+						"publishedAt": "2021-05-21T05:10:01Z",
+						"duration": "PT4M43S",
+						"viewCount": "1353486"
 					},
 					{
 						"id": "-Ih5UArd4zk",
@@ -949,7 +913,7 @@
 						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 						"publishedAt": "2021-04-05T09:00:00Z",
 						"duration": "PT4M32S",
-						"viewCount": "15057011"
+						"viewCount": "15069349"
 					},
 					{
 						"id": "vGzwaZN5iWw",
@@ -958,7 +922,7 @@
 						"channelId": "UC9PVYlrwFSlqG7w8TDsqRvQ",
 						"publishedAt": "2021-05-24T09:00:33Z",
 						"duration": "PT4M11S",
-						"viewCount": "10140"
+						"viewCount": "10169"
 					},
 					{
 						"id": "kWe8V-LiH-0",
@@ -967,7 +931,7 @@
 						"channelId": "UCEkdARqgNiO8aIg7eStLv3Q",
 						"publishedAt": "2019-06-13T19:51:31Z",
 						"duration": "PT3M6S",
-						"viewCount": "457468"
+						"viewCount": "457620"
 					},
 					{
 						"id": "1w5nbCEMyh4",
@@ -976,16 +940,16 @@
 						"channelId": "UCRMj2SMqUR_kOfsgTtKqSYA",
 						"publishedAt": "2021-03-26T05:00:01Z",
 						"duration": "PT3M31S",
-						"viewCount": "2457"
+						"viewCount": "2462"
 					},
 					{
-						"id": "v1eypolupH0",
-						"title": "Big Thief - Certainty (Official Audio)",
-						"channelTitle": "Big Thief",
-						"channelId": "UCvN64FqCG5hi2cTsOLH2lqQ",
-						"publishedAt": "2021-09-07T11:00:35Z",
-						"duration": "PT3M9S",
-						"viewCount": "28711"
+						"id": "h6zdVaAe0OE",
+						"title": "Temples - Certainty",
+						"channelTitle": "TemplesVEVO",
+						"channelId": "UCKO0nhZ9JYpMrKnU4KQV2AA",
+						"publishedAt": "2016-10-31T14:01:09Z",
+						"duration": "PT3M42S",
+						"viewCount": "1726998"
 					},
 					{
 						"id": "OLm_sT26AEA",
@@ -994,7 +958,7 @@
 						"channelId": "UCTujaKfo0jMXXhjvRtB6yYQ",
 						"publishedAt": "2021-08-27T04:00:12Z",
 						"duration": "PT3M7S",
-						"viewCount": "109366"
+						"viewCount": "113075"
 					},
 					{
 						"id": "mASuEoH6LFg",
@@ -1003,7 +967,7 @@
 						"channelId": "UCMKtlKSof1ltcFRMKki2Mcw",
 						"publishedAt": "2010-07-10T16:28:05Z",
 						"duration": "PT3M52S",
-						"viewCount": "726752"
+						"viewCount": "726803"
 					},
 					{
 						"id": "kPUxdt1FZRY",
@@ -1012,7 +976,7 @@
 						"channelId": "UCqCgigpHYiR6adVFgEXnI2g",
 						"publishedAt": "2017-05-12T15:53:05Z",
 						"duration": "PT4M20S",
-						"viewCount": "24539029"
+						"viewCount": "24542859"
 					},
 					{
 						"id": "3RA4MykPm4s",
@@ -1021,7 +985,7 @@
 						"channelId": "UCS6Lh7bJRS8eteLDM2f8Qrw",
 						"publishedAt": "2010-02-22T02:31:04Z",
 						"duration": "PT3M50S",
-						"viewCount": "5686658"
+						"viewCount": "5689098"
 					},
 					{
 						"id": "i-0PaQanGBc",
@@ -1030,7 +994,7 @@
 						"channelId": "UCosnVpvQYMR58p8A8tBY-dw",
 						"publishedAt": "2021-08-27T04:00:11Z",
 						"duration": "PT4M21S",
-						"viewCount": "1864203"
+						"viewCount": "1878133"
 					},
 					{
 						"id": "2UnatVEaVM4",
@@ -1042,13 +1006,22 @@
 						"viewCount": "45896"
 					},
 					{
-						"id": "9T3KEcRWELc",
-						"title": "우주히피(Cosmoshippie) - 행복해야 할 것 같아 (Like happy)_ 가사비디오_Lyric Video",
-						"channelTitle": "유어썸머 Your Summer",
-						"channelId": "UCM5AvMO0nFNUJlDd9V-F_EA",
-						"publishedAt": "2021-06-03T09:04:33Z",
-						"duration": "PT3M55S",
-						"viewCount": "410"
+						"id": "Je5_jtlijRc",
+						"title": "Foy Vance - Roman Attack (Official Audio)",
+						"channelTitle": "Foy Vance",
+						"channelId": "UCJWL8vwBHVEmg8CUPcSWinw",
+						"publishedAt": "2021-08-26T04:00:15Z",
+						"duration": "PT4M28S",
+						"viewCount": "14143"
+					},
+					{
+						"id": "t91LscA8wxM",
+						"title": "[Official Audio] 우주히피 (Cosmos Hippie) - 행복해야 할 것 같아 (Like happy)",
+						"channelTitle": "POCLANOS",
+						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
+						"publishedAt": "2021-06-03T03:00:15Z",
+						"duration": "PT3M52S",
+						"viewCount": "2356"
 					},
 					{
 						"id": "XBn4v22iEoY",
@@ -1057,7 +1030,7 @@
 						"channelId": "UCo75nekORdsiVzFeBFNab9g",
 						"publishedAt": "2018-09-22T19:30:19Z",
 						"duration": "PT4M24S",
-						"viewCount": "13273604"
+						"viewCount": "13276709"
 					},
 					{
 						"id": "vcgjjDi1CyY",
@@ -1066,7 +1039,7 @@
 						"channelId": "UCK0VeensCD3RSw4qoZ-2ZSQ",
 						"publishedAt": "2021-06-23T03:02:56Z",
 						"duration": "PT4M29S",
-						"viewCount": "1066"
+						"viewCount": "1070"
 					},
 					{
 						"id": "BLfNJkN8LPw",
@@ -1075,7 +1048,7 @@
 						"channelId": "UCdvBex6r_1-i8Sut-mCy2Jw",
 						"publishedAt": "2019-10-05T13:43:07Z",
 						"duration": "PT2M39S",
-						"viewCount": "4701931"
+						"viewCount": "4706779"
 					},
 					{
 						"id": "d6euUjYCfEg",
@@ -1084,7 +1057,7 @@
 						"channelId": "UCbgqO8FNQrahfFqip25KB2A",
 						"publishedAt": "2020-10-16T17:00:10Z",
 						"duration": "PT4M11S",
-						"viewCount": "99932"
+						"viewCount": "99970"
 					},
 					{
 						"id": "9zHS8y-Z4Ok",
@@ -1093,7 +1066,7 @@
 						"channelId": "UCjtuVVoUtBP9iYDOkVY3lOQ",
 						"publishedAt": "2021-04-17T00:48:21Z",
 						"duration": "PT4M5S",
-						"viewCount": "5652022"
+						"viewCount": "5714615"
 					},
 					{
 						"id": "EvwPKH3wtUY",
@@ -1102,16 +1075,16 @@
 						"channelId": "UCDT8zjDg6zAczE-ISlgUpsQ",
 						"publishedAt": "2021-05-03T14:51:28Z",
 						"duration": "PT3M40S",
-						"viewCount": "3752684"
+						"viewCount": "3759240"
 					},
 					{
-						"id": "uQF6DBLrO8A",
-						"title": "Jonathan Roy - Walk Out On Me (Live Acoustic Performance)",
+						"id": "rpoSHhA7Ffk",
+						"title": "Jonathan Roy - Walk Out On Me (Official Dance Video)",
 						"channelTitle": "Jonathan Roy",
 						"channelId": "UC8N9bw28xavKvPSUIuZ5SWQ",
-						"publishedAt": "2021-04-09T15:00:14Z",
-						"duration": "PT3M5S",
-						"viewCount": "411174"
+						"publishedAt": "2021-07-09T14:00:11Z",
+						"duration": "PT2M51S",
+						"viewCount": "235194"
 					},
 					{
 						"id": "FWkW-YkzCJ4",
@@ -1120,7 +1093,7 @@
 						"channelId": "UCqi0AT2nq49ad2E1LGhtbjg",
 						"publishedAt": "2016-04-04T18:47:55Z",
 						"duration": "PT3M41S",
-						"viewCount": "25429974"
+						"viewCount": "25432726"
 					},
 					{
 						"id": "VGP6JP_hAPM",
@@ -1129,7 +1102,7 @@
 						"channelId": "UCwIgPuUJXuf2nY-nKsEvLOg",
 						"publishedAt": "2019-11-18T17:00:12Z",
 						"duration": "PT3M8S",
-						"viewCount": "20093578"
+						"viewCount": "20121853"
 					},
 					{
 						"id": "ciZcbvG8uro",
@@ -1138,7 +1111,7 @@
 						"channelId": "UC9KhB07HSEtWISy_LFWwHzw",
 						"publishedAt": "2021-07-16T04:00:30Z",
 						"duration": "PT3M41S",
-						"viewCount": "578081"
+						"viewCount": "581527"
 					},
 					{
 						"id": "ykEsqN4SOSQ",
@@ -1147,7 +1120,16 @@
 						"channelId": "UCGmtDrMebeJCq2jgvboJ7Jg",
 						"publishedAt": "2021-07-30T04:00:18Z",
 						"duration": "PT3M57S",
-						"viewCount": "50762"
+						"viewCount": "51379"
+					},
+					{
+						"id": "aF1Sr81cSdY",
+						"title": "Top Hits of 2019 in 4 Minutes (SING OFF vs. MYSELF) - Madilyn",
+						"channelTitle": "Madilyn",
+						"channelId": "UCZH4EVUqljV-zkZEd0Ot7EQ",
+						"publishedAt": "2019-11-29T13:45:20Z",
+						"duration": "PT4M26S",
+						"viewCount": "6952110"
 					},
 					{
 						"id": "oBIxScJ5rlY",
@@ -1156,332 +1138,404 @@
 						"channelId": "UC9KhB07HSEtWISy_LFWwHzw",
 						"publishedAt": "2009-10-03T20:59:04Z",
 						"duration": "PT3M22S",
-						"viewCount": "49955041"
+						"viewCount": "49962266"
 					}
 				]
 			},
 			{
-				"name": "서울 어반 사운드",
+				"name": "Rap Life",
 				"songs": [
 					{
-						"id": "buq8KldGmss",
-						"title": "[Lyric Video] 한요한 - Daft Punk (Feat. ZENE THE ZILLA) (KOR/ENG)",
-						"channelTitle": "JustEnterprises",
-						"channelId": "UCeIobpWq72YzVuyHhz3M-3g",
-						"publishedAt": "2021-09-16T06:00:14Z",
-						"duration": "PT3M36S",
-						"viewCount": "11602"
-					},
-					{
-						"id": "cUAsTQUU3xk",
-						"title": "JAY B - B.T.W (Feat. Jay Park) (Prod. Cha Cha Malone) (Official Video)",
-						"channelTitle": "H1GHR MUSIC",
-						"channelId": "UC6TJkBRLMFJ-9c7pXehoZwg",
-						"publishedAt": "2021-08-26T09:00:09Z",
-						"duration": "PT3M16S",
-						"viewCount": "6196618"
-					},
-					{
-						"id": "j7ro1jQojsk",
-						"title": "PARTYNEXTDOOR - Dreamin [HQ + Lyrics]",
-						"channelTitle": "M. Marto",
-						"channelId": "UC816_81yBATBatQ_Er0e8wQ",
-						"publishedAt": "2015-04-05T21:32:52Z",
-						"duration": "PT2M30S",
-						"viewCount": "1783374"
-					},
-					{
-						"id": "-M__Nh-HvmA",
-						"title": "로꼬 (Loco) - '이대로만 (Feat. 죠지)' Official Music Video [ENG/CHN]",
-						"channelTitle": "AOMGOFFICIAL",
-						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-						"publishedAt": "2021-08-24T09:00:07Z",
-						"duration": "PT3M22S",
-						"viewCount": "943322"
-					},
-					{
-						"id": "VvZvcLDgN2s",
-						"title": "GRAY (그레이) - 'Make Love (Feat. Zion.T)' Official Music Video [ENG/CHN]",
-						"channelTitle": "AOMGOFFICIAL",
-						"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
-						"publishedAt": "2021-08-17T09:00:03Z",
-						"duration": "PT3M51S",
-						"viewCount": "732217"
-					},
-					{
-						"id": "GU4wxe8hU-Q",
-						"title": "UNEDUCATED KID, 호미들, LIL GIMCHI -  구원 (Prod. Kidstone) [구원]ㅣLyrics/가사",
-						"channelTitle": "알파",
-						"channelId": "UCGuE0TrBNIZKfordUwAQe2w",
-						"publishedAt": "2021-08-18T10:02:33Z",
-						"duration": "PT3M50S",
-						"viewCount": "227336"
-					},
-					{
-						"id": "TO9us_5t8hw",
-						"title": "[Full Album] 릴러말즈 (Leellamarz) - 흑백영화",
-						"channelTitle": "최옹졸",
-						"channelId": "UC4YXkgp__Ev_3NZ9215MA6Q",
-						"publishedAt": "2021-08-06T09:53:36Z",
-						"duration": "PT19M40S",
-						"viewCount": "106398"
-					},
-					{
-						"id": "ph2ivT9hYuA",
-						"title": "Skinny Brown, TOIL - 야야야 (Feat. 미란이) [토끼니브라운1.5]ㅣLyrics/가사",
-						"channelTitle": "알파",
-						"channelId": "UCGuE0TrBNIZKfordUwAQe2w",
-						"publishedAt": "2021-07-29T10:02:11Z",
-						"duration": "PT3M19S",
-						"viewCount": "166463"
-					},
-					{
-						"id": "00uzprkOeJQ",
-						"title": "DPR LIVE - Summer Tights (OFFICIAL M/V)",
-						"channelTitle": "Dream Perfect Regime",
-						"channelId": "UCtG5oKSlksz-QmD_2uI4WBw",
-						"publishedAt": "2021-08-28T09:00:11Z",
-						"duration": "PT4M26S",
-						"viewCount": "1611525"
-					},
-					{
-						"id": "__P-raCzwBc",
-						"title": "비비 BIBI - WHY Y (Feat. Tiger JK) Official M/V",
-						"channelTitle": "GENIE MUSIC",
-						"channelId": "UCd-OrgPLrnQiQBcq19j5oEQ",
-						"publishedAt": "2021-07-27T09:00:12Z",
-						"duration": "PT3M46S",
-						"viewCount": "146613"
-					},
-					{
-						"id": "V-OPDC4QKOA",
-						"title": "야누 (YANU) - UPPERSIDE (Feat. lIlBOI) MV",
-						"channelTitle": "Stone Music Entertainment",
-						"channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
-						"publishedAt": "2021-07-21T03:00:12Z",
+						"id": "3HFY0xuHybk",
+						"title": "Drake - Knife Talk (Audio) ft. 21 Savage, Project Pat",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:10:41Z",
 						"duration": "PT4M4S",
-						"viewCount": "21999"
+						"viewCount": "9809072"
 					},
 					{
-						"id": "tpN_PJ7OJs8",
-						"title": "Iseo & Dodosound - Lost City (Official Video)",
-						"channelTitle": "Iseo & Dodosound",
-						"channelId": "UC6R528xpCoDwWEZwFYr1-Yw",
-						"publishedAt": "2018-04-06T10:56:47Z",
+						"id": "XCyIcifbOWE",
+						"title": "Meek Mill - Sharing Locations feat. Lil Baby & Lil Durk [Official Video]",
+						"channelTitle": "Meek Mill",
+						"channelId": "UC9HlWVtENbiMQzVRmnbJxtw",
+						"publishedAt": "2021-08-27T14:24:25Z",
+						"duration": "PT2M59S",
+						"viewCount": "12263486"
+					},
+					{
+						"id": "pw15R8P_WII",
+						"title": "Moneybagg Yo - Rookie of the Year (Official Audio)",
+						"channelTitle": "MoneyBagg Yo",
+						"channelId": "UCrdPrDuDCbG8xayk5QkRLQA",
+						"publishedAt": "2021-06-01T05:02:46Z",
+						"duration": "PT2M1S",
+						"viewCount": "2702733"
+					},
+					{
+						"id": "NEu-cJSGvXk",
+						"title": "YoungBoy Never Broke Again - On My Side [Official Music Video]",
+						"channelTitle": "YoungBoy Never Broke Again",
+						"channelId": "UClW4jraMKz6Qj69lJf-tODA",
+						"publishedAt": "2021-09-17T04:00:10Z",
+						"duration": "PT2M53S",
+						"viewCount": "3680870"
+					},
+					{
+						"id": "_dSN9EaQotw",
+						"title": "Drake - No Friends In The Industry",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:17Z",
+						"duration": "PT3M25S",
+						"viewCount": "4082672"
+					},
+					{
+						"id": "BTivsHlVcGU",
+						"title": "DJ Khaled - EVERY CHANCE I GET (Official Music Video) ft. Lil Baby, Lil Durk",
+						"channelTitle": "DJKhaledVEVO",
+						"channelId": "UCrFB54bqp8sda4udJyNswlA",
+						"publishedAt": "2021-05-04T22:42:27Z",
+						"duration": "PT3M57S",
+						"viewCount": "81698038"
+					},
+					{
+						"id": "vX9msKu75qs",
+						"title": "Drake ft. Future and Young Thug - Way 2 Sexy (Official Video)",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:00:38Z",
+						"duration": "PT4M41S",
+						"viewCount": "32411166"
+					},
+					{
+						"id": "THVbtGqEO1o",
+						"title": "Drake - Fair Trade (Audio) ft. Travis Scott",
+						"channelTitle": "DrakeVEVO",
+						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+						"publishedAt": "2021-09-03T16:11:52Z",
+						"duration": "PT4M52S",
+						"viewCount": "16417343"
+					},
+					{
+						"id": "w2IhccXakkE",
+						"title": "Polo G - RAPSTAR (Official Video)",
+						"channelTitle": "PoloGVEVO",
+						"channelId": "UCojuFn_hfMyScH5hSHTBADQ",
+						"publishedAt": "2021-04-09T04:00:15Z",
+						"duration": "PT2M49S",
+						"viewCount": "122212881"
+					},
+					{
+						"id": "z6uCSmRw1is",
+						"title": "Moneybagg Yo, Lil Wayne, Ashanti – Wockesha Remix [Official Audio]",
+						"channelTitle": "MoneyBagg Yo",
+						"channelId": "UCrdPrDuDCbG8xayk5QkRLQA",
+						"publishedAt": "2021-09-22T04:01:37Z",
+						"duration": "PT3M38S",
+						"viewCount": "481441"
+					},
+					{
+						"id": "ML_4URXK1xE",
+						"title": "Young Stoner Life, Young Thug & Gunna - Solid (feat. Drake) [Official Audio]",
+						"channelTitle": "Young Thug",
+						"channelId": "UCuwdplPbuTFZj_64d03tSBA",
+						"publishedAt": "2021-04-16T04:07:15Z",
+						"duration": "PT3M36S",
+						"viewCount": "13138911"
+					},
+					{
+						"id": "98JGfgnXE1E",
+						"title": "Jack Harlow & Pooh Shiesty - SUVs (Black on Black) [Official Audio]",
+						"channelTitle": "Jack Harlow",
+						"channelId": "UC6vZl7Qj7JglLDmN_7Or-ZQ",
+						"publishedAt": "2021-08-03T16:00:08Z",
+						"duration": "PT2M38S",
+						"viewCount": "4046293"
+					},
+					{
+						"id": "0oBeEnY2CAQ",
+						"title": "Drake - Wants and Needs (Lyrics) ft. Lil Baby",
+						"channelTitle": "FutureHype",
+						"channelId": "UCTwct4oAsyuyGxOtva0FcUg",
+						"publishedAt": "2021-03-05T18:27:56Z",
+						"duration": "PT3M14S",
+						"viewCount": "12788828"
+					},
+					{
+						"id": "wuh6YqcQgmM",
+						"title": "Lil Nas X - DOLLA SIGN SLIME ft. Megan Thee Stallion",
+						"channelTitle": "LilNasXVEVO",
+						"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
+						"publishedAt": "2021-09-17T04:00:19Z",
+						"duration": "PT2M26S",
+						"viewCount": "6709801"
+					},
+					{
+						"id": "yhoGtNiNX40",
+						"title": "Lil Baby - Real As It Gets (Official Video) ft. EST Gee",
+						"channelTitle": "LilBabyVEVO",
+						"channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
+						"publishedAt": "2021-03-04T05:00:10Z",
+						"duration": "PT3M35S",
+						"viewCount": "45102337"
+					},
+					{
+						"id": "x6LBEoIF1mk",
+						"title": "42 Dugg, Roddy Ricch - 4 Da Gang (Official Audio)",
+						"channelTitle": "42DuggVEVO",
+						"channelId": "UCFpoaM12604J5sn625SIn1A",
+						"publishedAt": "2021-04-02T04:00:12Z",
+						"duration": "PT2M37S",
+						"viewCount": "10552234"
+					},
+					{
+						"id": "0fGHZf0K1p8",
+						"title": "Moneybagg Yo - Shottas (Lala) (Official Music Video)",
+						"channelTitle": "MoneybaggYoVEVO",
+						"channelId": "UC7r-J2sPQVv9i3iNcte1u-A",
+						"publishedAt": "2021-04-23T16:00:16Z",
+						"duration": "PT2M34S",
+						"viewCount": "12051285"
+					},
+					{
+						"id": "gVGRIBWy6ig",
+						"title": "42 Dugg - Maybach feat. Future (Official Music Video)",
+						"channelTitle": "42DuggVEVO",
+						"channelId": "UCFpoaM12604J5sn625SIn1A",
+						"publishedAt": "2021-05-21T04:00:11Z",
+						"duration": "PT3M18S",
+						"viewCount": "43066377"
+					},
+					{
+						"id": "Sevhj75lj80",
+						"title": "Young Thug & Gunna - Ski [Official Video] | Young Stoner Life",
+						"channelTitle": "Young Thug",
+						"channelId": "UCuwdplPbuTFZj_64d03tSBA",
+						"publishedAt": "2021-04-17T01:15:41Z",
+						"duration": "PT2M35S",
+						"viewCount": "29106327"
+					},
+					{
+						"id": "57yTIDf-SPE",
+						"title": "Woah - LIL MIKEY x LeWiuy x MVrc",
+						"channelTitle": "LIL MIKEY",
+						"channelId": "UClTRPGoKcT8o3GoLB_nVvMQ",
+						"publishedAt": "2021-05-30T12:00:11Z",
+						"duration": "PT2M33S",
+						"viewCount": "174315"
+					},
+					{
+						"id": "RIuk23XHYj0",
+						"title": "JACKBOYS - GANG GANG feat. Sheck Wes, Don Toliver, Luxury Tax 50 & Cactus Jack (Official)",
+						"channelTitle": "TravisScottVEVO",
+						"channelId": "UClRx3MMyYUyqOxyEqA5F2nQ",
+						"publishedAt": "2019-12-28T02:00:02Z",
+						"duration": "PT4M11S",
+						"viewCount": "54549484"
+					},
+					{
+						"id": "-QiovlGJi_U",
+						"title": "Future & Lil Uzi Vert - Drankin N Smokin [Official Audio]",
+						"channelTitle": "LIL UZI VERT",
+						"channelId": "UCqwxMqUcL-XC3D9-fTP93Mg",
+						"publishedAt": "2020-11-13T05:00:01Z",
+						"duration": "PT3M34S",
+						"viewCount": "32738460"
+					},
+					{
+						"id": "sJDRfZJFAk0",
+						"title": "Roddy Ricch - Late At Night [Official Music Video]",
+						"channelTitle": "Roddy Ricch",
+						"channelId": "UChQdA1rid5kKZh6oIc6DLNg",
+						"publishedAt": "2021-06-04T04:00:14Z",
+						"duration": "PT4M30S",
+						"viewCount": "23533382"
+					},
+					{
+						"id": "zlEmPO3D-lw",
+						"title": "H.E.R. - Find A Way (Audio) ft. Lil Baby, Lil Durk",
+						"channelTitle": "HERMusicVEVO",
+						"channelId": "UCQT3bmChpmnR5ThhY_ewoOQ",
+						"publishedAt": "2021-09-17T04:00:32Z",
+						"duration": "PT3M35S",
+						"viewCount": "247311"
+					},
+					{
+						"id": "xrCphoicI70",
+						"title": "Gunna - BLINDFOLD (feat. Lil Baby) [Official Video]",
+						"channelTitle": "Gunna",
+						"channelId": "UCAkIMkEaa9sZmjcy7mfd5lQ",
+						"publishedAt": "2020-09-02T19:00:10Z",
+						"duration": "PT2M56S",
+						"viewCount": "6977768"
+					},
+					{
+						"id": "5g4M_jwPHjg",
+						"title": "Lil Tecca - REPEAT IT ft. Gunna (Official Video)",
+						"channelTitle": "Lil Tecca",
+						"channelId": "UCOlxqtcKc-HBEQJgDsylyhA",
+						"publishedAt": "2021-08-10T18:09:22Z",
+						"duration": "PT3M35S",
+						"viewCount": "4706117"
+					},
+					{
+						"id": "NTbFn09LLuE",
+						"title": "Lil Baby - Low Down (Audio)",
+						"channelTitle": "LilBabyVEVO",
+						"channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
+						"publishedAt": "2020-05-01T04:00:09Z",
+						"duration": "PT2M26S",
+						"viewCount": "15176153"
+					},
+					{
+						"id": "0-Tm65i96TY",
+						"title": "Pooh Shiesty - Back In Blood (feat. Lil Durk) [Official Music Video]",
+						"channelTitle": "Pooh Shiesty",
+						"channelId": "UCTBIIbIs83IBsy4E1BQxYBw",
+						"publishedAt": "2021-01-02T17:00:01Z",
+						"duration": "PT3M16S",
+						"viewCount": "193938480"
+					},
+					{
+						"id": "0C80BSgjb8M",
+						"title": "YoungBoy Never Broke Again - Kacey talk (official music video)",
+						"channelTitle": "YoungBoy Never Broke Again",
+						"channelId": "UClW4jraMKz6Qj69lJf-tODA",
+						"publishedAt": "2020-08-13T19:43:00Z",
+						"duration": "PT2M32S",
+						"viewCount": "91915201"
+					},
+					{
+						"id": "ML-iBsCUDg8",
+						"title": "Lil Tjay - Run It Up (Feat. Offset & Moneybagg Yo) [Official Video]",
+						"channelTitle": "Lil Tjay",
+						"channelId": "UCEB4a5o_6KfjxHwNMnmj54Q",
+						"publishedAt": "2021-04-02T14:31:51Z",
+						"duration": "PT3M57S",
+						"viewCount": "22611966"
+					},
+					{
+						"id": "pKtUpBjIl-g",
+						"title": "Lil Baby - Errbody (Official Video)",
+						"channelTitle": "LilBabyVEVO",
+						"channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
+						"publishedAt": "2020-12-04T05:01:10Z",
+						"duration": "PT3M39S",
+						"viewCount": "25097414"
+					},
+					{
+						"id": "7vfnAY4fCbo",
+						"title": "Gunna - DOLLAZ ON MY HEAD (feat. Young Thug) [Official Video]",
+						"channelTitle": "Gunna",
+						"channelId": "UCAkIMkEaa9sZmjcy7mfd5lQ",
+						"publishedAt": "2020-07-24T14:00:12Z",
 						"duration": "PT3M58S",
-						"viewCount": "1771818"
+						"viewCount": "23475760"
 					},
 					{
-						"id": "mdUTb41imgA",
-						"title": "ASH ISLAND, 그루비룸 (GroovyRoom) - 잡아줄게 (Prod. GroovyRoom) [잡아줄게]ㅣLyrics/가사",
-						"channelTitle": "알파",
-						"channelId": "UCGuE0TrBNIZKfordUwAQe2w",
-						"publishedAt": "2021-07-09T10:05:13Z",
-						"duration": "PT3M32S",
-						"viewCount": "566514"
+						"id": "v6HBZC9pZHQ",
+						"title": "Baby Keem, Kendrick Lamar - family ties (Official Video)",
+						"channelTitle": "BabyKeemVEVO",
+						"channelId": "UCqaUJbZFIxkexcqI4J5eJUg",
+						"publishedAt": "2021-08-27T04:00:13Z",
+						"duration": "PT4M20S",
+						"viewCount": "18619712"
 					},
 					{
-						"id": "BK8NMgiVwdM",
-						"title": "oceanfromtheblue - '날개(Like Sisqo)' (Feat. 서사무엘)",
-						"channelTitle": "POP2PANG_T PLAYLIST CH.",
-						"channelId": "UCaVjIT-H0menVHEMeqZBRLQ",
-						"publishedAt": "2021-07-29T05:40:15Z",
-						"duration": "PT3M2S",
-						"viewCount": "433"
+						"id": "XSEZDops6Wo",
+						"title": "Rowdy Rebel, A Boogie Wit Da Hoodie - 9 Bridge (Official Music Video)",
+						"channelTitle": "RowdyRebelVEVO",
+						"channelId": "UCcPaPJbUKx8gckpW5Uf68hQ",
+						"publishedAt": "2021-06-03T16:00:12Z",
+						"duration": "PT2M33S",
+						"viewCount": "3352157"
 					},
 					{
-						"id": "YKMAWHQp2Ac",
-						"title": "meenoi (미노이) - [못참아! (feat. 로꼬)] (Official M/V)",
-						"channelTitle": "8BallTown",
-						"channelId": "UC0UGjBbSm77f_hZKqlY0JVA",
-						"publishedAt": "2021-07-09T09:00:28Z",
-						"duration": "PT3M27S",
-						"viewCount": "1095896"
+						"id": "TXdZzss3zhA",
+						"title": "Meek Mill - Blue Notes 2 (feat. Lil Uzi Vert) [Official Video]",
+						"channelTitle": "Meek Mill",
+						"channelId": "UC9HlWVtENbiMQzVRmnbJxtw",
+						"publishedAt": "2021-09-01T04:00:10Z",
+						"duration": "PT5M8S",
+						"viewCount": "6460218"
 					},
 					{
-						"id": "gDFyy2VmtQU",
-						"title": "BLOO (블루) - Come and kiss me [Official Music Video] [ENG/CHN/JP]",
-						"channelTitle": "BLOO 블루",
-						"channelId": "UCfzIMxyLgPPbQWuEDqvXAcQ",
-						"publishedAt": "2021-06-17T04:00:30Z",
-						"duration": "PT3M1S",
-						"viewCount": "371442"
-					},
-					{
-						"id": "m_ayjwnFeTE",
-						"title": "쏠(SOLE) - '왜 (Feat. 개코)' M/V [ENG/JPN/CHN]",
-						"channelTitle": "Amoeba Culture (아메바컬쳐)",
-						"channelId": "UCprCY6XHC6L0kFJb4zeiCwQ",
-						"publishedAt": "2021-06-23T09:00:29Z",
+						"id": "eFEjDCMNqYs",
+						"title": "Joyner Lucas & Lil Baby - Ramen & OJ",
+						"channelTitle": "Joyner Lucas",
+						"channelId": "UCUebubwSuTHfHjWJI4gCS9A",
+						"publishedAt": "2021-04-30T04:00:17Z",
 						"duration": "PT3M39S",
-						"viewCount": "1499670"
+						"viewCount": "28340964"
 					},
 					{
-						"id": "n2xQewBJhFs",
-						"title": "채리 (chaeree) - Work (starring.CAMO,Bryn,Naji) [Music Video]",
-						"channelTitle": "워너뮤직코리아 (Warner Music Korea)",
-						"channelId": "UCLvhr40dgoBcV4XBlOhauNw",
-						"publishedAt": "2021-06-11T09:00:31Z",
-						"duration": "PT3M48S",
-						"viewCount": "27835"
+						"id": "m2x-r1Cyrt0",
+						"title": "Lil Durk - Finesse Out The Gang Way feat. Lil Baby (Official Music Video)",
+						"channelTitle": "Lil Durk",
+						"channelId": "UCaxOQZrF5llUMp-JjesUz1A",
+						"publishedAt": "2021-02-13T05:00:23Z",
+						"duration": "PT3M16S",
+						"viewCount": "40097287"
 					},
 					{
-						"id": "2pQpwv173BI",
-						"title": "10 Bản nhạc dance bất hủ (Remix) || Nhạc huyền thoại hay nhất (Track tổng hợp)",
-						"channelTitle": "HQ Remix",
-						"channelId": "UCQfOquDwonRA16jagI67xwA",
-						"publishedAt": "2020-11-28T12:56:01Z",
-						"duration": "PT45M37S",
-						"viewCount": "3292651"
+						"id": "u9o9CHMF9Rg",
+						"title": "Big30 feat. Quavo & Moneybagg Yo - Pressin' [Official Audio]",
+						"channelTitle": "BIG30VEVO",
+						"channelId": "UC4GHcOf7Sp4UlhxPatsI-Eg",
+						"publishedAt": "2021-09-02T04:00:15Z",
+						"duration": "PT2M46S",
+						"viewCount": "896238"
 					},
 					{
-						"id": "iYbrkmqhJuQ",
-						"title": "[MV] 마샬 (MRSHLL) - show me what U got (Prod. Jengi) / Official Music Video",
-						"channelTitle": "POCLANOS",
-						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
-						"publishedAt": "2021-07-27T09:00:30Z",
-						"duration": "PT3M21S",
-						"viewCount": "14092"
+						"id": "EJP64y4Gb1U",
+						"title": "Gucci Mane - Shit Crazy (feat. BIG30) [Official Video]",
+						"channelTitle": "Gucci Mane",
+						"channelId": "UCSugZEYrWbzqIWGD195V-YA",
+						"publishedAt": "2021-04-30T04:00:50Z",
+						"duration": "PT2M23S",
+						"viewCount": "14029542"
 					},
 					{
-						"id": "lhvwnTwMsv8",
-						"title": "Chris Brown - Heat (Audio) ft. Gunna",
-						"channelTitle": "ChrisBrownVEVO",
-						"channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
-						"publishedAt": "2019-06-20T14:00:06Z",
-						"duration": "PT3M55S",
-						"viewCount": "50360213"
-					},
-					{
-						"id": "w019MzRosmk",
-						"title": "Frank Sinatra - My Way (Live At Madison Square Garden, New York City / 1974 / 2019 Edit)",
-						"channelTitle": "FrankSinatraVEVO",
-						"channelId": "UCFtYl2ZO48htyN2C8w7PC9g",
-						"publishedAt": "2019-09-16T13:00:16Z",
-						"duration": "PT4M16S",
-						"viewCount": "25244943"
-					},
-					{
-						"id": "-LALBzpQOVw",
-						"title": "Masked Wolf - Astronaut In The Ocean (Loopy & Owen & BLOO Remix) (Official Lyric Video) [KOR/ENG]",
-						"channelTitle": "UNCUTPOINT",
-						"channelId": "UCrABnHuuousrSl5c-mYtyuw",
-						"publishedAt": "2021-05-27T15:00:01Z",
-						"duration": "PT2M57S",
-						"viewCount": "220347"
-					},
-					{
-						"id": "8S0iH0DtfVM",
-						"title": "Wanna One (워너원) Triple Position - 캥거루 (Kangaroo) (feat. ZICO) (Color Coded Lyrics Eng/Rom/Han/가사)",
-						"channelTitle": "Jaeguchi",
-						"channelId": "UCmth4hMyizG-_W9jidBqs_A",
-						"publishedAt": "2018-06-04T13:40:20Z",
-						"duration": "PT3M43S",
-						"viewCount": "4352035"
-					},
-					{
-						"id": "PM3kPLsK-iY",
-						"title": "Jay Dope (제이돕) - Billions (Feat. MRSHLL) Official Audio",
-						"channelTitle": "Stone Music Entertainment",
-						"channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
-						"publishedAt": "2020-08-07T03:00:09Z",
-						"duration": "PT3M5S",
-						"viewCount": "6199"
-					},
-					{
-						"id": "YU0luVuhm50",
-						"title": "PUFF DAEHEE - 조심해(JOSHIMHAE) Feat. Rekstizzy (Official M/V)",
-						"channelTitle": "8BallTown",
-						"channelId": "UC0UGjBbSm77f_hZKqlY0JVA",
-						"publishedAt": "2021-05-28T09:30:09Z",
-						"duration": "PT2M57S",
-						"viewCount": "13829"
-					},
-					{
-						"id": "LNc8-O2NlBY",
-						"title": "[MV] BLOO _ Drive Thru",
-						"channelTitle": "1theK (원더케이)",
-						"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
-						"publishedAt": "2016-06-20T03:14:10Z",
+						"id": "xtJauZnp3xY",
+						"title": "Pooh Shiesty - Neighbors (feat. Big 30) [Official Music Video]",
+						"channelTitle": "Pooh Shiesty",
+						"channelId": "UCTBIIbIs83IBsy4E1BQxYBw",
+						"publishedAt": "2021-02-05T05:00:11Z",
 						"duration": "PT3M17S",
-						"viewCount": "1469313"
+						"viewCount": "46698507"
 					},
 					{
-						"id": "S-Pq1awBktE",
-						"title": "Zhangguyy - Cherry Coke (Feat. Osamu) [Official Music Video]",
-						"channelTitle": "C FLAT Universe",
-						"channelId": "UC4Mho7Q2A-OGOVu8uVdZKbA",
-						"publishedAt": "2021-05-24T09:00:24Z",
-						"duration": "PT2M57S",
-						"viewCount": "3037"
+						"id": "NIuh_fn0cvE",
+						"title": "Trippie Redd – Rich MF Ft. Polo G & Lil Durk (Official Lyric Video)",
+						"channelTitle": "Trippie Redd",
+						"channelId": "UCstw-41J8syXgdJ8xWvaizA",
+						"publishedAt": "2021-08-20T04:10:56Z",
+						"duration": "PT4M8S",
+						"viewCount": "3700022"
 					},
 					{
-						"id": "iPGgnzc34tY",
-						"title": "Aya Nakamura - Djadja (Clip officiel)",
-						"channelTitle": "Aya Nakamura",
-						"channelId": "UC-69vhXlCa3XHbF8JHCQHfg",
-						"publishedAt": "2018-04-06T14:00:08Z",
-						"duration": "PT2M55S",
-						"viewCount": "805784292"
+						"id": "gTf36GEcK8s",
+						"title": "Migos Feat. Drake - Having Our Way (Official Audio)",
+						"channelTitle": "Migos ATL",
+						"channelId": "UC9YcTIQuhwgoOQqYMKYqW9A",
+						"publishedAt": "2021-06-11T04:00:13Z",
+						"duration": "PT4M39S",
+						"viewCount": "7772794"
 					},
 					{
-						"id": "fJneiNn-utg",
-						"title": "Luxury Yacht Music ▪ Background Lounge Music ( 3 Hours )",
-						"channelTitle": "Visione Stabile",
-						"channelId": "UCJzhZ4k7qySPHpJw-v3xQ4w",
-						"publishedAt": "2021-05-26T15:00:13Z",
-						"duration": "PT3H1S",
-						"viewCount": "442091"
-					},
-					{
-						"id": "H9W-eS-pQts",
-						"title": "박재범 Jay Park - 'SUMMERIDE' (Official Audio)",
-						"channelTitle": "JAY PARK",
-						"channelId": "UCK5fO9Q2gitao0M5yQvPnvw",
-						"publishedAt": "2021-04-12T04:19:26Z",
-						"duration": "PT3M39S",
-						"viewCount": "851508"
-					},
-					{
-						"id": "dxdgggT4M70",
-						"title": "Owen (오왼) - 힙합 Ⅱ (Prod. DJ Wegun) [Official Music Video] [ENG/CHN/JP]",
-						"channelTitle": "UNCUTPOINT",
-						"channelId": "UCrABnHuuousrSl5c-mYtyuw",
-						"publishedAt": "2021-04-13T09:00:17Z",
-						"duration": "PT3M8S",
-						"viewCount": "72850"
-					},
-					{
-						"id": "GZXHBgjQjNM",
-						"title": "Backstreet Boys - Drowning (Official HD Video)",
-						"channelTitle": "BackstreetBoysVEVO",
-						"channelId": "UCUFdeo1oLLH_QPlaQfZrqbg",
-						"publishedAt": "2011-04-06T07:23:38Z",
-						"duration": "PT4M32S",
-						"viewCount": "143983146"
-					},
-					{
-						"id": "re4BmSsVgik",
-						"title": "[Official Audio] 슬릭 (SLEEQ) - 다들 웃고 싶어 하지 (StopSwiping Down) (feat. YIMNAO)",
-						"channelTitle": "POCLANOS",
-						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
-						"publishedAt": "2021-04-20T03:00:26Z",
-						"duration": "PT4M17S",
-						"viewCount": "2740"
-					},
-					{
-						"id": "YAI8hHSjQZc",
-						"title": "Paloalto, pH-1 - 멍멍팔팔 (Mungpal) MV",
-						"channelTitle": "Stone Music Entertainment",
-						"channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
-						"publishedAt": "2021-04-11T03:00:09Z",
-						"duration": "PT2M55S",
-						"viewCount": "91610"
+						"id": "gpLXZ0REQ2k",
+						"title": "Hotboii & Future \"Nobody Special\" (Official Video)",
+						"channelTitle": "H O T B O I I",
+						"channelId": "UCxuYJtXOR5MUXLU-qQ-JaLw",
+						"publishedAt": "2021-05-28T16:30:09Z",
+						"duration": "PT3M11S",
+						"viewCount": "11490369"
 					}
 				]
 			}
 		],
-		"updatedAt": "09232021"
+		"updatedAt": "09242021"
 	},
 	"newReleases": {
 		"name": "최신곡",
@@ -1496,7 +1550,7 @@
 						"channelId": "UCTspMBiJYAiCAwB053XFsGA",
 						"publishedAt": "2010-11-20T14:28:20Z",
 						"duration": "PT4M11S",
-						"viewCount": "250090"
+						"viewCount": "250274"
 					}
 				]
 			},
@@ -1510,25 +1564,7 @@
 						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
 						"publishedAt": "2021-09-20T03:00:10Z",
 						"duration": "PT21M11S",
-						"viewCount": "1052"
-					},
-					{
-						"id": "-o3GyRjNdzI",
-						"title": "sokodomo(소코도모) - TOO MUCH feat..김아일(Qim Isle) (prod.BOYCOLD) (lyrics)",
-						"channelTitle": "GMSKDM가마솥코도모",
-						"channelId": "UCSAdbqRp2F9pTVB617iUMvQ",
-						"publishedAt": "2019-12-06T10:32:14Z",
-						"duration": "PT2M17S",
-						"viewCount": "52161"
-					},
-					{
-						"id": "_ob8addjo2I",
-						"title": "Imagination ft.(Shiloh Dynasty)",
-						"channelTitle": "fauzanmusic",
-						"channelId": "UC_Cc2E5JtPvrPfwjKNbjHLA",
-						"publishedAt": "2018-07-15T12:10:48Z",
-						"duration": "PT3M16S",
-						"viewCount": "37082841"
+						"viewCount": "1137"
 					},
 					{
 						"id": "W9OnAo68UbI",
@@ -1537,7 +1573,48 @@
 						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
 						"publishedAt": "2021-09-20T03:00:10Z",
 						"duration": "PT21M11S",
-						"viewCount": "1052"
+						"viewCount": "1137"
+					},
+					{
+						"id": "Clf43vnFdFM",
+						"title": "Californicate feat. Jclef Jun Beck 김아일 - Qim Isle (No Copyright Music) NCS 2021",
+						"channelTitle": "Youtube - Free Music",
+						"channelId": "UCIXqhXOwRcaqaYvA9jlMMLw",
+						"publishedAt": "2021-09-08T12:25:20Z",
+						"duration": "PT2M50S",
+						"viewCount": "11"
+					},
+					{
+						"id": "kIkpa8_nAqA",
+						"title": "Imagination (feat.shiloh) [1 Hour  Version]",
+						"channelTitle": "UnderratedTrey",
+						"channelId": "UCpcFc826b-hBQrWkTXDIRtA",
+						"publishedAt": "2018-04-11T01:53:44Z",
+						"duration": "PT1H2M38S",
+						"viewCount": "2091781"
+					},
+					{
+						"id": "W9OnAo68UbI",
+						"title": "[Full Album] protonebula - Biophilia / 앨범 전곡 듣기",
+						"channelTitle": "POCLANOS",
+						"channelId": "UCNS7BQ7gEJxTbEDsffsGqkg",
+						"publishedAt": "2021-09-20T03:00:10Z",
+						"duration": "PT21M11S",
+						"viewCount": "1137"
+					}
+				]
+			},
+			{
+				"name": "Beside You (feat. Lokid & 여유정) - Single",
+				"songs": [
+					{
+						"id": "B3ayOkwfrZw",
+						"title": "SIM2 - Beside You (With Lokid, 여유정)",
+						"channelTitle": "LINK6",
+						"channelId": "UCqS21i-QuiRiOzIvokHABfg",
+						"publishedAt": "2021-09-21T03:00:04Z",
+						"duration": "PT3M",
+						"viewCount": "104"
 					}
 				]
 			},
@@ -1551,12 +1628,12 @@
 						"channelId": "UCIwFjwMjI0y7PDBVEO9-bkQ",
 						"publishedAt": "2021-03-26T05:23:23Z",
 						"duration": "PT3M28S",
-						"viewCount": "3810120"
+						"viewCount": "3819693"
 					}
 				]
 			}
 		],
-		"updatedAt": "09232021"
+		"updatedAt": "09242021"
 	},
 	"topAlbums": {
 		"name": "Top Albums",
@@ -1571,7 +1648,7 @@
 						"channelId": "UC2dAS5opN0op-VkOcRBhoGg",
 						"publishedAt": "2021-09-06T09:20:38Z",
 						"duration": "PT3M17S",
-						"viewCount": "569482"
+						"viewCount": "605270"
 					},
 					{
 						"id": "iQp1_GfDhwQ",
@@ -1580,7 +1657,7 @@
 						"channelId": "UCRKNyJc9Bo1vbBO_67wyQEQ",
 						"publishedAt": "2018-05-04T09:30:15Z",
 						"duration": "PT3M20S",
-						"viewCount": "108555058"
+						"viewCount": "108602759"
 					},
 					{
 						"id": "Z8eXaXoUJRQ",
@@ -1589,7 +1666,7 @@
 						"channelId": "UCjK8ORC71kwyj1DWFwril_A",
 						"publishedAt": "2013-07-20T01:00:09Z",
 						"duration": "PT3M31S",
-						"viewCount": "376497679"
+						"viewCount": "376560769"
 					}
 				]
 			},
@@ -1598,12 +1675,12 @@
 				"songs": [
 					{
 						"id": "IxVuT8cgccM",
-						"title": "Drake - Champagne Poetry (Official Audio)",
+						"title": "Drake - Champagne Poetry (Audio)",
 						"channelTitle": "DrakeVEVO",
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:09Z",
 						"duration": "PT5M37S",
-						"viewCount": "8793172"
+						"viewCount": "9045443"
 					},
 					{
 						"id": "RJDZBozre1g",
@@ -1612,7 +1689,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:17Z",
 						"duration": "PT2M59S",
-						"viewCount": "3761734"
+						"viewCount": "3848015"
 					},
 					{
 						"id": "b8M6N0FTpNc",
@@ -1621,7 +1698,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:22Z",
 						"duration": "PT3M43S",
-						"viewCount": "8397488"
+						"viewCount": "8644987"
 					},
 					{
 						"id": "eEdVtJW_PwE",
@@ -1630,7 +1707,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:48Z",
 						"duration": "PT4M57S",
-						"viewCount": "4711584"
+						"viewCount": "4845670"
 					},
 					{
 						"id": "Pnz4wbCblmM",
@@ -1639,7 +1716,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:19Z",
 						"duration": "PT3M49S",
-						"viewCount": "5600203"
+						"viewCount": "5735029"
 					},
 					{
 						"id": "THVbtGqEO1o",
@@ -1648,7 +1725,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:52Z",
 						"duration": "PT4M52S",
-						"viewCount": "15978238"
+						"viewCount": "16417343"
 					},
 					{
 						"id": "vX9msKu75qs",
@@ -1657,7 +1734,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:00:38Z",
 						"duration": "PT4M41S",
-						"viewCount": "31694867"
+						"viewCount": "32411166"
 					},
 					{
 						"id": "fhEqtynX_xc",
@@ -1666,7 +1743,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:32Z",
 						"duration": "PT5M10S",
-						"viewCount": "4352034"
+						"viewCount": "4456537"
 					},
 					{
 						"id": "Oh-Al70frOc",
@@ -1675,7 +1752,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:44Z",
 						"duration": "PT4M34S",
-						"viewCount": "3699746"
+						"viewCount": "3780985"
 					},
 					{
 						"id": "ZIu-V_xEehs",
@@ -1684,7 +1761,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:08:55Z",
 						"duration": "PT3M27S",
-						"viewCount": "2443546"
+						"viewCount": "2522346"
 					},
 					{
 						"id": "9rlW2rUzyn0",
@@ -1693,7 +1770,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:08:43Z",
 						"duration": "PT2M15S",
-						"viewCount": "1743582"
+						"viewCount": "1780421"
 					},
 					{
 						"id": "_dSN9EaQotw",
@@ -1702,7 +1779,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:17Z",
 						"duration": "PT3M25S",
-						"viewCount": "3984892"
+						"viewCount": "4082672"
 					},
 					{
 						"id": "3HFY0xuHybk",
@@ -1711,7 +1788,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:41Z",
 						"duration": "PT4M4S",
-						"viewCount": "9429715"
+						"viewCount": "9809072"
 					},
 					{
 						"id": "L6W1_fUurpA",
@@ -1720,7 +1797,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:11Z",
 						"duration": "PT4M",
-						"viewCount": "2491775"
+						"viewCount": "2533567"
 					},
 					{
 						"id": "bpXztWUPPFQ",
@@ -1729,7 +1806,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:34Z",
 						"duration": "PT4M31S",
-						"viewCount": "1800293"
+						"viewCount": "1834907"
 					},
 					{
 						"id": "pwtWYFUwenE",
@@ -1738,7 +1815,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:41Z",
 						"duration": "PT3M13S",
-						"viewCount": "2055339"
+						"viewCount": "2112091"
 					},
 					{
 						"id": "84y-jaEiFZU",
@@ -1747,7 +1824,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:11:07Z",
 						"duration": "PT3M50S",
-						"viewCount": "1854457"
+						"viewCount": "1889265"
 					},
 					{
 						"id": "x6Nr6EX3AwY",
@@ -1756,7 +1833,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:44Z",
 						"duration": "PT3M34S",
-						"viewCount": "2219638"
+						"viewCount": "2254477"
 					},
 					{
 						"id": "3aYA2dK2L-U",
@@ -1765,7 +1842,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:21Z",
 						"duration": "PT4M13S",
-						"viewCount": "1897176"
+						"viewCount": "1933679"
 					},
 					{
 						"id": "EK8aKKeUmmU",
@@ -1774,7 +1851,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:09:45Z",
 						"duration": "PT4M6S",
-						"viewCount": "1059755"
+						"viewCount": "1075856"
 					},
 					{
 						"id": "2_TPmfd02xc",
@@ -1783,7 +1860,7 @@
 						"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 						"publishedAt": "2021-09-03T16:10:29Z",
 						"duration": "PT5M52S",
-						"viewCount": "1579761"
+						"viewCount": "1607445"
 					}
 				]
 			},
@@ -1791,13 +1868,22 @@
 				"name": "Donda",
 				"songs": [
 					{
+						"id": "t-njAuS7eTQ",
+						"title": "Bridgit Mendler - Hurricane (Official Video)",
+						"channelTitle": "BridgitMendlerVEVO",
+						"channelId": "UCdIcKFzitA4mdVu_dMcmTmw",
+						"publishedAt": "2013-04-12T20:00:12Z",
+						"duration": "PT4M2S",
+						"viewCount": "169674973"
+					},
+					{
 						"id": "o7jsf2PeYB8",
 						"title": "Pop Smoke - Tell The Vision (Audio) ft. Kanye West, Pusha T",
 						"channelTitle": "POPSMOKEVEVO",
 						"channelId": "UCHuyAbMG3UshUqNLYCUjaPg",
 						"publishedAt": "2021-07-16T04:00:12Z",
 						"duration": "PT3M36S",
-						"viewCount": "5440770"
+						"viewCount": "5458851"
 					},
 					{
 						"id": "LuvfMDhTyMA",
@@ -1806,7 +1892,7 @@
 						"channelId": "UC-wLLrVeYdrG5xhZkqkUcwg",
 						"publishedAt": "2013-05-01T16:04:27Z",
 						"duration": "PT3M28S",
-						"viewCount": "39200289"
+						"viewCount": "39214425"
 					}
 				]
 			},
@@ -1820,7 +1906,7 @@
 						"channelId": "UCbg0wVt6qICFPYAUHWKG-DA",
 						"publishedAt": "2019-01-11T22:25:34Z",
 						"duration": "PT1H31M58S",
-						"viewCount": "3541014"
+						"viewCount": "3541492"
 					},
 					{
 						"id": "tLcynwlNh38",
@@ -1829,7 +1915,7 @@
 						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
 						"publishedAt": "2021-09-06T09:00:05Z",
 						"duration": "PT3M35S",
-						"viewCount": "1371399"
+						"viewCount": "1397809"
 					},
 					{
 						"id": "DxQRSf21sqU",
@@ -1838,7 +1924,7 @@
 						"channelId": "UCjCm_aaxFUC4Jdm1ghQGXHA",
 						"publishedAt": "2021-09-06T09:16:20Z",
 						"duration": "PT3M14S",
-						"viewCount": "1299"
+						"viewCount": "1310"
 					},
 					{
 						"id": "GJzF7H2e3Tw",
@@ -1847,7 +1933,7 @@
 						"channelId": "UCX2v47KsDKqajrEYFV7GbBg",
 						"publishedAt": "2009-12-14T05:03:24Z",
 						"duration": "PT4M16S",
-						"viewCount": "311776122"
+						"viewCount": "311888633"
 					},
 					{
 						"id": "b2Aj9fSUCQk",
@@ -1856,24 +1942,24 @@
 						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
 						"publishedAt": "2021-09-13T09:00:05Z",
 						"duration": "PT3M39S",
-						"viewCount": "265953"
+						"viewCount": "273172"
 					}
 				]
 			}
 		],
-		"updatedAt": "09232021"
+		"updatedAt": "09242021"
 	},
 	"topSongs": {
 		"name": "Top Songs",
 		"songs": [
 			{
-				"id": "kTJczUoc26U",
-				"title": "The Kid LAROI, Justin Bieber - STAY (Official Video)",
-				"channelTitle": "TheKidLAROIVEVO",
-				"channelId": "UCqPbkJrjrsQb_RGlC_4HEgg",
-				"publishedAt": "2021-07-09T04:00:12Z",
-				"duration": "PT2M38S",
-				"viewCount": "196171922"
+				"id": "hKENUC3MjNc",
+				"title": "The Kid LAROI - STAY (Lyrics) Ft. Justin Bieber",
+				"channelTitle": "The New Vibe",
+				"channelId": "UCG9LCoMgPwWdflKSXkbaiqw",
+				"publishedAt": "2021-09-23T12:30:07Z",
+				"duration": "PT2M22S",
+				"viewCount": "153805"
 			},
 			{
 				"id": "1oYWnbTSang",
@@ -1882,7 +1968,7 @@
 				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 				"publishedAt": "2021-09-17T04:00:13Z",
 				"duration": "PT3M55S",
-				"viewCount": "50289910"
+				"viewCount": "51095580"
 			},
 			{
 				"id": "NBgLUCVBEuo",
@@ -1891,7 +1977,7 @@
 				"channelId": "UC2dAS5opN0op-VkOcRBhoGg",
 				"publishedAt": "2021-09-06T09:20:38Z",
 				"duration": "PT3M17S",
-				"viewCount": "569482"
+				"viewCount": "605270"
 			},
 			{
 				"id": "c9RzZpV460k",
@@ -1900,7 +1986,7 @@
 				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 				"publishedAt": "2021-08-16T09:00:48Z",
 				"duration": "PT3M10S",
-				"viewCount": "68281705"
+				"viewCount": "68667267"
 			},
 			{
 				"id": "CuklIb9d3fI",
@@ -1909,7 +1995,7 @@
 				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
 				"publishedAt": "2021-07-09T03:59:12Z",
 				"duration": "PT5M",
-				"viewCount": "317760796"
+				"viewCount": "319011948"
 			},
 			{
 				"id": "4TWR90KJl84",
@@ -1918,7 +2004,7 @@
 				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 				"publishedAt": "2021-05-17T09:00:02Z",
 				"duration": "PT3M56S",
-				"viewCount": "154999527"
+				"viewCount": "155479339"
 			},
 			{
 				"id": "74_yqNBhQbA",
@@ -1927,7 +2013,7 @@
 				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
 				"publishedAt": "2021-09-10T09:00:03Z",
 				"duration": "PT4M15S",
-				"viewCount": "265544"
+				"viewCount": "277530"
 			},
 			{
 				"id": "EtiPbWzUY9o",
@@ -1936,25 +2022,16 @@
 				"channelId": "UCIcXK1CI8URMIqNO_1cehiQ",
 				"publishedAt": "2021-07-26T10:00:06Z",
 				"duration": "PT3M52S",
-				"viewCount": "9811483"
+				"viewCount": "9859520"
 			},
 			{
-				"id": "4eWfRjyp2Nc",
-				"title": "Alexandra Stan - Lemonade (OFFICIAL MUSIC VIDEO)",
-				"channelTitle": "maanstudio",
-				"channelId": "UCHSXLQ-xNQm5ks6kMFOoneQ",
-				"publishedAt": "2012-06-04T17:07:02Z",
-				"duration": "PT3M30S",
-				"viewCount": "89727849"
-			},
-			{
-				"id": "9bbOyrtu9H4",
-				"title": "Ed Sheeran - Bad Habits (Lyrics)",
-				"channelTitle": "Blueberry",
-				"channelId": "UCK47S4lcvEoN__hPB4sICmg",
-				"publishedAt": "2021-09-22T13:30:04Z",
-				"duration": "PT3M56S",
-				"viewCount": "3584"
+				"id": "orJSJGHjBLI",
+				"title": "Ed Sheeran - Bad Habits [Official Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2021-06-25T04:00:33Z",
+				"duration": "PT4M1S",
+				"viewCount": "165717132"
 			},
 			{
 				"id": "Il0S8BoucSA",
@@ -1963,16 +2040,16 @@
 				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
 				"publishedAt": "2021-09-09T23:00:12Z",
 				"duration": "PT3M58S",
-				"viewCount": "25900456"
+				"viewCount": "26874061"
 			},
 			{
-				"id": "awkkyBH2zEo",
-				"title": "LISA - 'LALISA' M/V",
+				"id": "dNCWe_6HAM8",
+				"title": "LISA - 'MONEY' EXCLUSIVE PERFORMANCE VIDEO",
 				"channelTitle": "BLACKPINK",
 				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
-				"publishedAt": "2021-09-10T04:00:13Z",
-				"duration": "PT3M27S",
-				"viewCount": "195642507"
+				"publishedAt": "2021-09-23T15:00:16Z",
+				"duration": "PT2M51S",
+				"viewCount": "12257559"
 			},
 			{
 				"id": "RmuL-BPFi2Q",
@@ -1981,7 +2058,7 @@
 				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
 				"publishedAt": "2021-07-06T09:00:09Z",
 				"duration": "PT4M7S",
-				"viewCount": "20779525"
+				"viewCount": "20880180"
 			},
 			{
 				"id": "uO59tfQ2TbA",
@@ -1990,7 +2067,7 @@
 				"channelId": "UC1l7wYrva1qCH-wgqcHaaRg",
 				"publishedAt": "2015-05-19T19:41:51Z",
 				"duration": "PT3M20S",
-				"viewCount": "1484576827"
+				"viewCount": "1484802101"
 			},
 			{
 				"id": "tg2uF3R_Ozo",
@@ -1999,7 +2076,7 @@
 				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
 				"publishedAt": "2021-08-02T09:00:15Z",
 				"duration": "PT2M59S",
-				"viewCount": "80905462"
+				"viewCount": "81360722"
 			},
 			{
 				"id": "Fc9fVi-_DWE",
@@ -2008,7 +2085,7 @@
 				"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
 				"publishedAt": "2021-08-04T07:40:05Z",
 				"duration": "PT4M25S",
-				"viewCount": "3424446"
+				"viewCount": "3486343"
 			},
 			{
 				"id": "WMweEpGlu_U",
@@ -2017,7 +2094,7 @@
 				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
 				"publishedAt": "2021-05-21T03:46:13Z",
 				"duration": "PT3M3S",
-				"viewCount": "561339473"
+				"viewCount": "562380337"
 			},
 			{
 				"id": "GLlP-CNlY9I",
@@ -2026,16 +2103,16 @@
 				"channelId": "UCW5gbSGTGIukUDsPt2sdhGw",
 				"publishedAt": "2021-09-09T09:00:13Z",
 				"duration": "PT3M36S",
-				"viewCount": "4177955"
+				"viewCount": "4277720"
 			},
 			{
-				"id": "KCpWMEsiN3Q",
-				"title": "[MV] 디핵 (D-Hack), PATEKO - OHAYO MY NIGHT / Official Music Video",
-				"channelTitle": "SEOUL MUSIC / 서울뮤직",
-				"channelId": "UCUEbMnl7U4rLoMopD2bqT3Q",
-				"publishedAt": "2020-06-22T09:00:07Z",
-				"duration": "PT3M10S",
-				"viewCount": "1661086"
+				"id": "5KLsjhz9jMI",
+				"title": "디핵 X 파테코 - OHAYO MY NIGHT / 가사",
+				"channelTitle": "Music is my life",
+				"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
+				"publishedAt": "2021-08-20T10:02:06Z",
+				"duration": "PT4M26S",
+				"viewCount": "780821"
 			},
 			{
 				"id": "tyYwOEKKcZc",
@@ -2044,7 +2121,7 @@
 				"channelId": "UCnsa7fw1hZHP5qvf8zVGnvA",
 				"publishedAt": "2021-09-09T22:00:32Z",
 				"duration": "PT3M41S",
-				"viewCount": "1192123"
+				"viewCount": "1242039"
 			},
 			{
 				"id": "tQ0yjYUFKAE",
@@ -2053,7 +2130,7 @@
 				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
 				"publishedAt": "2021-03-19T04:00:15Z",
 				"duration": "PT3M18S",
-				"viewCount": "384985284"
+				"viewCount": "385722594"
 			},
 			{
 				"id": "gdZLi9oWNZg",
@@ -2062,7 +2139,7 @@
 				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
 				"publishedAt": "2020-08-21T03:58:10Z",
 				"duration": "PT3M44S",
-				"viewCount": "1247989274"
+				"viewCount": "1248978219"
 			},
 			{
 				"id": "Vg0foqYOOt8",
@@ -2071,7 +2148,7 @@
 				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
 				"publishedAt": "2021-09-10T09:00:29Z",
 				"duration": "PT3M57S",
-				"viewCount": "214877"
+				"viewCount": "222664"
 			},
 			{
 				"id": "UTHLKHL_whs",
@@ -2080,7 +2157,7 @@
 				"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 				"publishedAt": "2021-07-23T04:00:12Z",
 				"duration": "PT3M56S",
-				"viewCount": "130303013"
+				"viewCount": "131806643"
 			},
 			{
 				"id": "x3bfa3DZ8JM",
@@ -2089,7 +2166,7 @@
 				"channelId": "UCcN-NDV03eHs6oLd1pe2r8w",
 				"publishedAt": "2018-11-09T05:00:03Z",
 				"duration": "PT4M11S",
-				"viewCount": "679801122"
+				"viewCount": "680406235"
 			},
 			{
 				"id": "rDd1ZmMjwQs",
@@ -2098,7 +2175,7 @@
 				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
 				"publishedAt": "2021-09-10T09:00:31Z",
 				"duration": "PT4M12S",
-				"viewCount": "191235"
+				"viewCount": "196011"
 			},
 			{
 				"id": "bJjcdw-w3Hs",
@@ -2107,7 +2184,7 @@
 				"channelId": "UCoMDPTbC_7aTEWy0D80oO_Q",
 				"publishedAt": "2021-09-10T09:12:24Z",
 				"duration": "PT3M27S",
-				"viewCount": "35385"
+				"viewCount": "37018"
 			},
 			{
 				"id": "5fRNZv5L_98",
@@ -2116,7 +2193,7 @@
 				"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
 				"publishedAt": "2021-09-17T04:00:44Z",
 				"duration": "PT3M25S",
-				"viewCount": "318745"
+				"viewCount": "332150"
 			},
 			{
 				"id": "v2JYO8Qah8E",
@@ -2125,7 +2202,7 @@
 				"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
 				"publishedAt": "2021-09-17T04:00:39Z",
 				"duration": "PT3M19S",
-				"viewCount": "385549"
+				"viewCount": "405515"
 			},
 			{
 				"id": "0aaeUI1ucfQ",
@@ -2134,7 +2211,7 @@
 				"channelId": "UC0uTcuuOtUFwtn9aKUVGjXg",
 				"publishedAt": "2021-09-09T09:00:09Z",
 				"duration": "PT2M41S",
-				"viewCount": "13217354"
+				"viewCount": "13851515"
 			},
 			{
 				"id": "Ai94UyJX5gE",
@@ -2143,7 +2220,7 @@
 				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
 				"publishedAt": "2021-09-10T09:00:07Z",
 				"duration": "PT3M44S",
-				"viewCount": "136210"
+				"viewCount": "140016"
 			},
 			{
 				"id": "QDYDRA5JPLE",
@@ -2152,7 +2229,7 @@
 				"channelId": "UCtTfSyci2urfwXXu_eRpNRA",
 				"publishedAt": "2021-09-17T04:00:12Z",
 				"duration": "PT2M42S",
-				"viewCount": "29446104"
+				"viewCount": "32017726"
 			},
 			{
 				"id": "dyRsYk0LyA8",
@@ -2161,7 +2238,7 @@
 				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
 				"publishedAt": "2020-10-02T04:00:13Z",
 				"duration": "PT3M22S",
-				"viewCount": "484214121"
+				"viewCount": "484703384"
 			},
 			{
 				"id": "vX9msKu75qs",
@@ -2170,7 +2247,7 @@
 				"channelId": "UCQznUf1SjfDqx65hX3zRDiA",
 				"publishedAt": "2021-09-03T16:00:38Z",
 				"duration": "PT4M41S",
-				"viewCount": "31694867"
+				"viewCount": "32411166"
 			},
 			{
 				"id": "HzOjwL7IP_o",
@@ -2179,7 +2256,7 @@
 				"channelId": "UC-qYkzKFdekoEniRu_FS3zg",
 				"publishedAt": "2021-05-10T09:00:02Z",
 				"duration": "PT4M8S",
-				"viewCount": "39256654"
+				"viewCount": "39330088"
 			},
 			{
 				"id": "K6sH0r_NwUo",
@@ -2188,16 +2265,16 @@
 				"channelId": "UCdlpIyeLu3cfD0jD8SgxxRA",
 				"publishedAt": "2021-06-18T03:08:34Z",
 				"duration": "PT4M23S",
-				"viewCount": "1590224"
+				"viewCount": "1595663"
 			},
 			{
-				"id": "8GPAW4dMxsY",
-				"title": "헤이즈 (Heize) - 헤픈 우연 (HAPPEN) / 가사",
-				"channelTitle": "Music is my life",
-				"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
-				"publishedAt": "2021-05-20T09:59:24Z",
-				"duration": "PT3M47S",
-				"viewCount": "4376370"
+				"id": "AJPLgrfBiBo",
+				"title": "헤이즈 (Heize) - '헤픈 우연 (HAPPEN)' MV (with 송중기)",
+				"channelTitle": "Heize official",
+				"channelId": "UCsXigGjbC_l4ttk-oahTfVg",
+				"publishedAt": "2021-05-20T08:58:14Z",
+				"duration": "PT3M50S",
+				"viewCount": "12073319"
 			},
 			{
 				"id": "QGgKZlTsriM",
@@ -2206,7 +2283,7 @@
 				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
 				"publishedAt": "2021-09-10T09:00:11Z",
 				"duration": "PT4M8S",
-				"viewCount": "109534"
+				"viewCount": "112319"
 			},
 			{
 				"id": "AtZkqi_Hja0",
@@ -2215,7 +2292,7 @@
 				"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
 				"publishedAt": "2021-09-18T06:00:06Z",
 				"duration": "PT3M58S",
-				"viewCount": "567384"
+				"viewCount": "597355"
 			},
 			{
 				"id": "XhHtN5J74q4",
@@ -2224,7 +2301,7 @@
 				"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
 				"publishedAt": "2021-09-17T04:00:23Z",
 				"duration": "PT3M39S",
-				"viewCount": "385209"
+				"viewCount": "398392"
 			},
 			{
 				"id": "0EVVKs6DQLo",
@@ -2233,7 +2310,16 @@
 				"channelId": "UCpTaAz_BxtkUB1qc8JTU_7g",
 				"publishedAt": "2021-04-09T04:00:00Z",
 				"duration": "PT5M16S",
-				"viewCount": "207648062"
+				"viewCount": "208396351"
+			},
+			{
+				"id": "WcMxOf1rURo",
+				"title": "NCT 127 'Far' (Official Audio) | Sticker - The 3rd Album",
+				"channelTitle": "NCT 127",
+				"channelId": "UCk2E0dbAyEJWnrN2bbQOcbg",
+				"publishedAt": "2021-09-17T04:00:34Z",
+				"duration": "PT3M37S",
+				"viewCount": "314569"
 			},
 			{
 				"id": "yXz47iRuD0Y",
@@ -2242,7 +2328,7 @@
 				"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
 				"publishedAt": "2021-08-31T09:40:04Z",
 				"duration": "PT4M14S",
-				"viewCount": "1574827"
+				"viewCount": "1636155"
 			},
 			{
 				"id": "fHI8X4OXluQ",
@@ -2251,9 +2337,9 @@
 				"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
 				"publishedAt": "2019-11-29T05:00:08Z",
 				"duration": "PT3M24S",
-				"viewCount": "587338512"
+				"viewCount": "587725055"
 			}
 		],
-		"updatedAt": "09232021"
+		"updatedAt": "09242021"
 	}
 }
