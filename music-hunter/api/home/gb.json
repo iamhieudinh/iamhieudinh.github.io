@@ -1,0 +1,2481 @@
+{
+	"hotTracks": {
+		"name": "Top Albums",
+		"results": [
+			{
+				"name": "MAYHEM",
+				"songs": [
+					{
+						"id": "fmC6b6_ovZY",
+						"title": "Lady Gaga - Disease (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2024-10-30T01:00:34Z",
+						"duration": "PT4M22S",
+						"viewCount": "38654395"
+					},
+					{
+						"id": "vBynw9Isr28",
+						"title": "Lady Gaga - Abracadabra (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-02-03T03:30:28Z",
+						"duration": "PT4M30S",
+						"viewCount": "124967292"
+					},
+					{
+						"id": "tep9uGsVzK4",
+						"title": "Lady Gaga - Garden Of Eden (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:01:00Z",
+						"duration": "PT4M",
+						"viewCount": "4874170"
+					},
+					{
+						"id": "tDZ6bi-YguU",
+						"title": "Lady Gaga - Perfect Celebrity (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:01:01Z",
+						"duration": "PT3M50S",
+						"viewCount": "2795646"
+					},
+					{
+						"id": "tQHLIRCcfio",
+						"title": "Lady Gaga - Vanish Into You (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:01:00Z",
+						"duration": "PT4M6S",
+						"viewCount": "3826465"
+					},
+					{
+						"id": "No_avjkyTLo",
+						"title": "Lady Gaga - Killah (feat. Gesaffelstein) [Official Audio]",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:00:32Z",
+						"duration": "PT3M31S",
+						"viewCount": "1673979"
+					},
+					{
+						"id": "xWS0aRqzP6E",
+						"title": "Lady Gaga - Zombieboy (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:01:01Z",
+						"duration": "PT3M34S",
+						"viewCount": "3573246"
+					},
+					{
+						"id": "tDwm4PdoYPw",
+						"title": "Lady Gaga - LoveDrug (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:00:53Z",
+						"duration": "PT3M14S",
+						"viewCount": "1954613"
+					},
+					{
+						"id": "Nd_M9A5xFlY",
+						"title": "Lady Gaga - How Bad Do U Want Me (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:00:30Z",
+						"duration": "PT3M59S",
+						"viewCount": "3450720"
+					},
+					{
+						"id": "BeUOuvJEaBM",
+						"title": "Lady Gaga - Don't Call Tonight (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:00:17Z",
+						"duration": "PT3M46S",
+						"viewCount": "1376855"
+					},
+					{
+						"id": "LJEED4n1dP4",
+						"title": "Lady Gaga - Shadow Of A Man (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:00:18Z",
+						"duration": "PT3M21S",
+						"viewCount": "5375473"
+					},
+					{
+						"id": "GMIIpxW-7Zw",
+						"title": "Lady Gaga - The Beast (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:00:13Z",
+						"duration": "PT3M55S",
+						"viewCount": "1752810"
+					},
+					{
+						"id": "n5hOtLKGtdw",
+						"title": "Lady Gaga - Blade Of Grass (Official Audio)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-03-07T05:00:41Z",
+						"duration": "PT4M18S",
+						"viewCount": "1055285"
+					},
+					{
+						"id": "kPa7bsKwL-c",
+						"title": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2024-08-16T04:00:36Z",
+						"duration": "PT4M13S",
+						"viewCount": "1019388129"
+					},
+					{
+						"id": "fmC6b6_ovZY",
+						"title": "Lady Gaga - Disease (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2024-10-30T01:00:34Z",
+						"duration": "PT4M22S",
+						"viewCount": "38654395"
+					},
+					{
+						"id": "kPa7bsKwL-c",
+						"title": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2024-08-16T04:00:36Z",
+						"duration": "PT4M13S",
+						"viewCount": "1019388129"
+					},
+					{
+						"id": "vBynw9Isr28",
+						"title": "Lady Gaga - Abracadabra (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-02-03T03:30:28Z",
+						"duration": "PT4M30S",
+						"viewCount": "124967292"
+					}
+				]
+			},
+			{
+				"name": "Baby Lullaby: Relaxing Piano Lullabies and Natural Sleep Aid for Baby Sleep Music",
+				"songs": [
+					{
+						"id": "papuvlVeZg8",
+						"title": "Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie) [Official Video]",
+						"channelTitle": "Clean Bandit",
+						"channelId": "UCvhQPdeTHzIRneScV8MIocg",
+						"publishedAt": "2016-10-21T11:30:36Z",
+						"duration": "PT4M14S",
+						"viewCount": "3067371351"
+					},
+					{
+						"id": "WY33HRZ7loo",
+						"title": "Classical Piano for Babies Vol.1 - Relaxing & Calming Music - Baby Lullabies",
+						"channelTitle": "Songs of Birdland",
+						"channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+						"publishedAt": "2017-06-08T14:03:47Z",
+						"duration": "PT1H11M46S",
+						"viewCount": "4471079"
+					},
+					{
+						"id": "WY33HRZ7loo",
+						"title": "Classical Piano for Babies Vol.1 - Relaxing & Calming Music - Baby Lullabies",
+						"channelTitle": "Songs of Birdland",
+						"channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+						"publishedAt": "2017-06-08T14:03:47Z",
+						"duration": "PT1H11M46S",
+						"viewCount": "4471079"
+					},
+					{
+						"id": "WY33HRZ7loo",
+						"title": "Classical Piano for Babies Vol.1 - Relaxing & Calming Music - Baby Lullabies",
+						"channelTitle": "Songs of Birdland",
+						"channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+						"publishedAt": "2017-06-08T14:03:47Z",
+						"duration": "PT1H11M46S",
+						"viewCount": "4471079"
+					},
+					{
+						"id": "IXcGORjWte8",
+						"title": "Brahms' Lullaby (Extra-Relaxing vs) ♫ Classical Music to Sleep or Study",
+						"channelTitle": "McClung Music",
+						"channelId": "UCa1NmqkJuNj0U4zvAqPcboQ",
+						"publishedAt": "2014-04-21T16:49:34Z",
+						"duration": "PT11H59M24S",
+						"viewCount": "85199774"
+					},
+					{
+						"id": "bP9gMpl1gyQ",
+						"title": "Relaxing Sleep Music + Insomnia - Stress Relief, Relaxing Music, Deep Sleeping Music",
+						"channelTitle": "The Soul of Wind",
+						"channelId": "UCUZNK80DemBN3kyxusDLwrA",
+						"publishedAt": "2020-04-11T14:15:48Z",
+						"duration": "PT3H5M31S",
+						"viewCount": "60248567"
+					},
+					{
+						"id": "W-vBu2rf8TI",
+						"title": "2 Hours Super Relaxing Baby Music ♥♥♥ Bedtime Lullaby For Sweet Dreams ♫♫♫ Sleep Music",
+						"channelTitle": "Wonderful Lullabies",
+						"channelId": "UC7rAIHCpHY0t14aSd22qPQw",
+						"publishedAt": "2016-07-18T23:11:44Z",
+						"duration": "PT1H58M36S",
+						"viewCount": "549996415"
+					},
+					{
+						"id": "Ptk_1Dc2iPY",
+						"title": "Canon in D (Pachelbel's Canon) - Cello & Piano [BEST WEDDING VERSION]",
+						"channelTitle": "Brooklyn Duo",
+						"channelId": "UCk_9hHaw0n1Vbbld6cXyh6A",
+						"publishedAt": "2019-06-18T13:50:18Z",
+						"duration": "PT5M3S",
+						"viewCount": "117674922"
+					},
+					{
+						"id": "faFwpo6sO7I",
+						"title": "Baby Classical Music 🌞 Mozart, Schubert & Chopin 🌞 Piano Songs for Babies",
+						"channelTitle": "Songs of Birdland",
+						"channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+						"publishedAt": "2023-03-06T14:00:22Z",
+						"duration": "PT2H3M58S",
+						"viewCount": "12437415"
+					},
+					{
+						"id": "Fnzn-3oXEUI",
+						"title": "8 HOURS Classical Music for Sleeping: Relaxing Piano Music Mozart, Debussy, Chopin, Schubert, Grieg",
+						"channelTitle": "HALIDONMUSIC",
+						"channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+						"publishedAt": "2016-06-23T11:30:01Z",
+						"duration": "PT8H4M1S",
+						"viewCount": "10129657"
+					},
+					{
+						"id": "ZXN6ZvZ8Nrk",
+						"title": "Music for Babies ☀️ Easy Morning ☀️ Lullabies for your baby",
+						"channelTitle": "Songs of Birdland",
+						"channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+						"publishedAt": "2022-03-14T14:00:28Z",
+						"duration": "PT1H42M30S",
+						"viewCount": "959213"
+					},
+					{
+						"id": "WY33HRZ7loo",
+						"title": "Classical Piano for Babies Vol.1 - Relaxing & Calming Music - Baby Lullabies",
+						"channelTitle": "Songs of Birdland",
+						"channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+						"publishedAt": "2017-06-08T14:03:47Z",
+						"duration": "PT1H11M46S",
+						"viewCount": "4471079"
+					},
+					{
+						"id": "W-vBu2rf8TI",
+						"title": "2 Hours Super Relaxing Baby Music ♥♥♥ Bedtime Lullaby For Sweet Dreams ♫♫♫ Sleep Music",
+						"channelTitle": "Wonderful Lullabies",
+						"channelId": "UC7rAIHCpHY0t14aSd22qPQw",
+						"publishedAt": "2016-07-18T23:11:44Z",
+						"duration": "PT1H58M36S",
+						"viewCount": "549996415"
+					},
+					{
+						"id": "udThrlwrTZk",
+						"title": "❤ Baby Classical · 5 hours · Piano Music For Babies · Baby Mozart",
+						"channelTitle": "Songs of Birdland",
+						"channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+						"publishedAt": "2020-02-19T14:00:11Z",
+						"duration": "PT5H1M46S",
+						"viewCount": "4265774"
+					},
+					{
+						"id": "OeHLHNKQCXA",
+						"title": "8 Hours of Beautiful Piano Music • Sleep Music, Fall Asleep, Relaxing Sleeping Music",
+						"channelTitle": "Soothing Relaxation",
+						"channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+						"publishedAt": "2018-04-01T22:05:11Z",
+						"duration": "PT8H2M32S",
+						"viewCount": "62785160"
+					},
+					{
+						"id": "4owTdwvbyNA",
+						"title": "THE MOST RELAXING MUSIC FOR BABIES TO SLEEP - 3 Hours of Lullabies - Soothing Womb & Water Sounds",
+						"channelTitle": "MeditarSons in English",
+						"channelId": "UCKrSgMNUIqG4hyrLTBZmQ7Q",
+						"publishedAt": "2023-01-09T23:00:04Z",
+						"duration": "PT3H11M50S",
+						"viewCount": "41954516"
+					},
+					{
+						"id": "4owTdwvbyNA",
+						"title": "THE MOST RELAXING MUSIC FOR BABIES TO SLEEP - 3 Hours of Lullabies - Soothing Womb & Water Sounds",
+						"channelTitle": "MeditarSons in English",
+						"channelId": "UCKrSgMNUIqG4hyrLTBZmQ7Q",
+						"publishedAt": "2023-01-09T23:00:04Z",
+						"duration": "PT3H11M50S",
+						"viewCount": "41954516"
+					},
+					{
+						"id": "faFwpo6sO7I",
+						"title": "Baby Classical Music 🌞 Mozart, Schubert & Chopin 🌞 Piano Songs for Babies",
+						"channelTitle": "Songs of Birdland",
+						"channelId": "UC3aVeoLde-l7GDpT22oDoPA",
+						"publishedAt": "2023-03-06T14:00:22Z",
+						"duration": "PT2H3M58S",
+						"viewCount": "12437415"
+					},
+					{
+						"id": "zG7-9XTL8ik",
+						"title": "Cure Insomnia - Sleep Instantly Within 3 Minutes -- Music Reduces Stress, Gives Deep Sleep #lullaby",
+						"channelTitle": "Sleep music",
+						"channelId": "UC2LnSpMeBwYtVeH-MRitTdw",
+						"publishedAt": "2023-11-21T18:12:27Z",
+						"duration": "PT1H25M31S",
+						"viewCount": "2410497"
+					},
+					{
+						"id": "yIiCpo_c_iQ",
+						"title": "Calming & Relaxing Music for Children | Dreamy Field 🦏 Soft Piano Music for Kids (Extended 3 Hours)",
+						"channelTitle": "KIDZEN - Music For Kids",
+						"channelId": "UCtJ6ylmIVLmxdycQvUQB6YQ",
+						"publishedAt": "2021-11-22T16:51:04Z",
+						"duration": "PT3H13S",
+						"viewCount": "2850209"
+					},
+					{
+						"id": "gWmM5rCIyfE",
+						"title": "Newborn Natural Sleep Aid for Baby Sleep",
+						"channelTitle": "Einstein Baby Lullaby Academy - Topic",
+						"channelId": "UC1DDYOVxJe4XXLRZSfItMfQ",
+						"publishedAt": "2015-12-02T16:39:19Z",
+						"duration": "PT1M53S",
+						"viewCount": "57880"
+					}
+				]
+			},
+			{
+				"name": "To Fall Asleep To",
+				"songs": [
+					{
+						"id": "q76bMs-NwRk",
+						"title": "3 Hours of Gentle Night Rain, Rain Sounds for Sleeping - Dark Screen to Beat insomnia, Relax, Study",
+						"channelTitle": "The Relaxed Guy",
+						"channelId": "UCGfgKimGJ4yueKEtFVPpHtw",
+						"publishedAt": "2014-11-26T02:14:20Z",
+						"duration": "PT3H1M36S",
+						"viewCount": "220571380"
+					},
+					{
+						"id": "yIQd2Ya0Ziw",
+						"title": "Rainstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+						"channelTitle": "Calm",
+						"channelId": "UChSpME3QaSFAWK8Hpmg-Dyw",
+						"publishedAt": "2018-01-22T18:44:17Z",
+						"duration": "PT8H",
+						"viewCount": "72625150"
+					},
+					{
+						"id": "yIQd2Ya0Ziw",
+						"title": "Rainstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+						"channelTitle": "Calm",
+						"channelId": "UChSpME3QaSFAWK8Hpmg-Dyw",
+						"publishedAt": "2018-01-22T18:44:17Z",
+						"duration": "PT8H",
+						"viewCount": "72625150"
+					},
+					{
+						"id": "q76bMs-NwRk",
+						"title": "3 Hours of Gentle Night Rain, Rain Sounds for Sleeping - Dark Screen to Beat insomnia, Relax, Study",
+						"channelTitle": "The Relaxed Guy",
+						"channelId": "UCGfgKimGJ4yueKEtFVPpHtw",
+						"publishedAt": "2014-11-26T02:14:20Z",
+						"duration": "PT3H1M36S",
+						"viewCount": "220571380"
+					},
+					{
+						"id": "44b72XmmGPE",
+						"title": "Deep Sleep with Rain Sounds On Windows Overlooking the Forest - Relaxing Piano Music to Meditation",
+						"channelTitle": "Relaxing Rain Sleep Music",
+						"channelId": "UC0vI2alQtaxUMdQM1Re3RZA",
+						"publishedAt": "2025-04-17T23:00:06Z",
+						"duration": "PT3H2M47S",
+						"viewCount": "85390"
+					},
+					{
+						"id": "f1xvfWEqb6U",
+						"title": "👶😴8 HOURS Rain Sounds For Sleep Lullabies Songs for Babies To Go To Sleep Baby Lullaby RAIN THUNDER",
+						"channelTitle": "Best Baby Lullabies",
+						"channelId": "UCzH1ebQRhLJe0Yx4xayGUlA",
+						"publishedAt": "2015-05-08T12:55:55Z",
+						"duration": "PT8H15M38S",
+						"viewCount": "32255110"
+					},
+					{
+						"id": "o8GrqUSdzi0",
+						"title": "Relaxing Music & Rain Sounds - Beautiful Piano Music, Background Music, Sleep Music • You & Me",
+						"channelTitle": "Soothing Relaxation",
+						"channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+						"publishedAt": "2018-11-01T12:02:37Z",
+						"duration": "PT10H3M15S",
+						"viewCount": "142936927"
+					},
+					{
+						"id": "yIQd2Ya0Ziw",
+						"title": "Rainstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+						"channelTitle": "Calm",
+						"channelId": "UChSpME3QaSFAWK8Hpmg-Dyw",
+						"publishedAt": "2018-01-22T18:44:17Z",
+						"duration": "PT8H",
+						"viewCount": "72625150"
+					},
+					{
+						"id": "ZsYwEV_ge4Y",
+						"title": "[MV] GFRIEND(여자친구) _ Summer Rain(여름비)",
+						"channelTitle": "1theK (원더케이)",
+						"channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+						"publishedAt": "2017-09-13T09:00:03Z",
+						"duration": "PT4M8S",
+						"viewCount": "27142334"
+					},
+					{
+						"id": "q76bMs-NwRk",
+						"title": "3 Hours of Gentle Night Rain, Rain Sounds for Sleeping - Dark Screen to Beat insomnia, Relax, Study",
+						"channelTitle": "The Relaxed Guy",
+						"channelId": "UCGfgKimGJ4yueKEtFVPpHtw",
+						"publishedAt": "2014-11-26T02:14:20Z",
+						"duration": "PT3H1M36S",
+						"viewCount": "220571380"
+					},
+					{
+						"id": "42M3esYyHdw",
+						"title": "🔴 Gentle Night Rain to Sleep FAST + Black Screen - Rain Sounds for Sleeping",
+						"channelTitle": "The Relaxed Guy",
+						"channelId": "UCGfgKimGJ4yueKEtFVPpHtw",
+						"publishedAt": "2021-12-13T20:55:59Z",
+						"duration": "P0D",
+						"viewCount": "32632680"
+					},
+					{
+						"id": "9QneqUhCVtU",
+						"title": "HEAVY RAIN at Night 10 Hours for Sleeping, Relax, Study, insomnia, Reduce Stress. Heavy Rain Sounds",
+						"channelTitle": "The Relaxed Guy",
+						"channelId": "UCGfgKimGJ4yueKEtFVPpHtw",
+						"publishedAt": "2020-02-15T00:30:02Z",
+						"duration": "PT10H35S",
+						"viewCount": "38014551"
+					},
+					{
+						"id": "q76bMs-NwRk",
+						"title": "3 Hours of Gentle Night Rain, Rain Sounds for Sleeping - Dark Screen to Beat insomnia, Relax, Study",
+						"channelTitle": "The Relaxed Guy",
+						"channelId": "UCGfgKimGJ4yueKEtFVPpHtw",
+						"publishedAt": "2014-11-26T02:14:20Z",
+						"duration": "PT3H1M36S",
+						"viewCount": "220571380"
+					},
+					{
+						"id": "q76bMs-NwRk",
+						"title": "3 Hours of Gentle Night Rain, Rain Sounds for Sleeping - Dark Screen to Beat insomnia, Relax, Study",
+						"channelTitle": "The Relaxed Guy",
+						"channelId": "UCGfgKimGJ4yueKEtFVPpHtw",
+						"publishedAt": "2014-11-26T02:14:20Z",
+						"duration": "PT3H1M36S",
+						"viewCount": "220571380"
+					},
+					{
+						"id": "yIQd2Ya0Ziw",
+						"title": "Rainstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+						"channelTitle": "Calm",
+						"channelId": "UChSpME3QaSFAWK8Hpmg-Dyw",
+						"publishedAt": "2018-01-22T18:44:17Z",
+						"duration": "PT8H",
+						"viewCount": "72625150"
+					},
+					{
+						"id": "1UWEdvDIbDA",
+						"title": "Sick Century - Winter Rain (Official Music Video)",
+						"channelTitle": "Sick Century",
+						"channelId": "UC0h9y-RhRKAlB1WELB0-hDA",
+						"publishedAt": "2023-06-28T19:39:02Z",
+						"duration": "PT4M",
+						"viewCount": "1978317"
+					},
+					{
+						"id": "q76bMs-NwRk",
+						"title": "3 Hours of Gentle Night Rain, Rain Sounds for Sleeping - Dark Screen to Beat insomnia, Relax, Study",
+						"channelTitle": "The Relaxed Guy",
+						"channelId": "UCGfgKimGJ4yueKEtFVPpHtw",
+						"publishedAt": "2014-11-26T02:14:20Z",
+						"duration": "PT3H1M36S",
+						"viewCount": "220571380"
+					}
+				]
+			},
+			{
+				"name": "HOME?",
+				"songs": [
+					{
+						"id": "1d8CvlFk0R8",
+						"title": "Wretch 32 - Transitional Chapter (Official Visualiser)",
+						"channelTitle": "Wretch 32",
+						"channelId": "UCXZwsjh089km2RF9oyuxe3g",
+						"publishedAt": "2025-05-02T10:45:04Z",
+						"duration": "PT3M42S",
+						"viewCount": "8001"
+					},
+					{
+						"id": "6agp_W-rqgQ",
+						"title": "Nicky Romero & NERVO - Like Home (Official Music Video)",
+						"channelTitle": "Nicky Romero",
+						"channelId": "UCLFiirHOF-wa3QRExEa4m8A",
+						"publishedAt": "2013-02-21T18:33:05Z",
+						"duration": "PT3M40S",
+						"viewCount": "18574131"
+					},
+					{
+						"id": "6ZcNZSYGcrQ",
+						"title": "Wretch 32 - Nesta Marley (feat. Skip Marley) (Official Visualiser)",
+						"channelTitle": "Wretch 32",
+						"channelId": "UCXZwsjh089km2RF9oyuxe3g",
+						"publishedAt": "2025-05-02T10:44:55Z",
+						"duration": "PT4M23S",
+						"viewCount": "5594"
+					},
+					{
+						"id": "PbdRBLabJWU",
+						"title": "Foo Fighters - Bridge Burning (Official Music Video)",
+						"channelTitle": "foofightersVEVO",
+						"channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+						"publishedAt": "2019-06-22T07:03:03Z",
+						"duration": "PT4M46S",
+						"viewCount": "2774430"
+					},
+					{
+						"id": "SklOpUykDsg",
+						"title": "KRUK ONE - ME & MINE [OFFICIAL MUSIC VIDEO]",
+						"channelTitle": "Kruk One",
+						"channelId": "UCtmz6JxCGUOLbXfhfSNus8w",
+						"publishedAt": "2019-08-18T02:00:31Z",
+						"duration": "PT3M16S",
+						"viewCount": "5314954"
+					},
+					{
+						"id": "x0VxPBn_1Hw",
+						"title": "Home Is Where The Heart Is Interlude",
+						"channelTitle": "Wretch 32 - Topic",
+						"channelId": "UC2P7l9YOtoZ3eXNrRfAw5TQ",
+						"publishedAt": "2025-05-01T10:01:47Z",
+						"duration": "PT30S",
+						"viewCount": "2216"
+					},
+					{
+						"id": "4nqQGe5W-xA",
+						"title": "Wretch 32, Little Simz, Benjamin A.D - Black and British",
+						"channelTitle": "Wretch32VEVO",
+						"channelId": "UCzhK_ZuPZTkGSHa-AlF4fcQ",
+						"publishedAt": "2024-10-24T18:00:06Z",
+						"duration": "PT4M38S",
+						"viewCount": "231507"
+					},
+					{
+						"id": "xGPeNN9S0Fg",
+						"title": "One Direction - Little Things",
+						"channelTitle": "OneDirectionVEVO",
+						"channelId": "UCbW18JZRgko_mOGm5er8Yzg",
+						"publishedAt": "2012-11-02T17:06:36Z",
+						"duration": "PT3M38S",
+						"viewCount": "414914664"
+					},
+					{
+						"id": "amLCEEax6lM",
+						"title": "Yemi Alade - Peace & Love (Official Music Video) ft. Ziggy Marley",
+						"channelTitle": "YemiAladeVEVO",
+						"channelId": "UC1NlvNg7p6m1kFuudR2UZ0w",
+						"publishedAt": "2024-08-09T17:00:07Z",
+						"duration": "PT4M10S",
+						"viewCount": "3280753"
+					},
+					{
+						"id": "lrWO35bwuwc",
+						"title": "Aqua Raps - Gods Work (Official Music Video)",
+						"channelTitle": "Aqua",
+						"channelId": "UCRheBhiIrDCJ9tLAUQbJ_OA",
+						"publishedAt": "2024-09-04T14:46:14Z",
+						"duration": "PT3M2S",
+						"viewCount": "140989"
+					},
+					{
+						"id": "u0asukNDdzU",
+						"title": "Wretch 32 - Close To Home / Nino SLG Interlude (Official Visualiser)",
+						"channelTitle": "Wretch 32",
+						"channelId": "UCXZwsjh089km2RF9oyuxe3g",
+						"publishedAt": "2025-05-02T10:44:11Z",
+						"duration": "PT59S",
+						"viewCount": "737"
+					},
+					{
+						"id": "p2qDt5kw0-4",
+						"title": "Wretch 32 - Feels (feat. Tiggs Da Author) (Official Visualiser)",
+						"channelTitle": "Wretch 32",
+						"channelId": "UCXZwsjh089km2RF9oyuxe3g",
+						"publishedAt": "2025-05-02T10:44:04Z",
+						"duration": "PT4M31S",
+						"viewCount": "5390"
+					}
+				]
+			}
+		],
+		"updatedAt": "05052025"
+	},
+	"topAlbums": {
+		"name": "Top Playlists",
+		"results": [
+			{
+				"name": "Today’s Hits",
+				"songs": [
+					{
+						"id": "1UpoZpMBM9Y",
+						"title": "Lorde - What Was That",
+						"channelTitle": "Lorde",
+						"channelId": "UCOxhwqKKlVq_NaD0LVffGuw",
+						"publishedAt": "2025-04-24T04:00:05Z",
+						"duration": "PT3M29S",
+						"viewCount": "3185016"
+					},
+					{
+						"id": "MI9ZpIKgyf0",
+						"title": "Ed Sheeran - Azizam (Official Music Video)",
+						"channelTitle": "Ed Sheeran",
+						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+						"publishedAt": "2025-04-17T16:00:06Z",
+						"duration": "PT3M28S",
+						"viewCount": "16445599"
+					},
+					{
+						"id": "GR3Liudev18",
+						"title": "Chappell Roan - Pink Pony Club (Official Music Video)",
+						"channelTitle": "ChappellRoanVEVO",
+						"channelId": "UCBoNpX06hjs3_ASFftQEmww",
+						"publishedAt": "2020-04-03T14:13:14Z",
+						"duration": "PT4M41S",
+						"viewCount": "63435000"
+					},
+					{
+						"id": "xdwK03WDJWk",
+						"title": "Charli XCX - party 4 u (Lyrics)",
+						"channelTitle": "Vibe Music",
+						"channelId": "UChO8h2G8UjOVc081rgYU8XQ",
+						"publishedAt": "2025-04-21T19:44:59Z",
+						"duration": "PT4M58S",
+						"viewCount": "1078272"
+					},
+					{
+						"id": "Z3aduh5fxCo",
+						"title": "WizTheMc, bees & honey - Show Me Love (Official Music Video)",
+						"channelTitle": "WizTheMc",
+						"channelId": "UCN5I2Hhhqp19gde4OJl2hGg",
+						"publishedAt": "2025-02-06T18:00:06Z",
+						"duration": "PT2M54S",
+						"viewCount": "13837330"
+					},
+					{
+						"id": "X2CNDuw8kyI",
+						"title": "People Watching (Edit)",
+						"channelTitle": "Sam Fender - Topic",
+						"channelId": "UCrEdrkYcHH7ODFeZUNMInRg",
+						"publishedAt": "2024-11-17T10:00:32Z",
+						"duration": "PT4M3S",
+						"viewCount": "302140"
+					},
+					{
+						"id": "U8QhB8_0t2g",
+						"title": "Benson Boone - Mystical Magical (Official Lyric Video)",
+						"channelTitle": "Benson Boone",
+						"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+						"publishedAt": "2025-04-24T22:00:07Z",
+						"duration": "PT2M46S",
+						"viewCount": "3855647"
+					},
+					{
+						"id": "x8VkB8ap_FQ",
+						"title": "Sabrina Carpenter - Bed Chem (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2024-08-23T04:00:47Z",
+						"duration": "PT2M52S",
+						"viewCount": "36363381"
+					},
+					{
+						"id": "Qh8QwVYOSVU",
+						"title": "Teddy Swims - Bad Dreams (Official Music Video)",
+						"channelTitle": "Teddy Swims",
+						"channelId": "UCb-ikMqe9iS8GjG7WgGwCrQ",
+						"publishedAt": "2024-09-13T04:00:08Z",
+						"duration": "PT3M5S",
+						"viewCount": "109802302"
+					},
+					{
+						"id": "AOz9V0NhJe8",
+						"title": "That’s So True",
+						"channelTitle": "Gracie Abrams - Topic",
+						"channelId": "UCw-0GSqznYHfyfDBBe6a46A",
+						"publishedAt": "2024-10-17T10:01:50Z",
+						"duration": "PT2M47S",
+						"viewCount": "42127145"
+					},
+					{
+						"id": "KoM13RvBHrk",
+						"title": "Ed Sheeran - Old Phone (Lyric Video)",
+						"channelTitle": "Ed Sheeran",
+						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+						"publishedAt": "2025-05-01T15:00:37Z",
+						"duration": "PT3M42S",
+						"viewCount": "1211754"
+					},
+					{
+						"id": "7InTkBxPtK4",
+						"title": "Tate McRae - Sports car (Official Video)",
+						"channelTitle": "TateMcRaeVEVO",
+						"channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+						"publishedAt": "2025-01-24T05:00:06Z",
+						"duration": "PT3M8S",
+						"viewCount": "21189478"
+					},
+					{
+						"id": "O7Dt2L_rAhI",
+						"title": "Benson Boone - Sorry I'm Here For Someone Else (Official Lyric Video)",
+						"channelTitle": "Benson Boone",
+						"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+						"publishedAt": "2025-02-27T23:00:06Z",
+						"duration": "PT2M37S",
+						"viewCount": "5380690"
+					},
+					{
+						"id": "6-KQ1tp_qOQ",
+						"title": "hellogoodbye  - Here In Your Arms",
+						"channelTitle": "drivethrurecords",
+						"channelId": "UC3IlLIvN2De6v0WDxXbs4XA",
+						"publishedAt": "2006-08-21T23:20:58Z",
+						"duration": "PT3M51S",
+						"viewCount": "10218283"
+					},
+					{
+						"id": "4iSEJB1KJ0w",
+						"title": "The Weeknd - All I Know (Audio) ft. Future",
+						"channelTitle": "TheWeekndVEVO",
+						"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+						"publishedAt": "2023-03-14T23:40:43Z",
+						"duration": "PT5M22S",
+						"viewCount": "2656256"
+					},
+					{
+						"id": "ekr2nIex040",
+						"title": "ROSÉ & Bruno Mars - APT. (Official Music Video)",
+						"channelTitle": "ROSÉ",
+						"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+						"publishedAt": "2024-10-18T04:00:07Z",
+						"duration": "PT2M54S",
+						"viewCount": "1565969104"
+					},
+					{
+						"id": "CtRn6eqVnvY",
+						"title": "sombr - undressed (official lyric video)",
+						"channelTitle": "sombr",
+						"channelId": "UCXlqFQmZZOb78teSnAqhuwA",
+						"publishedAt": "2025-03-21T04:01:24Z",
+						"duration": "PT3M3S",
+						"viewCount": "2903613"
+					},
+					{
+						"id": "kPa7bsKwL-c",
+						"title": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2024-08-16T04:00:36Z",
+						"duration": "PT4M13S",
+						"viewCount": "1019388137"
+					},
+					{
+						"id": "t-knFuqQdGc",
+						"title": "CHRYSTAL - THE DAYS  (NOTION REMIX)",
+						"channelTitle": "NOTION",
+						"channelId": "UCCUppTBdYnq9hi3AfLJWB6w",
+						"publishedAt": "2024-11-11T20:01:53Z",
+						"duration": "PT3M54S",
+						"viewCount": "18474429"
+					},
+					{
+						"id": "qARrn7G067w",
+						"title": "Shallipopi - Laho (Official Video)",
+						"channelTitle": "ShallipopiVEVO",
+						"channelId": "UCUmrza01uci7-V5g2pyMPTA",
+						"publishedAt": "2025-03-06T17:00:57Z",
+						"duration": "PT2M26S",
+						"viewCount": "22533046"
+					},
+					{
+						"id": "dX8orLrVwtY",
+						"title": "Sonny Fodera, Jazzy, D.O.D - Somedays [Official Music Video]",
+						"channelTitle": "Sonny Fodera",
+						"channelId": "UC0q_gYblgTWdeH6zCMTzrDw",
+						"publishedAt": "2024-07-26T08:00:06Z",
+						"duration": "PT3M32S",
+						"viewCount": "21136436"
+					},
+					{
+						"id": "BtuSZoHk16I",
+						"title": "Skye Newman - Hairdresser (Lyrics)",
+						"channelTitle": "Polaris Lyrics",
+						"channelId": "UCVKxhLGZXc0gEOnJhNhAe8A",
+						"publishedAt": "2025-03-28T00:00:17Z",
+						"duration": "PT3M28S",
+						"viewCount": "217601"
+					},
+					{
+						"id": "t7bQwwqW-Hc",
+						"title": "Shaboozey - A Bar Song (Tipsy) [Official Visualizer]",
+						"channelTitle": "ShaboozeyVEVO",
+						"channelId": "UCmdsVknXGS2145yy8eQvplw",
+						"publishedAt": "2024-04-12T04:00:36Z",
+						"duration": "PT2M54S",
+						"viewCount": "225503675"
+					},
+					{
+						"id": "cswfR85D7jM",
+						"title": "Ravyn Lenae - Love Me Not (Official Music Video)",
+						"channelTitle": "Ravyn Lenae",
+						"channelId": "UCtgNg5yxCyfjEE7Q7KeSmBw",
+						"publishedAt": "2024-05-03T04:00:06Z",
+						"duration": "PT3M39S",
+						"viewCount": "5198300"
+					},
+					{
+						"id": "ztotaQ79eek",
+						"title": "Ariana Grande - intro (end of the world) (extended) (lyric visualizer)",
+						"channelTitle": "ArianaGrandeVevo",
+						"channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+						"publishedAt": "2025-03-28T04:01:02Z",
+						"duration": "PT2M42S",
+						"viewCount": "8529762"
+					},
+					{
+						"id": "J1WnL5CJ7Rw",
+						"title": "Jazzy & Ankhoï - Closer To The Floor (Official Video)",
+						"channelTitle": "Jazzy",
+						"channelId": "UCagcrKRy2laLZ6u3MD9z4Zw",
+						"publishedAt": "2025-04-18T06:00:15Z",
+						"duration": "PT2M43S",
+						"viewCount": "148415"
+					},
+					{
+						"id": "5UE2kT5LxE0",
+						"title": "Ariana Grande - twilight zone (lyric visualizer)",
+						"channelTitle": "ArianaGrandeVevo",
+						"channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+						"publishedAt": "2025-03-28T04:00:04Z",
+						"duration": "PT3M19S",
+						"viewCount": "6965963"
+					},
+					{
+						"id": "ejEzHE5ZMT8",
+						"title": "Leon Thomas - MUTT (Audio)",
+						"channelTitle": "LeonThomasVEVO",
+						"channelId": "UCVotbXlBPMmQgPkgg6d1wNA",
+						"publishedAt": "2024-08-23T04:00:36Z",
+						"duration": "PT3M14S",
+						"viewCount": "12067990"
+					},
+					{
+						"id": "p2_87RVSDCM",
+						"title": "Ely Oaks - Running Around (Official Visualizer)",
+						"channelTitle": "Ely Oaks",
+						"channelId": "UC4sPcQtsd3Yaoqa-dJnaElQ",
+						"publishedAt": "2025-02-07T10:49:50Z",
+						"duration": "PT2M4S",
+						"viewCount": "3463605"
+					},
+					{
+						"id": "5LVU-P-yFuo",
+						"title": "Myles Smith - My First Heartbreak (Official Video)",
+						"channelTitle": "MylesSmithVEVO",
+						"channelId": "UCdE1usyA41BFzWwHbtlymrw",
+						"publishedAt": "2025-04-25T13:00:09Z",
+						"duration": "PT4M9S",
+						"viewCount": "240704"
+					},
+					{
+						"id": "DubtPdXXjew",
+						"title": "Chappell Roan - The Giver (Official Lyric Video)",
+						"channelTitle": "ChappellRoanVEVO",
+						"channelId": "UCBoNpX06hjs3_ASFftQEmww",
+						"publishedAt": "2025-03-14T04:00:17Z",
+						"duration": "PT3M23S",
+						"viewCount": "5770222"
+					},
+					{
+						"id": "V9PVRfjEBTI",
+						"title": "Billie Eilish - BIRDS OF A FEATHER (Official Music Video)",
+						"channelTitle": "BillieEilishVEVO",
+						"channelId": "UCDGmojLIoWpXok597xYo8cg",
+						"publishedAt": "2024-09-27T15:00:38Z",
+						"duration": "PT3M51S",
+						"viewCount": "377503007"
+					},
+					{
+						"id": "rwlFWWGaZ5Y",
+						"title": "Tate McRae - Revolving door (Official Video)",
+						"channelTitle": "TateMcRaeVEVO",
+						"channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+						"publishedAt": "2025-02-21T05:30:06Z",
+						"duration": "PT3M55S",
+						"viewCount": "17300151"
+					},
+					{
+						"id": "c8zq4kAn_O0",
+						"title": "sombr - back to friends (official video)",
+						"channelTitle": "sombr",
+						"channelId": "UCXlqFQmZZOb78teSnAqhuwA",
+						"publishedAt": "2025-04-03T19:00:06Z",
+						"duration": "PT3M22S",
+						"viewCount": "3546718"
+					},
+					{
+						"id": "ue8F_RmwLWc",
+						"title": "JADE - FUFN (F**k You For Now) (Lyrics)",
+						"channelTitle": "Pizza Music",
+						"channelId": "UCa2Nr1Qm93k07VuwEXCnrog",
+						"publishedAt": "2025-03-16T21:19:05Z",
+						"duration": "PT3M36S",
+						"viewCount": "28121"
+					},
+					{
+						"id": "KEG7b851Ric",
+						"title": "Sabrina Carpenter - Taste (Official Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2024-08-23T14:00:08Z",
+						"duration": "PT3M19S",
+						"viewCount": "180010451"
+					},
+					{
+						"id": "XdFpzaM07i0",
+						"title": "Addison Rae - Headphones On (Official Video)",
+						"channelTitle": "AddisonRaeVEVO",
+						"channelId": "UC3Cs0kPcr0GQPCVzX32NQPg",
+						"publishedAt": "2025-04-18T04:00:06Z",
+						"duration": "PT4M30S",
+						"viewCount": "2518439"
+					},
+					{
+						"id": "NnWe5Lhi0G8",
+						"title": "Davido - Offa Me ft. Victoria Monét (Official Video)",
+						"channelTitle": "Davido",
+						"channelId": "UCkBV3nBa0iRdxEGc4DUS3xA",
+						"publishedAt": "2025-04-22T16:00:06Z",
+						"duration": "PT3M25S",
+						"viewCount": "3478358"
+					},
+					{
+						"id": "S8hFnd4k1FU",
+						"title": "NOKIA ノキア - VCC LEFT HAND ft. @VTHANG (Official Music Video)",
+						"channelTitle": "LEFT HAND",
+						"channelId": "UCPynlmR20SdT1VazbDrjO4g",
+						"publishedAt": "2024-03-08T11:30:07Z",
+						"duration": "PT4M55S",
+						"viewCount": "750350"
+					},
+					{
+						"id": "f4Y3b7un4LE",
+						"title": "Benson Boone - Slow It Down (Official Music Video)",
+						"channelTitle": "Benson Boone",
+						"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+						"publishedAt": "2024-03-21T23:00:18Z",
+						"duration": "PT3M4S",
+						"viewCount": "73427081"
+					},
+					{
+						"id": "vBynw9Isr28",
+						"title": "Lady Gaga - Abracadabra (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-02-03T03:30:28Z",
+						"duration": "PT4M30S",
+						"viewCount": "124967292"
+					}
+				]
+			},
+			{
+				"name": "Sleep Sounds",
+				"songs": [
+					{
+						"id": "JOORgN_fMzQ",
+						"title": "QUIET THE MIND | Activate Your Parasympathetic Nervous System | Sound Bath Meditation",
+						"channelTitle": "Irene Athanasiou",
+						"channelId": "UCTCj1l_dY4lI3ulaETJzIRA",
+						"publishedAt": "2024-09-19T01:30:23Z",
+						"duration": "PT10H29M20S",
+						"viewCount": "302192"
+					},
+					{
+						"id": "7e8fUorNZx8",
+						"title": "Instant Insomnia Relief: Drift into Deep Sleep in 5 Minutes with Calming Piano",
+						"channelTitle": "Olivia Ocean Deep",
+						"channelId": "UCOqvOkmvPfKqN0r8QxPwcaA",
+						"publishedAt": "2024-01-09T14:00:56Z",
+						"duration": "PT3H10M59S",
+						"viewCount": "2065777"
+					},
+					{
+						"id": "hLHy8GE5cYE",
+						"title": "Still Shore",
+						"channelTitle": "Waves Eternal - Topic",
+						"channelId": "UCJ1AemKiiXgJOc415e_xdHQ",
+						"publishedAt": "2025-04-22T10:02:08Z",
+						"duration": "PT3M24S",
+						"viewCount": "1"
+					},
+					{
+						"id": "Ed5yqt9B9K0",
+						"title": "Reprogram Your Mind While You Sleep, Positive Mind Affirmations for Sleep",
+						"channelTitle": "Jason Stephenson - Guided Sleep Meditation ",
+						"channelId": "UCqPYhcdFgrlUXiGmPRAej1w",
+						"publishedAt": "2021-07-26T01:15:00Z",
+						"duration": "PT3H5S",
+						"viewCount": "5471954"
+					},
+					{
+						"id": "s00C0sKbI-4",
+						"title": "NIGHT (MUSIC VIDEO) - wAvy, XOLITXO, tlinh, da/md, Dustin Ngo, mess. (Creative by Antiantiart)",
+						"channelTitle": "vndtown",
+						"channelId": "UCSccOy6M-Vwd4MnPCxF-9Qg",
+						"publishedAt": "2021-08-18T13:00:08Z",
+						"duration": "PT6M56S",
+						"viewCount": "2003434"
+					},
+					{
+						"id": "gNJjXcLdAK0",
+						"title": "STILLNESS WITHIN | Calm Your Mind & Find Inner Peace | Deep Healing 111Hz Holy Frequency Immersion",
+						"channelTitle": "Inner Lotus Music",
+						"channelId": "UC-hVOGj2apTeEvc49CrjQlg",
+						"publishedAt": "2022-05-31T14:00:17Z",
+						"duration": "PT3H33M33S",
+						"viewCount": "2042304"
+					},
+					{
+						"id": "4NRXx6U8ABQ",
+						"title": "The Weeknd - Blinding Lights (Official Video)",
+						"channelTitle": "TheWeekndVEVO",
+						"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+						"publishedAt": "2020-01-21T18:00:10Z",
+						"duration": "PT4M23S",
+						"viewCount": "930528793"
+					},
+					{
+						"id": "8inJtTG_DuU",
+						"title": "The Paper Kites - Bloom (Official Music Video)",
+						"channelTitle": "thepaperkitesband",
+						"channelId": "UCM1hUAJDveuj547WljTMJJQ",
+						"publishedAt": "2010-09-30T05:33:27Z",
+						"duration": "PT3M34S",
+						"viewCount": "37731517"
+					},
+					{
+						"id": "-GT-5rLBlyk",
+						"title": "Arvo Pärt : Silentium",
+						"channelTitle": "Sylvain Moore",
+						"channelId": "UCPSKC-fYUQU0fUWUTz5uFPQ",
+						"publishedAt": "2022-11-04T17:00:10Z",
+						"duration": "PT18M52S",
+						"viewCount": "392816"
+					},
+					{
+						"id": "5dhxKwr6G5c",
+						"title": "Starry Night • 12 Hours of Ambient Sleep Music | Black Screen",
+						"channelTitle": "Soothing Relaxation",
+						"channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+						"publishedAt": "2020-03-26T12:32:14Z",
+						"duration": "PT11H59M54S",
+						"viewCount": "17254446"
+					},
+					{
+						"id": "9XZ15qDJZEQ",
+						"title": "A Soft Embrace",
+						"channelTitle": "Deep Inside - Topic",
+						"channelId": "UC617BXnqgusPW_i8zPZecBA",
+						"publishedAt": "2018-10-24T13:58:35Z",
+						"duration": "PT2M39S",
+						"viewCount": "7370"
+					},
+					{
+						"id": "1wc-q49gWfg",
+						"title": "Joyner Lucas & Lil Tjay - Dreams Unfold (Official audio)",
+						"channelTitle": "Joyner Lucas",
+						"channelId": "UCUebubwSuTHfHjWJI4gCS9A",
+						"publishedAt": "2021-08-27T18:51:09Z",
+						"duration": "PT3M22S",
+						"viewCount": "5158310"
+					},
+					{
+						"id": "7LqWou52usI",
+						"title": "Symbios (Ambient Sleep)",
+						"channelTitle": "Forest Halo - Topic",
+						"channelId": "UC36Lw85jCuF877Vmw4AfveQ",
+						"publishedAt": "2024-03-19T10:03:54Z",
+						"duration": "PT3M42S",
+						"viewCount": "363"
+					},
+					{
+						"id": "_tsDPT-VtEc",
+						"title": "Divine Flow - Connect with Nature, Soothe the Soul & Find Deep Relaxation | Healing Soundscape",
+						"channelTitle": "Tranquil Healing Music",
+						"channelId": "UCIVwuoRX17bN27vNDESnUyA",
+						"publishedAt": "2025-03-01T18:30:33Z",
+						"duration": "PT3H25M53S",
+						"viewCount": "104773"
+					},
+					{
+						"id": "zW3-9bUhbRw",
+						"title": "Beautiful Piano Music - Relaxing Music, Study Music, Stress Relief, Sleep Music (Willow)",
+						"channelTitle": "OCB Relax Music",
+						"channelId": "UCb1ANUIW7arUUDI-Mwz65rw",
+						"publishedAt": "2022-02-28T13:08:12Z",
+						"duration": "PT3H3M41S",
+						"viewCount": "2525803"
+					},
+					{
+						"id": "k5P3_fL7kyY",
+						"title": "Celestial Bliss",
+						"channelTitle": "Felix Lancaster - Topic",
+						"channelId": "UCfu_sKBvei6qI_t6qwEbP9w",
+						"publishedAt": "2024-10-02T10:02:15Z",
+						"duration": "PT2M36S",
+						"viewCount": "916"
+					},
+					{
+						"id": "BkkL4jiP4Zc",
+						"title": "Shallou - Silhouettes (Audio) ft. Vancouver Sleep Clinic",
+						"channelTitle": "ShallouVEVO",
+						"channelId": "UCs5_GcZEM4OnReLc9viY6dw",
+						"publishedAt": "2020-03-27T04:00:02Z",
+						"duration": "PT4M1S",
+						"viewCount": "374480"
+					},
+					{
+						"id": "UkYpdM3aup8",
+						"title": "Ashnikko - Slumber Party Feat. Princess Nokia (Official Lyric Video)",
+						"channelTitle": "Ashnikko",
+						"channelId": "UCprhwr86ckrMC2q9jX8qMnw",
+						"publishedAt": "2021-02-11T18:00:08Z",
+						"duration": "PT3M2S",
+						"viewCount": "87587094"
+					},
+					{
+						"id": "UCyx6Q8-yuw",
+						"title": "ONENESS",
+						"channelTitle": "Roselia - Topic",
+						"channelId": "UCJzgTYxZKiK-e2_0Y5hPEAg",
+						"publishedAt": "2022-09-13T08:55:47Z",
+						"duration": "PT3M59S",
+						"viewCount": "344572"
+					},
+					{
+						"id": "OeHLHNKQCXA",
+						"title": "8 Hours of Beautiful Piano Music • Sleep Music, Fall Asleep, Relaxing Sleeping Music",
+						"channelTitle": "Soothing Relaxation",
+						"channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+						"publishedAt": "2018-04-01T22:05:11Z",
+						"duration": "PT8H2M32S",
+						"viewCount": "62785160"
+					},
+					{
+						"id": "ArP3tSPWqDI",
+						"title": "Dark Ambient Lab Self-Reflection [Elara] Reading Sleep Meditation Relaxation Night Vibe 24/7",
+						"channelTitle": "Dark Ambient Lab",
+						"channelId": "UCS1rkux_x7_fbpsDxTBaQwg",
+						"publishedAt": "2025-05-03T14:54:36Z",
+						"duration": "P0D",
+						"viewCount": "457"
+					},
+					{
+						"id": "U_OhN7j1wRQ",
+						"title": "LUMINOUS(루미너스) - RUN (Music Bank) KBS WORLD TV 210917",
+						"channelTitle": "KBS WORLD TV",
+						"channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+						"publishedAt": "2021-09-17T08:19:57Z",
+						"duration": "PT3M10S",
+						"viewCount": "12981"
+					},
+					{
+						"id": "H0T0pVliF2Q",
+						"title": "a long pause (sleep)",
+						"channelTitle": "dream reflections - Topic",
+						"channelId": "UCh3l45WrzREA3W9L7GHxWyQ",
+						"publishedAt": "2025-01-14T10:01:59Z",
+						"duration": "PT3M43S",
+						"viewCount": "10"
+					},
+					{
+						"id": "5OXcXv0rUNI",
+						"title": "Introspection || Estas Tonne || 2016",
+						"channelTitle": "Estas Tonne",
+						"channelId": "UCTsnTp-g5Rj3VY7Tlm2XQ6A",
+						"publishedAt": "2018-05-25T03:27:42Z",
+						"duration": "PT12M39S",
+						"viewCount": "9199568"
+					},
+					{
+						"id": "lh4JdZTJe7k",
+						"title": "12 Hours of Relaxing Sleep Music for Stress Relief, Sleeping & Meditation (Flying)",
+						"channelTitle": "Soothing Relaxation",
+						"channelId": "UCjzHeG1KWoonmf9d5KBvSiw",
+						"publishedAt": "2020-01-27T12:11:20Z",
+						"duration": "PT11H58M9S",
+						"viewCount": "54303371"
+					},
+					{
+						"id": "du6k9u1C7Oc",
+						"title": "BLACKBEANS - Between [Official Lyric Video]",
+						"channelTitle": "Blackbean s",
+						"channelId": "UCAGUeb5l1RtF55DenHA_DBg",
+						"publishedAt": "2024-04-30T17:00:32Z",
+						"duration": "PT4M4S",
+						"viewCount": "993694"
+					},
+					{
+						"id": "l39iPRUN2n0",
+						"title": "J.ADE - CONTINUUM (Full Album Experience) including \"Câu Trả Lời\", \"Show Me Love ft. Thanh Bùi\"...",
+						"channelTitle": "NGUYỄN BÍCH NGỌC (J.ADE)",
+						"channelId": "UC5UE0THZZBUoYeiWzsehi4g",
+						"publishedAt": "2025-03-24T09:41:22Z",
+						"duration": "PT45M31S",
+						"viewCount": "9292"
+					},
+					{
+						"id": "tDFOqAevSv8",
+						"title": "R3NOS - Softly Dreaming",
+						"channelTitle": "R3NOS",
+						"channelId": "UCTvxlPCTaG9sB7k1O38gvQw",
+						"publishedAt": "2025-03-16T16:00:58Z",
+						"duration": "PT2M15S",
+						"viewCount": "36"
+					},
+					{
+						"id": "sD5o2LP0PyA",
+						"title": "Shimmer (Ambient Sleep)",
+						"channelTitle": "Crystalline Cove - Topic",
+						"channelId": "UCDOzZuJ7bM4mLdKmq9RSwGg",
+						"publishedAt": "2025-01-15T10:01:29Z",
+						"duration": "PT3M19S",
+						"viewCount": "246"
+					},
+					{
+						"id": "yS4bDLo9TO8",
+						"title": "A Dive Within (Sleep)",
+						"channelTitle": "LAVVENDAH - Topic",
+						"channelId": "UCjToFQ955F3cPSv1KVia1qA",
+						"publishedAt": "2025-01-07T10:01:27Z",
+						"duration": "PT3M26S",
+						"viewCount": "3"
+					},
+					{
+						"id": "uCHUQSVFT3M",
+						"title": "APOGEE (SLEEP)",
+						"channelTitle": "KUNKEN - Topic",
+						"channelId": "UCH8lgB0u9D7YIj_efB3ULCw",
+						"publishedAt": "2024-09-29T21:20:38Z",
+						"duration": "PT3M54S",
+						"viewCount": "13"
+					},
+					{
+						"id": "FvSxC-9txQo",
+						"title": "Glimmering",
+						"channelTitle": "Xiao Zhan - Topic",
+						"channelId": "UCW_ENnnUe6PQPNmqzPDt-NQ",
+						"publishedAt": "2025-03-14T02:05:00Z",
+						"duration": "PT3M31S",
+						"viewCount": "38851"
+					},
+					{
+						"id": "csgCw8W2yI4",
+						"title": "Parting Waves",
+						"channelTitle": "Mikey Powell Sings The Legends",
+						"channelId": "UCg9BlqVxK5oXVnO1GybBDCA",
+						"publishedAt": "2014-07-03T22:45:20Z",
+						"duration": "PT2M58S",
+						"viewCount": "253"
+					},
+					{
+						"id": "QhagOr8qReo",
+						"title": "Moonrise",
+						"channelTitle": "Colde - Topic",
+						"channelId": "UCDG5Gd2xB3sQwVcciOQlnwg",
+						"publishedAt": "2025-03-11T09:04:37Z",
+						"duration": "PT3M38S",
+						"viewCount": "132960"
+					}
+				]
+			},
+			{
+				"name": "danceXL",
+				"songs": [
+					{
+						"id": "4iSEJB1KJ0w",
+						"title": "The Weeknd - All I Know (Audio) ft. Future",
+						"channelTitle": "TheWeekndVEVO",
+						"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+						"publishedAt": "2023-03-14T23:40:43Z",
+						"duration": "PT5M22S",
+						"viewCount": "2656260"
+					},
+					{
+						"id": "6-KQ1tp_qOQ",
+						"title": "hellogoodbye  - Here In Your Arms",
+						"channelTitle": "drivethrurecords",
+						"channelId": "UC3IlLIvN2De6v0WDxXbs4XA",
+						"publishedAt": "2006-08-21T23:20:58Z",
+						"duration": "PT3M51S",
+						"viewCount": "10218283"
+					},
+					{
+						"id": "J1WnL5CJ7Rw",
+						"title": "Jazzy & Ankhoï - Closer To The Floor (Official Video)",
+						"channelTitle": "Jazzy",
+						"channelId": "UCagcrKRy2laLZ6u3MD9z4Zw",
+						"publishedAt": "2025-04-18T06:00:15Z",
+						"duration": "PT2M43S",
+						"viewCount": "148415"
+					},
+					{
+						"id": "GX7Xt8jgwS4",
+						"title": "The More I Do",
+						"channelTitle": "Release - Topic",
+						"channelId": "UCf9MgHMWqMcMA9T8_93Ffdg",
+						"publishedAt": "2024-05-28T09:01:43Z",
+						"duration": "PT53S",
+						"viewCount": "22599"
+					},
+					{
+						"id": "mj0XInqZMHY",
+						"title": "Ed Sheeran - Beautiful People (feat. Khalid) [Official Music Video]",
+						"channelTitle": "Ed Sheeran",
+						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+						"publishedAt": "2019-06-28T07:00:05Z",
+						"duration": "PT3M48S",
+						"viewCount": "382957275"
+					},
+					{
+						"id": "p2_87RVSDCM",
+						"title": "Ely Oaks - Running Around (Official Visualizer)",
+						"channelTitle": "Ely Oaks",
+						"channelId": "UC4sPcQtsd3Yaoqa-dJnaElQ",
+						"publishedAt": "2025-02-07T10:49:50Z",
+						"duration": "PT2M4S",
+						"viewCount": "3463605"
+					},
+					{
+						"id": "kbvWWTs8aNA",
+						"title": "Alok & Alan Fitzpatrick feat. bbyclose - Friday, I'm In Luv (Official Video)",
+						"channelTitle": "Alok",
+						"channelId": "UCQlaArsZfebRbb70iXm6usg",
+						"publishedAt": "2025-03-21T15:01:05Z",
+						"duration": "PT2M26S",
+						"viewCount": "890363"
+					},
+					{
+						"id": "wrDXlY4S6DM",
+						"title": "Platnum - Love Shy (Virgo VS Agent X Edit) (Official HD Video) [2008] | MINISTRY VAULTS",
+						"channelTitle": "Ministry of Sound",
+						"channelId": "UC8T81Q-rEobLa-YuQKj8L1A",
+						"publishedAt": "2022-01-25T00:00:10Z",
+						"duration": "PT2M54S",
+						"viewCount": "750632"
+					},
+					{
+						"id": "QOowQeKyNkQ",
+						"title": "Chris Brown - Don't Wake Me Up",
+						"channelTitle": "ChrisBrownVEVO",
+						"channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
+						"publishedAt": "2012-06-11T07:00:07Z",
+						"duration": "PT3M46S",
+						"viewCount": "257010212"
+					},
+					{
+						"id": "yDI5_ULMnOo",
+						"title": "THAT KIND - ALRIGHT (TONIGHT) (Official Visualiser)",
+						"channelTitle": "Get Together Records",
+						"channelId": "UCE2U4Ap6As97U0mioFnJA9Q",
+						"publishedAt": "2025-03-28T00:00:53Z",
+						"duration": "PT2M31S",
+						"viewCount": "7566"
+					},
+					{
+						"id": "iWiqAePgAuo",
+						"title": "Gorgon City - Run It Back (feat Caroline Byrne) [Official Visualiser]",
+						"channelTitle": "Gorgon City",
+						"channelId": "UCxD2gCy3e0EUWN5EylcBGMA",
+						"publishedAt": "2025-04-18T08:00:06Z",
+						"duration": "PT3M6S",
+						"viewCount": "203271"
+					},
+					{
+						"id": "tm9GpM3lV3s",
+						"title": "GLXXMSTRIDER - DON'T STOP - Slowed",
+						"channelTitle": "EUPHXRIA",
+						"channelId": "UCRvgE1OPtVHBYULm7AEDMnA",
+						"publishedAt": "2024-08-06T20:50:58Z",
+						"duration": "PT3M",
+						"viewCount": "73321400"
+					},
+					{
+						"id": "t-knFuqQdGc",
+						"title": "CHRYSTAL - THE DAYS  (NOTION REMIX)",
+						"channelTitle": "NOTION",
+						"channelId": "UCCUppTBdYnq9hi3AfLJWB6w",
+						"publishedAt": "2024-11-11T20:01:53Z",
+						"duration": "PT3M54S",
+						"viewCount": "18474429"
+					},
+					{
+						"id": "odaQzVeLZxA",
+						"title": "BL3SS & Tchami - R 2 ME [Official Audio]",
+						"channelTitle": "BL3SS",
+						"channelId": "UCiGgXAPgCMOr10tQM_Kg5vQ",
+						"publishedAt": "2025-04-18T13:33:20Z",
+						"duration": "PT2M33S",
+						"viewCount": "48639"
+					},
+					{
+						"id": "8FOWmKBHY84",
+						"title": "Sonnentanz (KABA & dela sur Remix)",
+						"channelTitle": "Klangkarussell - Topic",
+						"channelId": "UCttJhgDSWb98oCQXUzRUnZA",
+						"publishedAt": "2025-01-09T10:00:09Z",
+						"duration": "PT4M56S",
+						"viewCount": "51729"
+					},
+					{
+						"id": "MI6nbXtasjQ",
+						"title": "Clean Bandit x Tiësto x Leony - Tell Me Where U Go (Official Lyric Video)",
+						"channelTitle": "Clean Bandit",
+						"channelId": "UCvhQPdeTHzIRneScV8MIocg",
+						"publishedAt": "2025-04-24T23:00:21Z",
+						"duration": "PT3M1S",
+						"viewCount": "122711"
+					},
+					{
+						"id": "3eOuK-pYhy4",
+						"title": "Monica - Angel Of Mine (Official Music Video)",
+						"channelTitle": "MonicaVEVO",
+						"channelId": "UCp-rgXnFQMrnHFi7Y9ofB_w",
+						"publishedAt": "2009-10-25T08:40:34Z",
+						"duration": "PT4M12S",
+						"viewCount": "157389570"
+					},
+					{
+						"id": "nagMxzLZfLk",
+						"title": "Natalie Taylor - Surrender (Lyrics)",
+						"channelTitle": "7clouds",
+						"channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+						"publishedAt": "2020-04-17T18:36:36Z",
+						"duration": "PT3M4S",
+						"viewCount": "65670565"
+					},
+					{
+						"id": "RNA1Oo5Rhrs",
+						"title": "Belters Only, Jazzy - High In The Moment (Official Video)",
+						"channelTitle": "Belters Only",
+						"channelId": "UCo2O2FKRvtQXUdR3GISfl2Q",
+						"publishedAt": "2025-02-21T11:05:29Z",
+						"duration": "PT2M34S",
+						"viewCount": "660459"
+					},
+					{
+						"id": "KUmZp8pR1uc",
+						"title": "Amy Winehouse - Rehab",
+						"channelTitle": "AmyWinehouseVEVO",
+						"channelId": "UCHai12P6Gh7PaIYZGnzyrSA",
+						"publishedAt": "2009-12-23T17:41:04Z",
+						"duration": "PT3M34S",
+						"viewCount": "382850636"
+					},
+					{
+						"id": "rogKdcO7t3A",
+						"title": "Ascension (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+						"channelTitle": "SQUARE ENIX MUSIC Channel",
+						"channelId": "UCMx60HYcw1ieiPlZZagfqXQ",
+						"publishedAt": "2024-09-17T15:00:52Z",
+						"duration": "PT9M12S",
+						"viewCount": "98055"
+					},
+					{
+						"id": "TCVu_uuz5Ak",
+						"title": "D.O.D feat. NORTH - Wrap Yourself Around Me (Official Lyric Video)",
+						"channelTitle": "Armada Music TV",
+						"channelId": "UCGZXYc32ri4D0gSLPf2pZXQ",
+						"publishedAt": "2025-02-18T18:30:20Z",
+						"duration": "PT3M26S",
+						"viewCount": "195188"
+					},
+					{
+						"id": "MoN9ql6Yymw",
+						"title": "David Kushner - Daylight (Official Music Video)",
+						"channelTitle": "DavidKushnerVEVO",
+						"channelId": "UCa4a-hXHI8bitNXnvyZNzEQ",
+						"publishedAt": "2023-04-14T04:00:08Z",
+						"duration": "PT3M50S",
+						"viewCount": "441217224"
+					},
+					{
+						"id": "ktBMxkLUIwY",
+						"title": "twenty one pilots: Holding On To You [OFFICIAL VIDEO]",
+						"channelTitle": "Fueled By Ramen",
+						"channelId": "UClVrJwcIy7saPcGc1nct80A",
+						"publishedAt": "2012-11-15T07:38:29Z",
+						"duration": "PT4M28S",
+						"viewCount": "174839184"
+					},
+					{
+						"id": "49tyOkJ0uLs",
+						"title": "なとり - IN_MY_HEAD",
+						"channelTitle": "なとり / natori",
+						"channelId": "UCC0zLuvujaZRFqR3aNql3Sg",
+						"publishedAt": "2024-12-13T10:00:06Z",
+						"duration": "PT3M29S",
+						"viewCount": "4921107"
+					},
+					{
+						"id": "wPV8eGbbcIA",
+						"title": "Alex Warren - Carry You Home (Lyrics)",
+						"channelTitle": "Pizza Music",
+						"channelId": "UCa2Nr1Qm93k07VuwEXCnrog",
+						"publishedAt": "2024-06-02T15:10:51Z",
+						"duration": "PT2M48S",
+						"viewCount": "3623662"
+					},
+					{
+						"id": "sh8FsHH7t7M",
+						"title": "NOW IT'S GONE (BL3SS Remix)",
+						"channelTitle": "IN PARALLEL - Topic",
+						"channelId": "UCIqIVD0S4vt_YSZ5b2F_iew",
+						"publishedAt": "2025-02-06T10:01:30Z",
+						"duration": "PT2M19S",
+						"viewCount": "45500"
+					},
+					{
+						"id": "4WeSopEUH68",
+						"title": "Jazzy, KILIMANJARO - No Bad Vibes (Official Video)",
+						"channelTitle": "JAZZYVEVO",
+						"channelId": "UCSd2V6D2VqV90BKu5-Haqng",
+						"publishedAt": "2024-10-18T06:00:02Z",
+						"duration": "PT2M41S",
+						"viewCount": "21656635"
+					},
+					{
+						"id": "oshva22nRDQ",
+						"title": "Gravagerz x kiki wera - Pool (Gravagerz Version) [Official Audio]",
+						"channelTitle": "Gravagerz",
+						"channelId": "UCNfBuscuN-v2YXXtd6W5AZw",
+						"publishedAt": "2025-04-10T22:19:19Z",
+						"duration": "PT2M6S",
+						"viewCount": "192664"
+					},
+					{
+						"id": "FNHfPqti1V8",
+						"title": "John Summit - light years (feat. Inéz) [Official Music Video]",
+						"channelTitle": "John Summit",
+						"channelId": "UCsIVrho83JfwUieSs_UKCmA",
+						"publishedAt": "2025-03-26T04:00:14Z",
+						"duration": "PT3M41S",
+						"viewCount": "422795"
+					},
+					{
+						"id": "KJViHi-dSxY",
+						"title": "Brent Faiyaz Ft Drake - Wasting Time [Official Audio]",
+						"channelTitle": "Brent Faiyaz",
+						"channelId": "UCtdVC7nSYNOpKroA5JicNig",
+						"publishedAt": "2021-07-01T10:44:12Z",
+						"duration": "PT5M",
+						"viewCount": "33476602"
+					},
+					{
+						"id": "_LN54uzeQo4",
+						"title": "Orange & Lemons - Heaven Knows (This Angel Has Flown) (Official Lyric Video)",
+						"channelTitle": "Universal Records Philippines",
+						"channelId": "UC_916zXkHew_kwh_pZv8B4w",
+						"publishedAt": "2024-02-01T11:00:25Z",
+						"duration": "PT4M3S",
+						"viewCount": "28432418"
+					},
+					{
+						"id": "-stthDeZreM",
+						"title": "Franky Wah - Make Me Feel Free (Official Video)",
+						"channelTitle": "Franky Wah",
+						"channelId": "UCVqrpEgooll7MRWAW113oQg",
+						"publishedAt": "2025-04-11T07:00:00Z",
+						"duration": "PT3M",
+						"viewCount": "581514"
+					},
+					{
+						"id": "XsZZQPKLChY",
+						"title": "Cartoon, Jéja - On & On (Lyrics) feat. Daniel Levi",
+						"channelTitle": "7clouds",
+						"channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+						"publishedAt": "2020-01-07T17:16:43Z",
+						"duration": "PT3M28S",
+						"viewCount": "97931339"
+					},
+					{
+						"id": "d_HlPboLRL8",
+						"title": "AURORA - Runaway",
+						"channelTitle": "iamAURORAVEVO",
+						"channelId": "UC7Lhhngb9lLW6tuPddEM62A",
+						"publishedAt": "2015-02-27T06:00:01Z",
+						"duration": "PT4M10S",
+						"viewCount": "698240356"
+					},
+					{
+						"id": "fx6yBJE-jYM",
+						"title": "Ferreck Dawn - Make Me Weak ft. Caroline Byrne (Visualiser)",
+						"channelTitle": "Ferreck Dawn",
+						"channelId": "UC16R5VTCrRTS3ouGQosiXwQ",
+						"publishedAt": "2025-04-25T15:04:11Z",
+						"duration": "PT2M58S",
+						"viewCount": "4377"
+					},
+					{
+						"id": "YERrJ4MQJSY",
+						"title": "Incredibox Sprunki - Be Like You (official song)",
+						"channelTitle": "Horror Skunx",
+						"channelId": "UCTjF8TNC7blVsBtWyMrsj4A",
+						"publishedAt": "2024-12-13T21:15:01Z",
+						"duration": "PT2M18S",
+						"viewCount": "24772259"
+					},
+					{
+						"id": "d57hXso9Ye8",
+						"title": "Ben Nicky & Hix feat. Tori Smith - Sober (Official Lyric Video)",
+						"channelTitle": "Armada Music TV",
+						"channelId": "UCGZXYc32ri4D0gSLPf2pZXQ",
+						"publishedAt": "2025-04-11T11:01:09Z",
+						"duration": "PT3M2S",
+						"viewCount": "22319"
+					},
+					{
+						"id": "_ovdm2yX4MA",
+						"title": "Avicii - Levels",
+						"channelTitle": "AviciiOfficialVEVO",
+						"channelId": "UC1SqP7_RfOC9Jf9L_GRHANg",
+						"publishedAt": "2011-11-29T20:00:00Z",
+						"duration": "PT3M19S",
+						"viewCount": "749189160"
+					},
+					{
+						"id": "6AlJtTStnvo",
+						"title": "Rivo - Stay Here (Official Lyric Visualizer)",
+						"channelTitle": "Rivo",
+						"channelId": "UC5JfjkeUyCYsy6GbKBEzUxg",
+						"publishedAt": "2025-03-28T09:00:06Z",
+						"duration": "PT3M59S",
+						"viewCount": "149918"
+					}
+				]
+			},
+			{
+				"name": "Rain Sounds",
+				"songs": [
+					{
+						"id": "rVU24kSCPlI",
+						"title": "Even The Wild Animals (Rain)",
+						"channelTitle": "Nature Sound Bath - Topic",
+						"channelId": "UCOBziPJQFfQGDdjIYLuFmSw",
+						"publishedAt": "2024-05-08T10:03:39Z",
+						"duration": "PT3M12S",
+						"viewCount": "1"
+					},
+					{
+						"id": "DckgQ7LC8pw",
+						"title": "Luminous Rain",
+						"channelTitle": "Kevin Macleod - Topic",
+						"channelId": "UCBqb0wSlWVFBnSuTI3Tcxig",
+						"publishedAt": "2020-03-24T21:12:56Z",
+						"duration": "PT1M55S",
+						"viewCount": "23300"
+					},
+					{
+						"id": "z6P7Bu6GjSs",
+						"title": "symbios (rain)",
+						"channelTitle": "kindred clouds - Topic",
+						"channelId": "UCf8d9xUnTIoFegrP6WRZpaA",
+						"publishedAt": "2024-03-05T10:04:15Z",
+						"duration": "PT3M",
+						"viewCount": "1"
+					},
+					{
+						"id": "L808f0dv_1I",
+						"title": "Rain Sounds for Quieting Overthinking | Deep Sleep Therapy for Inner Peace and Rest",
+						"channelTitle": "Real Relaxing Sounds",
+						"channelId": "UCq6FkgqQScWBQj-7akfGbKw",
+						"publishedAt": "2025-05-05T00:20:58Z",
+						"duration": "P0D",
+						"viewCount": "109"
+					},
+					{
+						"id": "UWN-KKiYu1s",
+						"title": "Blossom Rain | 10 Hours of Rain Sound for Relaxation & Meditation | Fall asleep fast | Study | Focus",
+						"channelTitle": "The Flower of Life",
+						"channelId": "UCJ-LRsQq0OF0DR-U5LLS53g",
+						"publishedAt": "2024-08-12T20:00:09Z",
+						"duration": "PT10H",
+						"viewCount": "10151"
+					},
+					{
+						"id": "mcb5fcVuXAc",
+						"title": "Slow Embers (Rain)",
+						"channelTitle": "Aureolin Sky - Topic",
+						"channelId": "UCdOCbUANI8eLny_P-8dMSOg",
+						"publishedAt": "2024-01-24T18:05:46Z",
+						"duration": "PT2M27S",
+						"viewCount": "88"
+					},
+					{
+						"id": "yLIHKZFckaE",
+						"title": "Ornus (Rain)",
+						"channelTitle": "Holistic Transition - Topic",
+						"channelId": "UCimsz5gOIpLk9mscPfPdyMg",
+						"publishedAt": "2025-02-11T10:02:56Z",
+						"duration": "PT3M1S",
+						"viewCount": "3"
+					},
+					{
+						"id": "Nza9s4pzcB8",
+						"title": "The Path to Heal (Rain)",
+						"channelTitle": "The Sound of Quiet - Topic",
+						"channelId": "UCX4SrNjGXCTE_Z84s9PMO9w",
+						"publishedAt": "2025-03-12T10:03:30Z",
+						"duration": "PT3M3S",
+						"viewCount": "5"
+					},
+					{
+						"id": "MdQwyD9Le1c",
+						"title": "Primiorus (rain)",
+						"channelTitle": "Aquine - Topic",
+						"channelId": "UC5gWpFH_8LR5zxj1_47IYsw",
+						"publishedAt": "2023-09-13T01:25:06Z",
+						"duration": "PT3M17S",
+						"viewCount": "96"
+					},
+					{
+						"id": "rAaecaFf4mk",
+						"title": "Soredemo Sekai wa Utsukushii-Tender Rain [full version] in English Lyrics",
+						"channelTitle": "Mouska",
+						"channelId": "UCrQEZMqzbjTCvCD5rDWNVGA",
+						"publishedAt": "2014-06-30T01:08:45Z",
+						"duration": "PT6M1S",
+						"viewCount": "744472"
+					},
+					{
+						"id": "aDsrBLx5na0",
+						"title": "Dreams Unfold (Rain)",
+						"channelTitle": "Aureolin Sky - Topic",
+						"channelId": "UCdOCbUANI8eLny_P-8dMSOg",
+						"publishedAt": "2025-03-19T10:01:25Z",
+						"duration": "PT3M5S",
+						"viewCount": "2"
+					},
+					{
+						"id": "7HQK50xCLJk",
+						"title": "[FULL VER] 雨とペトラ (Ame to Petra) / Covered by Vivid BAD SQUAD × 鏡音レン 歌詞 Color Coded Lyrics プロセカ",
+						"channelTitle": "_zui_〇",
+						"channelId": "UCpXAZXbEztDAZQf-Dq2ZORw",
+						"publishedAt": "2024-03-09T13:00:06Z",
+						"duration": "PT3M31S",
+						"viewCount": "90057"
+					},
+					{
+						"id": "N1BtF_1kFNI",
+						"title": "Kalidoverse (Rain)",
+						"channelTitle": "Farelane - Topic",
+						"channelId": "UCj7rhR1cSEzrlxQFxJabeZA",
+						"publishedAt": "2025-03-26T10:02:07Z",
+						"duration": "PT2M51S",
+						"viewCount": "2"
+					},
+					{
+						"id": "kQHgMpagQ0o",
+						"title": "Roselle (Rain)",
+						"channelTitle": "North Node - Topic",
+						"channelId": "UCURHGQgXYOL-FQqVO_5OcBw",
+						"publishedAt": "2025-03-26T10:04:15Z",
+						"duration": "PT2M51S",
+						"viewCount": "0"
+					},
+					{
+						"id": "s5rqvflO-hM",
+						"title": "Calming Encounter (Rain)",
+						"channelTitle": "Soleane - Topic",
+						"channelId": "UC8Q8RDmzHMlESonah5WyIIQ",
+						"publishedAt": "2025-01-21T10:01:34Z",
+						"duration": "PT2M58S",
+						"viewCount": "0"
+					},
+					{
+						"id": "UgxkJ0X1WUI",
+						"title": "celestial bliss (rain)",
+						"channelTitle": "yoneiu - Topic",
+						"channelId": "UCyr6iS-G9UWcoKydmvgaN5Q",
+						"publishedAt": "2025-01-21T10:04:41Z",
+						"duration": "PT3M1S",
+						"viewCount": "0"
+					},
+					{
+						"id": "u1V8YRJnr4Q",
+						"title": "Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)",
+						"channelTitle": "CCRVEVO",
+						"channelId": "UCZodL_lPCDt6BT5Co7r3rdQ",
+						"publishedAt": "2018-12-11T16:00:05Z",
+						"duration": "PT3M4S",
+						"viewCount": "511775699"
+					},
+					{
+						"id": "1_sdRBBWZT4",
+						"title": "Compelled (Rain)",
+						"channelTitle": "Release - Topic",
+						"channelId": "UCQbtplKafhZYjEq1eZ7BDlA",
+						"publishedAt": "2025-01-22T10:03:24Z",
+						"duration": "PT2M59S",
+						"viewCount": "2"
+					},
+					{
+						"id": "bQgvr8pxAjQ",
+						"title": "Forest Dreams (Rain)",
+						"channelTitle": "United Nature - Topic",
+						"channelId": "UCJ521MEDxJHusufK5F5dHiQ",
+						"publishedAt": "2025-01-21T10:01:07Z",
+						"duration": "PT3M7S",
+						"viewCount": "2"
+					},
+					{
+						"id": "N2tAm3l8VH4",
+						"title": "Inner Waves (Rain)",
+						"channelTitle": "Soleane - Topic",
+						"channelId": "UC8Q8RDmzHMlESonah5WyIIQ",
+						"publishedAt": "2025-01-07T10:02:23Z",
+						"duration": "PT3M4S",
+						"viewCount": "4"
+					},
+					{
+						"id": "mcmAzFQPnj8",
+						"title": "Quiet Bells (Rain)",
+						"channelTitle": "Peaceful Path - Topic",
+						"channelId": "UC-rHfb2UKn0mY0h8TZ_I-Ug",
+						"publishedAt": "2024-08-21T19:22:09Z",
+						"duration": "PT2M50S",
+						"viewCount": "7"
+					},
+					{
+						"id": "9an7DlMo4g0",
+						"title": "Pristine - Beautiful Piano Song with Relaxing Rain Sound ｜BigRicePiano",
+						"channelTitle": "BigRicePiano",
+						"channelId": "UCaF5KLxGJkasLlSG67NjqVw",
+						"publishedAt": "2020-03-14T19:27:28Z",
+						"duration": "PT4M51S",
+						"viewCount": "107528"
+					},
+					{
+						"id": "f0fpcUEwAcg",
+						"title": "Sirius (Rain)",
+						"channelTitle": "Under the Stars - Topic",
+						"channelId": "UCgYKuaWJiz7kyX5oHmgmA7g",
+						"publishedAt": "2023-12-13T10:03:36Z",
+						"duration": "PT2M55S",
+						"viewCount": "3"
+					},
+					{
+						"id": "ZY8c2truN5o",
+						"title": "Patiently (Rain)",
+						"channelTitle": "Raena - Topic",
+						"channelId": "UCkqJqOgJpPzGYacfSNzY_GQ",
+						"publishedAt": "2024-06-25T10:01:34Z",
+						"duration": "PT3M52S",
+						"viewCount": "4"
+					},
+					{
+						"id": "4ul-RDpFMYc",
+						"title": "Londano (rain)",
+						"channelTitle": "Aquine - Topic",
+						"channelId": "UC5gWpFH_8LR5zxj1_47IYsw",
+						"publishedAt": "2023-09-13T01:25:06Z",
+						"duration": "PT3M21S",
+						"viewCount": "23"
+					},
+					{
+						"id": "yIQd2Ya0Ziw",
+						"title": "Rainstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+						"channelTitle": "Calm",
+						"channelId": "UChSpME3QaSFAWK8Hpmg-Dyw",
+						"publishedAt": "2018-01-22T18:44:17Z",
+						"duration": "PT8H",
+						"viewCount": "72625613"
+					},
+					{
+						"id": "eniRxMePpiY",
+						"title": "Amefurashi no Uta -Beautiful Rain-",
+						"channelTitle": "Release - Topic",
+						"channelId": "UCKUjWqfcL4NkMtEjfGHSmaA",
+						"publishedAt": "2023-01-19T10:03:45Z",
+						"duration": "PT6M8S",
+						"viewCount": "1636457"
+					},
+					{
+						"id": "PTMj2WuUlaY",
+						"title": "Dragon - Rain",
+						"channelTitle": "Renzo Alamo",
+						"channelId": "UCbfR_D91hKOzkzJQPL5Gvww",
+						"publishedAt": "2010-11-20T23:14:28Z",
+						"duration": "PT4M2S",
+						"viewCount": "5956213"
+					},
+					{
+						"id": "qcXAOARRQ6Q",
+						"title": "[Vietsub] Sunshine in the rain- B.W.O",
+						"channelTitle": "Đặng Duy Đạt",
+						"channelId": "UCP3n8FscZTgP7xz9kPETM4w",
+						"publishedAt": "2013-01-15T15:44:43Z",
+						"duration": "PT3M29S",
+						"viewCount": "1366770"
+					},
+					{
+						"id": "wlZQbt0Qja0",
+						"title": "Pattering Dreams (Loopable Rain)",
+						"channelTitle": "Nature Tones - Topic",
+						"channelId": "UCys99M8tGU-TmB36fIsxkaA",
+						"publishedAt": "2025-01-23T10:04:48Z",
+						"duration": "PT3M20S",
+						"viewCount": "0"
+					},
+					{
+						"id": "DjOm3_xial8",
+						"title": "HARMONY | Deep Ambient Relaxation Soundscape with Rain - Ethereal Meditative Fantasy Relaxing Music",
+						"channelTitle": "Tizl Ambient",
+						"channelId": "UCUCL5XCKhgyUeiLkl45zblQ",
+						"publishedAt": "2024-06-15T07:49:30Z",
+						"duration": "PT1H42S",
+						"viewCount": "277829"
+					},
+					{
+						"id": "L8NmtQ_Dh_4",
+						"title": "Soil (Loopable Rain)",
+						"channelTitle": "OK Chamomile - Topic",
+						"channelId": "UCufynfsPR9yDLM_0SaBS3SQ",
+						"publishedAt": "2021-11-11T10:06:41Z",
+						"duration": "PT2M8S",
+						"viewCount": "0"
+					},
+					{
+						"id": "gG7ESEAe5ps",
+						"title": "Purasea (rain)",
+						"channelTitle": "Aquine - Topic",
+						"channelId": "UC5gWpFH_8LR5zxj1_47IYsw",
+						"publishedAt": "2023-09-13T01:25:06Z",
+						"duration": "PT3M17S",
+						"viewCount": "121"
+					},
+					{
+						"id": "5g4RelWPPvU",
+						"title": "Introspection - Rain Sound",
+						"channelTitle": "Moonlight Flute - Topic",
+						"channelId": "UCtDrvCuoqVp-dVQXaXhJWRw",
+						"publishedAt": "2024-05-17T22:02:35Z",
+						"duration": "PT3M45S",
+						"viewCount": "9"
+					},
+					{
+						"id": "O0XVDv36i7Y",
+						"title": "Incentive (Rain)",
+						"channelTitle": "LUVT - Topic",
+						"channelId": "UCwYDcDGsoapC4YTK_HVdj4Q",
+						"publishedAt": "2021-11-18T10:03:37Z",
+						"duration": "PT2M4S",
+						"viewCount": "3"
+					},
+					{
+						"id": "9chhVfzCb84",
+						"title": "Encompass (Rain)",
+						"channelTitle": "LUVT - Topic",
+						"channelId": "UCwYDcDGsoapC4YTK_HVdj4Q",
+						"publishedAt": "2021-11-25T10:04:52Z",
+						"duration": "PT2M14S",
+						"viewCount": "2"
+					},
+					{
+						"id": "0KJxiQNRx6Q",
+						"title": "A Fleeting Moment (Rain)",
+						"channelTitle": "Treehouse Studios - Topic",
+						"channelId": "UCI0ngXjGu-shUwex4Ws1z1g",
+						"publishedAt": "2021-11-25T10:01:31Z",
+						"duration": "PT3M",
+						"viewCount": "3"
+					},
+					{
+						"id": "4IblwmCqWsE",
+						"title": "Dreaus (rain)",
+						"channelTitle": "Aquine - Topic",
+						"channelId": "UC5gWpFH_8LR5zxj1_47IYsw",
+						"publishedAt": "2023-09-13T01:25:06Z",
+						"duration": "PT3M17S",
+						"viewCount": "42"
+					},
+					{
+						"id": "bQstQST1GiM",
+						"title": "The CASCADES-Rhythm Of the Rain",
+						"channelTitle": "ksabond",
+						"channelId": "UCfHOJldqvLuzRaSxaOURiTg",
+						"publishedAt": "2008-05-26T01:33:41Z",
+						"duration": "PT2M38S",
+						"viewCount": "34546147"
+					},
+					{
+						"id": "MFKl8uGQCEE",
+						"title": "Bloomy (Rain)",
+						"channelTitle": "Dream Diver - Topic",
+						"channelId": "UCzPuFBwhOd8pIX0BjN7rJrg",
+						"publishedAt": "2022-01-20T10:02:22Z",
+						"duration": "PT2M28S",
+						"viewCount": "7"
+					},
+					{
+						"id": "Av_aZV24y4s",
+						"title": "Rain in Marsh - 4K UHD 3 Hours Relaxing Nature Sounds",
+						"channelTitle": "Goroukou Channel - Nature Sounds",
+						"channelId": "UCtCXinvOAbuEDs0Bt_oe6_Q",
+						"publishedAt": "2019-06-18T23:28:10Z",
+						"duration": "PT3H1S",
+						"viewCount": "798"
+					},
+					{
+						"id": "03ht0J-ctMg",
+						"title": "New Earth (Rain)",
+						"channelTitle": "Release - Topic",
+						"channelId": "UCHxjOx-88VQy3pWbrSc0Fxw",
+						"publishedAt": "2022-01-20T10:01:34Z",
+						"duration": "PT2M43S",
+						"viewCount": "0"
+					},
+					{
+						"id": "XzUk6Modd8E",
+						"title": "Clinic - Refractions (In The Rain) (Official Audio)",
+						"channelTitle": "Domino Recording Co.",
+						"channelId": "UCA8xMhX1DfxA8UKsfjn9vQg",
+						"publishedAt": "2021-10-18T10:00:18Z",
+						"duration": "PT5M20S",
+						"viewCount": "8757"
+					}
+				]
+			}
+		],
+		"updatedAt": "05052025"
+	},
+	"topSongs": {
+		"name": "Top Songs",
+		"songs": [
+			{
+				"id": "GR3Liudev18",
+				"title": "Chappell Roan - Pink Pony Club (Official Music Video)",
+				"channelTitle": "ChappellRoanVEVO",
+				"channelId": "UCBoNpX06hjs3_ASFftQEmww",
+				"publishedAt": "2020-04-03T14:13:14Z",
+				"duration": "PT4M41S",
+				"viewCount": "63435000"
+			},
+			{
+				"id": "MI9ZpIKgyf0",
+				"title": "Ed Sheeran - Azizam (Official Music Video)",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2025-04-17T16:00:06Z",
+				"duration": "PT3M28S",
+				"viewCount": "16445599"
+			},
+			{
+				"id": "k-k2_Liofy8",
+				"title": "Lola Young - Messy (Official Video)",
+				"channelTitle": "LolaYoungVEVO",
+				"channelId": "UCl1xqndU6q93JAwny39BmHw",
+				"publishedAt": "2024-05-30T17:30:05Z",
+				"duration": "PT4M45S",
+				"viewCount": "75641708"
+			},
+			{
+				"id": "ekr2nIex040",
+				"title": "ROSÉ & Bruno Mars - APT. (Official Music Video)",
+				"channelTitle": "ROSÉ",
+				"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+				"publishedAt": "2024-10-18T04:00:07Z",
+				"duration": "PT2M54S",
+				"viewCount": "1565974709"
+			},
+			{
+				"id": "AOz9V0NhJe8",
+				"title": "That’s So True",
+				"channelTitle": "Gracie Abrams - Topic",
+				"channelId": "UCw-0GSqznYHfyfDBBe6a46A",
+				"publishedAt": "2024-10-17T10:01:50Z",
+				"duration": "PT2M47S",
+				"viewCount": "42127145"
+			},
+			{
+				"id": "kPa7bsKwL-c",
+				"title": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
+				"channelTitle": "LadyGagaVEVO",
+				"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+				"publishedAt": "2024-08-16T04:00:36Z",
+				"duration": "PT4M13S",
+				"viewCount": "1019388137"
+			},
+			{
+				"id": "t7bQwwqW-Hc",
+				"title": "Shaboozey - A Bar Song (Tipsy) [Official Visualizer]",
+				"channelTitle": "ShaboozeyVEVO",
+				"channelId": "UCmdsVknXGS2145yy8eQvplw",
+				"publishedAt": "2024-04-12T04:00:36Z",
+				"duration": "PT2M54S",
+				"viewCount": "225503675"
+			},
+			{
+				"id": "Oa_RSwwpPaA",
+				"title": "Benson Boone - Beautiful Things (Official Music Video)",
+				"channelTitle": "Benson Boone",
+				"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+				"publishedAt": "2024-01-18T23:00:13Z",
+				"duration": "PT3M13S",
+				"viewCount": "639323186"
+			},
+			{
+				"id": "S8hFnd4k1FU",
+				"title": "NOKIA ノキア - VCC LEFT HAND ft. @VTHANG (Official Music Video)",
+				"channelTitle": "LEFT HAND",
+				"channelId": "UCPynlmR20SdT1VazbDrjO4g",
+				"publishedAt": "2024-03-08T11:30:07Z",
+				"duration": "PT4M55S",
+				"viewCount": "750350"
+			},
+			{
+				"id": "U8QhB8_0t2g",
+				"title": "Benson Boone - Mystical Magical (Official Lyric Video)",
+				"channelTitle": "Benson Boone",
+				"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+				"publishedAt": "2025-04-24T22:00:07Z",
+				"duration": "PT2M46S",
+				"viewCount": "3855647"
+			},
+			{
+				"id": "Qh8QwVYOSVU",
+				"title": "Teddy Swims - Bad Dreams (Official Music Video)",
+				"channelTitle": "Teddy Swims",
+				"channelId": "UCb-ikMqe9iS8GjG7WgGwCrQ",
+				"publishedAt": "2024-09-13T04:00:08Z",
+				"duration": "PT3M5S",
+				"viewCount": "109802302"
+			},
+			{
+				"id": "Z3aduh5fxCo",
+				"title": "WizTheMc, bees & honey - Show Me Love (Official Music Video)",
+				"channelTitle": "WizTheMc",
+				"channelId": "UCN5I2Hhhqp19gde4OJl2hGg",
+				"publishedAt": "2025-02-06T18:00:06Z",
+				"duration": "PT2M54S",
+				"viewCount": "13837330"
+			},
+			{
+				"id": "dX8orLrVwtY",
+				"title": "Sonny Fodera, Jazzy, D.O.D - Somedays [Official Music Video]",
+				"channelTitle": "Sonny Fodera",
+				"channelId": "UC0q_gYblgTWdeH6zCMTzrDw",
+				"publishedAt": "2024-07-26T08:00:06Z",
+				"duration": "PT3M32S",
+				"viewCount": "21136436"
+			},
+			{
+				"id": "eVli-tstM5E",
+				"title": "Sabrina Carpenter - Espresso (Official Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2024-04-12T14:00:07Z",
+				"duration": "PT3M21S",
+				"viewCount": "393191526"
+			},
+			{
+				"id": "cswfR85D7jM",
+				"title": "Ravyn Lenae - Love Me Not (Official Music Video)",
+				"channelTitle": "Ravyn Lenae",
+				"channelId": "UCtgNg5yxCyfjEE7Q7KeSmBw",
+				"publishedAt": "2024-05-03T04:00:06Z",
+				"duration": "PT3M39S",
+				"viewCount": "5198426"
+			},
+			{
+				"id": "KEG7b851Ric",
+				"title": "Sabrina Carpenter - Taste (Official Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2024-08-23T14:00:08Z",
+				"duration": "PT3M19S",
+				"viewCount": "180010451"
+			},
+			{
+				"id": "V9PVRfjEBTI",
+				"title": "Billie Eilish - BIRDS OF A FEATHER (Official Music Video)",
+				"channelTitle": "BillieEilishVEVO",
+				"channelId": "UCDGmojLIoWpXok597xYo8cg",
+				"publishedAt": "2024-09-27T15:00:38Z",
+				"duration": "PT3M51S",
+				"viewCount": "377503007"
+			},
+			{
+				"id": "t-knFuqQdGc",
+				"title": "CHRYSTAL - THE DAYS  (NOTION REMIX)",
+				"channelTitle": "NOTION",
+				"channelId": "UCCUppTBdYnq9hi3AfLJWB6w",
+				"publishedAt": "2024-11-11T20:01:53Z",
+				"duration": "PT3M54S",
+				"viewCount": "18474429"
+			},
+			{
+				"id": "7InTkBxPtK4",
+				"title": "Tate McRae - Sports car (Official Video)",
+				"channelTitle": "TateMcRaeVEVO",
+				"channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+				"publishedAt": "2025-01-24T05:00:06Z",
+				"duration": "PT3M8S",
+				"viewCount": "21189687"
+			},
+			{
+				"id": "tKml80alH3Y",
+				"title": "Myles Smith - Stargazing (Lyric Video)",
+				"channelTitle": "MylesSmithVEVO",
+				"channelId": "UCdE1usyA41BFzWwHbtlymrw",
+				"publishedAt": "2024-05-10T07:00:27Z",
+				"duration": "PT2M53S",
+				"viewCount": "59766283"
+			},
+			{
+				"id": "xdwK03WDJWk",
+				"title": "Charli XCX - party 4 u (Lyrics)",
+				"channelTitle": "Vibe Music",
+				"channelId": "UChO8h2G8UjOVc081rgYU8XQ",
+				"publishedAt": "2025-04-21T19:44:59Z",
+				"duration": "PT4M58S",
+				"viewCount": "1078272"
+			},
+			{
+				"id": "1UpoZpMBM9Y",
+				"title": "Lorde - What Was That",
+				"channelTitle": "Lorde",
+				"channelId": "UCOxhwqKKlVq_NaD0LVffGuw",
+				"publishedAt": "2025-04-24T04:00:05Z",
+				"duration": "PT3M29S",
+				"viewCount": "3185016"
+			},
+			{
+				"id": "x8VkB8ap_FQ",
+				"title": "Sabrina Carpenter - Bed Chem (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2024-08-23T04:00:47Z",
+				"duration": "PT2M52S",
+				"viewCount": "36363381"
+			},
+			{
+				"id": "4QIZE708gJ4",
+				"title": "Post Malone - I Had Some Help (feat. Morgan Wallen) (Official Video)",
+				"channelTitle": "PostMaloneVEVO",
+				"channelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
+				"publishedAt": "2024-05-10T14:00:06Z",
+				"duration": "PT3M22S",
+				"viewCount": "182467325"
+			},
+			{
+				"id": "KoM13RvBHrk",
+				"title": "Ed Sheeran - Old Phone (Lyric Video)",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2025-05-01T15:00:37Z",
+				"duration": "PT3M42S",
+				"viewCount": "1212747"
+			},
+			{
+				"id": "gGdGFtwCNBE",
+				"title": "The Killers - Mr. Brightside (Official Music Video)",
+				"channelTitle": "TheKillersVEVO",
+				"channelId": "UCjB3CzA-MwHrDzuXGweNiMg",
+				"publishedAt": "2009-06-16T22:53:31Z",
+				"duration": "PT3M48S",
+				"viewCount": "594201847"
+			},
+			{
+				"id": "O7Dt2L_rAhI",
+				"title": "Benson Boone - Sorry I'm Here For Someone Else (Official Lyric Video)",
+				"channelTitle": "Benson Boone",
+				"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+				"publishedAt": "2025-02-27T23:00:06Z",
+				"duration": "PT2M37S",
+				"viewCount": "5380690"
+			},
+			{
+				"id": "vBynw9Isr28",
+				"title": "Lady Gaga - Abracadabra (Official Music Video)",
+				"channelTitle": "LadyGagaVEVO",
+				"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+				"publishedAt": "2025-02-03T03:30:28Z",
+				"duration": "PT4M30S",
+				"viewCount": "124968742"
+			},
+			{
+				"id": "CtRn6eqVnvY",
+				"title": "sombr - undressed (official lyric video)",
+				"channelTitle": "sombr",
+				"channelId": "UCXlqFQmZZOb78teSnAqhuwA",
+				"publishedAt": "2025-03-21T04:01:24Z",
+				"duration": "PT3M3S",
+				"viewCount": "2903613"
+			},
+			{
+				"id": "6-KQ1tp_qOQ",
+				"title": "hellogoodbye  - Here In Your Arms",
+				"channelTitle": "drivethrurecords",
+				"channelId": "UC3IlLIvN2De6v0WDxXbs4XA",
+				"publishedAt": "2006-08-21T23:20:58Z",
+				"duration": "PT3M51S",
+				"viewCount": "10218283"
+			},
+			{
+				"id": "9gWIIIr2Asw",
+				"title": "Teddy Swims - Lose Control (The Village Sessions)",
+				"channelTitle": "Teddy Swims",
+				"channelId": "UCb-ikMqe9iS8GjG7WgGwCrQ",
+				"publishedAt": "2024-08-23T04:00:06Z",
+				"duration": "PT3M30S",
+				"viewCount": "116036399"
+			},
+			{
+				"id": "H58vbez_m4E",
+				"title": "Kendrick Lamar - Not Like Us",
+				"channelTitle": "KendrickLamarVEVO",
+				"channelId": "UCoYfzC2zMlc9M-Odgaf6OSg",
+				"publishedAt": "2024-07-04T23:00:09Z",
+				"duration": "PT5M55S",
+				"viewCount": "334789272"
+			},
+			{
+				"id": "iWG6apzIWAk",
+				"title": "Noah Kahan - Stick Season (Lyric Video)",
+				"channelTitle": "NoahKahanVEVO",
+				"channelId": "UCa7Req2QScZfzxUYtmlAcyg",
+				"publishedAt": "2022-07-08T04:00:30Z",
+				"duration": "PT3M3S",
+				"viewCount": "40479606"
+			},
+			{
+				"id": "l08Zw-RY__Q",
+				"title": "Billie Eilish - WILDFLOWER (Official Lyric Video)",
+				"channelTitle": "BillieEilishVEVO",
+				"channelId": "UCDGmojLIoWpXok597xYo8cg",
+				"publishedAt": "2024-05-17T04:00:33Z",
+				"duration": "PT4M22S",
+				"viewCount": "151458872"
+			},
+			{
+				"id": "1RKqOmSkGgM",
+				"title": "Chappell Roan - Good Luck, Babe! (Official Lyric Video)",
+				"channelTitle": "ChappellRoanVEVO",
+				"channelId": "UCBoNpX06hjs3_ASFftQEmww",
+				"publishedAt": "2024-04-05T04:00:02Z",
+				"duration": "PT3M39S",
+				"viewCount": "96191098"
+			},
+			{
+				"id": "vEfQjvi-JSw",
+				"title": "LISA - Dream (Lyric Video)",
+				"channelTitle": "LLOUD Official",
+				"channelId": "UC6-BgjsBa5R3PZQ_kZ8hKPg",
+				"publishedAt": "2025-02-28T05:02:15Z",
+				"duration": "PT3M44S",
+				"viewCount": "10779251"
+			},
+			{
+				"id": "VSXT4a2kRHA",
+				"title": "Teddy Swims - The Door (Official Music Video)",
+				"channelTitle": "Teddy Swims",
+				"channelId": "UCb-ikMqe9iS8GjG7WgGwCrQ",
+				"publishedAt": "2024-04-16T17:00:16Z",
+				"duration": "PT3M32S",
+				"viewCount": "169789059"
+			},
+			{
+				"id": "rwlFWWGaZ5Y",
+				"title": "Tate McRae - Revolving door (Official Video)",
+				"channelTitle": "TateMcRaeVEVO",
+				"channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+				"publishedAt": "2025-02-21T05:30:06Z",
+				"duration": "PT3M55S",
+				"viewCount": "17300330"
+			},
+			{
+				"id": "w-gW9FUiNYI",
+				"title": "Davido - With You (Official Audio) ft. Omah Lay",
+				"channelTitle": "DavidoVEVO",
+				"channelId": "UCQJOYS9v30qM74f6gZDk0TA",
+				"publishedAt": "2025-04-18T07:00:54Z",
+				"duration": "PT2M18S",
+				"viewCount": "2989827"
+			},
+			{
+				"id": "BtuSZoHk16I",
+				"title": "Skye Newman - Hairdresser (Lyrics)",
+				"channelTitle": "Polaris Lyrics",
+				"channelId": "UCVKxhLGZXc0gEOnJhNhAe8A",
+				"publishedAt": "2025-03-28T00:00:17Z",
+				"duration": "PT3M28S",
+				"viewCount": "217601"
+			},
+			{
+				"id": "4iSEJB1KJ0w",
+				"title": "The Weeknd - All I Know (Audio) ft. Future",
+				"channelTitle": "TheWeekndVEVO",
+				"channelId": "UCF_fDSgPpBQuh1MsUTgIARQ",
+				"publishedAt": "2023-03-14T23:40:43Z",
+				"duration": "PT5M22S",
+				"viewCount": "2656260"
+			},
+			{
+				"id": "DubtPdXXjew",
+				"title": "Chappell Roan - The Giver (Official Lyric Video)",
+				"channelTitle": "ChappellRoanVEVO",
+				"channelId": "UCBoNpX06hjs3_ASFftQEmww",
+				"publishedAt": "2025-03-14T04:00:17Z",
+				"duration": "PT3M23S",
+				"viewCount": "5770222"
+			},
+			{
+				"id": "3m6NBnqLc-g",
+				"title": "Sabrina Carpenter - Busy Woman (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-02-14T05:00:03Z",
+				"duration": "PT3M7S",
+				"viewCount": "10472327"
+			},
+			{
+				"id": "NTpbbQUBbuo",
+				"title": "Hozier - Too Sweet (Official Video)",
+				"channelTitle": "HozierVEVO",
+				"channelId": "UCdOcBpu5O2V0JhFFs9k-Ouw",
+				"publishedAt": "2024-05-10T18:00:08Z",
+				"duration": "PT4M9S",
+				"viewCount": "147719778"
+			}
+		],
+		"updatedAt": "05052025"
+	}
+}

@@ -1,0 +1,10 @@
+*.js
+*.sh
+
+node_modules/
+.env
+
+package-lock.json
+package.json
+
+abc
