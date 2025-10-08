@@ -1,0 +1,756 @@
+{
+	"hotTracks": {
+		"name": "인기 앨범",
+		"results": [
+			{
+				"name": "COLOR - The 3rd Mini Album",
+				"songs": [
+					{
+						"id": "R95f7VwXqIw",
+						"title": "Badfinger - Baby Blue (Breaking Bad Soundtrack) (HQ) 1080p",
+						"channelTitle": "SS Taker Gaming",
+						"channelId": "UCdH8g3ZvWKqFmpEnUDoNHiQ",
+						"publishedAt": "2013-10-14T05:06:20Z",
+						"duration": "PT3M37S",
+						"viewCount": "18379802"
+					},
+					{
+						"id": "1pyO6oNmACs",
+						"title": "NCT WISH 엔시티 위시 'Surf' MV",
+						"channelTitle": "SMTOWN",
+						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+						"publishedAt": "2025-08-12T09:00:05Z",
+						"duration": "PT3M48S",
+						"viewCount": "4539938"
+					},
+					{
+						"id": "4VvbSmlcGxo",
+						"title": "Cheat Code",
+						"channelTitle": "NCT WISH - Topic",
+						"channelId": "UCGGfNJ-9gCAdufnWHZFvzTA",
+						"publishedAt": "2025-09-01T09:41:32Z",
+						"duration": "PT3M1S",
+						"viewCount": "105007"
+					},
+					{
+						"id": "5cIo87AEbeY",
+						"title": "Videohood",
+						"channelTitle": "NCT WISH - Topic",
+						"channelId": "UCGGfNJ-9gCAdufnWHZFvzTA",
+						"publishedAt": "2025-09-01T09:41:32Z",
+						"duration": "PT3M1S",
+						"viewCount": "85371"
+					},
+					{
+						"id": "BKJlyleaaqM",
+						"title": "WICHU",
+						"channelTitle": "NCT WISH - Topic",
+						"channelId": "UCGGfNJ-9gCAdufnWHZFvzTA",
+						"publishedAt": "2025-09-01T09:41:31Z",
+						"duration": "PT3M28S",
+						"viewCount": "91414"
+					},
+					{
+						"id": "KO2xk8JyCc4",
+						"title": "고양이 릴스 Reel-ationship",
+						"channelTitle": "NCT WISH - Topic",
+						"channelId": "UCGGfNJ-9gCAdufnWHZFvzTA",
+						"publishedAt": "2025-09-01T09:41:32Z",
+						"duration": "PT3M9S",
+						"viewCount": "97175"
+					}
+				]
+			},
+			{
+				"name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+				"songs": [
+					{
+						"id": "Sz_wWzgh-vQ",
+						"title": "TWICE “Strategy (feat. Megan Thee Stallion)” M/V",
+						"channelTitle": "JYP Entertainment",
+						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+						"publishedAt": "2024-12-06T04:59:07Z",
+						"duration": "PT3M51S",
+						"viewCount": "98658347"
+					},
+					{
+						"id": "vI3NYut7NKg",
+						"title": "Path (오솔길)",
+						"channelTitle": "죠커스 - Topic",
+						"channelId": "UC2lHeK_pJ4Skg8gDch8T66g",
+						"publishedAt": "2021-12-01T05:04:08Z",
+						"duration": "PT3M44S",
+						"viewCount": "69123"
+					}
+				]
+			},
+			{
+				"name": "FANG - EP",
+				"songs": [
+					{
+						"id": "ASrPNZlR8FM",
+						"title": "2-5-1 C Major Backing Track",
+						"channelTitle": "Alberto Scarano Musica",
+						"channelId": "UCcIilekI7qlOYEalYkW40AQ",
+						"publishedAt": "2020-05-15T22:05:16Z",
+						"duration": "PT5M19S",
+						"viewCount": "926767"
+					},
+					{
+						"id": "8EdC-6L4C-Y",
+						"title": "FREQUENCY (Feat. Loco)",
+						"channelTitle": "Crush - Topic",
+						"channelId": "UCt0DL6mxwl5As1B5eFJO2tQ",
+						"publishedAt": "2025-08-28T09:04:35Z",
+						"duration": "PT3M33S",
+						"viewCount": "247236"
+					},
+					{
+						"id": "xFYwiAtRMqA",
+						"title": "$ATIVA x 16 Typh - Malibu (Lyric Video)",
+						"channelTitle": "16 NorthSide",
+						"channelId": "UCpMQVp9gpzIdotkQEMKnfgg",
+						"publishedAt": "2018-12-27T15:21:38Z",
+						"duration": "PT2M55S",
+						"viewCount": "1770378"
+					},
+					{
+						"id": "akQXXV7K5AY",
+						"title": "MAMMAMIA (Feat. Tabber)",
+						"channelTitle": "Crush - Topic",
+						"channelId": "UCt0DL6mxwl5As1B5eFJO2tQ",
+						"publishedAt": "2025-08-28T09:04:31Z",
+						"duration": "PT2M45S",
+						"viewCount": "110009"
+					}
+				]
+			},
+			{
+				"name": "F1 The Album",
+				"songs": [
+					{
+						"id": "WWEs82u37Mw",
+						"title": "Don Toliver - Lose My Mind (feat. Doja Cat) [From F1® The Movie] [Official Music Video]",
+						"channelTitle": "Don Toliver",
+						"channelId": "UCgT01FILdWB9BsXBXKjpQ7A",
+						"publishedAt": "2025-04-30T16:00:06Z",
+						"duration": "PT3M30S",
+						"viewCount": "23966400"
+					},
+					{
+						"id": "KFapxdAvi74",
+						"title": "Dom Dolla - No Room For A Saint (feat. Nathan Nicholson) [From F1® The Movie]",
+						"channelTitle": "Dom Dolla",
+						"channelId": "UCUPWpXNpsqc0A_IWvBZRSOw",
+						"publishedAt": "2025-05-16T04:04:40Z",
+						"duration": "PT3M58S",
+						"viewCount": "676219"
+					},
+					{
+						"id": "Cf1hKtrA9lg",
+						"title": "Ed Sheeran - Drive (From F1® The Movie) [Official Music Video]",
+						"channelTitle": "Ed Sheeran",
+						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+						"publishedAt": "2025-06-20T13:01:13Z",
+						"duration": "PT3M10S",
+						"viewCount": "11277201"
+					},
+					{
+						"id": "dpvQqmX6SUI",
+						"title": "Tate McRae - Just Keep Watching (From F1® The Movie) (Official Video)",
+						"channelTitle": "Tate McRae",
+						"channelId": "UCQh6LB206jF3JxpCDD-fp5Q",
+						"publishedAt": "2025-05-30T04:00:06Z",
+						"duration": "PT2M27S",
+						"viewCount": "31966495"
+					},
+					{
+						"id": "ia2Ph61bYzc",
+						"title": "ROSÉ - Messy (From F1® The Movie) [Official Music Video]",
+						"channelTitle": "ROSÉ",
+						"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+						"publishedAt": "2025-05-08T16:00:07Z",
+						"duration": "PT3M5S",
+						"viewCount": "50347665"
+					},
+					{
+						"id": "h35Nhha7qQI",
+						"title": "Burna Boy - Don't Let Me Drown (From F1® The Movie) [Official Video]",
+						"channelTitle": "Burna Boy",
+						"channelId": "UCEzDdNqNkT-7rSfSGSr1hWg",
+						"publishedAt": "2025-06-27T04:00:52Z",
+						"duration": "PT3M6S",
+						"viewCount": "2574443"
+					},
+					{
+						"id": "qW4Tc1vVLIc",
+						"title": "Roddy Ricch - Underdog (From F1® The Movie) [Official Visualizer]",
+						"channelTitle": "Roddy Ricch",
+						"channelId": "UChQdA1rid5kKZh6oIc6DLNg",
+						"publishedAt": "2025-06-13T04:13:43Z",
+						"duration": "PT2M23S",
+						"viewCount": "1258578"
+					},
+					{
+						"id": "0DDTgoeieik",
+						"title": "Grandma Calls The Boy Bad News",
+						"channelTitle": "RAYE - Topic",
+						"channelId": "UCvyjk7zKlaFyNIPZ-Pyvkng",
+						"publishedAt": "2025-06-26T10:03:22Z",
+						"duration": "PT3M27S",
+						"viewCount": "571729"
+					},
+					{
+						"id": "p13Cn0mONP8",
+						"title": "Chris Stapleton - Bad As I Used To Be (From F1® The Movie) [Official Visualizer]",
+						"channelTitle": "Chris Stapleton",
+						"channelId": "UCsdXkstc8jFC3zpMYdEz_zA",
+						"publishedAt": "2025-05-22T16:01:20Z",
+						"duration": "PT5M",
+						"viewCount": "1728661"
+					},
+					{
+						"id": "5QCZPABbTQU",
+						"title": "Myke Towers - Baja California (From F1®️ The Movie) [Official Visualizer]",
+						"channelTitle": "Myke Towers",
+						"channelId": "UCLk8IJ1TwI7Xl7UUfAD8xPQ",
+						"publishedAt": "2025-05-23T04:00:07Z",
+						"duration": "PT2M24S",
+						"viewCount": "449129"
+					},
+					{
+						"id": "sVTy_wmn5SU",
+						"title": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1)",
+						"channelTitle": "HYBE LABELS",
+						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+						"publishedAt": "2023-01-03T11:30:01Z",
+						"duration": "PT3M40S",
+						"viewCount": "347538428"
+					},
+					{
+						"id": "De-c6pT1biQ",
+						"title": "Whitney Houston - All At Once (Official Audio)",
+						"channelTitle": "whitneyhoustonVEVO",
+						"channelId": "UCG5fkJ8-2b2ZjWpVNpr7Dqg",
+						"publishedAt": "2019-10-25T07:01:07Z",
+						"duration": "PT4M31S",
+						"viewCount": "15862464"
+					},
+					{
+						"id": "iC-hlli6ShE",
+						"title": "PAWSA - DOUBLE C (From F1® The Movie)",
+						"channelTitle": "PAWSA",
+						"channelId": "UC-VLsQ7ZAgHGKNuFe_brN_Q",
+						"publishedAt": "2025-06-26T23:00:06Z",
+						"duration": "PT3M48S",
+						"viewCount": "318528"
+					},
+					{
+						"id": "nfs8NYg7yQM",
+						"title": "Charlie Puth - Attention [Official Video]",
+						"channelTitle": "Charlie Puth",
+						"channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+						"publishedAt": "2017-04-24T17:00:05Z",
+						"duration": "PT3M52S",
+						"viewCount": "1701537529"
+					},
+					{
+						"id": "FOjdXSrtUxA",
+						"title": "Ed Sheeran - Give Me Love (Official Music Video)",
+						"channelTitle": "Ed Sheeran",
+						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+						"publishedAt": "2012-11-09T20:00:09Z",
+						"duration": "PT4M23S",
+						"viewCount": "679487721"
+					},
+					{
+						"id": "zRHNi3QfFlE",
+						"title": "Halsey - Gasoline (Audio)",
+						"channelTitle": "HalseyVEVO",
+						"channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+						"publishedAt": "2015-08-28T07:00:02Z",
+						"duration": "PT3M18S",
+						"viewCount": "152196335"
+					},
+					{
+						"id": "WWEs82u37Mw",
+						"title": "Don Toliver - Lose My Mind (feat. Doja Cat) [From F1® The Movie] [Official Music Video]",
+						"channelTitle": "Don Toliver",
+						"channelId": "UCgT01FILdWB9BsXBXKjpQ7A",
+						"publishedAt": "2025-04-30T16:00:06Z",
+						"duration": "PT3M30S",
+						"viewCount": "23966400"
+					},
+					{
+						"id": "Cf1hKtrA9lg",
+						"title": "Ed Sheeran - Drive (From F1® The Movie) [Official Music Video]",
+						"channelTitle": "Ed Sheeran",
+						"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+						"publishedAt": "2025-06-20T13:01:13Z",
+						"duration": "PT3M10S",
+						"viewCount": "11277201"
+					},
+					{
+						"id": "dpvQqmX6SUI",
+						"title": "Tate McRae - Just Keep Watching (From F1® The Movie) (Official Video)",
+						"channelTitle": "Tate McRae",
+						"channelId": "UCQh6LB206jF3JxpCDD-fp5Q",
+						"publishedAt": "2025-05-30T04:00:06Z",
+						"duration": "PT2M27S",
+						"viewCount": "31966495"
+					},
+					{
+						"id": "ia2Ph61bYzc",
+						"title": "ROSÉ - Messy (From F1® The Movie) [Official Music Video]",
+						"channelTitle": "ROSÉ",
+						"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+						"publishedAt": "2025-05-08T16:00:07Z",
+						"duration": "PT3M5S",
+						"viewCount": "50347665"
+					},
+					{
+						"id": "h35Nhha7qQI",
+						"title": "Burna Boy - Don't Let Me Drown (From F1® The Movie) [Official Video]",
+						"channelTitle": "Burna Boy",
+						"channelId": "UCEzDdNqNkT-7rSfSGSr1hWg",
+						"publishedAt": "2025-06-27T04:00:52Z",
+						"duration": "PT3M6S",
+						"viewCount": "2574443"
+					}
+				]
+			}
+		],
+		"updatedAt": "09022025"
+	},
+	"topAlbums": {
+		"name": "인기 플레이리스트",
+		"results": [
+			{
+				"name": "KPOPWRLD",
+				"songs": [
+					{
+						"id": "5oQVTnq-UKk",
+						"title": "aespa 에스파 'Rich Man' MV",
+						"channelTitle": "SMTOWN",
+						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+						"publishedAt": "2025-09-05T04:00:14Z",
+						"duration": "PT3M30S",
+						"viewCount": "36460167"
+					},
+					{
+						"id": "ufwB9Uja_wM",
+						"title": "Hearts2Hearts 하츠투하츠 'Pretty Please' MV",
+						"channelTitle": "SMTOWN",
+						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+						"publishedAt": "2025-09-24T09:01:22Z",
+						"duration": "PT3M43S",
+						"viewCount": "6902592"
+					},
+					{
+						"id": "CgCVZdcKcqY",
+						"title": "BLACKPINK - ‘뛰어(JUMP)’ M/V",
+						"channelTitle": "BLACKPINK",
+						"channelId": "UCOmHUn--16B90oW2L6FRR3A",
+						"publishedAt": "2025-07-11T04:00:07Z",
+						"duration": "PT3M14S",
+						"viewCount": "233957808"
+					},
+					{
+						"id": "lxPeCtiXor8",
+						"title": "HURRYKNG, REX, HIEUTHUHAI, Negav, MANBO - Mamma Mia (prod. by Kewtiie) [Official Video]",
+						"channelTitle": "GERDNANG",
+						"channelId": "UCBn8vao0H6PvLFeNa4CpsfA",
+						"publishedAt": "2022-05-27T14:00:12Z",
+						"duration": "PT4M16S",
+						"viewCount": "35258649"
+					},
+					{
+						"id": "u89aNeJlyg0",
+						"title": "에스쿱스X민규 (SEVENTEEN) '5, 4, 3 (Pretty woman) (feat. Lay Bankz)' Official MV",
+						"channelTitle": "HYBE LABELS",
+						"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+						"publishedAt": "2025-09-29T08:58:07Z",
+						"duration": "PT3M53S",
+						"viewCount": "11242855"
+					},
+					{
+						"id": "B1ShLiq3EVc",
+						"title": "IVE 아이브 ‘XOXZ’ MV",
+						"channelTitle": "STARSHIP",
+						"channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+						"publishedAt": "2025-08-25T09:00:05Z",
+						"duration": "PT2M38S",
+						"viewCount": "20538674"
+					}
+				]
+			}
+		],
+		"updatedAt": "10082025"
+	},
+	"topSongs": {
+		"name": "인기곡",
+		"songs": [
+			{
+				"id": "1pyO6oNmACs",
+				"title": "NCT WISH 엔시티 위시 'Surf' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2025-08-12T09:00:05Z",
+				"duration": "PT3M48S",
+				"viewCount": "4540118"
+			},
+			{
+				"id": "VjvzYjU1mY0",
+				"title": "ALLDAY PROJECT - ‘FAMOUS’ M/V",
+				"channelTitle": "THEBLACKLABEL",
+				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+				"publishedAt": "2025-06-16T09:00:08Z",
+				"duration": "PT3M9S",
+				"viewCount": "38411708"
+			},
+			{
+				"id": "CgCVZdcKcqY",
+				"title": "BLACKPINK - ‘뛰어(JUMP)’ M/V",
+				"channelTitle": "BLACKPINK",
+				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
+				"publishedAt": "2025-07-11T04:00:07Z",
+				"duration": "PT3M14S",
+				"viewCount": "184397436"
+			},
+			{
+				"id": "WWEs82u37Mw",
+				"title": "Don Toliver - Lose My Mind (feat. Doja Cat) [From F1® The Movie] [Official Music Video]",
+				"channelTitle": "Don Toliver",
+				"channelId": "UCgT01FILdWB9BsXBXKjpQ7A",
+				"publishedAt": "2025-04-30T16:00:06Z",
+				"duration": "PT3M30S",
+				"viewCount": "23967013"
+			},
+			{
+				"id": "negtrQu5mTA",
+				"title": "ILLIT (아일릿) '빌려온 고양이 (Do the Dance)' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2025-06-16T08:58:07Z",
+				"duration": "PT3M22S",
+				"viewCount": "30954993"
+			},
+			{
+				"id": "-CmadmM5cOk",
+				"title": "Taylor Swift - Style",
+				"channelTitle": "TaylorSwiftVEVO",
+				"channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+				"publishedAt": "2015-02-13T13:20:01Z",
+				"duration": "PT4M3S",
+				"viewCount": "916713088"
+			},
+			{
+				"id": "mhKCRnUKp5U",
+				"title": "ALLDAY PROJECT - ‘WICKED’ PERFORMANCE VIDEO (VER. A - MOVIE SET)",
+				"channelTitle": "THEBLACKLABEL",
+				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+				"publishedAt": "2025-06-23T09:01:03Z",
+				"duration": "PT2M46S",
+				"viewCount": "18820261"
+			},
+			{
+				"id": "19oT04OuBhg",
+				"title": "이찬혁 (LEE CHANHYUK) - '멸종위기사랑' M/V",
+				"channelTitle": "AKMU",
+				"channelId": "UCIcXK1CI8URMIqNO_1cehiQ",
+				"publishedAt": "2025-07-16T09:00:07Z",
+				"duration": "PT3M50S",
+				"viewCount": "3814569"
+			},
+			{
+				"id": "rDolt3jJRsM",
+				"title": "ENHYPEN (엔하이픈) 'No Doubt' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2024-11-11T08:56:07Z",
+				"duration": "PT3M5S",
+				"viewCount": "63239620"
+			},
+			{
+				"id": "GZXHBgjQjNM",
+				"title": "Backstreet Boys - Drowning (Official HD Video)",
+				"channelTitle": "BackstreetBoysVEVO",
+				"channelId": "UCUFdeo1oLLH_QPlaQfZrqbg",
+				"publishedAt": "2011-04-06T07:23:38Z",
+				"duration": "PT4M32S",
+				"viewCount": "272265434"
+			},
+			{
+				"id": "e2OpbOv_JiQ",
+				"title": "CORTIS (코르티스) 'What You Want' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2025-08-19T15:00:00Z",
+				"duration": "PT3M20S",
+				"viewCount": "7201630"
+			},
+			{
+				"id": "jWQx2f-CErU",
+				"title": "aespa 에스파 'Whiplash' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2024-10-21T09:00:42Z",
+				"duration": "PT3M11S",
+				"viewCount": "219691841"
+			},
+			{
+				"id": "M2WTUoy4y6E",
+				"title": "aespa 에스파 'Dirty Work' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2025-06-27T03:59:07Z",
+				"duration": "PT3M10S",
+				"viewCount": "60271227"
+			},
+			{
+				"id": "h0KIWaUEIgQ",
+				"title": "[MV] 한로로 (HANRORO) - 사랑하게 될 거야 (Landing in Love)",
+				"channelTitle": "한로로 HANRORO",
+				"channelId": "UCrDa_5OU-rhvXqWlPx5hgKQ",
+				"publishedAt": "2023-08-30T09:00:02Z",
+				"duration": "PT2M47S",
+				"viewCount": "714231"
+			},
+			{
+				"id": "u5wMLWs6LSs",
+				"title": "KiiiKiii 키키 'DANCING ALONE' MV",
+				"channelTitle": "STARSHIP",
+				"channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+				"publishedAt": "2025-08-06T09:00:30Z",
+				"duration": "PT3M37S",
+				"viewCount": "9364246"
+			},
+			{
+				"id": "eA0lHNZ1KCA",
+				"title": "ROSÉ - toxic till the end (OFFICIAL MUSIC VIDEO)",
+				"channelTitle": "ROSÉ",
+				"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+				"publishedAt": "2024-12-06T05:00:06Z",
+				"duration": "PT3M54S",
+				"viewCount": "110231239"
+			},
+			{
+				"id": "GF_FPaRCUmE",
+				"title": "FLIRT (Feat. Leellamarz)",
+				"channelTitle": "Way Ched - Topic",
+				"channelId": "UCoERzGw4bv2nRMoMOJFwmkQ",
+				"publishedAt": "2023-11-12T09:01:37Z",
+				"duration": "PT3M2S",
+				"viewCount": "8376298"
+			},
+			{
+				"id": "msGuqelopMA",
+				"title": "Justin Bieber - DAISIES (Audio)",
+				"channelTitle": "JustinBieberVEVO",
+				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+				"publishedAt": "2025-07-11T04:23:53Z",
+				"duration": "PT2M57S",
+				"viewCount": "20380823"
+			},
+			{
+				"id": "ia2Ph61bYzc",
+				"title": "ROSÉ - Messy (From F1® The Movie) [Official Music Video]",
+				"channelTitle": "ROSÉ",
+				"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+				"publishedAt": "2025-05-08T16:00:07Z",
+				"duration": "PT3M5S",
+				"viewCount": "50348572"
+			},
+			{
+				"id": "Vk5-c_v4gMU",
+				"title": "ILLIT (아일릿) ‘Magnetic’ Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2024-03-25T08:58:08Z",
+				"duration": "PT3M9S",
+				"viewCount": "249602125"
+			},
+			{
+				"id": "Q3K0TOvTOno",
+				"title": "NewJeans (뉴진스) 'How Sweet' Official MV",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2024-05-24T07:00:00Z",
+				"duration": "PT4M3S",
+				"viewCount": "65582121"
+			},
+			{
+				"id": "FBr4hA9L90s",
+				"title": "NCT WISH 엔시티 위시 'Baby Blue' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2025-08-25T15:00:21Z",
+				"duration": "PT3M50S",
+				"viewCount": "869025"
+			},
+			{
+				"id": "JSFG-IE8n_c",
+				"title": "JENNIE - like JENNIE (Official Video)",
+				"channelTitle": "JennieRubyJaneVEVO",
+				"channelId": "UCN9_L9lA9kqJbGANLRus_1A",
+				"publishedAt": "2025-03-07T05:00:06Z",
+				"duration": "PT3M3S",
+				"viewCount": "174033707"
+			},
+			{
+				"id": "4VvbSmlcGxo",
+				"title": "Cheat Code",
+				"channelTitle": "NCT WISH - Topic",
+				"channelId": "UCGGfNJ-9gCAdufnWHZFvzTA",
+				"publishedAt": "2025-09-01T09:41:32Z",
+				"duration": "PT3M1S",
+				"viewCount": "105714"
+			},
+			{
+				"id": "5C5lcn1GYfM",
+				"title": "JEON SOMI(전소미) - ‘CLOSER’ M/V",
+				"channelTitle": "THEBLACKLABEL",
+				"channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+				"publishedAt": "2025-08-11T08:59:57Z",
+				"duration": "PT2M47S",
+				"viewCount": "17575591"
+			},
+			{
+				"id": "KO2xk8JyCc4",
+				"title": "고양이 릴스 Reel-ationship",
+				"channelTitle": "NCT WISH - Topic",
+				"channelId": "UCGGfNJ-9gCAdufnWHZFvzTA",
+				"publishedAt": "2025-09-01T09:41:32Z",
+				"duration": "PT3M9S",
+				"viewCount": "97923"
+			},
+			{
+				"id": "nfs8NYg7yQM",
+				"title": "Charlie Puth - Attention [Official Video]",
+				"channelTitle": "Charlie Puth",
+				"channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+				"publishedAt": "2017-04-24T17:00:05Z",
+				"duration": "PT3M52S",
+				"viewCount": "1701538689"
+			},
+			{
+				"id": "kxUA2wwYiME",
+				"title": "Hearts2Hearts 하츠투하츠 'The Chase' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2025-02-24T09:00:52Z",
+				"duration": "PT3M14S",
+				"viewCount": "26108836"
+			},
+			{
+				"id": "wYs4ixfRfsA",
+				"title": "리도어 (Redoor) - 영원은 그렇듯",
+				"channelTitle": "Oh! Indie - 오인디 [오늘의 인디]",
+				"channelId": "UCbuCrnrxwo-jjd_oIInFkcQ",
+				"publishedAt": "2023-03-04T09:00:37Z",
+				"duration": "PT3M58S",
+				"viewCount": "243798"
+			},
+			{
+				"id": "11cta61wi0g",
+				"title": "NewJeans (뉴진스) 'Hype Boy' Official MV (Performance ver.1)",
+				"channelTitle": "HYBE LABELS",
+				"channelId": "UC3IZKseVpdzPSBaWxBxundA",
+				"publishedAt": "2022-08-18T09:00:01Z",
+				"duration": "PT2M58S",
+				"viewCount": "226164724"
+			},
+			{
+				"id": "3i1n31bPPLI",
+				"title": "카더가든 - 가까운 듯 먼 그대여 / 가사",
+				"channelTitle": "Music is my life",
+				"channelId": "UCaZhnsQ36GIYYQ1sbxKeMDg",
+				"publishedAt": "2021-08-28T09:58:12Z",
+				"duration": "PT3M45S",
+				"viewCount": "2328801"
+			},
+			{
+				"id": "BKJlyleaaqM",
+				"title": "WICHU",
+				"channelTitle": "NCT WISH - Topic",
+				"channelId": "UCGGfNJ-9gCAdufnWHZFvzTA",
+				"publishedAt": "2025-09-01T09:41:31Z",
+				"duration": "PT3M28S",
+				"viewCount": "91991"
+			},
+			{
+				"id": "TQ8WlA2GXbk",
+				"title": "Official髭男dism - Pretender［Official Video］",
+				"channelTitle": "Official髭男dism",
+				"channelId": "UC3vg17IZ1IV73xx069jG44w",
+				"publishedAt": "2019-04-16T13:58:12Z",
+				"duration": "PT5M36S",
+				"viewCount": "584588518"
+			},
+			{
+				"id": "5cIo87AEbeY",
+				"title": "Videohood",
+				"channelTitle": "NCT WISH - Topic",
+				"channelId": "UCGGfNJ-9gCAdufnWHZFvzTA",
+				"publishedAt": "2025-09-01T09:41:32Z",
+				"duration": "PT3M1S",
+				"viewCount": "85965"
+			},
+			{
+				"id": "N2dsnGc7TFk",
+				"title": "Raiden X 찬열 CHANYEOL 'Yours (Feat. 이하이, 창모)' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2020-05-12T09:00:00Z",
+				"duration": "PT3M57S",
+				"viewCount": "107213071"
+			},
+			{
+				"id": "Cf1hKtrA9lg",
+				"title": "Ed Sheeran - Drive (From F1® The Movie) [Official Music Video]",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2025-06-20T13:01:13Z",
+				"duration": "PT3M10S",
+				"viewCount": "11277372"
+			},
+			{
+				"id": "74_yqNBhQbA",
+				"title": "백예린 (Yerin Baek) 'Antifreeze' Lyric Video",
+				"channelTitle": "Yerin Baek",
+				"channelId": "UCYoNPLKd1kXh4v3bvIx1pTA",
+				"publishedAt": "2021-09-10T09:00:03Z",
+				"duration": "PT4M15S",
+				"viewCount": "10768603"
+			},
+			{
+				"id": "phuiiNCxRMg",
+				"title": "aespa 에스파 'Supernova' MV",
+				"channelTitle": "SMTOWN",
+				"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+				"publishedAt": "2024-05-13T09:00:41Z",
+				"duration": "PT3M14S",
+				"viewCount": "214133177"
+			},
+			{
+				"id": "zMWaQ-D0g3o",
+				"title": "마크툽님의 샤라웃 그리고 천만 조회수까지.. 오래 기다리셨습니다 마크툽(Maktub) - 시작의 아이",
+				"channelTitle": "빡다혜dahye",
+				"channelId": "UC9dFUbTR3tqQgnkFs_GUsAg",
+				"publishedAt": "2025-05-26T22:30:20Z",
+				"duration": "PT4M14S",
+				"viewCount": "16760051"
+			},
+			{
+				"id": "kPa7bsKwL-c",
+				"title": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
+				"channelTitle": "LadyGagaVEVO",
+				"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+				"publishedAt": "2024-08-16T04:00:36Z",
+				"duration": "PT4M13S",
+				"viewCount": "1292013351"
+			}
+		],
+		"updatedAt": "09022025"
+	}
+}

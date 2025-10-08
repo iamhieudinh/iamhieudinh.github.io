@@ -1,0 +1,561 @@
+{
+	"hotTracks": {
+		"name": "Top Albums",
+		"results": [
+			{
+				"name": "The Life of a Showgirl",
+				"songs": [
+					{
+						"id": "rbmdfEQODOw",
+						"title": "Taylor Swift - The Fate of Ophelia (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-06T00:10:17Z",
+						"duration": "PT3M50S",
+						"viewCount": "1203142"
+					},
+					{
+						"id": "7X5iDKPrZH0",
+						"title": "Taylor Swift - Elizabeth Taylor (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:06:06Z",
+						"duration": "PT3M32S",
+						"viewCount": "1956023"
+					},
+					{
+						"id": "3PJC6uPIekc",
+						"title": "Taylor Swift - Opalite (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:10:06Z",
+						"duration": "PT3M59S",
+						"viewCount": "2333164"
+					},
+					{
+						"id": "98SmlWOKuME",
+						"title": "Taylor Swift - Father Figure (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:15:06Z",
+						"duration": "PT3M36S",
+						"viewCount": "1457037"
+					},
+					{
+						"id": "HwQnW_ZRKhc",
+						"title": "Taylor Swift - Eldest Daughter (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:19:06Z",
+						"duration": "PT4M10S",
+						"viewCount": "1300607"
+					},
+					{
+						"id": "WQCPl5rTMDQ",
+						"title": "Taylor Swift - Ruin The Friendship (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:24:06Z",
+						"duration": "PT3M45S",
+						"viewCount": "1009279"
+					},
+					{
+						"id": "FnEg1RgmqO4",
+						"title": "Taylor Swift - Actually Romantic (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:29:06Z",
+						"duration": "PT2M49S",
+						"viewCount": "1174881"
+					},
+					{
+						"id": "wqgUzLHgNMI",
+						"title": "Taylor Swift - Wi$h Li$t (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:33:06Z",
+						"duration": "PT3M32S",
+						"viewCount": "1111258"
+					},
+					{
+						"id": "6m50keINEOI",
+						"title": "Taylor Swift - Wood (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:37:06Z",
+						"duration": "PT2M35S",
+						"viewCount": "1360977"
+					},
+					{
+						"id": "F-5XoUZ42Tc",
+						"title": "Taylor Swift - CANCELLED! (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:40:06Z",
+						"duration": "PT3M36S",
+						"viewCount": "1217456"
+					}
+				]
+			}
+		],
+		"updatedAt": "10082025"
+	},
+	"topAlbums": {
+		"name": "Top Playlists",
+		"results": [
+			{
+				"name": "Today’s Hits",
+				"songs": [
+					{
+						"id": "rbmdfEQODOw",
+						"title": "Taylor Swift - The Fate of Ophelia (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-06T00:10:17Z",
+						"duration": "PT3M50S",
+						"viewCount": "1203880"
+					},
+					{
+						"id": "oIv_Y2RPQ_A",
+						"title": "Olivia Dean - Man I Need",
+						"channelTitle": "OliviaDeanVEVO",
+						"channelId": "UCYKlku5Zg5FnAc3bgY7kQnA",
+						"publishedAt": "2025-08-15T14:01:14Z",
+						"duration": "PT3M22S",
+						"viewCount": "8494873"
+					},
+					{
+						"id": "rK5TyISxZ_M",
+						"title": "RAYE - WHERE IS MY HUSBAND! (Official Music Video)",
+						"channelTitle": "RAYE",
+						"channelId": "UCw5z_dopYnvEL6Rc8KNKsnw",
+						"publishedAt": "2025-09-18T23:00:06Z",
+						"duration": "PT3M18S",
+						"viewCount": "8976401"
+					},
+					{
+						"id": "XQan9L3yXjc",
+						"title": "Blessings - Laura Story (with lyrics)",
+						"channelTitle": "autumniie",
+						"channelId": "UCVO0IoecwF1mZ2Hr6Y8UX8A",
+						"publishedAt": "2011-07-13T00:15:43Z",
+						"duration": "PT4M56S",
+						"viewCount": "42125522"
+					},
+					{
+						"id": "LCmySMWuaYk",
+						"title": "Justin Bieber - DAISIES (Lyrics)",
+						"channelTitle": "7clouds",
+						"channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+						"publishedAt": "2025-07-18T13:56:42Z",
+						"duration": "PT2M57S",
+						"viewCount": "2408482"
+					},
+					{
+						"id": "qXnqZo03PHY",
+						"title": "MK - Dior (Official Lyric Video) ft. Chrystal",
+						"channelTitle": "MKVEVO",
+						"channelId": "UC6BBbrG0LpPS_FNdrrIUU8A",
+						"publishedAt": "2025-06-06T04:01:05Z",
+						"duration": "PT2M50S",
+						"viewCount": "15532284"
+					},
+					{
+						"id": "cZgUiR31m-Y",
+						"title": "sombr - 12 to 12 (official video)",
+						"channelTitle": "sombr",
+						"channelId": "UCXlqFQmZZOb78teSnAqhuwA",
+						"publishedAt": "2025-07-24T22:00:06Z",
+						"duration": "PT4M3S",
+						"viewCount": "13393708"
+					},
+					{
+						"id": "slUhVTAznMo",
+						"title": "Taylor Swift - The Life of a Showgirl (feat. Sabrina Carpenter) (Visualizer)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-03T04:01:10Z",
+						"duration": "PT4M6S",
+						"viewCount": "7135270"
+					}
+				]
+			}
+		],
+		"updatedAt": "10082025"
+	},
+	"topSongs": {
+		"name": "Top Songs",
+		"songs": [
+			{
+				"id": "V9vuCByb6js",
+				"title": "Sabrina Carpenter - Tears (Official Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:07Z",
+				"duration": "PT4M50S",
+				"viewCount": "24184972"
+			},
+			{
+				"id": "oIv_Y2RPQ_A",
+				"title": "Olivia Dean - Man I Need",
+				"channelTitle": "OliviaDeanVEVO",
+				"channelId": "UCYKlku5Zg5FnAc3bgY7kQnA",
+				"publishedAt": "2025-08-15T14:01:14Z",
+				"duration": "PT3M22S",
+				"viewCount": "1220481"
+			},
+			{
+				"id": "aSugSGCC12I",
+				"title": "Sabrina Carpenter - Manchild (Official Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-06-06T14:00:06Z",
+				"duration": "PT3M57S",
+				"viewCount": "72616998"
+			},
+			{
+				"id": "KbzNB2sRnVQ",
+				"title": "Sabrina Carpenter - My Man on Willpower (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:24Z",
+				"duration": "PT3M18S",
+				"viewCount": "1167108"
+			},
+			{
+				"id": "yLNEtcOYtC8",
+				"title": "Disco Lines & Tinashe - No Broke Boys (Lyrics)",
+				"channelTitle": "Golden Network",
+				"channelId": "UC4-4kMfCsnOvgAmTrbuytkw",
+				"publishedAt": "2025-06-18T20:11:24Z",
+				"duration": "PT2M51S",
+				"viewCount": "1558165"
+			},
+			{
+				"id": "bnhV-OBnGCE",
+				"title": "Sabrina Carpenter - When Did You Get Hot? (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:51Z",
+				"duration": "PT2M26S",
+				"viewCount": "1225938"
+			},
+			{
+				"id": "FTfZOoIkY6Y",
+				"title": "Sabrina Carpenter - Sugar Talking (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:16Z",
+				"duration": "PT3M4S",
+				"viewCount": "1327796"
+			},
+			{
+				"id": "uCNr2iCgSPs",
+				"title": "Sabrina Carpenter - Go Go Juice (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:01:12Z",
+				"duration": "PT3M14S",
+				"viewCount": "1214174"
+			},
+			{
+				"id": "lwxAovpSLh8",
+				"title": "Sabrina Carpenter - House Tour (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:58Z",
+				"duration": "PT2M50S",
+				"viewCount": "1023362"
+			},
+			{
+				"id": "hE2DLtuxcUU",
+				"title": "Sabrina Carpenter - Nobody’s Son (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:54Z",
+				"duration": "PT3M3S",
+				"viewCount": "1171874"
+			},
+			{
+				"id": "uV-w3fyWTuM",
+				"title": "Sabrina Carpenter - Goodbye (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:01:09Z",
+				"duration": "PT3M46S",
+				"viewCount": "1401960"
+			},
+			{
+				"id": "ZiQuFC55mK8",
+				"title": "Sabrina Carpenter - We Almost Broke Up Again Last Night (Lyrics)",
+				"channelTitle": "Creative Chaos",
+				"channelId": "UCAKAf5d5-O5t58gEjXhF3mg",
+				"publishedAt": "2025-08-30T15:01:03Z",
+				"duration": "PT3M24S",
+				"viewCount": "8947"
+			},
+			{
+				"id": "mljWcXuCoH4",
+				"title": "Sabrina Carpenter - Never Getting Laid (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:58Z",
+				"duration": "PT3M29S",
+				"viewCount": "993807"
+			},
+			{
+				"id": "msGuqelopMA",
+				"title": "Justin Bieber - DAISIES (Audio)",
+				"channelTitle": "JustinBieberVEVO",
+				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+				"publishedAt": "2025-07-11T04:23:53Z",
+				"duration": "PT2M57S",
+				"viewCount": "20379723"
+			},
+			{
+				"id": "VI0NDsh2b8k",
+				"title": "Olivia Dean - Nice To Each Other",
+				"channelTitle": "OliviaDeanVEVO",
+				"channelId": "UCYKlku5Zg5FnAc3bgY7kQnA",
+				"publishedAt": "2025-05-30T12:00:06Z",
+				"duration": "PT3M44S",
+				"viewCount": "5093358"
+			},
+			{
+				"id": "soKG9DDv3_A",
+				"title": "Sabrina Carpenter - Don't Worry I'll Make You Worry (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:01:14Z",
+				"duration": "PT3M43S",
+				"viewCount": "972616"
+			},
+			{
+				"id": "GR3Liudev18",
+				"title": "Chappell Roan - Pink Pony Club (Official Music Video)",
+				"channelTitle": "ChappellRoanVEVO",
+				"channelId": "UCBoNpX06hjs3_ASFftQEmww",
+				"publishedAt": "2020-04-03T14:13:14Z",
+				"duration": "PT4M41S",
+				"viewCount": "93376325"
+			},
+			{
+				"id": "qXnqZo03PHY",
+				"title": "MK - Dior (Official Lyric Video) ft. Chrystal",
+				"channelTitle": "MKVEVO",
+				"channelId": "UC6BBbrG0LpPS_FNdrrIUU8A",
+				"publishedAt": "2025-06-06T04:01:05Z",
+				"duration": "PT2M50S",
+				"viewCount": "12450528"
+			},
+			{
+				"id": "cZgUiR31m-Y",
+				"title": "sombr - 12 to 12 (official video)",
+				"channelTitle": "sombr",
+				"channelId": "UCXlqFQmZZOb78teSnAqhuwA",
+				"publishedAt": "2025-07-24T22:00:06Z",
+				"duration": "PT4M3S",
+				"viewCount": "4884708"
+			},
+			{
+				"id": "XQan9L3yXjc",
+				"title": "Blessings - Laura Story (with lyrics)",
+				"channelTitle": "autumniie",
+				"channelId": "UCVO0IoecwF1mZ2Hr6Y8UX8A",
+				"publishedAt": "2011-07-13T00:15:43Z",
+				"duration": "PT4M56S",
+				"viewCount": "41921300"
+			},
+			{
+				"id": "3triLkS0nq4",
+				"title": "Sam Fender — Rein Me In (feat. Olivia Dean) [Official Video]",
+				"channelTitle": "Sam Fender",
+				"channelId": "UCNOPATl0JcguaVn1ovKWU1w",
+				"publishedAt": "2025-06-20T08:00:07Z",
+				"duration": "PT5M38S",
+				"viewCount": "2455594"
+			},
+			{
+				"id": "fXivMSJm_kA",
+				"title": "Justin Bieber - YUKON",
+				"channelTitle": "Justin Bieber",
+				"channelId": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+				"publishedAt": "2025-08-05T19:46:16Z",
+				"duration": "PT3M3S",
+				"viewCount": "17563921"
+			},
+			{
+				"id": "woLfAvD5iXI",
+				"title": "Chappell Roan - The Subway (Official Music Video)",
+				"channelTitle": "ChappellRoanVEVO",
+				"channelId": "UCBoNpX06hjs3_ASFftQEmww",
+				"publishedAt": "2025-08-01T14:00:09Z",
+				"duration": "PT4M32S",
+				"viewCount": "13074944"
+			},
+			{
+				"id": "W_YOJWZIjxo",
+				"title": "That’s So True",
+				"channelTitle": "Gracie Abrams - Topic",
+				"channelId": "UCw-0GSqznYHfyfDBBe6a46A",
+				"publishedAt": "2024-10-23T01:34:12Z",
+				"duration": "PT2M47S",
+				"viewCount": "82888585"
+			},
+			{
+				"id": "Oa_RSwwpPaA",
+				"title": "Benson Boone - Beautiful Things (Official Music Video)",
+				"channelTitle": "Benson Boone",
+				"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+				"publishedAt": "2024-01-18T23:00:13Z",
+				"duration": "PT3M13S",
+				"viewCount": "776710991"
+			},
+			{
+				"id": "9-dEHfSCZUQ",
+				"title": "Which One",
+				"channelTitle": "Drake - Topic",
+				"channelId": "UCU6cE7pdJPc6DU2jSrKEsdQ",
+				"publishedAt": "2025-07-25T04:04:36Z",
+				"duration": "PT2M50S",
+				"viewCount": "6990717"
+			},
+			{
+				"id": "CtRn6eqVnvY",
+				"title": "sombr - undressed (official lyric video)",
+				"channelTitle": "sombr",
+				"channelId": "UCXlqFQmZZOb78teSnAqhuwA",
+				"publishedAt": "2025-03-21T04:01:24Z",
+				"duration": "PT3M3S",
+				"viewCount": "13272177"
+			},
+			{
+				"id": "mANvg9R1xeI",
+				"title": "Gunna - wgft (feat. Burna Boy) [Official Visualizer]",
+				"channelTitle": "Gunna",
+				"channelId": "UCAkIMkEaa9sZmjcy7mfd5lQ",
+				"publishedAt": "2025-08-08T04:01:09Z",
+				"duration": "PT3M5S",
+				"viewCount": "3194001"
+			},
+			{
+				"id": "JgDNFQ2RaLQ",
+				"title": "Ed Sheeran - Sapphire (Official Music Video)",
+				"channelTitle": "Ed Sheeran",
+				"channelId": "UC0C-w0YjGpqDXGB8IHb662A",
+				"publishedAt": "2025-06-05T18:30:09Z",
+				"duration": "PT3M4S",
+				"viewCount": "170832120"
+			},
+			{
+				"id": "08C987fQEKU",
+				"title": "Fred again.. x Skepta x PlaqueBoyMax - Victory Lap (NYC, 17th June 2025)",
+				"channelTitle": "Fred again . .",
+				"channelId": "UCXF6DMVLIVRr2OQAqyfEGeg",
+				"publishedAt": "2025-06-18T22:07:49Z",
+				"duration": "PT2M46S",
+				"viewCount": "4769264"
+			},
+			{
+				"id": "t7bQwwqW-Hc",
+				"title": "Shaboozey - A Bar Song (Tipsy) [Official Visualizer]",
+				"channelTitle": "ShaboozeyVEVO",
+				"channelId": "UCmdsVknXGS2145yy8eQvplw",
+				"publishedAt": "2024-04-12T04:00:36Z",
+				"duration": "PT2M54S",
+				"viewCount": "280813605"
+			},
+			{
+				"id": "dX8orLrVwtY",
+				"title": "Sonny Fodera, Jazzy, D.O.D - Somedays [Official Music Video]",
+				"channelTitle": "Sonny Fodera",
+				"channelId": "UC0q_gYblgTWdeH6zCMTzrDw",
+				"publishedAt": "2024-07-26T08:00:06Z",
+				"duration": "PT3M32S",
+				"viewCount": "28999413"
+			},
+			{
+				"id": "dpvQqmX6SUI",
+				"title": "Tate McRae - Just Keep Watching (From F1® The Movie) (Official Video)",
+				"channelTitle": "Tate McRae",
+				"channelId": "UCQh6LB206jF3JxpCDD-fp5Q",
+				"publishedAt": "2025-05-30T04:00:06Z",
+				"duration": "PT2M27S",
+				"viewCount": "31966495"
+			},
+			{
+				"id": "dvgZkm1xWPE",
+				"title": "Coldplay - Viva La Vida (Official Video)",
+				"channelTitle": "Coldplay",
+				"channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+				"publishedAt": "2008-08-04T09:36:03Z",
+				"duration": "PT4M3S",
+				"viewCount": "1001514701"
+			},
+			{
+				"id": "ia2Ph61bYzc",
+				"title": "ROSÉ - Messy (From F1® The Movie) [Official Music Video]",
+				"channelTitle": "ROSÉ",
+				"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+				"publishedAt": "2025-05-08T16:00:07Z",
+				"duration": "PT3M5S",
+				"viewCount": "50347665"
+			},
+			{
+				"id": "ekr2nIex040",
+				"title": "ROSÉ & Bruno Mars - APT. (Official Music Video)",
+				"channelTitle": "ROSÉ",
+				"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+				"publishedAt": "2024-10-18T04:00:07Z",
+				"duration": "PT2M54S",
+				"viewCount": "1962739729"
+			},
+			{
+				"id": "yKNxeF4KMsY",
+				"title": "Coldplay - Yellow (Official Video)",
+				"channelTitle": "Coldplay",
+				"channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+				"publishedAt": "2011-05-30T13:12:47Z",
+				"duration": "PT4M33S",
+				"viewCount": "1222905265"
+			},
+			{
+				"id": "U8QhB8_0t2g",
+				"title": "Benson Boone - Mystical Magical (Official Lyric Video)",
+				"channelTitle": "Benson Boone",
+				"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+				"publishedAt": "2025-04-24T22:00:07Z",
+				"duration": "PT2M46S",
+				"viewCount": "27756387"
+			},
+			{
+				"id": "Sz_wWzgh-vQ",
+				"title": "TWICE “Strategy (feat. Megan Thee Stallion)” M/V",
+				"channelTitle": "JYP Entertainment",
+				"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+				"publishedAt": "2024-12-06T04:59:07Z",
+				"duration": "PT3M51S",
+				"viewCount": "98658347"
+			},
+			{
+				"id": "gGdGFtwCNBE",
+				"title": "The Killers - Mr. Brightside (Official Music Video)",
+				"channelTitle": "TheKillersVEVO",
+				"channelId": "UCjB3CzA-MwHrDzuXGweNiMg",
+				"publishedAt": "2009-06-16T22:53:31Z",
+				"duration": "PT3M48S",
+				"viewCount": "606663790"
+			},
+			{
+				"id": "6fJI7xydShM",
+				"title": "Lewis Capaldi - Survive (Official Video)",
+				"channelTitle": "LewisCapaldiVEVO",
+				"channelId": "UCp-IaqOaxH7OLYFb9FEHK2A",
+				"publishedAt": "2025-06-27T07:00:06Z",
+				"duration": "PT3M58S",
+				"viewCount": "9038033"
+			}
+		],
+		"updatedAt": "09022025"
+	}
+}
