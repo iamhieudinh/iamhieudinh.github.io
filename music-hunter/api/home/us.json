@@ -1,0 +1,986 @@
+{
+	"hotTracks": {
+		"name": "Top Albums",
+		"results": [
+			{
+				"name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+				"songs": [
+					{
+						"id": "7XRcflf_E0c",
+						"title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+						"channelTitle": "TWICE - Topic",
+						"channelId": "UCAq0pFGa2w9SjxOq0ZxKVIw",
+						"publishedAt": "2025-06-19T10:03:01Z",
+						"duration": "PT3M2S",
+						"viewCount": "74201661"
+					},
+					{
+						"id": "nmbiBVPe5bY",
+						"title": "Strategy",
+						"channelTitle": "TWICE - Topic",
+						"channelId": "UCAq0pFGa2w9SjxOq0ZxKVIw",
+						"publishedAt": "2024-12-06T05:00:42Z",
+						"duration": "PT2M47S",
+						"viewCount": "30779863"
+					},
+					{
+						"id": "FZQlD9RwkPY",
+						"title": "Huntrix - Takedown (Lyrics) | K-Pop Demon Hunters",
+						"channelTitle": "TikTokHymn",
+						"channelId": "UCP1HSR0CMY5YZ7_coeDYbCg",
+						"publishedAt": "2025-07-06T10:30:09Z",
+						"duration": "PT3M2S",
+						"viewCount": "19579933"
+					}
+				]
+			},
+			{
+				"name": "Deadbeat",
+				"songs": [
+					{
+						"id": "pyUOSaQZmxw",
+						"title": "Tame Impala - My Old Ways (Official Video)",
+						"channelTitle": "Tame Impala",
+						"channelId": "UCdI8MAC5HoPJSJ4zrgDDI-Q",
+						"publishedAt": "2025-10-17T04:01:00Z",
+						"duration": "PT5M19S",
+						"viewCount": "371067"
+					},
+					{
+						"id": "FtZuN44Jg0U",
+						"title": "Tame Impala - No Reply (Official Audio)",
+						"channelTitle": "tameimpalaVEVO",
+						"channelId": "UCEGJtJpwHlpUoMlAOlCWdAA",
+						"publishedAt": "2025-10-17T04:00:32Z",
+						"duration": "PT3M37S",
+						"viewCount": "48040"
+					},
+					{
+						"id": "xnP7qKxwzjg",
+						"title": "Tame Impala - Dracula (Official Video)",
+						"channelTitle": "tameimpalaVEVO",
+						"channelId": "UCEGJtJpwHlpUoMlAOlCWdAA",
+						"publishedAt": "2025-09-26T04:00:06Z",
+						"duration": "PT3M54S",
+						"viewCount": "4952148"
+					},
+					{
+						"id": "1CTced9CMMk",
+						"title": "BIGBANG - LOSER M/V",
+						"channelTitle": "BIGBANG",
+						"channelId": "UCzw-C7fNfs018R1FzIKnlaA",
+						"publishedAt": "2015-04-30T15:00:03Z",
+						"duration": "PT3M47S",
+						"viewCount": "290909958"
+					},
+					{
+						"id": "zgRdCMQ_q9U",
+						"title": "Tame Impala - Not My World (Official Audio)",
+						"channelTitle": "tameimpalaVEVO",
+						"channelId": "UCEGJtJpwHlpUoMlAOlCWdAA",
+						"publishedAt": "2025-10-17T04:01:15Z",
+						"duration": "PT4M16S",
+						"viewCount": "50568"
+					},
+					{
+						"id": "SieGqGHwV6o",
+						"title": "Tame Impala - Piece Of Heaven (Official Audio)",
+						"channelTitle": "tameimpalaVEVO",
+						"channelId": "UCEGJtJpwHlpUoMlAOlCWdAA",
+						"publishedAt": "2025-10-17T04:00:37Z",
+						"duration": "PT4M47S",
+						"viewCount": "56026"
+					},
+					{
+						"id": "UogkjrfSG-Y",
+						"title": "Tame Impala - Obsolete (Official Audio)",
+						"channelTitle": "tameimpalaVEVO",
+						"channelId": "UCEGJtJpwHlpUoMlAOlCWdAA",
+						"publishedAt": "2025-10-17T04:00:45Z",
+						"duration": "PT4M26S",
+						"viewCount": "59095"
+					},
+					{
+						"id": "aocx7kNfLXs",
+						"title": "Tame Impala - Ethereal Connection (Official Audio)",
+						"channelTitle": "tameimpalaVEVO",
+						"channelId": "UCEGJtJpwHlpUoMlAOlCWdAA",
+						"publishedAt": "2025-10-17T04:00:03Z",
+						"duration": "PT7M44S",
+						"viewCount": "52044"
+					},
+					{
+						"id": "e1ZSf7vFiRU",
+						"title": "Tame Impala - See You On Monday (You're Lost) (Official Audio)",
+						"channelTitle": "tameimpalaVEVO",
+						"channelId": "UCEGJtJpwHlpUoMlAOlCWdAA",
+						"publishedAt": "2025-10-17T04:00:54Z",
+						"duration": "PT3M37S",
+						"viewCount": "30999"
+					}
+				]
+			}
+		],
+		"updatedAt": "10182025"
+	},
+	"topAlbums": {
+		"name": "Top Playlists",
+		"results": [
+			{
+				"name": "Today’s Country",
+				"songs": [
+					{
+						"id": "mUvLkQbGoPA",
+						"title": "Chris Young - I Didn't Come Here To Leave (Official Visualizer)",
+						"channelTitle": "ChrisYoungVEVO",
+						"channelId": "UCzMUNug_h1DZD9FmEP-CJMw",
+						"publishedAt": "2025-07-30T15:01:23Z",
+						"duration": "PT3M12S",
+						"viewCount": "109556"
+					},
+					{
+						"id": "mjZhkYiKlmc",
+						"title": "One Direction - Change My Mind (Audio)",
+						"channelTitle": "OneDirectionVEVO",
+						"channelId": "UCbW18JZRgko_mOGm5er8Yzg",
+						"publishedAt": "2020-08-02T23:01:01Z",
+						"duration": "PT3M35S",
+						"viewCount": "3407502"
+					},
+					{
+						"id": "zLhDdFGkvzI",
+						"title": "Morgan Wallen - I Got Better (Audio)",
+						"channelTitle": "MorganWallenVEVO",
+						"channelId": "UCiQtJ9wVv8R-x7GKHzgZu8A",
+						"publishedAt": "2025-05-16T04:01:34Z",
+						"duration": "PT3M26S",
+						"viewCount": "8402792"
+					},
+					{
+						"id": "hLOheGDwD_0",
+						"title": "Ella Langley - Choosin' Texas (Official Lyric Video)",
+						"channelTitle": "EllaLangleyVEVO",
+						"channelId": "UCpK9I4YjXOSv_u5bPL_ZJ9w",
+						"publishedAt": "2025-10-17T04:00:53Z",
+						"duration": "PT3M52S",
+						"viewCount": "145851"
+					},
+					{
+						"id": "LR43igounYU",
+						"title": "Hudson Westbrook - Painted You Pretty (Visualizer)",
+						"channelTitle": "Hudson Westbrook",
+						"channelId": "UCGI-JJemG7aDqc8mAgym4aw",
+						"publishedAt": "2025-07-25T04:00:22Z",
+						"duration": "PT3M14S",
+						"viewCount": "1062652"
+					},
+					{
+						"id": "AjYHDs63jrk",
+						"title": "LOST - Obito (OFFICIAL MV)",
+						"channelTitle": "Obito Official",
+						"channelId": "UCJwp8w_Ru1q--tCEfrPIA6g",
+						"publishedAt": "2020-09-24T12:00:29Z",
+						"duration": "PT3M21S",
+						"viewCount": "6403660"
+					},
+					{
+						"id": "S7UwO_HdP7o",
+						"title": "Carter Faith - Arrows (Die For That Man) (Official Visualizer)",
+						"channelTitle": "CarterFaithVEVO",
+						"channelId": "UCklUVTQBTuTtSp3It9NgReA",
+						"publishedAt": "2025-09-05T04:00:35Z",
+						"duration": "PT3M51S",
+						"viewCount": "80725"
+					},
+					{
+						"id": "AWgJPq2BfR0",
+						"title": "Parker McCollum - Solid Country Gold (Official Audio Video)",
+						"channelTitle": "ParkerMcCollumVEVO",
+						"channelId": "UC2VMUS1maolBImuYh-IOu7g",
+						"publishedAt": "2025-06-27T04:00:11Z",
+						"duration": "PT3M34S",
+						"viewCount": "104870"
+					},
+					{
+						"id": "Vku3zNk8zNg",
+						"title": "Jordan Davis - Turn This Truck Around (Official Audio Video)",
+						"channelTitle": "JordanDavisVEVO",
+						"channelId": "UCoym1Cd-NBEmqunb9F7ZekQ",
+						"publishedAt": "2025-07-25T04:00:40Z",
+						"duration": "PT3M25S",
+						"viewCount": "522639"
+					},
+					{
+						"id": "GaHRnkVt5qE",
+						"title": "Jason Aldean - How Far Does A Goodbye Go (Lyric Video)",
+						"channelTitle": "Jason Aldean",
+						"channelId": "UCw0F_Xuz0VqemtMAtEfHTdA",
+						"publishedAt": "2025-09-26T16:00:36Z",
+						"duration": "PT3M55S",
+						"viewCount": "143975"
+					},
+					{
+						"id": "K26EzJdwi6U",
+						"title": "Gabby Barrett - The Easy Part (Audio)",
+						"channelTitle": "Gabby Barrett",
+						"channelId": "UCfjPg92oOfaD60_WEyvMr7w",
+						"publishedAt": "2025-08-01T04:00:32Z",
+						"duration": "PT3M37S",
+						"viewCount": "216908"
+					},
+					{
+						"id": "uGsmAZCwrG8",
+						"title": "Luke Combs - Days Like These (Official Studio Video)",
+						"channelTitle": "LukeCombsVEVO",
+						"channelId": "UCwLK17rpMFUfktQEcMzSyWg",
+						"publishedAt": "2025-10-03T04:01:13Z",
+						"duration": "PT3M43S",
+						"viewCount": "586098"
+					},
+					{
+						"id": "sSo28T-CqYw",
+						"title": "BRUNETTE - AMPITS MAQUR / ԱՄՊԻՑ ՄԱՔՈՒՐ (Official Music Video)",
+						"channelTitle": "Brunette ",
+						"channelId": "UCbklBKyChBz9-vsnX3vD5RA",
+						"publishedAt": "2025-07-15T16:01:21Z",
+						"duration": "PT3M13S",
+						"viewCount": "4350252"
+					},
+					{
+						"id": "GvB3OzTicQo",
+						"title": "Danny Avila - End Of The Night (Official Music Video)",
+						"channelTitle": "DannyAvilaVEVO",
+						"channelId": "UCxBfniM3tCpjcpNRWzq9BPQ",
+						"publishedAt": "2018-11-16T13:48:29Z",
+						"duration": "PT3M26S",
+						"viewCount": "62206629"
+					},
+					{
+						"id": "xTlNMmZKwpA",
+						"title": "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video]",
+						"channelTitle": "Cardi B",
+						"channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+						"publishedAt": "2018-05-29T14:05:10Z",
+						"duration": "PT4M17S",
+						"viewCount": "1700204744"
+					},
+					{
+						"id": "NEHCX56Dddo",
+						"title": "Zach Top - South Of Sanity (Official Audio)",
+						"channelTitle": "Zach Top",
+						"channelId": "UCAVE5TaLXoSAs3DBT4Wqcug",
+						"publishedAt": "2025-08-01T11:18:32Z",
+						"duration": "PT3M41S",
+						"viewCount": "672517"
+					},
+					{
+						"id": "lAiZ_nWYOI0",
+						"title": "GIVĒON - BACKUP PLAN (Official Audio)",
+						"channelTitle": "GiveonVEVO",
+						"channelId": "UCa3ZoB87QoSaLM0qODmrMfA",
+						"publishedAt": "2025-07-11T04:00:58Z",
+						"duration": "PT3M12S",
+						"viewCount": "600268"
+					},
+					{
+						"id": "k2hlr_ddpG8",
+						"title": "Megan Moroney - 6 Months Later (Official Video)",
+						"channelTitle": "MeganMoroneyVEVO",
+						"channelId": "UCaYiicN1Ul3XYG_6MzLBOJQ",
+						"publishedAt": "2025-07-16T15:00:06Z",
+						"duration": "PT3M19S",
+						"viewCount": "1475095"
+					},
+					{
+						"id": "zxajrHcisWM",
+						"title": "Zach John King, Bayker Blankenship - Life Behind Bars (Official Music Video)",
+						"channelTitle": "zachjohnkingVEVO",
+						"channelId": "UCNmLjXmXpP2fbCCcHR0Xlww",
+						"publishedAt": "2025-07-25T04:01:20Z",
+						"duration": "PT2M47S",
+						"viewCount": "558111"
+					},
+					{
+						"id": "NCR5ehYjz5g",
+						"title": "HARDY - Good Ole Boy (Official Music Video)",
+						"channelTitle": "HARDY",
+						"channelId": "UCfaTFCTvP8LVmJ4vZNUIRyQ",
+						"publishedAt": "2025-09-29T17:30:14Z",
+						"duration": "PT3M35S",
+						"viewCount": "176901"
+					},
+					{
+						"id": "QS0kBMjmgZc",
+						"title": "Scotty McCreery - Bottle Rockets (feat. Hootie & The Blowfish)",
+						"channelTitle": "ScottyMcCreeryVEVO",
+						"channelId": "UCi6ot_hQURY84xgaSKrCx3w",
+						"publishedAt": "2025-05-23T04:00:25Z",
+						"duration": "PT3M58S",
+						"viewCount": "2363081"
+					},
+					{
+						"id": "FdLcgh6NYUI",
+						"title": "Ella Langley - Never Met Anyone Like You (feat. HARDY)",
+						"channelTitle": "EllaLangleyVEVO",
+						"channelId": "UCpK9I4YjXOSv_u5bPL_ZJ9w",
+						"publishedAt": "2025-06-27T04:00:24Z",
+						"duration": "PT2M49S",
+						"viewCount": "587397"
+					},
+					{
+						"id": "JGVUBSZ0SC4",
+						"title": "JoJo ★ The JOJOLands OP 1 ★『Make It Rain』Original JoJo's Bizarre Adventure Part 9【ジョジョの奇妙な冒険】ジョジョランズ",
+						"channelTitle": "Nico Bellisario",
+						"channelId": "UCNxRttQ3lPIcHPx9eQCMLlQ",
+						"publishedAt": "2025-03-21T18:00:08Z",
+						"duration": "PT1M53S",
+						"viewCount": "4004980"
+					},
+					{
+						"id": "DujedgzKDkc",
+						"title": "Marcus King, The Marcus King Band - Heartlands",
+						"channelTitle": "MarcusKingBandVEVO",
+						"channelId": "UCx_K0lj4weGOnt-RCEIN9KA",
+						"publishedAt": "2025-09-05T04:00:11Z",
+						"duration": "PT3M49S",
+						"viewCount": "78674"
+					},
+					{
+						"id": "PcIpyTFfeuo",
+						"title": "Lainey Wilson - Somewhere Over Laredo (Official Music Video)",
+						"channelTitle": "Lainey Wilson",
+						"channelId": "UCZkeQWzPCGeH707eRS6K6Hg",
+						"publishedAt": "2025-06-20T12:00:07Z",
+						"duration": "PT3M53S",
+						"viewCount": "2476919"
+					}
+				]
+			},
+			{
+				"name": "Sleep Sounds",
+				"songs": [
+					{
+						"id": "tnVn8jGLdQM",
+						"title": "4K | Ethereal Horizons | Ambient Music for Relaxation and Meditation",
+						"channelTitle": "Inner Garden",
+						"channelId": "UCwhnAMwVgJzND8nrO1NfKAQ",
+						"publishedAt": "2024-11-16T05:00:44Z",
+						"duration": "PT2H4M40S",
+						"viewCount": "102"
+					},
+					{
+						"id": "v4pi1LxuDHc",
+						"title": "The Lumineers - Sleep On The Floor (Official Video)",
+						"channelTitle": "LumineersVEVO",
+						"channelId": "UCxjbV_Qr9gByQm1r8FV5FCA",
+						"publishedAt": "2016-11-17T14:00:05Z",
+						"duration": "PT4M46S",
+						"viewCount": "227368213"
+					},
+					{
+						"id": "J61wvZC0-AE",
+						"title": "Whispers Of Stillness (Sleep)",
+						"channelTitle": "ZELEDON - Topic",
+						"channelId": "UCpwKnTnLAR7Jgnu6xq3WXcA",
+						"publishedAt": "2025-07-20T10:04:28Z",
+						"duration": "PT3M35S",
+						"viewCount": "47"
+					},
+					{
+						"id": "LkeeAHay-T8",
+						"title": "Where Peace Resides (Sleep)",
+						"channelTitle": "Sound Bath - Topic",
+						"channelId": "UCbNaElHOMCtOkPr14xE1_8w",
+						"publishedAt": "2025-07-30T10:02:58Z",
+						"duration": "PT3M8S",
+						"viewCount": "46"
+					},
+					{
+						"id": "6_LsCe4jUF8",
+						"title": "Ethereal",
+						"channelTitle": "Txmy - Topic",
+						"channelId": "UCNXwblaYZcAOBe4MOJY-DUQ",
+						"publishedAt": "2024-12-09T20:30:18Z",
+						"duration": "PT2M48S",
+						"viewCount": "8219356"
+					},
+					{
+						"id": "4cVdhU4qWGg",
+						"title": "Stars And Dreams",
+						"channelTitle": "Calmly - Topic",
+						"channelId": "UCZ4124V76g4ZrB_CffW7-Zg",
+						"publishedAt": "2024-09-05T10:02:28Z",
+						"duration": "PT2M20S",
+						"viewCount": "9409"
+					},
+					{
+						"id": "34nVmoUITfA",
+						"title": "Seres (Sleep)",
+						"channelTitle": "AQUINE - Topic",
+						"channelId": "UCVtZBQ8LEYijcg5cVT80v0Q",
+						"publishedAt": "2025-07-22T10:04:09Z",
+						"duration": "PT3M30S",
+						"viewCount": "31"
+					},
+					{
+						"id": "gjT5iuHp_Sg",
+						"title": "Starfall | Velaris Music & Ambience | Emotional & Romantic Playlist | Inspired by ACOTAR Books",
+						"channelTitle": "FanTaisia Ambience",
+						"channelId": "UC0-ljV3KpN4EGc4JQy2XNWg",
+						"publishedAt": "2023-11-23T17:26:02Z",
+						"duration": "PT5H19S",
+						"viewCount": "732766"
+					},
+					{
+						"id": "Ed5yqt9B9K0",
+						"title": "Reprogram Your Mind While You Sleep, Positive Mind Affirmations for Sleep",
+						"channelTitle": "Jason Stephenson - Guided Sleep Meditation ",
+						"channelId": "UCqPYhcdFgrlUXiGmPRAej1w",
+						"publishedAt": "2021-07-26T01:15:00Z",
+						"duration": "PT3H5S",
+						"viewCount": "5843653"
+					},
+					{
+						"id": "OEKif1_cl38",
+						"title": "glow「劇場版プロジェクトセカイ」ver.",
+						"channelTitle": "Leo/need - Topic",
+						"channelId": "UCFS8ufY-kpFAET9fJhSwpyQ",
+						"publishedAt": "2025-02-26T10:03:52Z",
+						"duration": "PT4M58S",
+						"viewCount": "931197"
+					}
+				]
+			},
+			{
+				"name": "R&B Now",
+				"songs": [
+					{
+						"id": "9Pe8fZSU7uA",
+						"title": "Chris Brown - It Depends (The Remix) (Audio) ft. Bryson Tiller, Usher",
+						"channelTitle": "ChrisBrownVEVO",
+						"channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
+						"publishedAt": "2025-10-17T04:00:12Z",
+						"duration": "PT4M57S",
+						"viewCount": "409027"
+					},
+					{
+						"id": "KFMYx1TibeQ",
+						"title": "Kehlani - Folded [Official Music Video]",
+						"channelTitle": "Kehlani",
+						"channelId": "UCuE1A4MDBt8YkgUkRAKMtjw",
+						"publishedAt": "2025-06-26T16:00:06Z",
+						"duration": "PT4M6S",
+						"viewCount": "29156264"
+					},
+					{
+						"id": "Jx9h3iWudTU",
+						"title": "Mariah the Scientist - Burning Blue (Official Music Video)",
+						"channelTitle": "MTSVEVO",
+						"channelId": "UCFRInGp3EvCTNIrBSJp5ywA",
+						"publishedAt": "2025-05-08T16:00:06Z",
+						"duration": "PT3M28S",
+						"viewCount": "36336154"
+					},
+					{
+						"id": "Uk5AGRodjyk",
+						"title": "Bryson Tiller - I Need Her (Official Lyric Video)",
+						"channelTitle": "Bryson Tiller",
+						"channelId": "UC7O6XpyxQ9AUoKE-S-ixq5Q",
+						"publishedAt": "2025-10-02T04:00:29Z",
+						"duration": "PT2M39S",
+						"viewCount": "161325"
+					},
+					{
+						"id": "fXivMSJm_kA",
+						"title": "Justin Bieber - YUKON",
+						"channelTitle": "Justin Bieber",
+						"channelId": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+						"publishedAt": "2025-08-05T19:46:16Z",
+						"duration": "PT3M3S",
+						"viewCount": "26738490"
+					},
+					{
+						"id": "jyT59PlnW1M",
+						"title": "Muni Long - Delulu (Audio)",
+						"channelTitle": "MuniLongVEVO",
+						"channelId": "UCWWCgPfedcXNZFASWhvhbyQ",
+						"publishedAt": "2025-10-17T04:01:04Z",
+						"duration": "PT4M17S",
+						"viewCount": "14459"
+					},
+					{
+						"id": "ueLrb3-oVpY",
+						"title": "Leon Thomas, Chris Brown - MUTT (CB REMIX / Audio)",
+						"channelTitle": "LeonThomasVEVO",
+						"channelId": "UCVotbXlBPMmQgPkgg6d1wNA",
+						"publishedAt": "2025-03-21T04:00:49Z",
+						"duration": "PT3M20S",
+						"viewCount": "14782232"
+					},
+					{
+						"id": "L5agl9ioLRM",
+						"title": "Mariah the Scientist, Kali Uchis - Is It a Crime (Official Music Video)",
+						"channelTitle": "MTSVEVO",
+						"channelId": "UCFRInGp3EvCTNIrBSJp5ywA",
+						"publishedAt": "2025-10-02T19:00:06Z",
+						"duration": "PT3M22S",
+						"viewCount": "2120681"
+					}
+				]
+			},
+			{
+				"name": "Today’s Hits",
+				"songs": [
+					{
+						"id": "KFMYx1TibeQ",
+						"title": "Kehlani - Folded [Official Music Video]",
+						"channelTitle": "Kehlani",
+						"channelId": "UCuE1A4MDBt8YkgUkRAKMtjw",
+						"publishedAt": "2025-06-26T16:00:06Z",
+						"duration": "PT4M6S",
+						"viewCount": "29157558"
+					},
+					{
+						"id": "40l9KE36aNk",
+						"title": "Taylor Swift - Opalite (Lyrics)",
+						"channelTitle": "7clouds",
+						"channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+						"publishedAt": "2025-10-17T13:00:15Z",
+						"duration": "PT3M54S",
+						"viewCount": "74142"
+					},
+					{
+						"id": "fXivMSJm_kA",
+						"title": "Justin Bieber - YUKON",
+						"channelTitle": "Justin Bieber",
+						"channelId": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+						"publishedAt": "2025-08-05T19:46:16Z",
+						"duration": "PT3M3S",
+						"viewCount": "26739090"
+					},
+					{
+						"id": "V9vuCByb6js",
+						"title": "Sabrina Carpenter - Tears (Official Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:07Z",
+						"duration": "PT5M4S",
+						"viewCount": "43721068"
+					},
+					{
+						"id": "ko70cExuzZM",
+						"title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:00:06Z",
+						"duration": "PT3M59S",
+						"viewCount": "67632194"
+					},
+					{
+						"id": "u-HEopHeHb8",
+						"title": "Tate McRae - TIT FOR TAT (Lyric Video)",
+						"channelTitle": "TateMcRaeVEVO",
+						"channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+						"publishedAt": "2025-09-26T21:13:34Z",
+						"duration": "PT2M57S",
+						"viewCount": "1811826"
+					},
+					{
+						"id": "7X5iDKPrZH0",
+						"title": "Taylor Swift - Elizabeth Taylor (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:06:06Z",
+						"duration": "PT3M32S",
+						"viewCount": "6022130"
+					},
+					{
+						"id": "oIv_Y2RPQ_A",
+						"title": "Olivia Dean - Man I Need",
+						"channelTitle": "OliviaDeanVEVO",
+						"channelId": "UCYKlku5Zg5FnAc3bgY7kQnA",
+						"publishedAt": "2025-08-15T14:01:14Z",
+						"duration": "PT3M22S",
+						"viewCount": "11585293"
+					},
+					{
+						"id": "U8QhB8_0t2g",
+						"title": "Benson Boone - Mystical Magical (Official Lyric Video)",
+						"channelTitle": "Benson Boone",
+						"channelId": "UCvILah8hAWYhYOmAG3ZjvBA",
+						"publishedAt": "2025-04-24T22:00:07Z",
+						"duration": "PT2M46S",
+						"viewCount": "33512552"
+					}
+				]
+			}
+		],
+		"updatedAt": "10182025"
+	},
+	"topSongs": {
+		"name": "Top Songs",
+		"songs": [
+			{
+				"id": "V9vuCByb6js",
+				"title": "Sabrina Carpenter - Tears (Official Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:07Z",
+				"duration": "PT4M50S",
+				"viewCount": "24223039"
+			},
+			{
+				"id": "aSugSGCC12I",
+				"title": "Sabrina Carpenter - Manchild (Official Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-06-06T14:00:06Z",
+				"duration": "PT3M57S",
+				"viewCount": "72621972"
+			},
+			{
+				"id": "Y6jyPJ8QJK8",
+				"title": "Morgan Wallen, Tate McRae - What I Want (Audio)",
+				"channelTitle": "MorganWallenVEVO",
+				"channelId": "UCiQtJ9wVv8R-x7GKHzgZu8A",
+				"publishedAt": "2025-05-16T04:00:51Z",
+				"duration": "PT3M5S",
+				"viewCount": "6818801"
+			},
+			{
+				"id": "mANvg9R1xeI",
+				"title": "Gunna - wgft (feat. Burna Boy) [Official Visualizer]",
+				"channelTitle": "Gunna",
+				"channelId": "UCAkIMkEaa9sZmjcy7mfd5lQ",
+				"publishedAt": "2025-08-08T04:01:09Z",
+				"duration": "PT3M5S",
+				"viewCount": "3195222"
+			},
+			{
+				"id": "KbzNB2sRnVQ",
+				"title": "Sabrina Carpenter - My Man on Willpower (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:24Z",
+				"duration": "PT3M18S",
+				"viewCount": "1168681"
+			},
+			{
+				"id": "YT57RMxA-Eo",
+				"title": "Morgan Wallen - I'm The Problem (Official Audio)",
+				"channelTitle": "MorganWallenVEVO",
+				"channelId": "UCiQtJ9wVv8R-x7GKHzgZu8A",
+				"publishedAt": "2025-01-31T05:00:25Z",
+				"duration": "PT2M58S",
+				"viewCount": "22609980"
+			},
+			{
+				"id": "cLnl73R9gMc",
+				"title": "Morgan Wallen - Just In Case (Official Audio)",
+				"channelTitle": "MorganWallenVEVO",
+				"channelId": "UCiQtJ9wVv8R-x7GKHzgZu8A",
+				"publishedAt": "2025-03-21T04:00:38Z",
+				"duration": "PT2M47S",
+				"viewCount": "14414945"
+			},
+			{
+				"id": "hE2DLtuxcUU",
+				"title": "Sabrina Carpenter - Nobody’s Son (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:54Z",
+				"duration": "PT3M3S",
+				"viewCount": "1173875"
+			},
+			{
+				"id": "FTfZOoIkY6Y",
+				"title": "Sabrina Carpenter - Sugar Talking (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:16Z",
+				"duration": "PT3M4S",
+				"viewCount": "1329391"
+			},
+			{
+				"id": "MueOsq3_OVg",
+				"title": "Chris Brown - It Depends (Audio) ft. Bryson Tiller",
+				"channelTitle": "ChrisBrownVEVO",
+				"channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
+				"publishedAt": "2025-07-25T04:00:34Z",
+				"duration": "PT4M34S",
+				"viewCount": "10536013"
+			},
+			{
+				"id": "bnhV-OBnGCE",
+				"title": "Sabrina Carpenter - When Did You Get Hot? (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:51Z",
+				"duration": "PT2M26S",
+				"viewCount": "1227937"
+			},
+			{
+				"id": "Jx9h3iWudTU",
+				"title": "Mariah the Scientist - Burning Blue (Official Music Video)",
+				"channelTitle": "MTSVEVO",
+				"channelId": "UCFRInGp3EvCTNIrBSJp5ywA",
+				"publishedAt": "2025-05-08T16:00:06Z",
+				"duration": "PT3M28S",
+				"viewCount": "27415924"
+			},
+			{
+				"id": "uCNr2iCgSPs",
+				"title": "Sabrina Carpenter - Go Go Juice (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:01:12Z",
+				"duration": "PT3M14S",
+				"viewCount": "1215566"
+			},
+			{
+				"id": "ZiQuFC55mK8",
+				"title": "Sabrina Carpenter - We Almost Broke Up Again Last Night (Lyrics)",
+				"channelTitle": "Creative Chaos",
+				"channelId": "UCAKAf5d5-O5t58gEjXhF3mg",
+				"publishedAt": "2025-08-30T15:01:03Z",
+				"duration": "PT3M24S",
+				"viewCount": "8962"
+			},
+			{
+				"id": "zLhDdFGkvzI",
+				"title": "Morgan Wallen - I Got Better (Audio)",
+				"channelTitle": "MorganWallenVEVO",
+				"channelId": "UCiQtJ9wVv8R-x7GKHzgZu8A",
+				"publishedAt": "2025-05-16T04:01:34Z",
+				"duration": "PT3M26S",
+				"viewCount": "5726656"
+			},
+			{
+				"id": "lwxAovpSLh8",
+				"title": "Sabrina Carpenter - House Tour (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:58Z",
+				"duration": "PT2M50S",
+				"viewCount": "1024843"
+			},
+			{
+				"id": "mljWcXuCoH4",
+				"title": "Sabrina Carpenter - Never Getting Laid (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:00:58Z",
+				"duration": "PT3M29S",
+				"viewCount": "994808"
+			},
+			{
+				"id": "KFMYx1TibeQ",
+				"title": "Kehlani - Folded [Official Music Video]",
+				"channelTitle": "Kehlani",
+				"channelId": "UCuE1A4MDBt8YkgUkRAKMtjw",
+				"publishedAt": "2025-06-26T16:00:06Z",
+				"duration": "PT4M6S",
+				"viewCount": "15294439"
+			},
+			{
+				"id": "4QIZE708gJ4",
+				"title": "Post Malone - I Had Some Help (feat. Morgan Wallen) (Official Video)",
+				"channelTitle": "PostMaloneVEVO",
+				"channelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
+				"publishedAt": "2024-05-10T14:00:06Z",
+				"duration": "PT3M22S",
+				"viewCount": "206838240"
+			},
+			{
+				"id": "uV-w3fyWTuM",
+				"title": "Sabrina Carpenter - Goodbye (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:01:09Z",
+				"duration": "PT3M46S",
+				"viewCount": "1404245"
+			},
+			{
+				"id": "VQpmWQU5_8E",
+				"title": "BigXthaPlug - Hell At Night feat. Ella Langley (Official Visualizer)",
+				"channelTitle": "BigXthaPlug",
+				"channelId": "UCEJdOGwm6CNtc_kIa_Qjy6A",
+				"publishedAt": "2025-08-08T04:00:44Z",
+				"duration": "PT3M",
+				"viewCount": "2225579"
+			},
+			{
+				"id": "fXivMSJm_kA",
+				"title": "Justin Bieber - YUKON",
+				"channelTitle": "Justin Bieber",
+				"channelId": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+				"publishedAt": "2025-08-05T19:46:16Z",
+				"duration": "PT3M3S",
+				"viewCount": "17565114"
+			},
+			{
+				"id": "NYz8xs163YU",
+				"title": "Sade - Is It A Crime - Official - 1986",
+				"channelTitle": "SadeVEVO",
+				"channelId": "UC9vGD_KFNiQOHSeUoxIM3yQ",
+				"publishedAt": "2009-12-12T13:19:31Z",
+				"duration": "PT7M3S",
+				"viewCount": "38500040"
+			},
+			{
+				"id": "raIssHWWs_g",
+				"title": "Wxrdie - ANH FREESTYLE (ft. Gill) [prod. by Lucin3x]",
+				"channelTitle": "Wxrdie",
+				"channelId": "UCAhfSPCb_HzvHSI54YCZ6GA",
+				"publishedAt": "2024-11-12T13:34:08Z",
+				"duration": "PT2M52S",
+				"viewCount": "3774968"
+			},
+			{
+				"id": "soKG9DDv3_A",
+				"title": "Sabrina Carpenter - Don't Worry I'll Make You Worry (Official Lyric Video)",
+				"channelTitle": "SabrinaCarpenterVEVO",
+				"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+				"publishedAt": "2025-08-29T04:01:14Z",
+				"duration": "PT3M43S",
+				"viewCount": "973792"
+			},
+			{
+				"id": "htToA3wcFl4",
+				"title": "PARTYNEXTDOOR, Drake - SOMEBODY LOVES ME",
+				"channelTitle": "PARTYNEXTDOORVEVO",
+				"channelId": "UCK02VqxFcfJp-1syBVVgXvA",
+				"publishedAt": "2025-02-14T05:00:43Z",
+				"duration": "PT3M3S",
+				"viewCount": "27292634"
+			},
+			{
+				"id": "NEnephbahLA",
+				"title": "SZA - 30 For 30 feat. Kendrick Lamar (Official Audio)",
+				"channelTitle": "SZA",
+				"channelId": "UCO5IQ70V7l-XpHW40HwaGsw",
+				"publishedAt": "2024-12-20T20:00:16Z",
+				"duration": "PT4M39S",
+				"viewCount": "9953787"
+			},
+			{
+				"id": "UpYu9FgcxKo",
+				"title": "Morgan Wallen - Cowgirls (Lyric Video) ft. ERNEST",
+				"channelTitle": "MorganWallenVEVO",
+				"channelId": "UCiQtJ9wVv8R-x7GKHzgZu8A",
+				"publishedAt": "2023-03-03T05:00:12Z",
+				"duration": "PT3M2S",
+				"viewCount": "83528866"
+			},
+			{
+				"id": "SL4BH6VoK4Y",
+				"title": "Morgan Wallen - Spin You Around (1/24) (Lyric Video)",
+				"channelTitle": "Morgan Wallen",
+				"channelId": "UCzIyoPv6j1MAZpDHKLGP_eA",
+				"publishedAt": "2024-01-26T05:00:28Z",
+				"duration": "PT3M30S",
+				"viewCount": "20224019"
+			},
+			{
+				"id": "H58vbez_m4E",
+				"title": "Kendrick Lamar - Not Like Us",
+				"channelTitle": "KendrickLamarVEVO",
+				"channelId": "UCoYfzC2zMlc9M-Odgaf6OSg",
+				"publishedAt": "2024-07-04T23:00:09Z",
+				"duration": "PT5M55S",
+				"viewCount": "390615603"
+			},
+			{
+				"id": "BJPc49z57bU",
+				"title": "ALL THE WAY - Jacksepticeye Songify Remix by Schmoyoho",
+				"channelTitle": "jacksepticeye",
+				"channelId": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+				"publishedAt": "2016-07-22T16:00:02Z",
+				"duration": "PT2M49S",
+				"viewCount": "112675547"
+			},
+			{
+				"id": "msGuqelopMA",
+				"title": "Justin Bieber - DAISIES (Audio)",
+				"channelTitle": "JustinBieberVEVO",
+				"channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+				"publishedAt": "2025-07-11T04:23:53Z",
+				"duration": "PT2M57S",
+				"viewCount": "20380824"
+			},
+			{
+				"id": "t7bQwwqW-Hc",
+				"title": "Shaboozey - A Bar Song (Tipsy) [Official Visualizer]",
+				"channelTitle": "ShaboozeyVEVO",
+				"channelId": "UCmdsVknXGS2145yy8eQvplw",
+				"publishedAt": "2024-04-12T04:00:36Z",
+				"duration": "PT2M54S",
+				"viewCount": "280817017"
+			},
+			{
+				"id": "4F_vcZ6KD9Q",
+				"title": "Lil Baby - In A Minute (Official Video)",
+				"channelTitle": "LilBabyVEVO",
+				"channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
+				"publishedAt": "2022-04-08T03:59:00Z",
+				"duration": "PT3M27S",
+				"viewCount": "200194595"
+			},
+			{
+				"id": "Y2QpQP8wPG8",
+				"title": "Future - WAIT FOR U (Official Audio) ft. Drake, Tems",
+				"channelTitle": "FutureVEVO",
+				"channelId": "UCFNosi99Sp0_eLilBiXmmXA",
+				"publishedAt": "2022-04-29T04:00:20Z",
+				"duration": "PT3M12S",
+				"viewCount": "192522866"
+			},
+			{
+				"id": "5DCdL1zdpdM",
+				"title": "Morgan Wallen - Thinkin' Bout Me (Lyric Video)",
+				"channelTitle": "MorganWallenVEVO",
+				"channelId": "UCiQtJ9wVv8R-x7GKHzgZu8A",
+				"publishedAt": "2023-03-03T05:00:02Z",
+				"duration": "PT2M55S",
+				"viewCount": "132876605"
+			},
+			{
+				"id": "jBaL41mKS8U",
+				"title": "Gunna - forever be mine (feat. Wizkid) [Official Visualizer]",
+				"channelTitle": "Gunna",
+				"channelId": "UCAkIMkEaa9sZmjcy7mfd5lQ",
+				"publishedAt": "2025-08-08T04:00:56Z",
+				"duration": "PT2M54S",
+				"viewCount": "2996994"
+			},
+			{
+				"id": "Sv5yCzPCkv8",
+				"title": "SZA - Snooze (Audio)",
+				"channelTitle": "SZAVEVO",
+				"channelId": "UCKzhoblE_rPZbHtQKPVUp2A",
+				"publishedAt": "2022-12-09T05:00:20Z",
+				"duration": "PT3M24S",
+				"viewCount": "293751332"
+			},
+			{
+				"id": "JYeelLhzmvQ",
+				"title": "LOVE SOMEBODY - CoolKid, Young Puppy lan toả tình yêu \"socola kẹo mút\" | Rap Việt 2024 [Performance]",
+				"channelTitle": "Vie Channel - MUSIC",
+				"channelId": "UC2fu6CiFfNYz5UFORvFyc0w",
+				"publishedAt": "2024-11-17T04:00:11Z",
+				"duration": "PT4M17S",
+				"viewCount": "4771021"
+			},
+			{
+				"id": "0-45KAhyshI",
+				"title": "Future - LIKE ME (Official Audio) ft. 42 Dugg, Lil Baby",
+				"channelTitle": "FutureVEVO",
+				"channelId": "UCFNosi99Sp0_eLilBiXmmXA",
+				"publishedAt": "2022-05-02T15:00:00Z",
+				"duration": "PT2M15S",
+				"viewCount": "4590913"
+			}
+		],
+		"updatedAt": "09022025"
+	}
+}
