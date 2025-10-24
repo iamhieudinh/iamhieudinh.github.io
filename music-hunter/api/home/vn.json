@@ -1,0 +1,824 @@
+{
+	"hotTracks": {
+		"name": "Top Albums",
+		"results": [
+			{
+				"name": "Man’s Best Friend",
+				"songs": [
+					{
+						"id": "aSugSGCC12I",
+						"title": "Sabrina Carpenter - Manchild (Official Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-06-06T14:00:06Z",
+						"duration": "PT3M57S",
+						"viewCount": "72622014"
+					},
+					{
+						"id": "V9vuCByb6js",
+						"title": "Sabrina Carpenter - Tears (Official Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:07Z",
+						"duration": "PT4M50S",
+						"viewCount": "24223039"
+					},
+					{
+						"id": "KbzNB2sRnVQ",
+						"title": "Sabrina Carpenter - My Man on Willpower (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:24Z",
+						"duration": "PT3M18S",
+						"viewCount": "1168681"
+					},
+					{
+						"id": "FTfZOoIkY6Y",
+						"title": "Sabrina Carpenter - Sugar Talking (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:16Z",
+						"duration": "PT3M4S",
+						"viewCount": "1329391"
+					},
+					{
+						"id": "ZiQuFC55mK8",
+						"title": "Sabrina Carpenter - We Almost Broke Up Again Last Night (Lyrics)",
+						"channelTitle": "Creative Chaos",
+						"channelId": "UCAKAf5d5-O5t58gEjXhF3mg",
+						"publishedAt": "2025-08-30T15:01:03Z",
+						"duration": "PT3M24S",
+						"viewCount": "8962"
+					},
+					{
+						"id": "hE2DLtuxcUU",
+						"title": "Sabrina Carpenter - Nobody’s Son (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:54Z",
+						"duration": "PT3M3S",
+						"viewCount": "1173875"
+					},
+					{
+						"id": "mljWcXuCoH4",
+						"title": "Sabrina Carpenter - Never Getting Laid (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:58Z",
+						"duration": "PT3M29S",
+						"viewCount": "994808"
+					},
+					{
+						"id": "bnhV-OBnGCE",
+						"title": "Sabrina Carpenter - When Did You Get Hot? (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:51Z",
+						"duration": "PT2M26S",
+						"viewCount": "1227937"
+					},
+					{
+						"id": "uCNr2iCgSPs",
+						"title": "Sabrina Carpenter - Go Go Juice (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:01:12Z",
+						"duration": "PT3M14S",
+						"viewCount": "1215566"
+					},
+					{
+						"id": "soKG9DDv3_A",
+						"title": "Sabrina Carpenter - Don't Worry I'll Make You Worry (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:01:14Z",
+						"duration": "PT3M43S",
+						"viewCount": "973792"
+					},
+					{
+						"id": "lwxAovpSLh8",
+						"title": "Sabrina Carpenter - House Tour (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:58Z",
+						"duration": "PT2M50S",
+						"viewCount": "1024843"
+					},
+					{
+						"id": "uV-w3fyWTuM",
+						"title": "Sabrina Carpenter - Goodbye (Official Lyric Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:01:09Z",
+						"duration": "PT3M46S",
+						"viewCount": "1404245"
+					}
+				]
+			},
+			{
+				"name": "Made In Vietnam",
+				"songs": [
+					{
+						"id": "0nCTV1kB1qw",
+						"title": "VIỆT NAM XIN CHÀO (INTRO) | DTAP | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:00:47Z",
+						"duration": "PT1M12S",
+						"viewCount": "128202"
+					},
+					{
+						"id": "HX3UcwUYMjM",
+						"title": "MADE IN VIETNAM | DTAP x NSND Thanh Hoa x Trúc Nhân x Phương Mỹ Chi | OFFICIAL MV",
+						"channelTitle": "VMAS LABEL",
+						"channelId": "UCm98CJlVZvI1SVYTW60Jt0w",
+						"publishedAt": "2025-08-06T12:10:33Z",
+						"duration": "PT5M21S",
+						"viewCount": "5345803"
+					},
+					{
+						"id": "6JxSVKMCE3o",
+						"title": "RỪNG VÀNG BIỂN BẠC - DTAP x ISAAC x SUBOI | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:02:17Z",
+						"duration": "PT4M8S",
+						"viewCount": "361857"
+					},
+					{
+						"id": "-DhTx-S1yAw",
+						"title": "MÁU ĐỎ DA VÀNG - DTAP x NSND THANH THUÝ x VÕ HẠ TRÂM | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:02:42Z",
+						"duration": "PT3M59S",
+						"viewCount": "249042"
+					},
+					{
+						"id": "BGXds4QGA20",
+						"title": "NAM QUỐC SƠN HÀ - DTAP x NSND BẠCH TUYẾT x PHÁO | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:03:43Z",
+						"duration": "PT4M55S",
+						"viewCount": "749488"
+					},
+					{
+						"id": "NXEKhKYksQg",
+						"title": "CHIẾN BINH TRE (INTERLUDE) - DTAP | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:04:17Z",
+						"duration": "PT1M32S",
+						"viewCount": "76138"
+					},
+					{
+						"id": "FxFKyVajKX8",
+						"title": "ĐIỀU PHI THƯỜNG NHỎ BÉ - DTAP x HỒNG NHUNG x ĐEN | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:05:06Z",
+						"duration": "PT3M36S",
+						"viewCount": "383453"
+					},
+					{
+						"id": "byXewq1ZtWw",
+						"title": "TRÁI TIM CON ĐẬP THÊM LẦN NỮA - DTAP x HIỀN THỤC | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:05:45Z",
+						"duration": "PT4M57S",
+						"viewCount": "160834"
+					},
+					{
+						"id": "bmMR4uyA3QY",
+						"title": "MÙA GIÓ THỔI TRÊN MÁI NHÀ - DTAP X MỸ TÂM | OFFICIAL MV",
+						"channelTitle": "My Tam",
+						"channelId": "UCmgGhZ_OMFGRn5cbfd4Svrw",
+						"publishedAt": "2025-08-27T13:00:07Z",
+						"duration": "PT5M11S",
+						"viewCount": "97132"
+					},
+					{
+						"id": "q4XJ__gDEKg",
+						"title": "MV Việt Nam Tử Tế | Lam Trường, Tóc Tiên, Hoàng Thuỳ Linh, Erik & Rapper Karik",
+						"channelTitle": "Làn Sóng Xanh",
+						"channelId": "UCSB7UzwmcZlUlZV6fW9ux3A",
+						"publishedAt": "2020-05-05T13:01:30Z",
+						"duration": "PT4M29S",
+						"viewCount": "230402"
+					},
+					{
+						"id": "B_wzgo7guNY",
+						"title": "CON RỒNG THỨC GIẤC (INTERLUDE) - DTAP | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:08:50Z",
+						"duration": "PT1M46S",
+						"viewCount": "52388"
+					},
+					{
+						"id": "pF8DraEd8MM",
+						"title": "HÒ VƯƠN MÌNH - DTAP x ORANGE x LÂM BẢO NGỌC x MUỘII x LAMOON | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:10:16Z",
+						"duration": "PT3M19S",
+						"viewCount": "579184"
+					},
+					{
+						"id": "1lQ6PvSJigI",
+						"title": "BÀI CA TÔM CÁ - DTAP x ĐÔNG NHI x ÔNG CAO THẮNG x WINNIE | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:10:39Z",
+						"duration": "PT3M53S",
+						"viewCount": "306096"
+					},
+					{
+						"id": "dSss-wWPwZk",
+						"title": "CHÂN CỨNG ĐÁ MỀM - DTAP x PHƯƠNG THANH x HOÀNG BÁCH | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:11:11Z",
+						"duration": "PT3M47S",
+						"viewCount": "90009"
+					},
+					{
+						"id": "NJuNJ8Xs_00",
+						"title": "NHÀ TÔI CÓ TREO MỘT LÁ CỜ - DTAP x HÀ ANH TUẤN | OFFICIAL MV",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:11:40Z",
+						"duration": "PT3M50S",
+						"viewCount": "1687634"
+					},
+					{
+						"id": "4sdp5u1RIro",
+						"title": "THE LETTER FROM VIETNAM (OUTRO) - DTAP | OFFICIAL VISUALIZER",
+						"channelTitle": "DTAP OFFICIAL",
+						"channelId": "UCzEhWhrRUdRgxh_UuFpUuzQ",
+						"publishedAt": "2025-08-19T13:12:04Z",
+						"duration": "PT1M32S",
+						"viewCount": "52713"
+					}
+				]
+			},
+			{
+				"name": "PILLZCASSO",
+				"songs": [
+					{
+						"id": "_FITNiYXvO8",
+						"title": "THÁC NÌNG - 2pillz x MONO x GREY D",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-06-26T13:00:06Z",
+						"duration": "PT4M50S",
+						"viewCount": "1131731"
+					},
+					{
+						"id": "cYPbSpZ2ZhE",
+						"title": "ĐƯA EM VÀO TRÒNG - 2pillz x GDUCKY x tlinh",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:01:18Z",
+						"duration": "PT4M12S",
+						"viewCount": "226059"
+					},
+					{
+						"id": "8Dm5o61Cn1A",
+						"title": "ĐẾN LÚC NÀY THÌ… - 2pillz x tlinh",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-07T13:00:06Z",
+						"duration": "PT3M53S",
+						"viewCount": "1234385"
+					},
+					{
+						"id": "_Wp0_ci0Ws8",
+						"title": "BƯỚC ĐI/NÁN LẠI? - 2pillz x Văn Mai Hương",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:02:02Z",
+						"duration": "PT4M1S",
+						"viewCount": "192846"
+					},
+					{
+						"id": "NmHxsjjZ04k",
+						"title": "LÁ THU VÀNG RƠI MANG TÌNH YÊU TỚI - 2pillz x Nghệ sĩ Phương Dung",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:02:03Z",
+						"duration": "PT2M38S",
+						"viewCount": "28591"
+					},
+					{
+						"id": "IGlx0BnVLSc",
+						"title": "NGHĨ MỘT TÍ - 2pillz x Orange",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:03:00Z",
+						"duration": "PT2M57S",
+						"viewCount": "104962"
+					},
+					{
+						"id": "LoT_qH61EWI",
+						"title": "GET YOU OUT OF MY MIND - 2pillz",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:04:00Z",
+						"duration": "PT3M50S",
+						"viewCount": "14815"
+					},
+					{
+						"id": "RMcwuKcvHOE",
+						"title": "CHỈ MỘT CÂU THẦN CHÚ - 2pillz x NeeNee",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:05:00Z",
+						"duration": "PT3M35S",
+						"viewCount": "18892"
+					},
+					{
+						"id": "txQNqTZOKl0",
+						"title": "KIỀM CHẾ ĐÔI TAY ĐI NÀO - 2pillz x Vũ Phụng Tiên",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:06:00Z",
+						"duration": "PT4M4S",
+						"viewCount": "29258"
+					},
+					{
+						"id": "V7Sy2AywSkw",
+						"title": "Sonder ft Jorja Smith - Nobody But You [Official Lyric Video]",
+						"channelTitle": "Sonder",
+						"channelId": "UCJO61ET9TamTjufEF5BBpCQ",
+						"publishedAt": "2021-04-09T04:03:05Z",
+						"duration": "PT3M35S",
+						"viewCount": "5895744"
+					},
+					{
+						"id": "pWjRPFFMq70",
+						"title": "GIẤC DU MIÊN - 2pillz x NeeNee x GREY D",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:08:00Z",
+						"duration": "PT4M58S",
+						"viewCount": "210006"
+					},
+					{
+						"id": "_ETe7GFzCao",
+						"title": "MỘT KHI NÓI YÊU MỌI CHUYỆN CHẤM HẾT - 2pillz x Vũ Phụng Tiên & WOKEUP",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:09:01Z",
+						"duration": "PT3M29S",
+						"viewCount": "116654"
+					},
+					{
+						"id": "_NXSRPVrqvg",
+						"title": "NGỪI ĐẸP ƠII - 2pillz x tlinh",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:10:01Z",
+						"duration": "PT4M16S",
+						"viewCount": "265146"
+					},
+					{
+						"id": "klCcuCSgLl8",
+						"title": "CHẲNG AI VẬY - 2pillz x Kay Châu Anh",
+						"channelTitle": "2pillz",
+						"channelId": "UCXSOg9I03KEJlE3EXtcjEPA",
+						"publishedAt": "2025-07-08T13:11:00Z",
+						"duration": "PT3M21S",
+						"viewCount": "99750"
+					}
+				]
+			},
+			{
+				"name": "Cho Bảo",
+				"songs": [
+					{
+						"id": "ztotaQ79eek",
+						"title": "Ariana Grande - intro (end of the world) (extended) (lyric visualizer)",
+						"channelTitle": "ArianaGrandeVevo",
+						"channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+						"publishedAt": "2025-03-28T04:01:02Z",
+						"duration": "PT2M42S",
+						"viewCount": "17753346"
+					},
+					{
+						"id": "_XX248bq6Pw",
+						"title": "[CHO BẢO] 02. Vùng An Toàn - B Ray (ft. V#) - Prod. Hipz",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-08T13:19:05Z",
+						"duration": "PT4M26S",
+						"viewCount": "10655435"
+					},
+					{
+						"id": "6-26Nb-HqLU",
+						"title": "[CHO BẢO] 03. The One - B Ray (ft. Đạt G) - Prod. Masew",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-08T13:18:59Z",
+						"duration": "PT3M12S",
+						"viewCount": "2091685"
+					},
+					{
+						"id": "Rx8Co7N_x8Q",
+						"title": "[CHO BẢO] 04. Viết Em Bản Tình Ca - B Ray - Prod. Hipz",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-08T13:18:51Z",
+						"duration": "PT2M44S",
+						"viewCount": "759064"
+					},
+					{
+						"id": "ArFyxygoLHs",
+						"title": "B RAY x YOUNG H x Hipz - GHỆ MỚI (Official Lyrics Video)",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-02-14T12:00:10Z",
+						"duration": "PT3M46S",
+						"viewCount": "9332074"
+					},
+					{
+						"id": "Vd6pF0O1lUE",
+						"title": "[CHO BẢO] 06. Y Chang Em (interlude) - B Ray - Prod. Hipz",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-08T13:17:53Z",
+						"duration": "PT2M48S",
+						"viewCount": "847422"
+					},
+					{
+						"id": "6x1yluqMuc4",
+						"title": "[CHO BẢO] 07. Feel At Home - B Ray - Prod. Ducnn",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-08T13:16:56Z",
+						"duration": "PT2M44S",
+						"viewCount": "7070249"
+					},
+					{
+						"id": "EF7wZYwk6ig",
+						"title": "[CHO BẢO] 08. Selfish Man - B Ray - Prod. Jexxica",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-08T13:15:55Z",
+						"duration": "PT3M38S",
+						"viewCount": "244588"
+					},
+					{
+						"id": "z4SbZOb4y-s",
+						"title": "[CHO BẢO] 09. Không Thuộc Về Nơi Này - B Ray - Prod. Hipz",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-08T13:15:16Z",
+						"duration": "PT3M29S",
+						"viewCount": "428236"
+					},
+					{
+						"id": "ZbCSXfHlD48",
+						"title": "CÒN AI NGOÀI ANH VỚI EM #CANAVE - B RAY (Prod. DARRYS) | OFFICIAL MV | 'Cho Bảo' Album",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-30T13:00:07Z",
+						"duration": "PT4M39S",
+						"viewCount": "1445689"
+					},
+					{
+						"id": "wtVC5BS5Aiw",
+						"title": "[CHO BẢO] 11. AreYouSad - B Ray - Prod. Gxxfy",
+						"channelTitle": "EvB Records",
+						"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+						"publishedAt": "2025-07-08T13:14:05Z",
+						"duration": "PT3M45S",
+						"viewCount": "911744"
+					}
+				]
+			}
+		],
+		"updatedAt": "09022025"
+	},
+	"topAlbums": {
+		"name": "Top Playlists",
+		"results": [
+			{
+				"name": "Viral Viet Pop",
+				"songs": [
+					{
+						"id": "YOlhp9ZKrOg",
+						"title": "NGƯỜI YÊU CHƯA SINH RA -OgeNus, BigDaddy, HUSTLANG Robber, Dillan Hoàng Phan, Phúc Du| [Performance]",
+						"channelTitle": "Vie Channel - MUSIC",
+						"channelId": "UC2fu6CiFfNYz5UFORvFyc0w",
+						"publishedAt": "2025-09-28T06:00:07Z",
+						"duration": "PT4M27S",
+						"viewCount": "2426921"
+					},
+					{
+						"id": "-nJ0WHEetsQ",
+						"title": "'CÒN GÌ ĐẸP HƠN' (ca khúc lấy cảm hứng từ phim Mưa đỏ) - Nguyễn Hùng | Lyric Video",
+						"channelTitle": "Galaxy Studio",
+						"channelId": "UCq_28uJmbq4tlji7YAMZGtg",
+						"publishedAt": "2025-07-27T12:00:00Z",
+						"duration": "PT4M43S",
+						"viewCount": "36328784"
+					},
+					{
+						"id": "jPjQJYKhhk4",
+						"title": "Phép Màu (Đàn Cá Gỗ OST) - Mounter x MAYDAYs, Minh Tốc | Official MV",
+						"channelTitle": "Mounter",
+						"channelId": "UCmku9gpiNHDm_xKFuRdagFg",
+						"publishedAt": "2025-02-14T07:02:06Z",
+						"duration": "PT4M16S",
+						"viewCount": "59802649"
+					},
+					{
+						"id": "9IWNmqHW43I",
+						"title": "[Official MV] Ngày Này Năm Ấy - Việt Anh",
+						"channelTitle": "Việt Anh Singer Official",
+						"channelId": "UCCBdfUHnz4tS3mYGg2Glung",
+						"publishedAt": "2025-07-12T13:00:06Z",
+						"duration": "PT4M21S",
+						"viewCount": "2661125"
+					},
+					{
+						"id": "QGa6FL98h-c",
+						"title": "Không Thời Gian - Dương Domic (Official Visualizer)",
+						"channelTitle": "Dương Domic",
+						"channelId": "UCXdpVc3f-zBPmqOr4qEJjqw",
+						"publishedAt": "2025-09-20T13:59:44Z",
+						"duration": "PT3M38S",
+						"viewCount": "4363533"
+					},
+					{
+						"id": "V1Tzgdh53mA",
+						"title": "(S)TRONG Trọng Hiếu x Rhymastic - Kho Báu | Lyrics Video",
+						"channelTitle": "Trong Hieu Official",
+						"channelId": "UCFbu6pUsxkEzrZz5p8NYIqQ",
+						"publishedAt": "2025-08-14T13:00:06Z",
+						"duration": "PT3M38S",
+						"viewCount": "14457031"
+					},
+					{
+						"id": "jq2pn8b6q-A",
+						"title": "Tặng em đoá hoa hồng - Dacol ft. Wang An Nan (Lyrics Video)",
+						"channelTitle": "Dacol",
+						"channelId": "UCvBON7FNpS2pV79Qi4b4mNg",
+						"publishedAt": "2024-11-30T13:00:57Z",
+						"duration": "PT2M38S",
+						"viewCount": "2333368"
+					},
+					{
+						"id": "LIKOvbJ-DZg",
+						"title": "fishy - VẾT THƯƠNG - OFFICIAL MUSIC VIDEO",
+						"channelTitle": "fishy",
+						"channelId": "UC-IrIpVF7saFlaKGacmqCLg",
+						"publishedAt": "2023-06-29T13:00:09Z",
+						"duration": "PT4M18S",
+						"viewCount": "12278071"
+					},
+					{
+						"id": "TgUWwiFErpM",
+						"title": "Họa Sĩ Tồi (Lofi) - Thái Học x Đạt Max || rồi anh cũng vẽ được tất cả ....",
+						"channelTitle": "Nguyễn Thái Học Official",
+						"channelId": "UCCysVdGR-KuHxDvZuA8c6mg",
+						"publishedAt": "2025-09-19T11:00:55Z",
+						"duration": "PT3M22S",
+						"viewCount": "300191"
+					},
+					{
+						"id": "G2VSwKOfKhI",
+						"title": "HÀ NỘI LÀ | Phạm Nguyên Ngọc (Original)",
+						"channelTitle": "Phạm Nguyên Ngọc",
+						"channelId": "UCv0Bd1MlsXY9FLUHCuFvMAQ",
+						"publishedAt": "2025-09-23T12:30:07Z",
+						"duration": "PT5M36S",
+						"viewCount": "154147"
+					}
+				]
+			},
+			{
+				"name": "Today’s Hits",
+				"songs": [
+					{
+						"id": "40l9KE36aNk",
+						"title": "Taylor Swift - Opalite (Lyrics)",
+						"channelTitle": "7clouds",
+						"channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+						"publishedAt": "2025-10-17T13:00:15Z",
+						"duration": "PT3M54S",
+						"viewCount": "75297"
+					},
+					{
+						"id": "9UcQ7ddVjoc",
+						"title": "Hngle - KHÔNG BUÔNG ft. Ari | Official Music Video",
+						"channelTitle": "HNGLE / hưng lê",
+						"channelId": "UCo8FtF_AhCOZ0feQOt6_NQQ",
+						"publishedAt": "2025-08-24T12:00:06Z",
+						"duration": "PT3M25S",
+						"viewCount": "9077653"
+					},
+					{
+						"id": "ko70cExuzZM",
+						"title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:00:06Z",
+						"duration": "PT3M59S",
+						"viewCount": "67650594"
+					},
+					{
+						"id": "V9vuCByb6js",
+						"title": "Sabrina Carpenter - Tears (Official Video)",
+						"channelTitle": "SabrinaCarpenterVEVO",
+						"channelId": "UC4mYKePIas5YgGfYZ2J2OxQ",
+						"publishedAt": "2025-08-29T04:00:07Z",
+						"duration": "PT5M4S",
+						"viewCount": "43723692"
+					},
+					{
+						"id": "l039y9FaIjc",
+						"title": "Michael Jackson - Speed Demon (Official Video)",
+						"channelTitle": "michaeljacksonVEVO",
+						"channelId": "UCulYu1HEIa7f70L2lYZWHOw",
+						"publishedAt": "2010-12-12T12:34:08Z",
+						"duration": "PT10M11S",
+						"viewCount": "113508535"
+					},
+					{
+						"id": "xGaZBfJOyAc",
+						"title": "Lady Gaga - The Dead Dance (Official Music Video)",
+						"channelTitle": "LadyGagaVEVO",
+						"channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+						"publishedAt": "2025-09-03T16:00:07Z",
+						"duration": "PT4M47S",
+						"viewCount": "41973314"
+					},
+					{
+						"id": "CyoymdGNxhg",
+						"title": "Seachains - We Don’t Know Everything ft. Dan Tran | 30 The Album",
+						"channelTitle": "Seachains",
+						"channelId": "UC51L-ygCrFScx3mu-XIg-Tg",
+						"publishedAt": "2025-09-18T13:30:18Z",
+						"duration": "PT3M15S",
+						"viewCount": "1036248"
+					},
+					{
+						"id": "u-HEopHeHb8",
+						"title": "Tate McRae - TIT FOR TAT (Lyric Video)",
+						"channelTitle": "TateMcRaeVEVO",
+						"channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+						"publishedAt": "2025-09-26T21:13:34Z",
+						"duration": "PT2M57S",
+						"viewCount": "1812346"
+					},
+					{
+						"id": "redFrGBZoJY",
+						"title": "Sinh Ra Đã Là Thứ Đối Lập Nhau - Emcee L (Da LAB) ft. Badbies (Official MV)",
+						"channelTitle": "Da LAB Official",
+						"channelId": "UCCCRRUvgvygH82HAugJjDLw",
+						"publishedAt": "2020-12-29T12:00:11Z",
+						"duration": "PT4M8S",
+						"viewCount": "41634823"
+					}
+				]
+			}
+		],
+		"updatedAt": "10182025"
+	},
+	"topSongs": {
+		"name": "Top Songs",
+		"songs": [
+			{
+				"id": "-nJ0WHEetsQ",
+				"title": "'CÒN GÌ ĐẸP HƠN' (ca khúc lấy cảm hứng từ phim Mưa đỏ) - Nguyễn Hùng | Lyric Video",
+				"channelTitle": "Galaxy Studio",
+				"channelId": "UCq_28uJmbq4tlji7YAMZGtg",
+				"publishedAt": "2025-07-27T12:00:00Z",
+				"duration": "PT4M43S",
+				"viewCount": "23613532"
+			},
+			{
+				"id": "V1Tzgdh53mA",
+				"title": "(S)TRONG Trọng Hiếu x Rhymastic - Kho Báu | Lyrics Video",
+				"channelTitle": "Trong Hieu Official",
+				"channelId": "UCFbu6pUsxkEzrZz5p8NYIqQ",
+				"publishedAt": "2025-08-14T13:00:06Z",
+				"duration": "PT3M38S",
+				"viewCount": "7532209"
+			},
+			{
+				"id": "jPjQJYKhhk4",
+				"title": "Phép Màu (Đàn Cá Gỗ OST) - Mounter x MAYDAYs, Minh Tốc | Official MV",
+				"channelTitle": "Mounter",
+				"channelId": "UCmku9gpiNHDm_xKFuRdagFg",
+				"publishedAt": "2025-02-14T07:02:06Z",
+				"duration": "PT4M16S",
+				"viewCount": "53521219"
+			},
+			{
+				"id": "HboixwD-1iQ",
+				"title": "'KHÔNG ĐAU NỮA RỒI' - Pháp Kiều cực suy cùng 52Hz, Orange, Mỹ Mỹ, Châu Bùi | Em Xinh Say Hi",
+				"channelTitle": "Pháp Kiều",
+				"channelId": "UCeTI-7rPW8Q1sDKnk2AzKJw",
+				"publishedAt": "2025-06-26T04:00:17Z",
+				"duration": "PT5M26S",
+				"viewCount": "5944399"
+			},
+			{
+				"id": "V1Tzgdh53mA",
+				"title": "(S)TRONG Trọng Hiếu x Rhymastic - Kho Báu | Lyrics Video",
+				"channelTitle": "Trong Hieu Official",
+				"channelId": "UCFbu6pUsxkEzrZz5p8NYIqQ",
+				"publishedAt": "2025-08-14T13:00:06Z",
+				"duration": "PT3M38S",
+				"viewCount": "7532209"
+			},
+			{
+				"id": "OZmK0YuSmXU",
+				"title": "SOOBIN - Dancing In The Dark | 'BẬT NÓ LÊN' Album (Official MV)",
+				"channelTitle": "SOOBIN Official",
+				"channelId": "UCpVvunMbMvVj9DgCiOSBdcg",
+				"publishedAt": "2025-03-14T13:00:06Z",
+				"duration": "PT4M39S",
+				"viewCount": "27976070"
+			},
+			{
+				"id": "HtEVNKWp_Bw",
+				"title": "NGƯỜI ĐẦU TIÊN - Juky San tinh khôi cùng tiết mục ballad đầy sâu lắng | Em Xinh Say Hi [Performance]",
+				"channelTitle": "Vie Channel - MUSIC",
+				"channelId": "UC2fu6CiFfNYz5UFORvFyc0w",
+				"publishedAt": "2025-08-17T11:00:22Z",
+				"duration": "PT5M29S",
+				"viewCount": "2509473"
+			},
+			{
+				"id": "_XX248bq6Pw",
+				"title": "[CHO BẢO] 02. Vùng An Toàn - B Ray (ft. V#) - Prod. Hipz",
+				"channelTitle": "EvB Records",
+				"channelId": "UC5mzpqa98hIFlQ9SFxqAilw",
+				"publishedAt": "2025-07-08T13:19:05Z",
+				"duration": "PT4M26S",
+				"viewCount": "11750677"
+			},
+			{
+				"id": "lRsaDQtYqAo",
+				"title": "Dương Domic - Mất Kết Nối | EP 'Dữ Liệu Quý'",
+				"channelTitle": "Dương Domic",
+				"channelId": "UCXdpVc3f-zBPmqOr4qEJjqw",
+				"publishedAt": "2024-11-22T13:11:12Z",
+				"duration": "PT3M28S",
+				"viewCount": "117611258"
+			},
+			{
+				"id": "abPmZCZZrFA",
+				"title": "SƠN TÙNG M-TP | ĐỪNG LÀM TRÁI TIM ANH ĐAU | OFFICIAL MUSIC VIDEO",
+				"channelTitle": "Sơn Tùng M-TP Official",
+				"channelId": "UClyA28-01x4z60eWQ2kiNbA",
+				"publishedAt": "2024-06-08T13:00:01Z",
+				"duration": "PT5M26S",
+				"viewCount": "155423782"
+			},
+			{
+				"id": "IADhKnmQMtk",
+				"title": "HOÀNG DŨNG - GIỮ ANH CHO NGÀY HÔM QUA (feat. RHYMASTIC) | OFFICIAL MUSIC VIDEO",
+				"channelTitle": "Hoàng Dũng",
+				"channelId": "UCZzKnnb8ENdw1AFrK8xLDDg",
+				"publishedAt": "2025-07-09T14:00:06Z",
+				"duration": "PT5M45S",
+				"viewCount": "6605195"
+			},
+			{
+				"id": "i0nd3NPJ4MI",
+				"title": "HIEUTHUHAI - Không Thể Say (prod. by Kewtiie) l Official Video",
+				"channelTitle": "HIEUTHUHAI",
+				"channelId": "UCe8b9jSSD-bNabF4hkNN5PQ",
+				"publishedAt": "2023-04-19T12:00:09Z",
+				"duration": "PT4M21S",
+				"viewCount": "57166077"
+			},
+			{
+				"id": "CgCVZdcKcqY",
+				"title": "BLACKPINK - ‘뛰어(JUMP)’ M/V",
+				"channelTitle": "BLACKPINK",
+				"channelId": "UCOmHUn--16B90oW2L6FRR3A",
+				"publishedAt": "2025-07-11T04:00:07Z",
+				"duration": "PT3M14S",
+				"viewCount": "202448697"
+			},
+			{
+				"id": "1py-w6qRUdM",
+				"title": "GÃ SĂN CÁ - MAIQUINN, Saabirose, Lâm Bảo Ngọc, Quỳnh Anh Shyn, Quang Hùng MasterD|EXSH [Performance]",
+				"channelTitle": "Vie Channel - MUSIC",
+				"channelId": "UC2fu6CiFfNYz5UFORvFyc0w",
+				"publishedAt": "2025-06-29T05:00:05Z",
+				"duration": "PT4M59S",
+				"viewCount": "22800743"
+			}
+		],
+		"updatedAt": "09132025"
+	}
+}

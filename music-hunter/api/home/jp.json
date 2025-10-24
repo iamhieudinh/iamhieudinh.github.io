@@ -1,0 +1,368 @@
+{
+	"hotTracks": {
+		"name": "トップアルバム",
+		"results": [
+			{
+				"name": "The Life of a Showgirl",
+				"songs": [
+					{
+						"id": "ko70cExuzZM",
+						"title": "Taylor Swift - The Fate of Ophelia (Official Music Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:00:06Z",
+						"duration": "PT3M59S",
+						"viewCount": "67656799"
+					},
+					{
+						"id": "7X5iDKPrZH0",
+						"title": "Taylor Swift - Elizabeth Taylor (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:06:06Z",
+						"duration": "PT3M32S",
+						"viewCount": "6024908"
+					},
+					{
+						"id": "40l9KE36aNk",
+						"title": "Taylor Swift - Opalite (Lyrics)",
+						"channelTitle": "7clouds",
+						"channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+						"publishedAt": "2025-10-17T13:00:15Z",
+						"duration": "PT3M54S",
+						"viewCount": "75878"
+					},
+					{
+						"id": "98SmlWOKuME",
+						"title": "Taylor Swift - Father Figure (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:15:06Z",
+						"duration": "PT3M36S",
+						"viewCount": "4838199"
+					},
+					{
+						"id": "HwQnW_ZRKhc",
+						"title": "Taylor Swift - Eldest Daughter (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:19:06Z",
+						"duration": "PT4M10S",
+						"viewCount": "3657972"
+					},
+					{
+						"id": "RId6LV1wtQY",
+						"title": "Taylor Swift - Ruin the Friendship (Visualizer)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-03T04:00:37Z",
+						"duration": "PT3M45S",
+						"viewCount": "3865323"
+					},
+					{
+						"id": "FnEg1RgmqO4",
+						"title": "Taylor Swift - Actually Romantic (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:29:06Z",
+						"duration": "PT2M49S",
+						"viewCount": "3712382"
+					},
+					{
+						"id": "mC54kTYa9oI",
+						"title": "Taylor Swift - Wi$h Li$t (Visualizer)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-03T04:01:05Z",
+						"duration": "PT3M32S",
+						"viewCount": "5260070"
+					},
+					{
+						"id": "6m50keINEOI",
+						"title": "Taylor Swift - Wood (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:37:06Z",
+						"duration": "PT2M35S",
+						"viewCount": "4979426"
+					},
+					{
+						"id": "F-5XoUZ42Tc",
+						"title": "Taylor Swift - CANCELLED! (Lyric Video)",
+						"channelTitle": "Taylor Swift",
+						"channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+						"publishedAt": "2025-10-05T23:40:06Z",
+						"duration": "PT3M36S",
+						"viewCount": "3838329"
+					}
+				]
+			}
+		],
+		"updatedAt": "10182025"
+	},
+	"topAlbums": {
+		"name": "トッププレイリスト",
+		"results": [
+			{
+				"name": "邦楽ヒッツ・トゥデイ",
+				"songs": [
+					{
+						"id": "4OrCA1OInoo",
+						"title": "TAEYEON 태연 'I (feat. Verbal Jint)' MV",
+						"channelTitle": "SMTOWN",
+						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+						"publishedAt": "2015-10-07T03:00:02Z",
+						"duration": "PT5M",
+						"viewCount": "274283560"
+					},
+					{
+						"id": "UbVZeEhNsow",
+						"title": "Derik Fein - 1991 (Visualizer)",
+						"channelTitle": "Derik Fein",
+						"channelId": "UC-8qboyKvE4T5vIRizv8mbg",
+						"publishedAt": "2025-08-08T04:00:49Z",
+						"duration": "PT3M16S",
+						"viewCount": "445946"
+					},
+					{
+						"id": "29io5-F-4xM",
+						"title": "HANA / My Body -Music Video-",
+						"channelTitle": "HANA official",
+						"channelId": "UCWPDq5P9K2hNKFaN5WSfclw",
+						"publishedAt": "2025-10-13T12:00:07Z",
+						"duration": "PT4M2S",
+						"viewCount": "5470451"
+					},
+					{
+						"id": "CPgu3rKZIBw",
+						"title": "Actor",
+						"channelTitle": "Lilas Ikuta - Topic",
+						"channelId": "UCISF03gz20_8vWnkSVYlOEw",
+						"publishedAt": "2025-10-10T10:04:06Z",
+						"duration": "PT3M50S",
+						"viewCount": "470777"
+					},
+					{
+						"id": "LmZD-TU96q4",
+						"title": "米津玄師  Kenshi Yonezu - IRIS OUT",
+						"channelTitle": "Kenshi Yonezu  米津玄師",
+						"channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
+						"publishedAt": "2025-09-15T11:00:06Z",
+						"duration": "PT2M34S",
+						"viewCount": "59036673"
+					},
+					{
+						"id": "keOnleW2eak",
+						"title": "Official髭男dism - らしさ [Official Video]",
+						"channelTitle": "Official髭男dism",
+						"channelId": "UC9M4B-fqveLyWPGNdSkam7g",
+						"publishedAt": "2025-08-30T13:00:06Z",
+						"duration": "PT5M13S",
+						"viewCount": "5001105"
+					},
+					{
+						"id": "Cn6evNNykVI",
+						"title": "スピッツ / 灯を護る　Spitz / Protect the Light",
+						"channelTitle": "spitzclips",
+						"channelId": "UCEAOVoVVtVBhcn7vLIQIkDA",
+						"publishedAt": "2025-10-06T11:00:06Z",
+						"duration": "PT3M59S",
+						"viewCount": "1437232"
+					}
+				]
+			},
+			{
+				"name": "J-Pop Now",
+				"songs": [
+					{
+						"id": "4OrCA1OInoo",
+						"title": "TAEYEON 태연 'I (feat. Verbal Jint)' MV",
+						"channelTitle": "SMTOWN",
+						"channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+						"publishedAt": "2015-10-07T03:00:02Z",
+						"duration": "PT5M",
+						"viewCount": "274283560"
+					},
+					{
+						"id": "hn4poPzqdeo",
+						"title": "NiziU(니쥬) 『New Emotion』 Trailer",
+						"channelTitle": "JYP Entertainment",
+						"channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+						"publishedAt": "2025-09-03T15:00:01Z",
+						"duration": "PT3M20S",
+						"viewCount": "450133"
+					},
+					{
+						"id": "UbVZeEhNsow",
+						"title": "Derik Fein - 1991 (Visualizer)",
+						"channelTitle": "Derik Fein",
+						"channelId": "UC-8qboyKvE4T5vIRizv8mbg",
+						"publishedAt": "2025-08-08T04:00:49Z",
+						"duration": "PT3M16S",
+						"viewCount": "446047"
+					},
+					{
+						"id": "PgRIBlMIGfo",
+						"title": "RADWIMPS - ワールドエンドガールフレンド / World End Girl Friend [Official Music Video]",
+						"channelTitle": "RADWIMPS",
+						"channelId": "UCIVqvhyo8ttjYOmMJuhq_YQ",
+						"publishedAt": "2025-10-08T11:00:06Z",
+						"duration": "PT3M57S",
+						"viewCount": "401159"
+					},
+					{
+						"id": "29io5-F-4xM",
+						"title": "HANA / My Body -Music Video-",
+						"channelTitle": "HANA official",
+						"channelId": "UCWPDq5P9K2hNKFaN5WSfclw",
+						"publishedAt": "2025-10-13T12:00:07Z",
+						"duration": "PT4M2S",
+						"viewCount": "5470451"
+					},
+					{
+						"id": "VPZK72W4Xxw",
+						"title": "back number - ヒロイン (full)",
+						"channelTitle": "BackNumberVEVO",
+						"channelId": "UCb4nKpOlWpZ-bbe-QANF51Q",
+						"publishedAt": "2020-07-28T15:00:10Z",
+						"duration": "PT4M34S",
+						"viewCount": "55824455"
+					}
+				]
+			}
+		],
+		"updatedAt": "10182025"
+	},
+	"topSongs": {
+		"name": "トップソング",
+		"songs": [
+			{
+				"id": "JRWox-i6aAk",
+				"title": "Lana Del Rey - Blue Jeans",
+				"channelTitle": "LanaDelReyVEVO",
+				"channelId": "UC3N5y6UWKJaKqoU2b_0MfTQ",
+				"publishedAt": "2012-03-20T02:03:15Z",
+				"duration": "PT4M21S",
+				"viewCount": "416816745"
+			},
+			{
+				"id": "QjrkrVmC-8M",
+				"title": "Mrs. GREEN APPLE「ライラック」Official Music Video",
+				"channelTitle": "Mrs. GREEN APPLE",
+				"channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+				"publishedAt": "2024-04-12T13:00:08Z",
+				"duration": "PT5M4S",
+				"viewCount": "189988306"
+			},
+			{
+				"id": "H56XUMPWUVY",
+				"title": "HANA / BAD LOVE -Music Video-",
+				"channelTitle": "HANA official",
+				"channelId": "UCWPDq5P9K2hNKFaN5WSfclw",
+				"publishedAt": "2025-09-08T09:00:07Z",
+				"duration": "PT4M3S",
+				"viewCount": "5382991"
+			},
+			{
+				"id": "ekr2nIex040",
+				"title": "ROSÉ & Bruno Mars - APT. (Official Music Video)",
+				"channelTitle": "ROSÉ",
+				"channelId": "UCBo1hnzxV9rz3WVsv__Rn1g",
+				"publishedAt": "2024-10-18T04:00:07Z",
+				"duration": "PT2M54S",
+				"viewCount": "1989084801"
+			},
+			{
+				"id": "NLIGDjKBLY0",
+				"title": "アイナ・ジ・エンド / 革命道中 - On The Way [Official Music Video]（TVアニメ『ダンダダン』第2期オープニングテーマ）",
+				"channelTitle": "アイナ・ジ・エンド Official",
+				"channelId": "UCFPb0Vc0Cjd3MpDOlHPQoPQ",
+				"publishedAt": "2025-07-03T11:00:07Z",
+				"duration": "PT3M38S",
+				"viewCount": "19106490"
+			},
+			{
+				"id": "UJgPpzZcxGU",
+				"title": "Fujii Kaze - Prema [Official video]",
+				"channelTitle": "Fujii Kaze",
+				"channelId": "UCNIy6zQyP7SuLEIaiwymfUA",
+				"publishedAt": "2025-09-05T04:00:06Z",
+				"duration": "PT4M34S",
+				"viewCount": "4041224"
+			},
+			{
+				"id": "-KclsWH8a0I",
+				"title": "HANA / Burning Flower -Music Video-",
+				"channelTitle": "HANA official",
+				"channelId": "UCWPDq5P9K2hNKFaN5WSfclw",
+				"publishedAt": "2025-06-09T12:00:07Z",
+				"duration": "PT3M25S",
+				"viewCount": "23439635"
+			},
+			{
+				"id": "44cICMd3jW4",
+				"title": "Mrs. GREEN APPLE「Soranji」Official Music Video",
+				"channelTitle": "Mrs. GREEN APPLE",
+				"channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+				"publishedAt": "2022-11-02T12:00:08Z",
+				"duration": "PT5M54S",
+				"viewCount": "111593418"
+			},
+			{
+				"id": "UM9XNpgrqVk",
+				"title": "怪獣の花唄 / Vaundy ： MUSIC VIDEO",
+				"channelTitle": "Vaundy",
+				"channelId": "UC1FQWQ3y3-e8l1pCtWhJt5A",
+				"publishedAt": "2020-07-02T15:00:10Z",
+				"duration": "PT3M53S",
+				"viewCount": "169922014"
+			},
+			{
+				"id": "RCaTLn4qoz4",
+				"title": "Mrs. GREEN APPLE「クスシキ」Official Music Video",
+				"channelTitle": "Mrs. GREEN APPLE",
+				"channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+				"publishedAt": "2025-04-05T12:00:07Z",
+				"duration": "PT3M46S",
+				"viewCount": "57508259"
+			},
+			{
+				"id": "m34DPnRUfMU",
+				"title": "Mrs. GREEN APPLE - 青と夏",
+				"channelTitle": "MrsGREENAPPLEVEVO",
+				"channelId": "UC5e0xdyGS7OEgyLroMxwrbw",
+				"publishedAt": "2018-08-10T03:00:03Z",
+				"duration": "PT5M14S",
+				"viewCount": "197627294"
+			},
+			{
+				"id": "-p3O35mfSB4",
+				"title": "Mrs. GREEN APPLE「夏の影」Official Music Video",
+				"channelTitle": "Mrs. GREEN APPLE",
+				"channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+				"publishedAt": "2025-08-11T12:00:07Z",
+				"duration": "PT4M20S",
+				"viewCount": "9599939"
+			},
+			{
+				"id": "Jy-QS27q7lA",
+				"title": "Mrs. GREEN APPLE「ケセラセラ」Official Music Video",
+				"channelTitle": "Mrs. GREEN APPLE",
+				"channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+				"publishedAt": "2023-04-25T12:00:09Z",
+				"duration": "PT5M14S",
+				"viewCount": "110756941"
+			},
+			{
+				"id": "RoY_ZoWe-eI",
+				"title": "Fujii Kaze - Love Like This [Official video]",
+				"channelTitle": "Fujii Kaze",
+				"channelId": "UCNIy6zQyP7SuLEIaiwymfUA",
+				"publishedAt": "2025-08-01T13:00:06Z",
+				"duration": "PT4M29S",
+				"viewCount": "5935435"
+			}
+		],
+		"updatedAt": "09132025"
+	}
+}
